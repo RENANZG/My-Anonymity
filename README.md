@@ -1,6 +1,6 @@
 ## Anonymity - Tips and Tricks
 
-### A - ONLINE
+##  $\textcolor{blue}{ONLINE}$
 
 ### Anonymous GitHub
 
@@ -11,7 +11,7 @@ How to create an anonymous GitHub
 
 ### Anonymous VPN
 
-### B - OFFLINE
+##  $\textcolor{red}{OFFLINE}$
 
 ### Anti-surveillance reflections - Is it possible to live a double life?
 
