@@ -18,10 +18,10 @@ How to erase GitHub history
 
 ### Right to be Forgotten
 
-https://gdpr-info.eu/issues/right-to-be-forgotten/
-https://haveibeenpwned.com/
-https://www.whois.com/
-https://joindeleteme.com/
+https://gdpr-info.eu/issues/right-to-be-forgotten/  
+https://haveibeenpwned.com/  
+https://www.whois.com/  
+https://joindeleteme.com/  
 
 ##  $\textcolor{red}{OFFLINE}$
 
