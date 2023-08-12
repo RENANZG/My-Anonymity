@@ -6,10 +6,22 @@
 
 How to create an anonymous GitHub
 
+How to erase GitHub history
+
 ### Anonymous Communication
 
 
 ### Anonymous VPN
+
+
+
+
+### Right to be Forgotten
+
+https://gdpr-info.eu/issues/right-to-be-forgotten/
+https://haveibeenpwned.com/
+https://www.whois.com/
+https://joindeleteme.com/
 
 ##  $\textcolor{red}{OFFLINE}$
 
