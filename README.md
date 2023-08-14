@@ -34,3 +34,7 @@ https://joindeleteme.com/
 Spies: American, Russian and British.
 
 ### Anti-surveillance reflections - Facial recognition
+
+### Anti-surveillance reflections - Bussines Inteligence  
+
+  
