@@ -2,6 +2,10 @@
 
 ##  $\textcolor{blue}{ONLINE}$
 
+### Tails Vs. Whonix
+
+https://www.whonix.org/wiki/Comparison_with_Others  
+
 ### Anonymous GitHub
 
 How to create an anonymous GitHub
