@@ -43,7 +43,8 @@ https://joindeleteme.com/
 How to Hide Things in Public Places - Dennis Fiery  
 DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant  
 The Big Book of Secret Hiding Places -  Jack Luger  
-
+https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
+  
 ### Anti-surveillance reflections - Is it possible to live a double life?
 
 Spies: American, Russian and British.
