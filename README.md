@@ -37,7 +37,12 @@ https://haveibeenpwned.com/
 https://www.whois.com/  
 https://joindeleteme.com/  
 
-##  $\textcolor{red}{OFFLINE}$
+##  :red_square: $\textcolor{red}{OFFLINE}$
+
+### Physical Anti-surveillance  
+"How to Hide Things in Public Places - Dennis Fiery"  
+"DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant"  
+"The Big Book of Secret Hiding Places -  Jack Luger"  
 
 ### Anti-surveillance reflections - Is it possible to live a double life?
 
