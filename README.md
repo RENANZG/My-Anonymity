@@ -75,11 +75,13 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 </details>
 
 <details>
-<summary>$\textcolor{red}{\Large{POLITICAL:Change of hegemony}}$</summary> 
-  
-**Anarchist Considerations**
+<summary>$\textcolor{black}{\Large{POLITICAL}}$</summary> 
 
-**Power is fundamentally political and arbitrary**
+**Change of Hegemony Considerations**  
+
+**Anarchist Considerations**  
+
+**Power is fundamentally political, arbitrary and self-interested**  
 
 ### Anti-surveillance reflections - Facial recognition
 
