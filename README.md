@@ -2,6 +2,28 @@
 
 ##  $\textcolor{blue}{ONLINE}$
 
+### Anonymous Basics
+
+**Build a pseudonymous online identity**  
+https://github.com/BlockchainCommons/Pseudonymity-Guide  
+
+**How to create an anonymous GitHub**  
+https://github.com/Mikerah/anon-guide  
+
+**How to erase GitHub history**  
+https://github.com/fedebotu/clone-anonymous-github  
+
+**Contribute Code Anonymously**  
+https://github.com/AnalogJ/gitmask  
+
+**Proxy server to support anonymous browsing**  
+https://durieux.me/projects/anonymous-github.html  
+https://github.com/tdurieux/anonymous_github  
+
+**Self-hosting**  
+https://github.com/syncthing/syncthing  
+https://github.com/anonaddy/anonaddy  
+
 ### Tails 
 
 This script can download and install the latest version of Tails OS for you.  
@@ -17,11 +39,6 @@ https://www.whonix.org/wiki/Comparison_with_Others
 
 https://www.rapidseedbox.com/blog/vpn-vs-proxy  
 
-### Anonymous GitHub
-
-How to create an anonymous GitHub
-
-How to erase GitHub history
 
 ### Anonymous Communication
 
@@ -45,9 +62,13 @@ DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve P
 The Big Book of Secret Hiding Places -  Jack Luger  
 https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
   
-### Anti-surveillance reflections - Is it possible to live a double life?
+### Anti-surveillance reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
-Spies: American, Russian and British.
+**The Case of Spies: American, Russian and British.**
+
+**Anarchist Considerations**
+
+**Power is fundamentally political and arbitrary**
 
 ### Anti-surveillance reflections - Facial recognition
 
