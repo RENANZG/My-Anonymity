@@ -1,6 +1,6 @@
 # Anonymity 
 
-## Tips and Tricks
+## Practical and individual considerations
 
 <details>
 <summary>$\textcolor{blue}{\Large{ONLINE}}$</summary>  
@@ -74,17 +74,25 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 
 </details>
 
+## Political and collective considerations
+
+<details>
+<summary>$\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$</summary> 
+
+### Anti-surveillance reflections - Facial recognition
+
+### Anti-surveillance reflections - Bussines Inteligence 
+
+</details>
 <details>
 <summary>$\textcolor{black}{\Large{POLITICAL}}$</summary> 
+
+**Digital Ethics**
 
 **Change of Hegemony Considerations**  
 
 **Anarchist Considerations**  
 
-**Power is fundamentally political, arbitrary and self-interested**  
-
-### Anti-surveillance reflections - Facial recognition
-
-### Anti-surveillance reflections - Bussines Inteligence  
+**Power is fundamentally political, arbitrary and self-interested**   
 
 </details>
