@@ -1,6 +1,9 @@
-## Anonymity - Tips and Tricks
+# Anonymity 
 
-##  $\textcolor{blue}{ONLINE}$
+## Tips and Tricks
+
+<details>
+<summary>$\textcolor{blue}{\Large{ONLINE}}$</summary>  
 
 ### Anonymous Basics
 
@@ -54,7 +57,10 @@ https://haveibeenpwned.com/
 https://www.whois.com/  
 https://joindeleteme.com/  
 
-##  :red_square: $\textcolor{red}{OFFLINE}$
+</details>
+
+<details>
+<summary>$\textcolor{red}{\Large{OFFLINE}}$</summary>  
 
 ### Physical Anti-surveillance  
 How to Hide Things in Public Places - Dennis Fiery  
@@ -66,6 +72,11 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 
 **The Case of Spies: American, Russian and British.**
 
+</details>
+
+<details>
+<summary>$\textcolor{red}{\Large{POLITICAL:Change of hegemony}}$</summary> 
+  
 **Anarchist Considerations**
 
 **Power is fundamentally political and arbitrary**
@@ -74,4 +85,4 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 
 ### Anti-surveillance reflections - Bussines Inteligence  
 
-  
+</details>
