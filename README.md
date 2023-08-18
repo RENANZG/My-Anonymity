@@ -5,7 +5,12 @@
 <details>
 <summary>$\textcolor{blue}{\Large{ONLINE}}$</summary>  
 
-### Anonymous Basics
+### Anonymous Basics  
+
+https://spreadprivacy.com  
+https://www.privacyguides.org  
+https://prism-break.org  
+https://privacytools.io  
 
 **Build a pseudonymous online identity**  
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
