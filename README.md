@@ -1,4 +1,8 @@
-# Anonymity 
+# 🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵
+
+
+### REFERENCES
+https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
 
 ## Practical and individual considerations
 
