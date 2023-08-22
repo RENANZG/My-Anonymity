@@ -3,7 +3,7 @@
 
 ### REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
-
+_________________________________________________________________________________________________________________________
 ## Practical and individual considerations
 ###
 $\textcolor{blue}{\Large{ONLINE}}$  
@@ -65,8 +65,10 @@ https://gdpr-info.eu/issues/right-to-be-forgotten/
 https://haveibeenpwned.com/  
 https://www.whois.com/  
 https://joindeleteme.com/  
+<p> </p>  
 
-###
+<p> </p>  
+
 $\textcolor{red}{\Large{OFFLINE}}$  
 
 ### Physical Anti-surveillance  
@@ -81,16 +83,15 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 
 _________________________________________________________________________________________________________________________
 ## Political and collective considerations
-###
+
 $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$  
 
-### Anti-surveillance reflections - Facial recognition
+**Anti-surveillance reflections - Facial recognition**  
 
 Fawkes: Protecting Privacy against Unauthorized Deep Learning Models
 https://www.usenix.org/conference/usenixsecurity20/presentation/shan  
 
-### Anti-surveillance reflections - Bussines Inteligence 
-
+**Anti-surveillance reflections - Bussines Inteligence**  
 
 $\textcolor{black}{\Large{POLITICAL}}$  
 
