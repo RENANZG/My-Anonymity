@@ -112,3 +112,4 @@ Techniques used by anarchists
 ### STAY UP TO DATE
 
 https://www.usenix.org/conferences  
+https://www.youtube.com/@hitbsecconf/videos  
