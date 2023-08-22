@@ -5,9 +5,8 @@
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
 
 ## Practical and individual considerations
-
-<details>
-<summary>$\textcolor{blue}{\Large{ONLINE}}$</summary>  
+###
+$\textcolor{blue}{\Large{ONLINE}}$  
 
 ### Anonymous Basics  
 
@@ -54,12 +53,10 @@ https://www.whonix.org/wiki/Comparison_with_Others
 
 https://www.rapidseedbox.com/blog/vpn-vs-proxy  
 
-
 ### Anonymous Communication
 
 
 ### Anonymous VPN
-
 
 
 ### Right to be Forgotten
@@ -69,10 +66,8 @@ https://haveibeenpwned.com/
 https://www.whois.com/  
 https://joindeleteme.com/  
 
-</details>
-
-<details>
-<summary>$\textcolor{red}{\Large{OFFLINE}}$</summary>  
+###
+$\textcolor{red}{\Large{OFFLINE}}$  
 
 ### Physical Anti-surveillance  
 How to Hide Things in Public Places - Dennis Fiery  
@@ -84,20 +79,20 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 
 **The Case of Spies: American, Russian and British.**
 
-</details>
-
+_________________________________________________________________________________________________________________________
 ## Political and collective considerations
-
-<details>
-<summary>$\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$</summary> 
+###
+$\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$  
 
 ### Anti-surveillance reflections - Facial recognition
 
+Fawkes: Protecting Privacy against Unauthorized Deep Learning Models
+https://www.usenix.org/conference/usenixsecurity20/presentation/shan  
+
 ### Anti-surveillance reflections - Bussines Inteligence 
 
-</details>
-<details>
-<summary>$\textcolor{black}{\Large{POLITICAL}}$</summary> 
+
+$\textcolor{black}{\Large{POLITICAL}}$  
 
 **Digital Ethics**
 
@@ -107,4 +102,6 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 
 **Power is fundamentally political, arbitrary and self-interested**   
 
-</details>
+### STAY UP TO DATE
+
+https://www.usenix.org/conferences  
