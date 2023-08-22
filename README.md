@@ -81,8 +81,19 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
 
 **The Case of Spies: American, Russian and British.**  
 Techniques used by spies  
-- Dead drop  
+- Dead drop
 - 
+
+**The Case of authoritarian governments**  
+Techniques used by spies authoritarian  
+- Secret methods of investigation (Pegasus Spyware)
+
+
+**Anarchist Considerations**  
+Techniques used by anarchists  
+-  bib  
+-  
+   
 _________________________________________________________________________________________________________________________
 ## Political and collective considerations
 
@@ -92,6 +103,7 @@ $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$
 
 Fawkes: Protecting Privacy against Unauthorized Deep Learning Models
 https://www.usenix.org/conference/usenixsecurity20/presentation/shan  
+https://github.com/Shawn-Shan/fawkes  
 
 **Anti-surveillance reflections - Bussines Inteligence**  
 
@@ -101,11 +113,7 @@ $\textcolor{black}{\Large{POLITICAL}}$
 
 **Change of Hegemony Considerations**  
 
-**Anarchist Considerations**  
-Techniques used by anarchists
 
--   
--   
 
 **Power is fundamentally political, arbitrary and self-interested**   
 
