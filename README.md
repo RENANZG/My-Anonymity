@@ -119,5 +119,6 @@ $\textcolor{black}{\Large{POLITICAL}}$
 
 ### STAY UP TO DATE
 
+https://www.intgovforum.org/en  
 https://www.usenix.org/conferences  
 https://www.youtube.com/@hitbsecconf/videos  
