@@ -102,9 +102,10 @@ $\textcolor{black}{\Large{POLITICAL}}$
 **Change of Hegemony Considerations**  
 
 **Anarchist Considerations**  
-Techniques used by anarchists  
-- 
+Techniques used by anarchists
 
+-   
+-   
 
 **Power is fundamentally political, arbitrary and self-interested**   
 
