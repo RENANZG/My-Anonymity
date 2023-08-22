@@ -79,8 +79,10 @@ https://www.boredpanda.com/how-to-hide-things-secret-hiding-places
   
 ### Anti-surveillance reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
-**The Case of Spies: American, Russian and British.**
-
+**The Case of Spies: American, Russian and British.**  
+Techniques used by spies  
+- Dead drop  
+- 
 _________________________________________________________________________________________________________________________
 ## Political and collective considerations
 
@@ -100,6 +102,9 @@ $\textcolor{black}{\Large{POLITICAL}}$
 **Change of Hegemony Considerations**  
 
 **Anarchist Considerations**  
+Techniques used by anarchists  
+- 
+
 
 **Power is fundamentally political, arbitrary and self-interested**   
 
