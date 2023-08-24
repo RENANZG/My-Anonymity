@@ -76,7 +76,12 @@ How to Hide Things in Public Places - Dennis Fiery
 DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant  
 The Big Book of Secret Hiding Places -  Jack Luger  
 https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
-  
+
+**Ways law enforcement investigate**  
+- Trash Pull  
+- Search Warrant  
+https://www.youtube.com/watch?v=zJZhPF8CuaM  
+
 ### Anti-surveillance reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
 **The Case of Spies: American, Russian and British.**  
