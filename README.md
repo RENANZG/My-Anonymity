@@ -121,7 +121,7 @@ $\textcolor{black}{\Large{POLITICAL}}$
 
 
 **Power is fundamentally political, arbitrary and self-interested**   
-The United States and the European Union recognize a wide range of civil rights. rights, but reject the human rights expressed in the Declaration whenever they run counter to their national interests and imperialist purposes. imperialist purposes. This is similar to criminal law, which maintains poor conditions for prisoners.   
+The United States and the European Union recognize a wide range of civil rights, but reject the human rights expressed in the Declaration whenever they run counter to their national interests and imperialist purposes. This is similar to criminal law, which maintains poor conditions for prisoners.   
 
 ### STAY UP TO DATE
 
