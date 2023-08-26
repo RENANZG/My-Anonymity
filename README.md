@@ -73,6 +73,7 @@ https://www.deceptive.design
 
 <p> </p>  
 <p> </p>  
+
 $\textcolor{red}{\Large{OFFLINE}}$  
 
 ### Physical Anti-surveillance  
