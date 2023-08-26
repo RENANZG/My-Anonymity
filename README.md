@@ -53,8 +53,9 @@ https://www.whonix.org/wiki/Comparison_with_Others
 
 https://www.rapidseedbox.com/blog/vpn-vs-proxy  
 
-### Anonymous Communication
+### Anonymous Communication   
 
+https://10minutemail.com   
 
 ### Anonymous VPN
 
