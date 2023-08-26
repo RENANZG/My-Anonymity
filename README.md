@@ -111,6 +111,7 @@ https://www.usenix.org/conference/usenixsecurity20/presentation/shan
 https://github.com/Shawn-Shan/fawkes  
 • Invisible Mask: Practical Attacks on Face Recognition with Infrared   
 https://arxiv.org/pdf/1803.04683.pdf   
+https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared   
 
 **Anti-surveillance reflections - Bussines Inteligence**  
 
