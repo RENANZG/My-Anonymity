@@ -67,10 +67,12 @@ https://gdpr-info.eu/issues/right-to-be-forgotten/
 https://haveibeenpwned.com/  
 https://www.whois.com/  
 https://joindeleteme.com/  
-<p> </p>  
+
+### Others   
+https://www.deceptive.design   
 
 <p> </p>  
-
+<p> </p>  
 $\textcolor{red}{\Large{OFFLINE}}$  
 
 ### Physical Anti-surveillance  
