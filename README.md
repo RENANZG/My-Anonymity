@@ -35,6 +35,7 @@ https://durieux.me/projects/anonymous-github.html
 https://github.com/tdurieux/anonymous_github  
 
 **Self-hosting**  
+https://github.com/awesome-selfhosted/awesome-selfhosted   
 https://github.com/syncthing/syncthing  
 https://github.com/anonaddy/anonaddy  
 
