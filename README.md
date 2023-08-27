@@ -87,12 +87,12 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 • https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
 
 **Ways law enforcement investigate**  
+https://www.youtube.com/watch?v=zJZhPF8CuaM 
 • Trash Pull  (ref.)[https://www.pumphreylawfirm.com/blog/how-trash-pulls-are-used-in-criminal-law-cases]  
 • Photographs enhancement techniques   
 • Video enhancement techniques 
 • Audio enhancement techniques  
 • Search Warrant  
-https://www.youtube.com/watch?v=zJZhPF8CuaM
 • Fingerprints  
 • DNA testing  
 • Blood tests  
@@ -103,17 +103,17 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 ### Reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
 **The Case of Spies: American, Russian and British.**  
-• Techniques used by spies  
+⦿ Techniques used by spies  
 - Dead drop
 - 
 
 **The Case of authoritarian governments**  
-• Techniques used by authoritarian governments    
+⦿ Techniques used by authoritarian governments    
 - Secret methods of investigation (Pegasus Spyware)  
 
 
 **Anarchist Considerations**  
-Techniques used by anarchists  
+⦿ Techniques used by anarchists  
 -  bib  
 -   
 
