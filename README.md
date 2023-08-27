@@ -59,10 +59,10 @@ https://10minutemail.com
 
 ## OTHER CONSIDERATIONS
 
-**Piracy**
+**Piracy** 
 https://github.com/alancnet/torrent-vpn  
 
-**Right to be Forgotten**
+**Right to be Forgotten** 
 https://gdpr-info.eu/issues/right-to-be-forgotten  
 https://haveibeenpwned.com  
 https://www.whois.com    
