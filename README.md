@@ -69,18 +69,22 @@ https://www.whois.com/
 https://joindeleteme.com/  
 
 ### Others   
+• Deceptive Patterns   
 https://www.deceptive.design   
+• Not everything is secret in encrypted apps like iMessage and WhatsApp   
+https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google/   
 
+<p> </p>  
 <p> </p>  
 <p> </p>  
 
 $\textcolor{red}{\Large{OFFLINE}}$  
 
 ### Physical Anti-surveillance  
-How to Hide Things in Public Places - Dennis Fiery  
-DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant  
-The Big Book of Secret Hiding Places -  Jack Luger  
-https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
+• How to Hide Things in Public Places - Dennis Fiery  
+• DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant  
+• The Big Book of Secret Hiding Places -  Jack Luger  
+• https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
 
 **Ways law enforcement investigate**  
 - Trash Pull  
@@ -90,12 +94,12 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 ### Anti-surveillance reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
 **The Case of Spies: American, Russian and British.**  
-Techniques used by spies  
+• Techniques used by spies  
 - Dead drop
 - 
 
 **The Case of authoritarian governments**  
-Techniques used by spies authoritarian  
+• Techniques used by spies authoritarian  
 - Secret methods of investigation (Pegasus Spyware)
 
 
