@@ -135,9 +135,9 @@ https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared
 https://arxiv.org/abs/2111.10759   
 https://www.youtube.com/watch?v=_TXkDO5z11w
 
-**Fingerprint recognition**
-• DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing 
-https://www.youtube.com/watch?v=hJ35ApLKpN4
+**Fingerprint recognition**  
+• DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing   
+https://www.youtube.com/watch?v=hJ35ApLKpN4  
 
 ### DOCUMENTS ANTI-SURVEILLANCE
 
@@ -155,12 +155,12 @@ $\textcolor{black}{\Large{POLITICAL}}$
 **Digital Ethics** 
 
 **Change of Hegemony Considerations**  
-Gaston Bachelard (1884 - 1962) 
-Karl Popper (1902 - 1994) 
-Nicos Poulantzas (1936 - 1979) 
-Michel Foucault (1926 - 1984) 
-Louis Althusser (1918 - 1990) 
-
+Gaston Bachelard (1884 - 1962)  
+Karl Popper (1902 - 1994)  
+Nicos Poulantzas (1936 - 1979)  
+Michel Foucault (1926 - 1984)  
+Louis Althusser (1918 - 1990)  
+ 
 **Power is fundamentally political, arbitrary and self-interested**   
 The United States and the European Union recognize a wide range of civil rights, but reject the human rights expressed in the Declaration whenever they run counter to their national interests and imperialist purposes. This is similar to criminal law, which maintains poor conditions for prisoners.   
 
