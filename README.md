@@ -5,6 +5,7 @@
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
 
 # PRACTICAL AND INDIVIDUAL CONSIDERATIONS   
+
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Blue}\textbf{ONLINE}}" title="{\color{Blue}\textbf{ONLINE}}" />   
 
 ### Anonymous Basics  
@@ -25,9 +26,6 @@ https://github.com/fedebotu/clone-anonymous-github
 
 **Contribute Code Anonymously**  
 https://github.com/AnalogJ/gitmask  
-
-**Piracy**
-https://github.com/alancnet/torrent-vpn  
 
 **Proxy server to support anonymous browsing**  
 https://durieux.me/projects/anonymous-github.html  
@@ -50,7 +48,7 @@ https://github.com/cayiregemen/tails-installer
 https://www.whonix.org/wiki/Comparison_with_Others  
 
 ### TOR, VPN and Proxy  
-
+ 
 https://www.rapidseedbox.com/blog/vpn-vs-proxy  
 
 ### Anonymous Communication   
@@ -59,34 +57,50 @@ https://10minutemail.com
 
 ### Anonymous VPN
 
+## OTHER CONSIDERATIONS
 
-### Right to be Forgotten
+**Piracy**
+https://github.com/alancnet/torrent-vpn  
 
-https://gdpr-info.eu/issues/right-to-be-forgotten/  
-https://haveibeenpwned.com/  
-https://www.whois.com/  
-https://joindeleteme.com/  
+**Right to be Forgotten**
+https://gdpr-info.eu/issues/right-to-be-forgotten  
+https://haveibeenpwned.com  
+https://www.whois.com    
+https://joindeleteme.com  
+Sex Offender Registry  
 
-### Others   
+**Others**   
 • Deceptive Patterns   
 https://www.deceptive.design   
 • Not everything is secret in encrypted apps like iMessage and WhatsApp   
 https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google/   
+
 <br></br>
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Red}\textbf{OFFLINE}}" title="{\color{Red}\textbf{OFFLINE}}" />
 
-### Physical Anti-surveillance  
+## PHYSICAL ANTI-SURVEILLANCE  
+
+**Hidden Objects**  
 • How to Hide Things in Public Places - Dennis Fiery  
 • DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant  
 • The Big Book of Secret Hiding Places -  Jack Luger  
 • https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
 
 **Ways law enforcement investigate**  
-- Trash Pull  
-- Search Warrant  
-https://www.youtube.com/watch?v=zJZhPF8CuaM  
+• Trash Pull  (ref.)[https://www.pumphreylawfirm.com/blog/how-trash-pulls-are-used-in-criminal-law-cases]  
+• Photographs enhancement techniques   
+• Video enhancement techniques 
+• Audio enhancement techniques  
+• Search Warrant  
+https://www.youtube.com/watch?v=zJZhPF8CuaM
+• Fingerprints  
+• DNA testing  
+• Blood tests  
+• Ballistics  
+•   
+•   
 
-### Anti-surveillance reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
+### Reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
 **The Case of Spies: American, Russian and British.**  
 • Techniques used by spies  
@@ -94,14 +108,15 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 - 
 
 **The Case of authoritarian governments**  
-• Techniques used by spies authoritarian  
-- Secret methods of investigation (Pegasus Spyware)
+• Techniques used by authoritarian governments    
+- Secret methods of investigation (Pegasus Spyware)  
 
 
 **Anarchist Considerations**  
 Techniques used by anarchists  
 -  bib  
--  
+-   
+
 _________________________________________________________________________________________________________________________
 <br></br>
 # POLITICAL AND COLLECTIVE CONSIDERATIONS
@@ -119,6 +134,7 @@ https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared
 • Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models   
 https://arxiv.org/abs/2111.10759   
 https://www.youtube.com/watch?v=_TXkDO5z11w
+
 **Fingerprint recognition**
 • DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing 
 https://www.youtube.com/watch?v=hJ35ApLKpN4
