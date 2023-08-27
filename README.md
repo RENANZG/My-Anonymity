@@ -108,8 +108,8 @@ ________________________________________________________________________________
 
 $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$  
 
-**Anti-surveillance reflections - Facial recognition**  
-
+### BIOMETRICS ANTI-SURVEILLANCE
+**Facial recognition**  
 • Fawkes: Protecting Privacy against Unauthorized Deep Learning Models
 https://www.usenix.org/conference/usenixsecurity20/presentation/shan  
 https://github.com/Shawn-Shan/fawkes  
@@ -118,21 +118,27 @@ https://arxiv.org/pdf/1803.04683.pdf
 https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared   
 • Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models   
 https://arxiv.org/abs/2111.10759   
-https://www.youtube.com/watch?v=_TXkDO5z11w   
-**Anti-surveillance reflections - Bussines Inteligence**  
- 
+https://www.youtube.com/watch?v=_TXkDO5z11w
+**Fingerprint recognition**
+• DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing 
+https://www.youtube.com/watch?v=hJ35ApLKpN4
+
+### DOCUMENTS ANTI-SURVEILLANCE
+
+**Bussines Inteligence**  
+
+**Fake IDs** 
+
 $\textcolor{black}{\Large{POLITICAL}}$  
 
-**Digital Ethics**
+**Digital Ethics** 
 
 **Change of Hegemony Considerations**  
-
-
 
 **Power is fundamentally political, arbitrary and self-interested**   
 The United States and the European Union recognize a wide range of civil rights, but reject the human rights expressed in the Declaration whenever they run counter to their national interests and imperialist purposes. This is similar to criminal law, which maintains poor conditions for prisoners.   
 
-### STAY UP TO DATE
+### STAY UP TO DATE 
 
 https://www.intgovforum.org/en  
 https://www.usenix.org/conferences  
