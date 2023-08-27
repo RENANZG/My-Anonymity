@@ -62,7 +62,7 @@ https://10minutemail.com
 **Piracy** 
 https://github.com/alancnet/torrent-vpn  
 
-**Right to be Forgotten** 
+**Right to be Forgotten**  
 https://gdpr-info.eu/issues/right-to-be-forgotten  
 https://haveibeenpwned.com  
 https://www.whois.com    
@@ -87,8 +87,8 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 • https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
 
 **Ways law enforcement investigate**  
-https://www.youtube.com/watch?v=zJZhPF8CuaM 
-• Trash Pull  (ref.)[https://www.pumphreylawfirm.com/blog/how-trash-pulls-are-used-in-criminal-law-cases]  
+https://www.youtube.com/watch?v=zJZhPF8CuaM  
+• Trash Pull  [ref.](https://www.pumphreylawfirm.com/blog/how-trash-pulls-are-used-in-criminal-law-cases)  
 • Photographs enhancement techniques   
 • Video enhancement techniques 
 • Audio enhancement techniques  
