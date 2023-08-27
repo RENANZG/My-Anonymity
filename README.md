@@ -155,6 +155,11 @@ $\textcolor{black}{\Large{POLITICAL}}$
 **Digital Ethics** 
 
 **Change of Hegemony Considerations**  
+Gaston Bachelard (1884 - 1962) 
+Karl Popper (1902 - 1994) 
+Nicos Poulantzas (1936 - 1979) 
+Michel Foucault (1926 - 1984) 
+Louis Althusser (1918 - 1990) 
 
 **Power is fundamentally political, arbitrary and self-interested**   
 The United States and the European Union recognize a wide range of civil rights, but reject the human rights expressed in the Declaration whenever they run counter to their national interests and imperialist purposes. This is similar to criminal law, which maintains poor conditions for prisoners.   
