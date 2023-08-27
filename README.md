@@ -125,9 +125,14 @@ https://www.youtube.com/watch?v=hJ35ApLKpN4
 
 ### DOCUMENTS ANTI-SURVEILLANCE
 
-**Bussines Inteligence**  
+**Fake Documents** 
+• Fake IDs
 
-**Fake IDs** 
+**Bussines Inteligence**  
+• Financial Intelligence Units (FIUs)  
+Automated triage of financial intelligence reports - Algorithms    
+• Artificial Intelligence, Machine Learning and Big Data in Finance
+https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-learning-big-data-in-finance.pdf  
 
 $\textcolor{black}{\Large{POLITICAL}}$  
 
