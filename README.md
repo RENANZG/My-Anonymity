@@ -152,6 +152,9 @@ https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-l
 
 $\textcolor{black}{\Large{POLITICAL}}$  
 
+**Adversarial Machine Learning**  
+https://github.com/yenchenlin/awesome-adversarial-machine-learning  
+
 **Digital Ethics** 
 
 **Change of Hegemony Considerations**  
