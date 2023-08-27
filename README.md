@@ -3,10 +3,9 @@
 
 ### REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
-_________________________________________________________________________________________________________________________
-## Practical and individual considerations
-###
-$\textcolor{blue}{\Large{ONLINE}}$  
+
+# PRACTICAL AND INDIVIDUAL CONSIDERATIONS   
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Blue}\textbf{ONLINE}}" title="{\color{Blue}\textbf{ONLINE}}" />   
 
 ### Anonymous Basics  
 
@@ -73,12 +72,8 @@ https://joindeleteme.com/
 https://www.deceptive.design   
 • Not everything is secret in encrypted apps like iMessage and WhatsApp   
 https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google/   
-
-<p> </p>  
-<p> </p>  
-<p> </p>  
-
-$\textcolor{red}{\Large{OFFLINE}}$  
+<br></br>
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Red}\textbf{OFFLINE}}" title="{\color{Red}\textbf{OFFLINE}}" />
 
 ### Physical Anti-surveillance  
 • How to Hide Things in Public Places - Dennis Fiery  
@@ -107,9 +102,9 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 Techniques used by anarchists  
 -  bib  
 -  
-   
 _________________________________________________________________________________________________________________________
-## Political and collective considerations
+<br></br>
+# POLITICAL AND COLLECTIVE CONSIDERATIONS
 
 $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$  
 
@@ -125,7 +120,7 @@ https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared
 https://arxiv.org/abs/2111.10759   
 https://www.youtube.com/watch?v=_TXkDO5z11w   
 **Anti-surveillance reflections - Bussines Inteligence**  
-
+ 
 $\textcolor{black}{\Large{POLITICAL}}$  
 
 **Digital Ethics**
@@ -142,3 +137,5 @@ The United States and the European Union recognize a wide range of civil rights,
 https://www.intgovforum.org/en  
 https://www.usenix.org/conferences  
 https://www.youtube.com/@hitbsecconf/videos  
+
+
