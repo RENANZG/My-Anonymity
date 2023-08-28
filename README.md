@@ -146,8 +146,6 @@ Automated triage of financial intelligence reports - Algorithms
 • Artificial Intelligence, Machine Learning and Big Data in Finance
 https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-learning-big-data-in-finance.pdf  
 
-$\textcolor{black}{\Large{POLITICAL}}$  
-
 **Adversarial Machine Learning**  
 https://github.com/yenchenlin/awesome-adversarial-machine-learning  
 
