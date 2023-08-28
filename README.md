@@ -1,8 +1,9 @@
 # 🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵
 
-
-### REFERENCES
+### BEST REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
+https://github.com/BlockchainCommons/Pseudonymity-Guide  
+https://github.com/awesome-selfhosted/awesome-selfhosted   
 
 # PRACTICAL AND INDIVIDUAL CONSIDERATIONS   
 
@@ -73,7 +74,7 @@ Sex Offender Registry
 • Deceptive Patterns   
 https://www.deceptive.design   
 • Not everything is secret in encrypted apps like iMessage and WhatsApp   
-https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google/   
+https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google  
 
 <br></br>
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Red}\textbf{OFFLINE}}" title="{\color{Red}\textbf{OFFLINE}}" />
@@ -88,7 +89,8 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 
 **Ways law enforcement investigate**  
 https://www.youtube.com/watch?v=zJZhPF8CuaM  
-• Trash Pull  [ref.](https://www.pumphreylawfirm.com/blog/how-trash-pulls-are-used-in-criminal-law-cases)  
+• Malwares
+• Trash Pull  
 • Photographs enhancement techniques   
 • Video enhancement techniques 
 • Audio enhancement techniques  
@@ -97,14 +99,12 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 • DNA testing  
 • Blood tests  
 • Ballistics  
-•   
-•   
 
 ### Reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
 **The Case of Spies: American, Russian and British.**  
 ⦿ Techniques used by spies  
-- Dead drop
+- Dead drop 
 - 
 
 **The Case of authoritarian governments**  
@@ -116,10 +116,6 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 ⦿ Techniques used by anarchists  
 -  bib  
 -   
-
-_________________________________________________________________________________________________________________________
-<br></br>
-# POLITICAL AND COLLECTIVE CONSIDERATIONS
 
 $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$  
 
@@ -154,6 +150,8 @@ $\textcolor{black}{\Large{POLITICAL}}$
 
 **Adversarial Machine Learning**  
 https://github.com/yenchenlin/awesome-adversarial-machine-learning  
+
+### OTHERS 
 
 **Digital Ethics** 
 
