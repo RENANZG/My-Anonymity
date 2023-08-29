@@ -41,6 +41,8 @@ https://github.com/awesome-selfhosted/awesome-selfhosted
 https://github.com/syncthing/syncthing  
 https://github.com/anonaddy/anonaddy  
 
+## SECURE OPERATING SYSTEMS
+
 ### Tails 
 
 This script can download and install the latest version of Tails OS for you.  
@@ -51,6 +53,9 @@ https://github.com/cayiregemen/tails-installer
 ### Tails Vs. Whonix
 
 https://www.whonix.org/wiki/Comparison_with_Others  
+
+### QubesOS  
+
 
 ### TOR, VPN and Proxy  
  
