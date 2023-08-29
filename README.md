@@ -5,8 +5,6 @@ https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
 https://github.com/awesome-selfhosted/awesome-selfhosted   
 
-# PRACTICAL AND INDIVIDUAL CONSIDERATIONS   
-
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Blue}\textbf{ONLINE}}" title="{\color{Blue}\textbf{ONLINE}}" />   
 
 ### Anonymous Basics  
@@ -15,6 +13,12 @@ https://spreadprivacy.com
 https://www.privacyguides.org  
 https://prism-break.org  
 https://privacytools.io  
+https://gdpr-info.eu/issues/right-to-be-forgotten  
+https://haveibeenpwned.com  
+https://joindeleteme.com  
+https://www.accountkiller.com  
+https://www.whois.com    
+
 
 **Build a pseudonymous online identity**  
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
@@ -60,15 +64,11 @@ https://10minutemail.com
 
 ## OTHER CONSIDERATIONS
 
+**Importance of auditing logs** 
+https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items 
+
 **Piracy** 
 https://github.com/alancnet/torrent-vpn  
-
-**Right to be Forgotten**  
-https://gdpr-info.eu/issues/right-to-be-forgotten  
-https://haveibeenpwned.com  
-https://www.whois.com    
-https://joindeleteme.com  
-Sex Offender Registry  
 
 **Others**   
 • Deceptive Patterns   
@@ -99,6 +99,7 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 • DNA testing  
 • Blood tests  
 • Ballistics  
+
 
 ### Reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
 
