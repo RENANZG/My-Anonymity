@@ -69,11 +69,11 @@ https://10minutemail.com
 
 ## OTHER CONSIDERATIONS
 
-**Importance of auditing logs** 
-https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items 
+**Importance of auditing logs**  
+https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items  
 
-**Piracy** 
-https://github.com/alancnet/torrent-vpn  
+**Piracy**  
+https://github.com/alancnet/torrent-vpn   
 
 **Others**   
 • Deceptive Patterns   
