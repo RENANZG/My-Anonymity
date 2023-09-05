@@ -5,6 +5,9 @@ https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
 https://github.com/ffffffff0x/Digital-Privacy  
 https://github.com/awesome-selfhosted/awesome-selfhosted   
+https://freedom.press/training/  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Blue}\textbf{ONLINE}}" title="{\color{Blue}\textbf{ONLINE}}" />   
 
@@ -45,8 +48,7 @@ https://github.com/anonaddy/anonaddy
 
 ### Tails 
 
-This script can download and install the latest version of Tails OS for you.  
-https://github.com/cayiregemen/tails-installer  
+This script that can download and install the latest version of Tails OS.
 
 ### Whonix  
 
@@ -63,6 +65,7 @@ https://www.rapidseedbox.com/blog/vpn-vs-proxy
 
 ### Anonymous Communication   
 
+https://github.com/onionshare/onionshare  
 https://10minutemail.com   
 
 ### Anonymous VPN
@@ -80,6 +83,8 @@ https://github.com/alancnet/torrent-vpn
 https://www.deceptive.design   
 • Not everything is secret in encrypted apps like iMessage and WhatsApp   
 https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google  
+
+--------------------------------------------------------------------------------------------------------------------------
 
 <br></br>
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Red}\textbf{OFFLINE}}" title="{\color{Red}\textbf{OFFLINE}}" />
