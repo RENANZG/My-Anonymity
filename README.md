@@ -20,7 +20,6 @@ https://joindeleteme.com
 https://www.accountkiller.com  
 https://www.whois.com    
 
-
 **Build a pseudonymous online identity**  
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
 
