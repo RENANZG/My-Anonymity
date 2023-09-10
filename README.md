@@ -2,8 +2,9 @@
 
 ### BEST REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
-https://github.com/BlockchainCommons/Pseudonymity-Guide  
 https://github.com/ffffffff0x/Digital-Privacy  
+https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view 
+https://github.com/BlockchainCommons/Pseudonymity-Guide  
 https://github.com/awesome-selfhosted/awesome-selfhosted   
 https://freedom.press/training/  
 
@@ -24,8 +25,9 @@ https://www.accountkiller.com
 https://www.whois.com    
 
 **Build a pseudonymous online identity**  
-https://github.com/BlockchainCommons/Pseudonymity-Guide  
-
+[https://github.com/BlockchainCommons/Pseudonymity-Guide  
+](https://github.com/BlockchainCommons/Pseudonymity-Guide  
+)
 **How to create an anonymous GitHub**  
 https://github.com/Mikerah/anon-guide  
 
@@ -43,6 +45,40 @@ https://github.com/tdurieux/anonymous_github
 https://github.com/awesome-selfhosted/awesome-selfhosted   
 https://github.com/syncthing/syncthing  
 https://github.com/anonaddy/anonaddy  
+
+**Generators**
+https://www.fakenamegenerator.com  
+- [Fake Address, Random Address Generator](https://www.fakeaddressgenerator.com/Index/index)
+- [Behind the Name](https://www.behindthename.com/random/) - Random Name Generator
+- [Easy Random Name Picker](https://randomwordgenerator.com/name.php) - Random Name Generator
+- [ElfQrin](https://www.elfqrin.com/fakeid.php) - Fake Identity ID Random Name Generator
+- [Random User Generator](https://randomuser.me/)
+- [ID Free Site](https://id.ifreesite.com/)
+- [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator)
+- [gh0stkey/RGPerson](https://github.com/gh0stkey/RGPerson)
+- [naozibuhao/idcard](https://github.com/naozibuhao/idcard)
+- [Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)
+- [Fake Person/Name Generator | User Identity, Account and Profile Generator](https://fakepersongenerator.com/)
+- [faker.js](https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html)
+- [Fake Person/Name Generator](https://www.fakepersongenerator.com/Index/generate)
+- [Full Contact Information Generator](https://names.igopaygo.com/people/full-contact)
+- [My Fake Information Generator and Validator](http://www.myfakeinfo.com/index.php)
+- [User Information Generator Articles](https://names.igopaygo.com/)
+
+**Image Generation**
+- [This Person Does Not Exist](https://thispersondoesnotexist.com)
+- [This Cat Does Not Exist](https://thiscatdoesnotexist.com/)
+- [Artbreeder](https://artbreeder.com/browse)
+- [Comixify](https://comixify.ii.pw.edu.pl/)
+- [This Waifu Does Not Exist - Gwern](https://www.thiswaifudoesnotexist.net/?ref=appinn)
+- [Which Face is Real?](http://www.whichfaceisreal.com/)
+- [SPADE Project Page](https://nvlabs.github.io/SPADE/)
+- [Selfie2Anime](https://selfie2anime.com/)
+- [Reflect.tech](https://reflect.tech/faceswap/hot)
+- [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)
+- [Pixel-me](https://pixel-me.tokyo/en)
+- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)
+
 
 ## SECURE OPERATING SYSTEMS
 
@@ -67,14 +103,33 @@ https://www.rapidseedbox.com/blog/vpn-vs-proxy
 
 https://github.com/onionshare/onionshare  
 
-**Emails** - not self-hosted but important for privacy
+### Email  
+
+**Privacy**  
+Protonmail -   
+
+**Self-hosted**  
 Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/  
 Burnermail.io - https://burnermail.io/  
 Anonaddy.com - https://anonaddy.com/#pricing  
 Simplelogin.io - https://simplelogin.io/  
 Simplelogin.io github repo - https://github.com/simple-login/app  
 Forward Email - https://forwardemail.net/en  
+
+**Temp Email**  
 10MinuteMail - https://10minutemail.com   
+http://www.yopmail.com/zh 
+https://10minutemail.net 
+https://www.guerrillamail.com/zh/inbox 
+http://www.fakemailgenerator.com 
+https://temp-mail.org/en 
+https://www.guerrillamail.com 
+http://tool.chacuo.net/mailsend 
+https://maildrop.cc 
+http://tool.chacuo.net/mailanonymous 
+https://tempmail.altmails.com 
+https://www.snapmail.cc 
+https://www.linshi-email.com 
 
 ### Anonymous VPN
 
