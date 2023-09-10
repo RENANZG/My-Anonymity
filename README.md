@@ -2,6 +2,11 @@
 
 ### BEST REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
+https://github.com/KevinColemanInc/awesome-privacy  
+https://github.com/danoctavian/awesome-anti-censorship  
+https://github.com/Lissy93/personal-security-checklist  
+https://github.com/awesome-vpn/awesome-vpn  
+
 https://github.com/ffffffff0x/Digital-Privacy  
 https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view 
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
