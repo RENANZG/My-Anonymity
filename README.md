@@ -66,7 +66,15 @@ https://www.rapidseedbox.com/blog/vpn-vs-proxy
 ### Anonymous Communication   
 
 https://github.com/onionshare/onionshare  
-https://10minutemail.com   
+
+**Emails** - not self-hosted but important for privacy
+Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/  
+Burnermail.io - https://burnermail.io/  
+Anonaddy.com - https://anonaddy.com/#pricing  
+Simplelogin.io - https://simplelogin.io/  
+Simplelogin.io github repo - https://github.com/simple-login/app  
+Forward Email - https://forwardemail.net/en  
+10MinuteMail - https://10minutemail.com   
 
 ### Anonymous VPN
 
