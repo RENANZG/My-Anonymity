@@ -112,6 +112,7 @@ https://github.com/onionshare/onionshare
 
 **Privacy**  
 Protonmail -   
+https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures  
 
 **Self-hosted**  
 Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/  
