@@ -23,11 +23,12 @@ https://spreadprivacy.com
 https://www.privacyguides.org  
 https://prism-break.org  
 https://privacytools.io  
-https://gdpr-info.eu/issues/right-to-be-forgotten  
+https://proprivacy.com  
 https://haveibeenpwned.com  
 https://joindeleteme.com  
 https://www.accountkiller.com  
 https://www.whois.com    
+https://gdpr-info.eu/issues/right-to-be-forgotten  
 
 **Build a pseudonymous online identity**  
 [https://github.com/BlockchainCommons/Pseudonymity-Guide  
