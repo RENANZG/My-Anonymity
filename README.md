@@ -2,15 +2,15 @@
 
 ### BEST REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
-https://github.com/KevinColemanInc/awesome-privacy  
 https://github.com/danoctavian/awesome-anti-censorship  
+https://github.com/KevinColemanInc/awesome-privacy  
+https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view  
+https://github.com/ffffffff0x/Digital-Privacy  
+https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view  
+https://github.com/BlockchainCommons/Pseudonymity-Guide  
 https://github.com/Lissy93/personal-security-checklist  
 https://github.com/awesome-vpn/awesome-vpn  
-
-https://github.com/ffffffff0x/Digital-Privacy  
-https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view 
-https://github.com/BlockchainCommons/Pseudonymity-Guide  
-https://github.com/awesome-selfhosted/awesome-selfhosted   
+https://github.com/awesome-selfhosted/awesome-selfhosted  
 https://freedom.press/training/  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -30,10 +30,6 @@ https://www.accountkiller.com
 https://www.whois.com    
 https://gdpr-info.eu/issues/right-to-be-forgotten  
 
-**Build a pseudonymous online identity**  
-[https://github.com/BlockchainCommons/Pseudonymity-Guide  
-](https://github.com/BlockchainCommons/Pseudonymity-Guide  
-)
 **How to create an anonymous GitHub**  
 https://github.com/Mikerah/anon-guide  
 
@@ -53,7 +49,7 @@ https://github.com/syncthing/syncthing
 https://github.com/anonaddy/anonaddy  
 
 **Generators**
-https://www.fakenamegenerator.com  
+- [Fake Name Generator](https://www.fakenamegenerator.com)  
 - [Fake Address, Random Address Generator](https://www.fakeaddressgenerator.com/Index/index)
 - [Behind the Name](https://www.behindthename.com/random/) - Random Name Generator
 - [Easy Random Name Picker](https://randomwordgenerator.com/name.php) - Random Name Generator
@@ -74,15 +70,15 @@ https://www.fakenamegenerator.com
 **Image Generation**
 - [This Person Does Not Exist](https://thispersondoesnotexist.com)
 - [This Cat Does Not Exist](https://thiscatdoesnotexist.com/)
+- [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/?ref=appinn)
+- [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)
+- [Pixel-me](https://pixel-me.tokyo/en)
 - [Artbreeder](https://artbreeder.com/browse)
 - [Comixify](https://comixify.ii.pw.edu.pl/)
-- [This Waifu Does Not Exist - Gwern](https://www.thiswaifudoesnotexist.net/?ref=appinn)
 - [Which Face is Real?](http://www.whichfaceisreal.com/)
 - [SPADE Project Page](https://nvlabs.github.io/SPADE/)
 - [Selfie2Anime](https://selfie2anime.com/)
 - [Reflect.tech](https://reflect.tech/faceswap/hot)
-- [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)
-- [Pixel-me](https://pixel-me.tokyo/en)
 - [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)
 
 
@@ -90,7 +86,7 @@ https://www.fakenamegenerator.com
 
 ### Tails 
 
-This script that can download and install the latest version of Tails OS.
+*script that can download and install the latest version of Tails OS.
 
 ### Whonix  
 
