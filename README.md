@@ -177,7 +177,9 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 • Ballistics  
 
 
-### Reflections - Is it possible to live a double life? How to be an undercover agent? Conspirator?
+### General  
+
+https://paladinpressbooks.com/  
 
 **The Case of Spies: American, Russian and British.**  
 ⦿ Techniques used by spies  
@@ -192,8 +194,7 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 **Anarchist Considerations**  
 ⦿ Techniques used by anarchists  
 -  bib  
--   
-https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io
+- https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io  
 
 $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$  
 
@@ -229,17 +230,17 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning
 
 ### OTHERS 
 
-**Digital Ethics** 
+**Ethics** 
 
-**Change of Hegemony Considerations**  
+
+**Academic Considerations**  
+
 Gaston Bachelard (1884 - 1962)  
 Karl Popper (1902 - 1994)  
 Nicos Poulantzas (1936 - 1979)  
 Michel Foucault (1926 - 1984)  
 Louis Althusser (1918 - 1990)  
- 
-**Power is fundamentally political, arbitrary and self-interested**   
-The United States and the European Union recognize a wide range of civil rights, but reject the human rights expressed in the Declaration whenever they run counter to their national interests and imperialist purposes. This is similar to criminal law, which maintains poor conditions for prisoners.   
+
 
 ### STAY UP TO DATE 
 
