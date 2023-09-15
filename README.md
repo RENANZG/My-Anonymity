@@ -180,6 +180,7 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 ### General  
 
 https://paladinpressbooks.com/  
+https://us.artechhouse.com/storehome.aspx  
 
 **The Case of Spies: American, Russian and British.**  
 ⦿ Techniques used by spies  
@@ -230,16 +231,22 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning
 
 ### OTHERS 
 
-**Ethics** 
+**Information Warfare**  
+• 
+**Law Warfare**  
+• 
 
+**New rhetoric**  
+
+**Counter-coulture, subversion, mimicry and criminality**  
+• 
 
 **Academic Considerations**  
-
-Gaston Bachelard (1884 - 1962)  
-Karl Popper (1902 - 1994)  
-Nicos Poulantzas (1936 - 1979)  
-Michel Foucault (1926 - 1984)  
-Louis Althusser (1918 - 1990)  
+• Gaston Bachelard (1884 - 1962)  
+• Karl Popper (1902 - 1994)  
+• Nicos Poulantzas (1936 - 1979)  
+• Michel Foucault (1926 - 1984)  
+• Louis Althusser (1918 - 1990)  
 
 
 ### STAY UP TO DATE 
