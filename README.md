@@ -5,20 +5,19 @@
 
 ### BEST REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
+https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view  
 https://github.com/danoctavian/awesome-anti-censorship  
 https://github.com/shadawck/awesome-anti-forensic  
+https://github.com/mikeroyal/Open-Source-Security-Guide  
 https://github.com/ffffffff0x/Digital-Privacy  
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
 https://github.com/Lissy93/personal-security-checklist  
 https://github.com/KevinColemanInc/awesome-privacy  
 https://github.com/awesome-vpn/awesome-vpn  
+https://github.com/PaulNorman01/Forensia  
 https://github.com/awesome-selfhosted/awesome-selfhosted  
 https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io  
 https://github.com/tombusby/cypherpunk-research  
-https://github.com/PaulNorman01/Forensia  
-https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view  
-https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view  
-
 https://freedom.press/training/  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
