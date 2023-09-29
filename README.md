@@ -1,13 +1,13 @@
 # 🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵
 
-![thesonofman](https://github.com/RENANZG/My-Anonymity/assets/53377291/cbb20cff-a16e-4ff4-967f-3c2414b4d5c3)
-
+![The+Son+of+Man](https://github.com/RENANZG/My-Anonymity/assets/53377291/e92d8ffe-0541-41ee-84c4-5fb8e0802a2a)
 
 ### BEST REFERENCES
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
 https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view  
 https://github.com/danoctavian/awesome-anti-censorship  
 https://github.com/shadawck/awesome-anti-forensic  
+https://forensics.wiki/anti_forensic_techniques  
 https://github.com/mikeroyal/Open-Source-Security-Guide  
 https://github.com/ffffffff0x/Digital-Privacy  
 https://github.com/BlockchainCommons/Pseudonymity-Guide  
@@ -20,9 +20,17 @@ https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io
 https://github.com/tombusby/cypherpunk-research  
 https://freedom.press/training/  
 
+<p></p>
+<p></p>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Blue}\textbf{ONLINE}}" title="{\color{Blue}\textbf{ONLINE}}" />   
+- UNDER WORK -
+
+<details>
+<summary>${\color{Blue}\textbf{ONLINE ANONYMITY}}$</summary>  
+<p></p>
+<p></p>  
 
 ### Anonymous Basics  
 
@@ -156,12 +164,18 @@ https://github.com/alancnet/torrent-vpn
 https://www.deceptive.design   
 • Not everything is secret in encrypted apps like iMessage and WhatsApp   
 https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google  
+</details>
+
+<p></p>
+<p></p>
 
 --------------------------------------------------------------------------------------------------------------------------
 
-<br></br>
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\color{Red}\textbf{OFFLINE}}" title="{\color{Red}\textbf{OFFLINE}}" />
-
+<details>
+<summary>${\color{Red}\textbf{OFFLINE ANONYMITY}}$</summary>  
+<p></p>
+<p></p>
+ 
 ## PHYSICAL ANTI-SURVEILLANCE  
 
 **Hidden Objects**  
@@ -256,10 +270,9 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning
 • Louis Althusser (1918 - 1990)  
 
 
-### STAY UP TO DATE 
-
+### OTHERS  
 https://www.intgovforum.org/en  
 https://www.usenix.org/conferences  
 https://www.youtube.com/@hitbsecconf/videos  
 
-
+</details>
