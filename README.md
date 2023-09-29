@@ -20,12 +20,15 @@ https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io
 https://github.com/tombusby/cypherpunk-research  
 https://freedom.press/training/  
 
+
 <p></p>
 <p></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+```diff
 - UNDER WORK -
+```
 
 <details>
 <summary>${\color{Blue}\textbf{ONLINE ANONYMITY}}$</summary>  
@@ -270,9 +273,15 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning
 • Louis Althusser (1918 - 1990)  
 
 
-### OTHERS  
-https://www.intgovforum.org/en  
-https://www.usenix.org/conferences  
-https://www.youtube.com/@hitbsecconf/videos  
-
 </details>
+
+<p></p>
+<sub>
+<p><b>Others</b></p>
+<p>UNO IGF - https://www.intgovforum.org  </p>
+<p>USENIX Conferences - https://www.usenix.org/conferences  </p>
+<p>Hack In The Box Security Conference - https://www.youtube.com/@hitbsecconf  </p>
+<p>May Contain Hackers - https://www.youtube.com/@MCH2022NL  </p>
+<p>European Digital Rights - https://www.youtube.com/@EuropeanDigitalRights  </p>
+<p>International Journalism Festival - https://www.youtube.com/@journalismfest  </p>
+</sub>
