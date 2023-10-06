@@ -33,14 +33,14 @@
 
 ### Anonymous Basics  
 
+https://joindeleteme.com  
+https://www.accountkiller.com  
 https://spreadprivacy.com  
 https://www.privacyguides.org  
 https://prism-break.org  
 https://privacytools.io  
 https://proprivacy.com  
 https://haveibeenpwned.com  
-https://joindeleteme.com  
-https://www.accountkiller.com  
 https://www.whois.com    
 https://gdpr-info.eu/issues/right-to-be-forgotten  
 
@@ -112,30 +112,54 @@ https://github.com/anonaddy/anonaddy
 ### Whonix  
 
 ### Tails Vs. Whonix
-
 https://www.whonix.org/wiki/Comparison_with_Others  
 
 ### QubesOS  
 
 ### Anon Internet  
-
+- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
+- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+- [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
+- [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network    
+- [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.    
+- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.    
+- [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.    
+- Nym    
+  
 ### Anonymous VPN  
 • Mullvad - https://mullvad.net  
-  - Onion Link - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion  
+• Mullvad - Onion Link - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion  
 • IVPN - https://www.ivpn.net   
-• OpenVPN https://openvpn.net/vpn-client   
-• VPN.XXX https://www.vpn.xxx 
+• VPN.XXX - https://www.vpn.xxx    
+• OpenVPN - https://openvpn.net/vpn-client   
+• Private Internet Access - https://www.privateinternetaccess.com    
+• ProtonVPN - https://protonvpn.com    
+• NordVPN - https://nordvpn.com     
+• Windscribe] - ttps://windscribe.com    
+• ExpressVPN - https://www.expressvpn.com/vpnmentor1    
+
+### VPN Guides and Tutorials
+• [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
+• [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
+• [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
+• [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
+• [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
+• [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
+• [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
+• [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
+
  
-### TOR, VPN and Proxy  
+**TOR, VPN and Proxy**
 https://www.rapidseedbox.com/blog/vpn-vs-proxy  
 
 ### WLAN-SSID: Opt-Out
 
->Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
->
->[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
+Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
+[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
 ### Anonymous Communication   
+https://matrix.org    
+https://community.signalusers.org/t/overview-of-third-party-security-audits/13243    
 https://github.com/onionshare/onionshare  
 
 ### Email  
@@ -181,6 +205,9 @@ https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/lo
 **Piracy**  
 https://github.com/alancnet/torrent-vpn   
 https://github.com/lkrjangid1/Awesome-Warez  
+https://github.com/Igglybuff/awesome-piracy    
+https://github.com/Lucetia/piracy    
+
 
 **Others**   
 • Deceptive Patterns   
@@ -299,6 +326,8 @@ $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$
 <p><b>Others</b></p>
 <p>UNO IGF - https://www.intgovforum.org</p>
 <p>USENIX Conferences - https://www.usenix.org/conferences</p>
+
+YouTube
 <p>Hack In The Box Security Conference - https://www.youtube.com/@hitbsecconf</p>
 <p>May Contain Hackers - https://www.youtube.com/@MCH2022NL</p>
 <p>European Digital Rights - https://www.youtube.com/@EuropeanDigitalRights</p>
