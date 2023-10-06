@@ -3,30 +3,24 @@
 ![The+Son+of+Man](https://github.com/RENANZG/My-Anonymity/assets/53377291/e92d8ffe-0541-41ee-84c4-5fb8e0802a2a)
 
 ### BEST REFERENCES
-https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous  
-https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view  
-https://evasions.checkpoint.com  
-https://github.com/danoctavian/awesome-anti-censorship  
-https://github.com/shadawck/awesome-anti-forensic  
-https://forensics.wiki/anti_forensic_techniques  
-https://github.com/mikeroyal/Open-Source-Security-Guide  
-https://github.com/ffffffff0x/Digital-Privacy  
-https://github.com/BlockchainCommons/Pseudonymity-Guide  
-https://privacy.sexy  
-https://github.com/Lissy93/personal-security-checklist  
-https://github.com/KevinColemanInc/awesome-privacy  
-https://github.com/awesome-vpn/awesome-vpn  
-https://github.com/PaulNorman01/Forensia  
-https://github.com/awesome-selfhosted/awesome-selfhosted  
-https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io  
-https://github.com/tombusby/cypherpunk-research  
-https://freedom.press/training/  
 
+<table>
+<thead>
+  <tr>
+    <td><a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous</a><br><a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view</a><br><a href="https://evasions.checkpoint.com/" target="_blank" rel="noopener noreferrer">https://evasions.checkpoint.com</a><br><a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">https://github.com/danoctavian/awesome-anti-censorship</a><br><a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">https://github.com/shadawck/awesome-anti-forensic</a><br><a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">https://forensics.wiki/anti_forensic_techniques</a><br><a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">https://github.com/mikeroyal/Open-Source-Security-Guide</a><br><a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">https://github.com/ffffffff0x/Digital-Privacy</a><br><a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">https://github.com/BlockchainCommons/Pseudonymity-Guide</a><br><a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">https://privacy.sexy</a><br></td>
+    <td>https://github.com/Lissy93/personal-security-checklist<br>https://github.com/KevinColemanInc/awesome-privacy<br>https://github.com/awesome-vpn/awesome-vpn<br>https://github.com/PaulNorman01/Forensia<br>https://github.com/awesome-selfhosted/awesome-selfhosted<br>https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io<br>https://github.com/tombusby/cypherpunk-research<br>https://freedom.press/training<br><br></td>
+  </tr>
+</thead>
+</table>
 
 <p></p>
 <p></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![flags](https://github.com/RENANZG/My-Anonymity/assets/53377291/d606f225-90e9-47e5-8b09-e93e060a5084)
+
+
 
 ```diff
 - UNDER WORK -
