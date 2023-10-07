@@ -1,5 +1,9 @@
 # 🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵
 
+<pre>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec,
+and that is precisely the same as it was in 2013. Tails—and Tor—reduced the number of ways anyone on my team
+could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</pre>
+
 ![The+Son+of+Man](https://github.com/RENANZG/My-Anonymity/assets/53377291/e92d8ffe-0541-41ee-84c4-5fb8e0802a2a)
 
 ### BEST REFERENCES
