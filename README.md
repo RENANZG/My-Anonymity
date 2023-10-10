@@ -19,10 +19,11 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
 
 <p></p>
 <p></p>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor
-https://www.youtube.com/watch?v=01oeaBb85Xc
+## DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor    
+https://www.youtube.com/watch?v=01oeaBb85Xc    
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
