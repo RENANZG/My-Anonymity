@@ -11,8 +11,42 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
 <table>
 <thead>
   <tr>
-    <td><a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous</a><br><a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view</a><br><a href="https://evasions.checkpoint.com/" target="_blank" rel="noopener noreferrer">https://evasions.checkpoint.com</a><br><a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">https://github.com/danoctavian/awesome-anti-censorship</a><br><a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">https://github.com/shadawck/awesome-anti-forensic</a><br><a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">https://forensics.wiki/anti_forensic_techniques</a><br><a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">https://github.com/mikeroyal/Open-Source-Security-Guide</a><br><a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">https://github.com/ffffffff0x/Digital-Privacy</a><br><a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">https://github.com/BlockchainCommons/Pseudonymity-Guide</a><br><a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">https://privacy.sexy</a><br></td>
-    <td>https://github.com/Lissy93/personal-security-checklist<br>https://github.com/KevinColemanInc/awesome-privacy<br>https://github.com/awesome-vpn/awesome-vpn<br>https://github.com/PaulNorman01/Forensia<br>https://github.com/awesome-selfhosted/awesome-selfhosted<br>https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io<br>https://github.com/tombusby/cypherpunk-research<br>https://freedom.press/training<br><br></td>
+    <td>
+      <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">Whonix - Tips on Remaining Anonymous</a><br>	
+      <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a><br>	
+      <a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a><br>	
+      <a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">Awesome Anti-forensic</a><br>	
+      <a href="https://evasions.checkpoint.com" target="_blank" rel="noopener noreferrer">Evasion Techniques</a><br>	
+      <a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">Anti-forensic Techniques</a><br>	
+      <a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a><br>	
+      <a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a><br>	
+      <a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a><br>	
+      <a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">Privacy Sexy</a><br>	
+    </td>
+    <td>
+      <a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a><br>	
+      <a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a><br>	
+      <a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a><br>	
+      <a href="https://github.com/PaulNorman01/Forensia" target="_blank" rel="noopener noreferrer">Forensia</a><br>	
+      <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">Awesome Self-hosted</a><br>	
+      <a href="https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io" target="_blank" rel="noopener noreferrer">Cryptoanarchy Wiki</a><br>	
+      <a href="https://github.com/tombusby/cypherpunk-research" target="_blank" rel="noopener noreferrer">Cypherpunk Research</a><br>	
+      <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a><br>	
+      <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a><br>
+      <a href="" target="_blank" rel="noopener noreferrer"></a><br>
+    </td>
+     <td>
+      <a href="https://joindeleteme.com" target="_blank" rel="noopener noreferrer">Join Delete Me</a><br>
+      <a href="https://www.accountkiller.com" target="_blank" rel="noopener noreferrer">Account Killer</a><br>
+      <a href="https://spreadprivacy.com" target="_blank" rel="noopener noreferrer">Spread Privacy</a><br>
+      <a href="https://prism-break.org" target="_blank" rel="noopener noreferrer">Prism-Break</a><br>
+      <a href="https://www.privacyguides.org  " target="_blank" rel="noopener noreferrer">Privacy Guides</a><br>
+      <a href="https://privacytools.io" target="_blank" rel="noopener noreferrer">Privacy Tools</a><br>
+      <a href="https://proprivacy.com" target="_blank" rel="noopener noreferrer">Pro Privacy</a><br>
+      <a href="https://haveibeenpwned.com" target="_blank" rel="noopener noreferrer">Have I Been Pwned ?</a><br>
+      <a href="https://www.whois.com" target="_blank" rel="noopener noreferrer">Whois</a><br>
+      <a href="https://gdpr-info.eu/issues/right-to-be-forgotten" target="_blank" rel="noopener noreferrer">GDPR - Right to be forgotten</a><br>
+       </td>
   </tr>
 </thead>
 </table>
@@ -29,8 +63,6 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ![flags](https://github.com/RENANZG/My-Anonymity/assets/53377291/d606f225-90e9-47e5-8b09-e93e060a5084)
 
-
-
 ```diff
 - UNDER WORK -
 ```
@@ -39,19 +71,6 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 <summary>${\color{Blue}\textbf{ONLINE ANONYMITY}}$</summary>  
 <p></p>
 <p></p>  
-
-### Anonymous Basics  
-
-https://joindeleteme.com  
-https://www.accountkiller.com  
-https://spreadprivacy.com  
-https://www.privacyguides.org  
-https://prism-break.org  
-https://privacytools.io  
-https://proprivacy.com  
-https://haveibeenpwned.com  
-https://www.whois.com    
-https://gdpr-info.eu/issues/right-to-be-forgotten  
 
 **How to create an anonymous GitHub**  
 https://github.com/Mikerah/anon-guide  
@@ -71,48 +90,13 @@ https://github.com/awesome-selfhosted/awesome-selfhosted
 https://github.com/syncthing/syncthing  
 https://github.com/anonaddy/anonaddy  
 
-**Generators**
-• [Text Fixer](ttps://www.textfixer.com)    
-• [SS64 Syntax Utils](https://ss64.com)   
-• [Text to ASCII Art Generator](https://patorjk.com/software/taag/)  
-• [Fake Name Generator](https://www.fakenamegenerator.com)    
-• [Fake Address, Random Address Generator](https://www.fakeaddressgenerator.com/Index/index)    
-• [Behind the Name](https://www.behindthename.com/random/)  
-• [Easy Random Name Picker](https://randomwordgenerator.com/name.php)   
-• [Random User Generator](https://randomuser.me/)   
-• [ID Free Site](https://id.ifreesite.com/)   
-• [Fake ID](https://www.elfqrin.com/fakeid.php)    
-• [Credit Card Generator](https://www.elfqrin.com/discard_credit_card_generator.php)   
-• [Credit Card BINs generator and validator](https://www.elfqrin.com/credit_card_bin_generator.php)   
-• [US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator](https://www.elfqrin.com/usssndriverlicenseidgen.php)   
-• [US Car License Plates Registration Tags Generator](https://www.elfqrin.com/uscarlicenseplates.php)  
-• [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator)  
-• [gh0stkey/RGPerson](https://github.com/gh0stkey/RGPerson)  
-• [naozibuhao/idcard](https://github.com/naozibuhao/idcard)  
-• [Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)  
-• [Fake Person/Name Generator | User Identity, Account and Profile Generator](https://fakepersongenerator.com/)  
-• [faker.js](https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html)  
-• [Fake Person/Name Generator](https://www.fakepersongenerator.com/Index/generate)  
-• [Full Contact Information Generator](https://names.igopaygo.com/people/full-contact)  
-• [My Fake Information Generator and Validator](http://www.myfakeinfo.com/index.php)  
-• [User Information Generator Articles](https://names.igopaygo.com/)  
 
-**Image Generation**  
-• [This Person Does Not Exist](https://thispersondoesnotexist.com)  
-• [This Cat Does Not Exist](https://thiscatdoesnotexist.com/)  
-• [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/?ref=appinn)  
-• [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)  
-• [Pixel-me](https://pixel-me.tokyo/en)  
-• [Artbreeder](https://artbreeder.com/browse)  
-• [Comixify](https://comixify.ii.pw.edu.pl/)  
-• [Which Face is Real?](http://www.whichfaceisreal.com/)  
-• [SPADE Project Page](https://nvlabs.github.io/SPADE/)  
-• [Selfie2Anime](https://selfie2anime.com/)  
-• [Reflect.tech](https://reflect.tech/faceswap/hot)  
-• [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)  
 
 
 ## SECURE OPERATING SYSTEMS
+
+### Protocol Leak and Fingerprinting Protection ‎
+https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers
 
 ### Tails 
 
@@ -200,6 +184,49 @@ https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures
 • https://www.snapmail.cc  
 • https://www.linshi-email.com  
 
+### Generators    
+
+**Patterns Spoof**    
+• [Text Fixer](ttps://www.textfixer.com)      
+• [SS64 Syntax Utils](https://ss64.com)   
+
+**Name, Address, IDs Generators**    
+• [Text to ASCII Art Generator](https://patorjk.com/software/taag/)  
+• [Fake Name Generator](https://www.fakenamegenerator.com)    
+• [Fake Address, Random Address Generator](https://www.fakeaddressgenerator.com/Index/index)    
+• [Behind the Name](https://www.behindthename.com/random/)  
+• [Easy Random Name Picker](https://randomwordgenerator.com/name.php)   
+• [Random User Generator](https://randomuser.me/)   
+• [ID Free Site](https://id.ifreesite.com/)   
+• [Fake ID](https://www.elfqrin.com/fakeid.php)    
+• [Credit Card Generator](https://www.elfqrin.com/discard_credit_card_generator.php)   
+• [Credit Card BINs generator and validator](https://www.elfqrin.com/credit_card_bin_generator.php)   
+• [US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator](https://www.elfqrin.com/usssndriverlicenseidgen.php)   
+• [US Car License Plates Registration Tags Generator](https://www.elfqrin.com/uscarlicenseplates.php)  
+• [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator)  
+• [gh0stkey/RGPerson](https://github.com/gh0stkey/RGPerson)  
+• [naozibuhao/idcard](https://github.com/naozibuhao/idcard)  
+• [Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)  
+• [Fake Person/Name Generator | User Identity, Account and Profile Generator](https://fakepersongenerator.com/)  
+• [faker.js](https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html)  
+• [Fake Person/Name Generator](https://www.fakepersongenerator.com/Index/generate)  
+• [Full Contact Information Generator](https://names.igopaygo.com/people/full-contact)  
+• [My Fake Information Generator and Validator](http://www.myfakeinfo.com/index.php)  
+• [User Information Generator Articles](https://names.igopaygo.com/)  
+
+**Image Generation**  
+• [This Person Does Not Exist](https://thispersondoesnotexist.com)  
+• [This Cat Does Not Exist](https://thiscatdoesnotexist.com/)  
+• [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/?ref=appinn)  
+• [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)  
+• [Pixel-me](https://pixel-me.tokyo/en)  
+• [Artbreeder](https://artbreeder.com/browse)  
+• [Comixify](https://comixify.ii.pw.edu.pl/)  
+• [Which Face is Real?](http://www.whichfaceisreal.com/)  
+• [SPADE Project Page](https://nvlabs.github.io/SPADE/)  
+• [Selfie2Anime](https://selfie2anime.com/)  
+• [Reflect.tech](https://reflect.tech/faceswap/hot)  
+• [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)  
 
 ## OTHER CONSIDERATIONS  
 
