@@ -84,7 +84,8 @@ Flag Theory - https://flagtheory.com<br>
 <!-- ################################################################################# -->
 
 <details>
-<summary><a href="•"><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" alt="ONLINE ANONYMITY"/></a></summary><br>
+ 
+<summary padding: 6px; width: 200px; background-color: #eeeeee; border: none; box-shadow: 1px 1px 2px #bbbbbb; cursor: pointer;><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" /></summary><br>
 
 <br>
 
@@ -298,7 +299,7 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details>
-<summary><a href="•"><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" alt="OFFLINE ANONYMITY"/></a></summary><br>
+<summary padding: 6px; width: 200px; background-color: #eeeeee; border: none; box-shadow: 1px 1px 2px #bbbbbb; cursor: pointer;><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" /></summary><br>
 
 <br>
 
