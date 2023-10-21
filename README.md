@@ -5,9 +5,9 @@
 
 <!-- TAKE OUT SON OF BITCH ;D -->
 
-<pre>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec,
-and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team
-could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</pre>
+<pre>"The primary threat facing someone trying to stay anonymous on the internet today is their own
+bad opsec, and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways
+anyone on my team could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</pre>
 
 ![The+Son+of+Man](https://github.com/RENANZG/My-Anonymity/assets/53377291/e92d8ffe-0541-41ee-84c4-5fb8e0802a2a)
 
@@ -84,7 +84,7 @@ Flag Theory - https://flagtheory.com<br>
 <!-- ################################################################################# -->
 
 <details>
-<summary><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ONONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ONONYMITY}}" /></summary><br>
+<summary> <img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" alt="ONLINE ANONYMITY"/></summary><br>
 
 <br>
 
@@ -298,7 +298,7 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details>
-<summary><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ONONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ONONYMITY}}" /></summary><br>
+<summary><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" alt="OFFLINE ANONYMITY"/></summary><br>
 
 <br>
 
