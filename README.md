@@ -74,7 +74,7 @@ anyone on my team could make dangerous mistakes, and so were crucial protections
 
 Flag Theory - https://flagtheory.com<br>
 
-![Alt text](seven-flag.jpg)<br>
+![Alt text](_DATA/seven-flag.jpg)<br>
 
 <br>
 <hr>
@@ -84,12 +84,7 @@ Flag Theory - https://flagtheory.com<br>
 <!-- ################################################################################# -->
 
 <details close>
-<summary><a><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" /></a></summary>
-sdfdsfaf
-</details>
-
-<details close>
-<summary><a target="_self"><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" /></summary>
+<summary>![Alt text](_DATA/ON.svg)</a></summary>
 
 <br>
 
@@ -303,7 +298,8 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details close>
-<summary><a target="framename"><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" /></summary><br>
+<summary><a href="_DATA/OFF.svg"><img src=""/></a></summary>
+<br>
 
 <br>
 
