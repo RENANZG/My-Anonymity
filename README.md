@@ -104,9 +104,13 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 
 ### Tails 
 
-[![Secure TailsOS Setup For The Average Dark Web Enjoyer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk)](https://www.youtube.com/watch?v=nFZm4sVsPXk)
+<a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
+</a>
 
-[![Bad Opsec - How Tor Users Got Caught](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0)](https://www.youtube.com/watch?v=GR_U0G-QGA0)
+<a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
+</a>
 
 *script that can download and install the latest version of Tails OS.
 
