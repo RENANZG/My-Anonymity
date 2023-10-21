@@ -84,7 +84,7 @@ Flag Theory - https://flagtheory.com<br>
 <!-- ################################################################################# -->
 
 <details>
-<summary><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" /></a></summary><br>
+<summary>"_blank" _blank <img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ANONYMITY}}" /></a></summary><br>
 
 <br>
 
@@ -298,7 +298,7 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details>
-<summary><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" /></a></summary><br>
+<summary><a target="_blank"><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ANONYMITY}}" /></a></summary><br>
 
 <br>
 
