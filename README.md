@@ -102,7 +102,7 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 
 <div>
 
-[![Ultimate Privacy: CryptoDad's Tails OS Setup & Configuration Guide](https://img.youtube.com/vi/3zHunU-Pwfc/hqdefault.jpg)](https://www.youtube.com/embed/3zHunU-Pwfc)   
+[![Secure TailsOS Setup For The Average Dark Web Enjoyer](https://img.youtube.com/vi/nFZm4sVsPXk/hqdefault.jpg)](https://www.youtube.com/watch?v=nFZm4sVsPXk)   
 
 
 </div>
