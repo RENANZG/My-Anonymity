@@ -83,8 +83,9 @@ Flag Theory - https://flagtheory.com<br>
 
 <!-- ################################################################################# -->
 
-<details close>
-<summary><a href="" target="_parent"><img src="_DATA/ON.svg"></a></summary>
+
+<details>
+<summary><a href="" target="_parent"><img src="_DATA/ON.svg">_</a></summary>
 <br>
 
 <b>How to create an anonymous GitHub</b><br>
