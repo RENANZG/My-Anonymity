@@ -1,19 +1,26 @@
-# 🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵
+<html>
+<body>
+<h1>🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵</h1>
 
-`"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec,
-and that is precisely the same as it was in 2013. Tails—and Tor—reduced the number of ways anyone on my team
-could make dangerous mistakes, and so were crucial protections." (Edward Snowden)`
+<!-- TAKE OUT SON OF BITCH ;D -->
+
+<pre>The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec,
+and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team
+could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</pre>
 
 ![The+Son+of+Man](https://github.com/RENANZG/My-Anonymity/assets/53377291/e92d8ffe-0541-41ee-84c4-5fb8e0802a2a)
 
-----------------------------------------------------------------------------------------------------
+<hr>
 
-### BEST REFERENCES
+<div class="container">
 
+<div class="block1">
+  
+<h2>BEST REFERENCES</h2>
 <table>
 <thead>
   <tr>
-    <td>
+    <td valign="top">
       <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">Whonix - Tips on Remaining Anonymous</a><br>	
       <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a><br>	
       <a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a><br>	
@@ -25,7 +32,7 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
       <a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a><br>	
       <a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">Privacy Sexy</a><br>	
     </td>
-    <td>
+    <td valign="top">
       <a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a><br>	
       <a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a><br>	
       <a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a><br>	
@@ -37,7 +44,7 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
       <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a><br>
       <a href="" target="_blank" rel="noopener noreferrer"></a><br>
     </td>
-     <td>
+     <td valign="top">
       <a href="https://joindeleteme.com" target="_blank" rel="noopener noreferrer">Join Delete Me</a><br>
       <a href="https://www.accountkiller.com" target="_blank" rel="noopener noreferrer">Account Killer</a><br>
       <a href="https://spreadprivacy.com" target="_blank" rel="noopener noreferrer">Spread Privacy</a><br>
@@ -52,329 +59,348 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
   </tr>
 </thead>
 </table>
+</div>
 
-<br>
+<p><br>
+</p>
+<hr>
 
-----------------------------------------------------------------------------------------------------
+<div class="block2">
 
-### DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor    
-https://www.youtube.com/watch?v=01oeaBb85Xc    
+<b>DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor</b><br>
+https://www.youtube.com/watch?v=01oeaBb85Xc<br>
 
------------------------------------------------------------------------------------------------------
+<p><br>
+</p>
+<hr>
 
-Flag Theory - https://flagtheory.com      
+Flag Theory - https://flagtheory.com<br>
 
-![Alt text](seven-flag.jpg)
+![Alt text](seven-flag.jpg)<br>
 
------------------------------------------------------------------------------------------------------
+<p><br>
+</p>
+<hr>
 
 ```diff
 - UNDER WORK -
 ```
 
+
 <details>
-<summary>${\color{Blue}\textbf{ONLINE ANONYMITY}}$</summary>  
+<summary><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Blue}\mathbf{ONLINE\;ONONYMITY}}" title="{\color{Blue}\mathbf{ONLINE\;ONONYMITY}}" /></summary><br>
 <p></p>
-<p></p>  
+<p></p><br>
 
-**How to create an anonymous GitHub**  
-https://github.com/Mikerah/anon-guide  
+<b>How to create an anonymous GitHub</b><br>
+https://github.com/Mikerah/anon-guide<br>
 
-**How to erase GitHub history**  
-https://github.com/fedebotu/clone-anonymous-github  
+<b>How to erase GitHub history</b><br>
+https://github.com/fedebotu/clone-anonymous-github<br>
 
-**Contribute Code Anonymously**  
-https://github.com/AnalogJ/gitmask  
+<b>Contribute Code Anonymously</b><br>
+https://github.com/AnalogJ/gitmask<br>
 
-**Proxy server to support anonymous browsing**  
-https://durieux.me/projects/anonymous-github.html  
-https://github.com/tdurieux/anonymous_github  
+<b>Proxy server to support anonymous browsing</b><br>
+https://durieux.me/projects/anonymous-github.html<br>
+https://github.com/tdurieux/anonymous_github<br>
 
-**Self-hosting**  
-https://github.com/awesome-selfhosted/awesome-selfhosted   
-https://github.com/syncthing/syncthing  
-https://github.com/anonaddy/anonaddy  
+<b>Self-hosting</b><br>
+https://github.com/awesome-selfhosted/awesome-selfhosted<br> 
+https://github.com/syncthing/syncthing<br>
+https://github.com/anonaddy/anonaddy<br>
 
 
 ## SECURE OPERATING SYSTEMS
 
-### Protocol Leak and Fingerprinting Protection   
+<h2>Protocol Leak and Fingerprinting Protection</h2><br> 
 
-https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers
+https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers<br>
 
-### Tails 
+<h2>Tails</h2><br>
+
+<div>
 
 <a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
-</a>
+<br><img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
+</a><br>
 
 <a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
-</a>
+<br><img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
+</a><br>
 
-*script that can download and install the latest version of Tails OS.
+</div>
 
-### Whonix  
+*script that can download and install the latest version of Tails OS.<br>
 
-
-
-### Tails Vs. Whonix
-https://www.whonix.org/wiki/Comparison_with_Others  
-
-### QubesOS  
+<h2>Whonix</h2><br>
 
 
 
-### Anon Internet  
-- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
-- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
-- [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
-- [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network    
-- [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.    
-- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.    
-- [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.    
-- Nym    
-  
-### Anonymous VPN  
-• Mullvad - https://mullvad.net  
-• Mullvad - Onion Link - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion  
-• IVPN - https://www.ivpn.net   
-• VPN.XXX - https://www.vpn.xxx    
-• OpenVPN - https://openvpn.net/vpn-client   
-• Private Internet Access - https://www.privateinternetaccess.com    
-• ProtonVPN - https://protonvpn.com    
-• Windscribe - https://windscribe.com    
-• ExpressVPN - https://www.expressvpn.com/vpnmentor1    
-• NordVPN - https://nordvpn.com     
+<h2>Tails Vs. Whonix</h2><br>
+https://www.whonix.org/wiki/Comparison_with_Others<br>
 
-### VPN Guides and Tutorials
-• [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
-• [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
-• [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
-• [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
-• [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
-• [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
-• [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
-• [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
+<h2>QubesOS</h2><br>
+
+
+
+<h2>Anon Internet</h2><br>
+- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.<br>
+- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.<br>
+- [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.<br>
+- [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network<br>
+- [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.<br>
+- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.<br>
+- [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.<br>
+- Nym<br>
+
+<h2>Anonymous VPN</h2><br>
+• Mullvad - https://mullvad.net<br>
+• Mullvad - Onion Link - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion<br>
+• IVPN - https://www.ivpn.net<br> 
+• VPN.XXX - https://www.vpn.xxx<br>
+• OpenVPN - https://openvpn.net/vpn-client<br> 
+• Private Internet Access - https://www.privateinternetaccess.com<br>
+• ProtonVPN - https://protonvpn.com<br>
+• Windscribe - https://windscribe.com<br>
+• ExpressVPN - https://www.expressvpn.com/vpnmentor1<br>
+• NordVPN - https://nordvpn.com<br> 
+
+<h2>VPN Guides and Tutorials</h2><br>
+• [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons<br>
+• [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)<br>
+• [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN<br>
+• [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF<br>
+• [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto<br>
+• [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.<br>
+• [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling<br>
+• [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.<br>
  
-**TOR, VPN and Proxy**    
-https://www.rapidseedbox.com/blog/vpn-vs-proxy  
+<b>TOR, VPN and Proxy</b><br>
+https://www.rapidseedbox.com/blog/vpn-vs-proxy<br>
 
-### WLAN-SSID: Opt-Out
+<h2>WLAN-SSID: Opt-Out</h2><br>
 
 Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
-[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
+[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)<br>
 
-### Anonymous Communication   
-https://matrix.org    
-https://community.signalusers.org/t/overview-of-third-party-security-audits/13243    
-https://github.com/onionshare/onionshare    
+<h2>Anonymous Communication</h2><br> 
+https://matrix.org<br>
+https://community.signalusers.org/t/overview-of-third-party-security-audits/13243<br>
+https://github.com/onionshare/onionshare<br>
 
-### Email  
+<h2>Email</h2><br>
 
-**Privacy**  
-• Protonmail -  
-• https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures    
+<b>Privacy</b><br>
+• Protonmail -<br>
+• https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures<br>
 
-**Self-hosted**  
-• Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/  
-• Burnermail.io - https://burnermail.io/  
-• Anonaddy.com - https://anonaddy.com/#pricing  
-• Simplelogin.io - https://simplelogin.io/  
-• Simplelogin.io github repo - https://github.com/simple-login/app  
-• Forward Email - https://forwardemail.net/en  
+<b>Self-hosted</b><br>
+• Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/<br>
+• Burnermail.io - https://burnermail.io/<br>
+• Anonaddy.com - https://anonaddy.com/#pricing<br>
+• Simplelogin.io - https://simplelogin.io/<br>
+• Simplelogin.io github repo - https://github.com/simple-login/app<br>
+• Forward Email - https://forwardemail.net/en<br>
 
-**Temp Email**  
-• 10MinuteMail - https://10minutemail.com  
-• http://www.yopmail.com/zh  
-• https://10minutemail.net  
-• https://www.guerrillamail.com/zh/inbox  
-• http://www.fakemailgenerator.com  
-• https://temp-mail.org/en  
-• https://www.guerrillamail.com  
-• http://tool.chacuo.net/mailsend  
-• https://maildrop.cc  
-• http://tool.chacuo.net/mailanonymous  
-• https://tempmail.altmails.com  
-• https://www.snapmail.cc  
-• https://www.linshi-email.com  
+<b>Temp Email</b><br>
+• 10MinuteMail - https://10minutemail.com<br>
+• http://www.yopmail.com/zh<br>
+• https://10minutemail.net<br>
+• https://www.guerrillamail.com/zh/inbox<br>
+• http://www.fakemailgenerator.com<br>
+• https://temp-mail.org/en<br>
+• https://www.guerrillamail.com<br>
+• http://tool.chacuo.net/mailsend<br>
+• https://maildrop.cc<br>
+• http://tool.chacuo.net/mailanonymous<br>
+• https://tempmail.altmails.com<br>
+• https://www.snapmail.cc<br>
+• https://www.linshi-email.com<br>
 
-### Generators    
+<h2>Generators</h2><br>
 
-**Patterns Spoof**    
-• [Text Fixer](ttps://www.textfixer.com)      
-• [SS64 Syntax Utils](https://ss64.com)   
-• [Tools4noobs](https://www.tools4noobs.com)
+<b>Patterns Spoof</b><br>
+• [Text Fixer](ttps://www.textfixer.com)<br>
+• [SS64 Syntax Utils](https://ss64.com)<br> 
+• [Tools4noobs](https://www.tools4noobs.com)<br>
 
-**Name, Address, IDs Generators**    
-• [Text to ASCII Art Generator](https://patorjk.com/software/taag/)  
-• [Fake Name Generator](https://www.fakenamegenerator.com)    
-• [Fake Address, Random Address Generator](https://www.fakeaddressgenerator.com/Index/index)    
-• [Behind the Name](https://www.behindthename.com/random/)  
-• [Easy Random Name Picker](https://randomwordgenerator.com/name.php)   
-• [Random User Generator](https://randomuser.me/)   
-• [ID Free Site](https://id.ifreesite.com/)   
-• [Fake ID](https://www.elfqrin.com/fakeid.php)    
-• [Credit Card Generator](https://www.elfqrin.com/discard_credit_card_generator.php)   
-• [Credit Card BINs generator and validator](https://www.elfqrin.com/credit_card_bin_generator.php)   
-• [US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator](https://www.elfqrin.com/usssndriverlicenseidgen.php)   
-• [US Car License Plates Registration Tags Generator](https://www.elfqrin.com/uscarlicenseplates.php)  
-• [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator)  
-• [gh0stkey/RGPerson](https://github.com/gh0stkey/RGPerson)  
-• [naozibuhao/idcard](https://github.com/naozibuhao/idcard)  
-• [Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)  
-• [Fake Person/Name Generator | User Identity, Account and Profile Generator](https://fakepersongenerator.com/)  
-• [faker.js](https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html)  
-• [Fake Person/Name Generator](https://www.fakepersongenerator.com/Index/generate)  
-• [Full Contact Information Generator](https://names.igopaygo.com/people/full-contact)  
-• [My Fake Information Generator and Validator](http://www.myfakeinfo.com/index.php)  
-• [User Information Generator Articles](https://names.igopaygo.com/)  
+<b>Name, Address, IDs Generators</b><br>
+• [Text to ASCII Art Generator](https://patorjk.com/software/taag/)<br>
+• [Fake Name Generator](https://www.fakenamegenerator.com)<br>
+• [Fake Address, Random Address Generator](https://www.fakeaddressgenerator.com/Index/index)<br>
+• [Behind the Name](https://www.behindthename.com/random/)<br>
+• [Easy Random Name Picker](https://randomwordgenerator.com/name.php)<br> 
+• [Random User Generator](https://randomuser.me/)<br> 
+• [ID Free Site](https://id.ifreesite.com/)<br> 
+• [Fake ID](https://www.elfqrin.com/fakeid.php)<br>
+• [Credit Card Generator](https://www.elfqrin.com/discard_credit_card_generator.php)<br> 
+• [Credit Card BINs generator and validator](https://www.elfqrin.com/credit_card_bin_generator.php)<br> 
+• [US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator](https://www.elfqrin.com/usssndriverlicenseidgen.php)<br> 
+• [US Car License Plates Registration Tags Generator](https://www.elfqrin.com/uscarlicenseplates.php)<br>
+• [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator)<br>
+• [gh0stkey/RGPerson](https://github.com/gh0stkey/RGPerson)<br>
+• [naozibuhao/idcard](https://github.com/naozibuhao/idcard)<br>
+• [Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)<br>
+• [Fake Person/Name Generator | User Identity, Account and Profile Generator](https://fakepersongenerator.com/)<br>
+• [faker.js](https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html)<br>
+• [Fake Person/Name Generator](https://www.fakepersongenerator.com/Index/generate)<br>
+• [Full Contact Information Generator](https://names.igopaygo.com/people/full-contact)<br>
+• [My Fake Information Generator and Validator](http://www.myfakeinfo.com/index.php)<br>
+• [User Information Generator Articles](https://names.igopaygo.com/)<br>
 
-**Image Generation**  
-• [This Person Does Not Exist](https://thispersondoesnotexist.com)  
-• [This Cat Does Not Exist](https://thiscatdoesnotexist.com/)  
-• [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/?ref=appinn)  
-• [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)  
-• [Pixel-me](https://pixel-me.tokyo/en)  
-• [Artbreeder](https://artbreeder.com/browse)  
-• [Comixify](https://comixify.ii.pw.edu.pl/)  
-• [Which Face is Real?](http://www.whichfaceisreal.com/)  
-• [SPADE Project Page](https://nvlabs.github.io/SPADE/)  
-• [Selfie2Anime](https://selfie2anime.com/)  
-• [Reflect.tech](https://reflect.tech/faceswap/hot)  
-• [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)  
+<b>Image Generation</b><br>
+• [This Person Does Not Exist](https://thispersondoesnotexist.com)<br>
+• [This Cat Does Not Exist](https://thiscatdoesnotexist.com/)<br>
+• [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/?ref=appinn)<br>
+• [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces)<br>
+• [Pixel-me](https://pixel-me.tokyo/en)<br>
+• [Artbreeder](https://artbreeder.com/browse)<br>
+• [Comixify](https://comixify.ii.pw.edu.pl/)<br>
+• [Which Face is Real?](http://www.whichfaceisreal.com/)<br>
+• [SPADE Project Page](https://nvlabs.github.io/SPADE/)<br>
+• [Selfie2Anime](https://selfie2anime.com/)<br>
+• [Reflect.tech](https://reflect.tech/faceswap/hot)<br>
+• [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)<br>
 
-## OTHER CONSIDERATIONS  
+## OTHER CONSIDERATIONS<br>
 
-**Auditing logs, network, volatile memory**  
-https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items  
+<b>Auditing logs, network, volatile memory</b><br>
+https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items<br>
 
-**EXIF Tools**  
-• exiftool - https://exiftool.org  
-• exifcleaner - https://github.com/szTheory/exifcleaner/releases/latest  
-• Exif Pilot - https://www.colorpilot.com/exif.html)  
+<b>EXIF Tools</b><br>
+• exiftool - https://exiftool.org<br>
+• exifcleaner - https://github.com/szTheory/exifcleaner/releases/latest<br>
+• Exif Pilot - https://www.colorpilot.com/exif.html)<br>
 
-**Piracy**  
-https://github.com/alancnet/torrent-vpn   
-https://github.com/lkrjangid1/Awesome-Warez  
-https://github.com/Igglybuff/awesome-piracy    
-https://github.com/Lucetia/piracy    
+<b>Piracy</b><br>
+https://github.com/alancnet/torrent-vpn<br> 
+https://github.com/lkrjangid1/Awesome-Warez<br>
+https://github.com/Igglybuff/awesome-piracy<br>
+https://github.com/Lucetia/piracy<br>
 
 
-**Others**   
-• Deceptive Patterns   
-https://www.deceptive.design   
-• Not everything is secret in encrypted apps like iMessage and WhatsApp   
-https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google  
+<b>Others</b><br> 
+• Deceptive Patterns<br> 
+https://www.deceptive.design<br> 
+• Not everything is secret in encrypted apps like iMessage and WhatsApp<br> 
+https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google<br>
 </details>
 
-<br>
+<p><br>
+</p>
+<hr>
 
---------------------------------------------------------------------------------------------------------------------------
+</div>
+
+<div class="block3">
+
 
 <details>
-<summary>${\color{Red}\textbf{OFFLINE ANONYMITY}}$</summary>  
-<p></p>
-<p></p>
+<summary><img src="https://latex.codecogs.com/svg.image?\LARGE&space;{\color{Red}\mathbf{OFFLINE\;ONONYMITY}}" title="{\color{Red}\mathbf{OFFLINE\;ONONYMITY}}" /></summary><br>
 
-### BIOMETRICS ANTI-SURVEILLANCE
-**Facial recognition**  
-• Fawkes: Protecting Privacy against Unauthorized Deep Learning Models
-https://www.usenix.org/conference/usenixsecurity20/presentation/shan  
-https://github.com/Shawn-Shan/fawkes  
-• Invisible Mask: Practical Attacks on Face Recognition with Infrared   
-https://arxiv.org/pdf/1803.04683.pdf   
-https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared   
-• Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models   
-https://arxiv.org/abs/2111.10759   
+<h2>BIOMETRICS ANTI-SURVEILLANCE</h2><br>
+<b>Facial recognition</b><br>
+• Fawkes: Protecting Privacy against Unauthorized Deep Learning Models<br>
+https://www.usenix.org/conference/usenixsecurity20/presentation/shan<br>
+https://github.com/Shawn-Shan/fawkes<br>
+• Invisible Mask: Practical Attacks on Face Recognition with Infrared<br> 
+https://arxiv.org/pdf/1803.04683.pdf<br> 
+https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared<br> 
+• Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models<br> 
+https://arxiv.org/abs/2111.10759<br> 
 https://www.youtube.com/watch?v=_TXkDO5z11w
-• A Poisoning Attack Against Unsupervised Template Updating"    
-https://github.com/ssloxford/biometric-backdoors    
+• A Poisoning Attack Against Unsupervised Template Updating"<br>
+https://github.com/ssloxford/biometric-backdoors<br>
 
-**Fingerprint recognition**  
-• DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing   
-https://www.youtube.com/watch?v=hJ35ApLKpN4  
+<b>Fingerprint recognition</b><br>
+• DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing<br> 
+https://www.youtube.com/watch?v=hJ35ApLKpN4<br>
 
-### DOCUMENTS ANTI-SURVEILLANCE
+<h2>DOCUMENTS ANTI-SURVEILLANCE</h2><br>
 
-**Fake Documents** 
-• Fake IDs - Onion Services
+<b>Fake Documents</b><br> 
+• Fake IDs - Onion Services<br>
 
-**Bussines Inteligence**  
-• Financial Intelligence Units (FIUs)  
-Automated triage of financial intelligence reports - Algorithms    
+<b>Bussines Inteligence</b><br>
+• Financial Intelligence Units (FIUs)<br>
+Automated triage of financial intelligence reports - Algorithms<br>
 • Artificial Intelligence, Machine Learning and Big Data in Finance
-https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-learning-big-data-in-finance.pdf  
+https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-learning-big-data-in-finance.pdf<br>
 
-**Adversarial Machine Learning**  
-https://github.com/yenchenlin/awesome-adversarial-machine-learning  
+<b>Adversarial Machine Learning</b><br>
+https://github.com/yenchenlin/awesome-adversarial-machine-learning<br>
  
-## PHYSICAL ANTI-SURVEILLANCE  
+## PHYSICAL ANTI-SURVEILLANCE<br>
 
-**Hidden Objects**  
-• How to Hide Things in Public Places - Dennis Fiery  
-• DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant  
-• The Big Book of Secret Hiding Places -  Jack Luger  
-• https://www.boredpanda.com/how-to-hide-things-secret-hiding-places  
+<b>Hidden Objects</b><br>
+• How to Hide Things in Public Places - Dennis Fiery<br>
+• DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant<br>
+• The Big Book of Secret Hiding Places -<br>Jack Luger<br>
+• https://www.boredpanda.com/how-to-hide-things-secret-hiding-places<br>
 
-**Ways law enforcement investigate**  
-https://www.youtube.com/watch?v=zJZhPF8CuaM  
-• Trash Pull  
-• Malwares  
-• Search Warrant  
-• Photographs enhancement techniques   
+<b>Ways law enforcement investigate</b><br>
+https://www.youtube.com/watch?v=zJZhPF8CuaM<br>
+• Trash Pull<br>
+• Malwares<br>
+• Search Warrant<br>
+• Photographs enhancement techniques<br> 
 • Video enhancement techniques 
-• Audio enhancement techniques  
-• Fingerprints  
-• DNA testing  
-• Blood tests  
-• Ballistics  
+• Audio enhancement techniques<br>
+• Fingerprints<br>
+• DNA testing<br>
+• Blood tests<br>
+• Ballistics<br>
 
-### GENERAL  
+<h2>GENERAL</h2><br>
 
-https://paladinpressbooks.com   
-https://us.artechhouse.com/storehome.aspx   
+https://paladinpressbooks.com<br> 
+https://us.artechhouse.com/storehome.aspx<br> 
 
-**The Case of Spies: American, Russian and British.**  
-⦿ Techniques used by spies  
-- Dead drop 
-- 
-**The Case of authoritarian governments**  
-⦿ Techniques used by authoritarian governments    
-- Secret methods of investigation (Pegasus Spyware)
-- 
-**Anarchist Considerations**  
-⦿ Techniques used by anarchists  
--  bib  
-- https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io  
+<b>The Case of Spies: American, Russian and British.</b><br>
+⦿ Techniques used by spies<br>
+- Dead drop<br>
+- <br> 
+<b>The Case of authoritarian governments</b><br>
+⦿ Techniques used by authoritarian governments<br>
+- Secret methods of investigation (Pegasus Spyware)<br>
+- <br>
+<b>Anarchist Considerations</b><br>
+⦿ Techniques used by anarchists<br>
+- bib<br>
+- https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io<br>
 
-$\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$  
+<h2>ANTI-SURVEILLANCE</h2>
 
+<b>Information Warfare</b><br>
+• <br>
 
-**Information Warfare**  
-• 
+<b>Law Warfare</b><br>
+• <br>
 
-**Law Warfare**  
-• 
+<b>New rhetoric</b><br>
+• <br>
 
-**New rhetoric**  
-• 
+<b>Counter-coulture, subversion, mimicry and criminality</b><br>
+• <br>
 
-**Counter-coulture, subversion, mimicry and criminality**  
-• 
-
-**Academic Considerations**  
-• Gaston Bachelard (1884 - 1962)  
-• Karl Popper (1902 - 1994)  
-• Nicos Poulantzas (1936 - 1979)  
-• Michel Foucault (1926 - 1984)  
-• Louis Althusser (1918 - 1990)  
+<b>Academic Considerations</b><br>
+• Gaston Bachelard (1884 - 1962)<br>
+• Karl Popper (1902 - 1994)<br>
+• Nicos Poulantzas (1936 - 1979)<br>
+• Michel Foucault (1926 - 1984)<br>
+• Louis Althusser (1918 - 1990)<br>
 
 </details>
 
-<br>
+</div>
 
---------------------------------------------------------------------------------------------------------------------------
+<p><br>
+</p>
+
+<hr>
+
+<div class="block3">
 
 <sub>
 <p><b>Others</b></p>
@@ -404,3 +430,11 @@ $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$
 <p>Rob Braxman Tech - https://www.youtube.com/c/BraxMe</p>
 <p>The Hated One - https://www.youtube.com/c/TheHatedOne</p>
 </sub>
+
+
+</div>
+
+
+</div>
+</body>
+</html>
