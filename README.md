@@ -6,6 +6,8 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
 
 ![The+Son+of+Man](https://github.com/RENANZG/My-Anonymity/assets/53377291/e92d8ffe-0541-41ee-84c4-5fb8e0802a2a)
 
+----------------------------------------------------------------------------------------------------
+
 ### BEST REFERENCES
 
 <table>
@@ -55,7 +57,7 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
 
 ----------------------------------------------------------------------------------------------------
 
-## DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor    
+### DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor    
 https://www.youtube.com/watch?v=01oeaBb85Xc    
 
 -----------------------------------------------------------------------------------------------------
@@ -63,6 +65,8 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 Flag Theory - https://flagtheory.com      
 
 ![Alt text](seven-flag.jpg)
+
+-----------------------------------------------------------------------------------------------------
 
 ```diff
 - UNDER WORK -
@@ -100,20 +104,32 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 
 ### Tails 
 
+Secure TailsOS Setup For The Average Dark Web Enjoyer
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=nFZm4sVsPXk">
+</iframe>
+
+Bad Opsec - How Tor Users Got Caught
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=GR_U0G-QGA0">
+</iframe>
 
 [![Secure TailsOS Setup For The Average Dark Web Enjoyer](https://img.youtube.com/vi/nFZm4sVsPXk/hqdefault.jpg)](https://www.youtube.com/watch?v=nFZm4sVsPXk)   
 
 [![Bad Opsec - How Tor Users Got Caught](https://img.youtube.com/vi/GR_U0G-QGA0/hqdefault.jpg)](https://www.youtube.com/watch?v=GR_U0G-QGA0)   
 
-
 *script that can download and install the latest version of Tails OS.
 
 ### Whonix  
+
+
 
 ### Tails Vs. Whonix
 https://www.whonix.org/wiki/Comparison_with_Others  
 
 ### QubesOS  
+
+
 
 ### Anon Internet  
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
@@ -133,9 +149,9 @@ https://www.whonix.org/wiki/Comparison_with_Others
 • OpenVPN - https://openvpn.net/vpn-client   
 • Private Internet Access - https://www.privateinternetaccess.com    
 • ProtonVPN - https://protonvpn.com    
-• NordVPN - https://nordvpn.com     
-• Windscribe] - ttps://windscribe.com    
+• Windscribe - https://windscribe.com    
 • ExpressVPN - https://www.expressvpn.com/vpnmentor1    
+• NordVPN - https://nordvpn.com     
 
 ### VPN Guides and Tutorials
 • [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
@@ -146,9 +162,8 @@ https://www.whonix.org/wiki/Comparison_with_Others
 • [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 • [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 • [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
-
  
-**TOR, VPN and Proxy**
+**TOR, VPN and Proxy**    
 https://www.rapidseedbox.com/blog/vpn-vs-proxy  
 
 ### WLAN-SSID: Opt-Out
@@ -159,13 +174,13 @@ Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global map
 ### Anonymous Communication   
 https://matrix.org    
 https://community.signalusers.org/t/overview-of-third-party-security-audits/13243    
-https://github.com/onionshare/onionshare  
+https://github.com/onionshare/onionshare    
 
 ### Email  
 
 **Privacy**  
-• Protonmail -   
-https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures  
+• Protonmail -  
+• https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures    
 
 **Self-hosted**  
 • Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/  
@@ -259,8 +274,7 @@ https://www.deceptive.design
 https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google  
 </details>
 
-<p></p>
-<p></p>
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -311,12 +325,12 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning
 
 **Ways law enforcement investigate**  
 https://www.youtube.com/watch?v=zJZhPF8CuaM  
-• Malwares  
 • Trash Pull  
+• Malwares  
+• Search Warrant  
 • Photographs enhancement techniques   
 • Video enhancement techniques 
 • Audio enhancement techniques  
-• Search Warrant  
 • Fingerprints  
 • DNA testing  
 • Blood tests  
@@ -324,8 +338,8 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM
 
 ### GENERAL  
 
-https://paladinpressbooks.com/  
-https://us.artechhouse.com/storehome.aspx  
+https://paladinpressbooks.com   
+https://us.artechhouse.com/storehome.aspx   
 
 **The Case of Spies: American, Russian and British.**  
 ⦿ Techniques used by spies  
@@ -364,15 +378,16 @@ $\textcolor{black}{\Large{ANTI-SURVEILLANCE}}$
 
 </details>
 
+<br>
+
 --------------------------------------------------------------------------------------------------------------------------
 
-<p></p>
 <sub>
 <p><b>Others</b></p>
 <p>UNO IGF - https://www.intgovforum.org</p>
 <p>USENIX Conferences - https://www.usenix.org/conferences</p>
 
-YouTube
+<p><b>YouTube</b></p>
 <p>Hack In The Box Security Conference - https://www.youtube.com/@hitbsecconf</p>
 <p>May Contain Hackers - https://www.youtube.com/@MCH2022NL</p>
 <p>European Digital Rights - https://www.youtube.com/@EuropeanDigitalRights</p>
