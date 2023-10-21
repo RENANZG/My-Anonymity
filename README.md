@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
 <h1>🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵</h1>
@@ -170,19 +171,22 @@ https://www.whonix.org/wiki/Comparison_with_Others<br>
 • VPN over SSH - https://wiki.archlinux.org/index.php/VPN_over_SSH - ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling<br>
 • /r/VPNTorrents - https://www.reddit.com/r/VPNTorrents - This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.<br>
  
-<b>TOR, VPN and Proxy</b><br>
+<p><b>TOR, VPN and Proxy</b></p><br>
 https://www.rapidseedbox.com/blog/vpn-vs-proxy<br>
 
 <!-- ################################################################################# -->
 
 <h3>WLAN-SSID: Opt-Out</h3><br>
 
-Rename your network WiFi SSID to <pre><SSID>_optout_nomap</pre> to opt-out of <p>global maps</p> - https://wigle.net - Mozilla Location Services and <p>How to Opt-Out</p> - https://location.services.mozilla.com/optout<br>
+Rename your network WiFi SSID to <pre><SSID>_optout_nomap</pre> to opt-out of <b>global maps</b> - https://wigle.net - Mozilla Location Services and <b>How to Opt-Out</b> - https://location.services.mozilla.com/optout<br>
 
 <h3>Anonymous Communication</h3><br> 
-https://matrix.org<br>
-https://community.signalusers.org/t/overview-of-third-party-security-audits/13243<br>
-https://github.com/onionshare/onionshare<br>
+• https://matrix.org<br>
+• Discord Bot<br>
+• Mastadon<br>
+• Signal<br>
+• https://community.signalusers.org/t/overview-of-third-party-security-audits/13243<br>
+• https://github.com/onionshare/onionshare<br>
 
 <h3>Email</h3><br>
 
@@ -207,9 +211,6 @@ https://github.com/onionshare/onionshare<br>
 • https://temp-mail.org/en<br>
 • https://www.guerrillamail.com<br>
 • http://tool.chacuo.net/mailsend<br>
-
-<!-- ################################################################################# -->
-
 • https://maildrop.cc<br>
 • http://tool.chacuo.net/mailanonymous<br>
 • https://tempmail.altmails.com<br>
@@ -218,8 +219,8 @@ https://github.com/onionshare/onionshare<br>
 
 <h3>Generators</h3><br>
 
-<b>Patterns Spoof</b><br>
-• Text Fixer - ttps://www.textfixer.com<br>
+<b>Utilits and Spoof</b><br>
+• Text Fixer - https://www.textfixer.com<br>
 • SS64 Syntax Utils - https://ss64.com<br> 
 • Tools4noobs - https://www.tools4noobs.com<br>
 
@@ -234,7 +235,7 @@ https://github.com/onionshare/onionshare<br>
 • Fake ID - https://www.elfqrin.com/fakeid.php<br>
 • Credit Card Generator - https://www.elfqrin.com/discard_credit_card_generator.php<br> 
 • Credit Card BINs generator and validator - https://www.elfqrin.com/credit_card_bin_generator.php<br> 
-• US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator - https://www.elfqrin.com/usssndriverlicenseidgen.php)<br> 
+• US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator - https://www.elfqrin.com/usssndriverlicenseidgen.php<br> 
 • US Car License Plates Registration Tags Generator - https://www.elfqrin.com/uscarlicenseplates.php<br>
 • airob0t/idcardgenerator - https://github.com/airob0t/idcardgenerator<br>
 • gh0stkey/RGPerson - https://github.com/gh0stkey/RGPerson<br>
@@ -261,6 +262,8 @@ https://github.com/onionshare/onionshare<br>
 • Reflect.tech - https://reflect.tech/faceswap/hot<br>
 • PaddleGAN - https://github.com/PaddlePaddle/PaddleGAN<br>
 
+<!-- ################################################################################# -->
+
 <h3>OTHER CONSIDERATIONS</h3><br>
 
 <b>Auditing logs, network, volatile memory</b><br>
@@ -286,7 +289,6 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 </details>
 
 <br>
-
 <hr>
 
 </div>
@@ -326,7 +328,7 @@ https://www.youtube.com/watch?v=hJ35ApLKpN4<br>
 <b>Bussines Inteligence</b><br>
 • Financial Intelligence Units (FIUs)<br>
 Automated triage of financial intelligence reports - Algorithms<br>
-• Artificial Intelligence, Machine Learning and Big Data in Finance
+• Artificial Intelligence, Machine Learning and Big Data in Finance<br>
 https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-learning-big-data-in-finance.pdf<br>
 
 <b>Adversarial Machine Learning</b><br>
@@ -337,7 +339,7 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning<br>
 <b>Hidden Objects</b><br>
 • How to Hide Things in Public Places - Dennis Fiery<br>
 • DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant<br>
-• The Big Book of Secret Hiding Places -<br>Jack Luger<br>
+• The Big Book of Secret Hiding Places - Jack Luger<br>
 • https://www.boredpanda.com/how-to-hide-things-secret-hiding-places<br>
 
 <b>Ways law enforcement investigate</b><br>
@@ -353,25 +355,23 @@ https://www.youtube.com/watch?v=zJZhPF8CuaM<br>
 • Blood tests<br>
 • Ballistics<br>
 
-<h3>GENERAL</h3><br>
+<h3>GENERAL ANTI-SURVEILLANCE</h3><br>
 
 https://paladinpressbooks.com<br> 
 https://us.artechhouse.com/storehome.aspx<br> 
 
 <b>The Case of Spies: American, Russian and British.</b><br>
-⦿ Techniques used by spies<br>
+• Techniques used by spies<br>
 - Dead drop<br>
 - <br> 
 <b>The Case of authoritarian governments</b><br>
-⦿ Techniques used by authoritarian governments<br>
+• Techniques used by authoritarian governments<br>
 - Secret methods of investigation (Pegasus Spyware)<br>
 - <br>
 <b>Anarchist Considerations</b><br>
-⦿ Techniques used by anarchists<br>
+• Techniques used by anarchists<br>
 - bib<br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io<br>
-
-<h3>ANTI-SURVEILLANCE</h3>
 
 <b>Information Warfare</b><br>
 • <br>
@@ -392,12 +392,13 @@ https://us.artechhouse.com/storehome.aspx<br>
 • Michel Foucault (1926 - 1984)<br>
 • Louis Althusser (1918 - 1990)<br>
 
+
+
 </details>
 
 </div>
 
 <br>
-
 <hr>
 
 <!-- ################################################################################# -->
