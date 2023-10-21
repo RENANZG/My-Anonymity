@@ -104,6 +104,7 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 
 [![Secure TailsOS Setup For The Average Dark Web Enjoyer](https://img.youtube.com/vi/nFZm4sVsPXk/hqdefault.jpg)](https://www.youtube.com/watch?v=nFZm4sVsPXk)   
 
+[![Bad Opsec - How Tor Users Got Caught](https://img.youtube.com/vi/GR_U0G-QGA0/hqdefault.jpg)](https://www.youtube.com/watch?v=GR_U0G-QGA0)   
 
 </div>
 
