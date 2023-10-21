@@ -84,7 +84,7 @@ Flag Theory - https://flagtheory.com<br>
 <!-- ################################################################################# -->
 
 <details close>
-<summary> <img src="_DATA/ON.svg"></summary>
+<summary><img src="/_DATA/ON.svg"></summary>
 
 <br>
 
@@ -298,7 +298,7 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details close>
-<summary><img src="_DATA/OFF.svg"></summary>
+<summary><img src="/_DATA/OFF.svg"></summary>
 <br>
 
 <br>
