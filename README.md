@@ -85,7 +85,7 @@ Flag Theory - https://flagtheory.com<br>
 
 
 <details>
-<summary><a href="https://github.com/RENANZG/My-Anonymity/blob/main"><img src="https://raw.githubusercontent.com/RENANZG/My-Anonymity/main/_DATA/ON.svg" /></a></summary>
+<summary><a href="https://github.com/RENANZG/My-Anonymity/tree/main"><img src="https://raw.githubusercontent.com/RENANZG/My-Anonymity/main/_DATA/ON.svg" /></a></summary>
 <br>
 
 <b>How to create an anonymous GitHub</b><br>
@@ -298,7 +298,7 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details close>
-<summary><a href="https://github.com/RENANZG/My-Anonymity/blob/main"><img src="https://raw.githubusercontent.com/RENANZG/My-Anonymity/main/_DATA/OFF.svg" /></a></summary>
+<summary><a href="https://github.com/RENANZG/My-Anonymity/tree/main"><img src="https://raw.githubusercontent.com/RENANZG/My-Anonymity/main/_DATA/OFF.svg" /></a></summary>
 <br>
 
 <br>
