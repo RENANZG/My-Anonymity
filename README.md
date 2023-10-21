@@ -79,15 +79,14 @@ Flag Theory - https://flagtheory.com<br>
 <br>
 <hr>
 
+
 <pre><img src="https://latex.codecogs.com/svg.image?{\color{Red}\mathbf{-UNDER\;WORK-}}" title="{\color{Red}\mathbf{-UNDER\;WORK-}}" /></pre>
 
 <!-- ################################################################################# -->
 
 
 <details>
-<summary>
-![Alt text](_DATA/ON.svg)
-</summary>
+<summary><div> align="left"><a href=""><img src="/_DATA/ON.svg" style="width:100%;"></a></div></summary>
 <br>
 
 <b>How to create an anonymous GitHub</b><br>
@@ -300,9 +299,8 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details close>
-<summary>
-![Alt text](_DATA/OFF.svg)
-</summary>
+<summary><div> align="left"><a href=""><img src="/_DATA/OFF.svg" style="width:100%;"></a></div></summary>
+
 <br>
 
 <br>
