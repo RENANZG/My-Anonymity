@@ -297,7 +297,7 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <div class="block3">
 
 <details close>
-<summary><a href="/link/to/site" target="framename"><img src="_DATA/OFF.svg"></a></summary>
+<summary><a href="" target="framename"><img src="_DATA/OFF.svg"></a></summary>
 <br>
 
 <br>
