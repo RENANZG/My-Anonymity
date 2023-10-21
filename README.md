@@ -51,17 +51,18 @@ could make dangerous mistakes, and so were crucial protections." (Edward Snowden
 </thead>
 </table>
 
-<p></p>
-<p></p>
+<br>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 ## DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor    
 https://www.youtube.com/watch?v=01oeaBb85Xc    
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
-![flags](https://github.com/RENANZG/My-Anonymity/assets/53377291/d606f225-90e9-47e5-8b09-e93e060a5084)
+Flag Theory - https://flagtheory.com      
+
+![Alt text](seven-flag.jpg)
 
 ```diff
 - UNDER WORK -
@@ -91,22 +92,19 @@ https://github.com/syncthing/syncthing
 https://github.com/anonaddy/anonaddy  
 
 
-
-
 ## SECURE OPERATING SYSTEMS
 
-### Protocol Leak and Fingerprinting Protection ‎
+### Protocol Leak and Fingerprinting Protection   
+
 https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers
 
 ### Tails 
 
-<div>
 
 [![Secure TailsOS Setup For The Average Dark Web Enjoyer](https://img.youtube.com/vi/nFZm4sVsPXk/hqdefault.jpg)](https://www.youtube.com/watch?v=nFZm4sVsPXk)   
 
 [![Bad Opsec - How Tor Users Got Caught](https://img.youtube.com/vi/GR_U0G-QGA0/hqdefault.jpg)](https://www.youtube.com/watch?v=GR_U0G-QGA0)   
 
-</div>
 
 *script that can download and install the latest version of Tails OS.
 
