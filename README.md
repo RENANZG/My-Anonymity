@@ -84,9 +84,10 @@ Flag Theory - https://flagtheory.com<br>
 
 <!-- ################################################################################# -->
 
-
+![Alt text](_DATA/ON.svg)
 <details>
-<summary><div><img src="/_DATA/ON.svg"></div></summary>
+<summary>ONLINE ANONYMITY​​​​​</summary>
+
 <br>
 
 <b>How to create an anonymous GitHub</b><br>
@@ -137,7 +138,6 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 https://www.whonix.org/wiki/Comparison_with_Others<br>
 
 <h3>QubesOS</h3><br>
-
 
 
 <h3>Anon Internet</h3><br>
@@ -289,19 +289,20 @@ https://www.deceptive.design<br>
 https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google<br>
 </details>
 
-<br>
-<hr>
 
 </div>
+
+<br>
+<hr>
 
 <!-- ################################################################################# -->
 
 <div class="block3">
 
-<details close>
-<summary><div><img src="/_DATA/OFF.svg"></div></summary>
+![Alt text](_DATA/OFF.svg)
+<details>
+<summary>OFFLINE ANONYMITY​​​​​</summary>
 
-<br>
 
 <br>
 
@@ -394,7 +395,6 @@ https://us.artechhouse.com/storehome.aspx<br>
 • Nicos Poulantzas (1936 - 1979)<br>
 • Michel Foucault (1926 - 1984)<br>
 • Louis Althusser (1918 - 1990)<br>
-
 
 
 </details>
