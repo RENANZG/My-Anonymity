@@ -100,7 +100,12 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 
 ### Tails 
 
-[![Watch the video](https://img.youtube.com/vi/3zHunU-Pwfc/hqdefault.jpg)](https://www.youtube.com/embed/3zHunU-Pwfc)
+<div>
+
+[![Ultimate Privacy: CryptoDad's Tails OS Setup & Configuration Guide](https://img.youtube.com/vi/3zHunU-Pwfc/hqdefault.jpg)](https://www.youtube.com/embed/3zHunU-Pwfc)   
+
+
+</div>
 
 *script that can download and install the latest version of Tails OS.
 
