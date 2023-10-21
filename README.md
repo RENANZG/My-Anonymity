@@ -100,6 +100,9 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 
 ### Tails 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3zHunU-Pwfc?si=Ac4mzdtgOACtcdOk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 *script that can download and install the latest version of Tails OS.
 
 ### Whonix  
@@ -189,6 +192,7 @@ https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures
 **Patterns Spoof**    
 • [Text Fixer](ttps://www.textfixer.com)      
 • [SS64 Syntax Utils](https://ss64.com)   
+• [Tools4noobs](https://www.tools4noobs.com)
 
 **Name, Address, IDs Generators**    
 • [Text to ASCII Art Generator](https://patorjk.com/software/taag/)  
@@ -273,6 +277,8 @@ https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared
 • Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models   
 https://arxiv.org/abs/2111.10759   
 https://www.youtube.com/watch?v=_TXkDO5z11w
+• A Poisoning Attack Against Unsupervised Template Updating"    
+https://github.com/ssloxford/biometric-backdoors    
 
 **Fingerprint recognition**  
 • DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing   
