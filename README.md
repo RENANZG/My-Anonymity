@@ -20,10 +20,10 @@ anyone on my team could make dangerous mistakes, and so were crucial protections
 <div class="block1">
   
 <h3>BEST REFERENCES</h3>
-<table>
+<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <td valign="top">
+    <td valign="top" style="height:100%">
       <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">Whonix - Tips on Remaining Anonymous</a><br>	
       <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a><br>	
       <a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a><br>	
@@ -35,7 +35,7 @@ anyone on my team could make dangerous mistakes, and so were crucial protections
       <a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a><br>	
       <a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">Privacy Sexy</a><br>	
     </td>
-    <td valign="top">
+    <td valign="top" style="height:100%">
       <a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a><br>	
       <a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a><br>	
       <a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a><br>	
@@ -47,7 +47,7 @@ anyone on my team could make dangerous mistakes, and so were crucial protections
       <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a><br>
       <a href="" target="_blank" rel="noopener noreferrer"></a><br>
     </td>
-     <td valign="top">
+     <td valign="top" style="height:100%">
       <a href="https://joindeleteme.com" target="_blank" rel="noopener noreferrer">Join Delete Me</a><br>
       <a href="https://www.accountkiller.com" target="_blank" rel="noopener noreferrer">Account Killer</a><br>
       <a href="https://spreadprivacy.com" target="_blank" rel="noopener noreferrer">Spread Privacy</a><br>
@@ -113,10 +113,6 @@ https://github.com/anonaddy/anonaddy<br>
 
 <h2>SECURE OPERATING SYSTEMS</h2>
 
-<h3>Protocol Leak and Fingerprinting Protection</h3><br> 
-
-https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers<br>
-
 <h3>Tails</h3><br>
 
 <a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
@@ -129,10 +125,14 @@ https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protecti
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
 </a><br>
 
-*script that can download and install the latest version of Tails OS.<br>
+<h4>Protocol Leak and Fingerprinting Protection</h4><br> 
+https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers<br>
+
+<h4>Attacks on Tor</h4><br> 
+https://github.com/Attacks-on-Tor/Attacks-on-Tor<br>
 
 <h3>Whonix</h3><br>
-
+https://www.whonix.org<br>
 
 <h3>Tails Vs. Whonix</h3><br>
 https://www.whonix.org/wiki/Comparison_with_Others<br>
@@ -148,30 +148,34 @@ https://www.whonix.org/wiki/Comparison_with_Others<br>
 • Loki - https://github.com/loki-project/loki-network - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.<br>
 • IPFS - https://ipfs.io - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.<br>
 • Yggdrasil - https://yggdrasil-network.github.io/about.html - Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.<br>
-• Nym<br>
+• Nym - <br>
 
 <h3>Anonymous VPN</h3><br>
 • Mullvad - https://mullvad.net<br>
-• Mullvad - Onion Link - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion<br>
+• Mullvad - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion<br>
+• ProtonVPN - https://protonvpn.com<br>
+• AirVPN - https://airvpn.org<br>
 • IVPN - https://www.ivpn.net<br> 
 • VPN.XXX - https://www.vpn.xxx<br>
-• OpenVPN - https://openvpn.net/vpn-client<br> 
-• Private Internet Access - https://www.privateinternetaccess.com<br>
-• ProtonVPN - https://protonvpn.com<br>
 • Windscribe - https://windscribe.com<br>
 • ExpressVPN - https://www.expressvpn.com/vpnmentor1<br>
 • NordVPN - https://nordvpn.com<br> 
+• OpenVPN - https://openvpn.net/vpn-client<br> 
+• Private Internet Access - https://www.privateinternetaccess.com<br>
 
 <h3>VPN Guides and Tutorials</h3><br>
-• That One Privacy Site - https://thatoneprivacysite.net/vpn-section - VPN section of That One Privacy Site with VPN comparisons<br>
-• Choosing the best VPN (for you) - https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2 - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)<br>
-• /r/VPN wiki - https://www.reddit.com/r/VPN/wiki/index  - Helpful FAQ-type resource composed by the folks at /r/VPN<br>
-• Choosing the VPN that's right for you - https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF<br>
-• Which VPN services keep you anonymous in 2018? - https://torrentfreak.com/vpn-services-keep-anonymous-2018 TorrentFreak Article by Ernesto<br>
-• privacytools.io - https://www.privacytools.io - "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.<br>
-• VPN over SSH - https://wiki.archlinux.org/index.php/VPN_over_SSH - ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling<br>
-• /r/VPNTorrents - https://www.reddit.com/r/VPNTorrents - This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.<br>
+• That One Privacy Site - https://thatoneprivacysite.net/vpn-section<br>
+• Choosing the best VPN (for you) - https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2<br>
+• /r/VPN - https://www.reddit.com/r/VPN/wiki/index<br>
+• /r/VPNTorrents - https://www.reddit.com/r/VPNTorrents<br>
+• Choosing the VPN that's right for you - https://ssd.eff.org/en/module/choosing-vpn-thats-right-you<br>
+• privacytools.io - https://www.privacytools.io<br>
+• VPN over SSH - https://wiki.archlinux.org/index.php/VPN_over_SSH<br>
+• VPN Alert - https://vpnalert.com/
+• Which VPN services keep you anonymous in 2018? - https://torrentfreak.com/vpn-services-keep-anonymous-2018<br>
  
+
+
 <p><b>TOR, VPN and Proxy</b></p><br>
 https://www.rapidseedbox.com/blog/vpn-vs-proxy<br>
 
@@ -276,10 +280,15 @@ https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/lo
 • Exif Pilot - https://www.colorpilot.com/exif.html<br>
 
 <b>Piracy</b><br>
+https://github.com/Igglybuff/awesome-piracy<br>
 https://github.com/alancnet/torrent-vpn<br> 
 https://github.com/lkrjangid1/Awesome-Warez<br>
 https://github.com/Igglybuff/awesome-piracy<br>
 https://github.com/Lucetia/piracy<br>
+https://lemmy.dbzer0.com/c/piracy<br>
+https://rentry.co/megathread<br>
+https://1337x.to<br>
+https://fitgirl-repacks.site<br>
 
 
 <b>Others</b><br> 
@@ -407,6 +416,44 @@ https://us.artechhouse.com/storehome.aspx<br>
 <!-- ################################################################################# -->
 
 <div class="block3">
+
+![Alt text](_DATA/PV.svg)
+<details>
+<summary>PRIVACY​​​​​</summary>
+
+<br>
+
+- [Nitter instances](https://github.com/zedeus/nitter/wiki/Instances)<br>
+- [Invidious instances](https://docs.invidious.io/Invidious-Instances.md)<br>
+- [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)<br>
+- [SimplyTranslate instances](https://git.sr.ht/~metalune/simplytranslate_web#list-of-instances)<br>
+- [OpenStreetMap tile servers](https://wiki.openstreetmap.org/wiki/Tile_servers)<br>
+- Reddit alternatives:<br>
+  - [Libreddit](https://github.com/spikecodes/libreddit#instances)<br>
+  - [Teddit](https://codeberg.org/teddit/teddit#instances)<br>
+  - [Snew](https://github.com/snew/snew)<br>
+  - [Old Reddit](https://old.reddit.com) & [Mobile Reddit](https://i.reddit.com), purported to be more privacy respecting than the new UI.<br>
+- Google Search alternatives:<br>
+  - [SearX](https://searx.github.io/searx/)<br>
+  - [DuckDuckGo](https://duckduckgo.com)<br>
+  - [Startpage](https://startpage.com)<br>
+  - [Ecosia](https://www.ecosia.org)<br>
+  - [Qwant](https://www.qwant.com)<br>
+  - [Mojeek](https://www.mojeek.com)<br>
+  - [Presearch](https://www.presearch.org)<br>
+  - [Whoogle](https://benbusby.com/projects/whoogle-search/)<br>
+
+
+</details>
+
+</div>
+
+<!-- ################################################################################# -->
+
+<br>
+<hr>
+
+<div class="block4">
 
 <sub>
 <p><b>Others</b></p>
