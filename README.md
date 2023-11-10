@@ -28,6 +28,7 @@ crucial protections." (Edward Snowden)</pre>
 <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">Whonix - Tips on Remaining Anonymous</a></br>
 <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a></br>
 <a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer">EFF Fundation</a></br>
+<a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF - Security Companion</a></br>
 <a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a></br>
 <a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">Awesome Anti-forensic</a></br>
 <a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">Anti-forensic Techniques</a></br>
@@ -36,10 +37,10 @@ crucial protections." (Edward Snowden)</pre>
 <a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
 <a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a></br>
 <a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a></br>
-<a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
 </td>
 
 <td valign="top" style="height:100%">
+<a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
 <a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a></br>	
 <a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a></br>	
 <a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a></br>	
