@@ -75,9 +75,6 @@ crucial protections." (Edward Snowden)</pre>
 
 <!-- ################################################################################# -->
 
-<h3>Privacy vs. Anonymity</h3>
-
-
 <table>
 <thead>
   <tr>
@@ -124,7 +121,7 @@ crucial protections." (Edward Snowden)</pre>
 
 <!-- ################################################################################# -->
 
-Flag Theory - https://flagtheory.com</br>
+<h3>Flag Theory - <a href="https://flagtheory.com">https://flagtheory.com</a></h3>
 
 ![Alt text](_DATA/SF.jpg)</br>
 
@@ -132,6 +129,8 @@ Flag Theory - https://flagtheory.com</br>
 <hr>
 
 <!-- ################################################################################# -->
+
+<h3>EFF’s “Street-Level Surveillance” - <a href="https://www.eff.org/sls">https://www.eff.org/sls</a></h3>
 
 ![Alt text](_DATA/EFF.png)</br>
 
