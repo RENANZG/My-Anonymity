@@ -75,6 +75,8 @@ crucial protections." (Edward Snowden)</pre>
 
 <!-- ################################################################################# -->
 
+<div class="block2">
+
 <table>
 <thead>
   <tr>
@@ -159,36 +161,48 @@ crucial protections." (Edward Snowden)</pre>
 
 This is a short guide to help you start developing an anonymous developer account.
 
-1. Create a new browser profile in your browser of choice
-    * Firefox and derivatives: https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles
-    * Chrome and derivaties: https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop
-2. Create a new [Protonmail](https://protonmail.com/) account. 
-    * Protonmail doesn't ask for any personally identifiable information when setting up a new account
-    * For recovery options, ensure that you don't use an email that can dox or your phone number
-3. Create a corresponding [ProtonVPN](https://protonvpn.com) account
-    * Use this VPN whenever you are in *anon* mode
-4. Create a [GitHub](https://github.com/) account with your new email
-    * Generate new SSH keys and add them to this GitHub account
-5. Create a new [Twitter](https://twitter.com) account with your new identity
-6. Create a new [Reddit](https://www.reddit.com/) account with your new identity
-    * Use a request subreddit of your choice to get a new unique pfp for your new anon account
-7. Create a [cryptpad.fr](https://cryptpad.fr/) and a hackmd account for all your note taking, and encrypted storage needs
-8. Go on [privacytools.io](https://www.privacytools.io/) for other tools that you can use to keep yourself private
-9. (Optional) Install ublock origin, privacy badger and https everywhere in your new browser profile
-10. Extra reading and considerations: [0xngmi's guide for staying anon](https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view)
+<ol>
+<li>Create a new browser profile in your browser of choice<ul>
+<li>Firefox and derivatives: <a href="https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles">https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles</a></li>
+<li>Chrome and derivaties: <a href="https://support.google.com/chrome/answer/2364824?hl=en&amp;co=GENIE.Platform%3DDesktop">https://support.google.com/chrome/answer/2364824?hl=en&amp;co=GENIE.Platform%3DDesktop</a></li>
+</ul>
+</li>
+<li>Create a new <a href="https://protonmail.com/">Protonmail</a> account. <ul>
+<li>Protonmail doesn&#39;t ask for any personally identifiable information when setting up a new account</li>
+<li>For recovery options, ensure that you don&#39;t use an email that can dox or your phone number</li>
+</ul>
+</li>
+<li>Create a corresponding <a href="https://protonvpn.com">ProtonVPN</a> account<ul>
+<li>Use this VPN whenever you are in <em>anon</em> mode</li>
+</ul>
+</li>
+<li>Create a <a href="https://github.com/">GitHub</a> account with your new email<ul>
+<li>Generate new SSH keys and add them to this GitHub account</li>
+</ul>
+</li>
+<li>Create a new <a href="https://twitter.com">Twitter</a> account with your new identity</li>
+<li>Create a new <a href="https://www.reddit.com/">Reddit</a> account with your new identity<ul>
+<li>Use a request subreddit of your choice to get a new unique pfp for your new anon account</li>
+</ul>
+</li>
+<li>Create a <a href="https://cryptpad.fr/">cryptpad.fr</a> and a hackmd account for all your note taking, and encrypted storage needs</li>
+<li>Go on <a href="https://www.privacytools.io/">privacytools.io</a> for other tools that you can use to keep yourself private</li>
+<li>(Optional) Install ublock origin, privacy badger and https everywhere in your new browser profile</li>
+<li>Extra reading and considerations: <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view">0xngmi&#39;s guide for staying anon</a></li>
+</ol>
 
-<sub>Credits: https://github.com/Mikerah/anon-guide</sub>
+<sub>Credits: https://github.com/Mikerah/anon-guide</sub></br>
 
 </details>
-
 
 <details>
 <summary><b>How to erase GitHub history</b></summary>
 
 
-<sub>Credits: https://github.com/fedebotu/clone-anonymous-github</sub>
 
+<sub>Credits: https://github.com/fedebotu/clone-anonymous-github</sub></br>
 </details>
+
 
 
 <details>
@@ -196,8 +210,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 
 
-<sub>Credits: https://github.com/AnalogJ/gitmask</sub>
-
+<sub>Credits: https://github.com/AnalogJ/gitmask</sub></br>
 </details>
 
 
@@ -205,11 +218,10 @@ This is a short guide to help you start developing an anonymous developer accoun
 <summary><b>Proxy server to support anonymous browsing</b></summary>
 
 
-<sub>Credits: https://durieux.me/projects/anonymous-github.html</sub>
-<sub>Credits: https://github.com/tdurieux/anonymous_github</sub>
 
+<sub>Credits: https://durieux.me/projects/anonymous-github.html</sub></br>
+<sub>Credits: https://github.com/tdurieux/anonymous_github</sub></br>
 </details>
-
 
 
 <!-- ################################################################################# -->
@@ -279,13 +291,14 @@ https://www.whonix.org/wiki/Comparison_with_Others</br>
 <p><b>TOR, VPN and Proxy</b></p></br>
 https://www.rapidseedbox.com/blog/vpn-vs-proxy</br>
 
+
 <!-- ################################################################################# -->
 
 
 <h3>• Random MAC Address</h3>
 
 <pre>
-&nbsp; Commands
+&nbsp; 
 &nbsp; &nbsp; $ ip link
 &nbsp; &nbsp; $ sudo ifconfig wlan0 down
 &nbsp; &nbsp; $ sudo macchanger -r wlan0
@@ -307,7 +320,6 @@ Go to https://location.services.mozilla.com/optout</br>
 • Matrix Protocol - https://matrix.org</br>
 • Signal - https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Discord Bot</br>
-• Mastadon</br>
 • https://github.com/onionshare/onionshare</br>
 
 <h3>Email</h3>
@@ -371,8 +383,8 @@ Go to https://location.services.mozilla.com/optout</br>
 
 <b>Image Generation</b></br>
 • This Person Does Not Exist - https://thispersondoesnotexist.com</br>
-• This Cat Does Not Exist - https://thiscatdoesnotexist.com</br>
 • This Waifu Does Not Exist - https://www.thiswaifudoesnotexist.net/?ref=appinn</br>
+• These Cats Do Not Exist - http://thesecatsdonotexist.com/</br>
 • Gallery of AI Generated Faces | Generated.photos - https://generated.photos/faces</br>
 • Pixel-me - https://pixel-me.tokyo/en</br>
 • Artbreeder - https://artbreeder.com/browse</br>
@@ -393,14 +405,6 @@ https://github.com/awesome-selfhosted/awesome-selfhosted</br>
 https://github.com/syncthing/syncthing</br>
 https://github.com/anonaddy/anonaddy</br>
 
-<b>Auditing logs, network, volatile memory</b></br>
-https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items</br>
-
-<b>EXIF Tools</b></br>
-• exiftool - https://exiftool.org</br>
-• exifcleaner - https://github.com/szTheory/exifcleaner/releases/latest</br>
-• Exif Pilot - https://www.colorpilot.com/exif.html</br>
-
 <b>Piracy</b></br>
 https://torrentfreak.com</br>
 https://github.com/Igglybuff/awesome-piracy</br>
@@ -414,13 +418,20 @@ https://rentry.co/megathread</br>
 https://1337x.to</br>
 https://fitgirl-repacks.site</br>
 
+<b>Auditing logs, network, volatile memory</b></br>
+https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items</br>
 
+<b>EXIF Tools</b></br>
+• exiftool - https://exiftool.org</br>
+• exifcleaner - https://github.com/szTheory/exifcleaner/releases/latest</br>
+• Exif Pilot - https://www.colorpilot.com/exif.html</br>
 
 <b>Others</b></br> 
 • Deceptive Patterns</br> 
 https://www.deceptive.design</br> 
 • Not everything is secret in encrypted apps like iMessage and WhatsApp</br> 
 https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google</br>
+
 </details>
 
 </div>
@@ -448,7 +459,7 @@ https://arxiv.org/pdf/1803.04683.pdf</br>
 https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared</br> 
 • Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models</br> 
 https://arxiv.org/abs/2111.10759</br> 
-https://www.youtube.com/watch?v=_TXkDO5z11w
+https://www.youtube.com/watch?v=_TXkDO5z11w</br>
 • A Poisoning Attack Against Unsupervised Template Updating"</br>
 https://github.com/ssloxford/biometric-backdoors</br>
 
@@ -457,10 +468,10 @@ https://github.com/ssloxford/biometric-backdoors</br>
 https://www.youtube.com/watch?v=hJ35ApLKpN4</br>
 
 <b>Others</b></br>
-• Surveillance Report
-https://surveillancereport.tech
-• IntelTechniques
-https://inteltechniques.com/links.html
+• Surveillance Report</br>
+https://surveillancereport.tech</br>
+• IntelTechniques</br>
+https://inteltechniques.com/links.html</br>
 
 <h3>DOCUMENTS ANTI-SURVEILLANCE</h3>
 
@@ -528,12 +539,13 @@ https://us.artechhouse.com/storehome.aspx</br>
 • </br>
 
 <b>Academic Considerations</b></br>
-• Antonio Gramsci (1891–1937) - Passive revolution concept</br>
+• Antonio Gramsci (1891–1937)</br>
 • Gaston Bachelard (1884 - 1962)</br>
 • Karl Popper (1902 - 1994)</br>
 • Nicos Poulantzas (1936 - 1979)</br>
 • Michel Foucault (1926 - 1984)</br>
 • Louis Althusser (1918 - 1990)</br>
+• Giorgio Agamben (1942)</br>
 
 
 </details>
