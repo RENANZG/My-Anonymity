@@ -60,7 +60,6 @@ ls -1 /dev/sd?
 
 It returns a list of the storage devices on the system. For example:
 
-
 Plug in the USB stick on which you want to install Tails.
 
 All the data on this USB stick will be lost.
@@ -70,7 +69,6 @@ Execute again the same command:
 ls -1 /dev/sd?
 
 Your USB stick appears as a new device in the list.
-
 
 Take note of the device name of your USB stick.
 

@@ -10,7 +10,7 @@ is their own bad opsec, and that is precisely the same as it was in 2013. Tails 
 reduced the number of ways anyone on my team could make dangerous mistakes, and so were
 crucial protections." (Edward Snowden)</pre>
 
-![The+Son+of+Man](https://github.com/RENANZG/My-Anonymity/assets/53377291/e92d8ffe-0541-41ee-84c4-5fb8e0802a2a)
+![banner](.data/son_of_man_1964_-_magritte_830px.png)
 
 <hr>
 
@@ -117,7 +117,7 @@ crucial protections." (Edward Snowden)</pre>
 <!-- ################################################################################# -->
 
 
-![Alt text](_DATA/PA1.png)</br>
+![Alt text](.data/PA1.png)</br>
 
 <hr>
 
@@ -125,7 +125,7 @@ crucial protections." (Edward Snowden)</pre>
 
 <h3>Flag Theory - <a href="https://flagtheory.com">https://flagtheory.com</a></h3>
 
-![Alt text](_DATA/SF.jpg)</br>
+![Alt text](.data/SF.jpg)</br>
 
 
 <hr>
@@ -134,7 +134,7 @@ crucial protections." (Edward Snowden)</pre>
 
 <h3>EFF’s “Street-Level Surveillance” - <a href="https://www.eff.org/sls">https://www.eff.org/sls</a></h3>
 
-![Alt text](_DATA/EFF.png)</br>
+![Alt text](.data/EFF.png)</br>
 
 
 </br>
@@ -148,7 +148,7 @@ crucial protections." (Edward Snowden)</pre>
 
 <div class="block3">
 
-![Alt text](_DATA/ON.svg)
+![Alt text](.data/ON.svg)
 
 <details>
 <summary>ONLINE ANONYMITY​​​​​</summary>
@@ -203,8 +203,6 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/fedebotu/clone-anonymous-github</sub></br>
 </details>
 
-
-
 <details>
 <summary><b>Contribute Code Anonymously</b></summary>
 
@@ -212,7 +210,6 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <sub>Credits: https://github.com/AnalogJ/gitmask</sub></br>
 </details>
-
 
 <details>
 <summary><b>Proxy server to support anonymous browsing</b></summary>
@@ -223,22 +220,23 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/tdurieux/anonymous_github</sub></br>
 </details>
 
-
 <!-- ################################################################################# -->
 
 <h3>SECURE OPERATING SYSTEMS</h3>
 
 <h3>Tails</h3>
 
-<a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
-</a></br>
 <a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
 </a></br>
 <a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
 </a></br>
+<a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
+</a></br>
+
+<p>Tor Wiki - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/OperationalSecurity</p>
 
 <h4>Protocol Leak and Fingerprinting Protection</h4></br> 
 https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers</br>
@@ -265,6 +263,18 @@ https://www.whonix.org/wiki/Comparison_with_Others</br>
 • Yggdrasil - https://yggdrasil-network.github.io/about.html - Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.</br>
 • Nym - </br>
 
+<h3>VPN Guides and Tutorials</h3>
+• r/vpnrecommendations - https://www.reddit.com/r/vpnrecommendations</br>
+• r/VPN - https://www.reddit.com/r/VPN/wiki/index</br>
+• r/VPNTorrents - https://www.reddit.com/r/VPNTorrents</br>
+• Choosing the best VPN (for you) - https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2</br>
+• Choosing the VPN that's right for you - https://ssd.eff.org/en/module/choosing-vpn-thats-right-you</br>
+• VPN Alert - https://vpnalert.com</br>
+https://github.com/alancnet/torrent-vpn</br> 
+• That One Privacy Site - https://thatoneprivacysite.net/vpn-section</br>
+• privacytools.io - https://www.privacytools.io</br>
+• VPN over SSH - https://wiki.archlinux.org/index.php/VPN_over_SSH</br>
+
 <h3>Anonymous VPN</h3>
 • Mullvad - https://mullvad.net</br>
 • Mullvad - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion</br>
@@ -274,23 +284,12 @@ https://www.whonix.org/wiki/Comparison_with_Others</br>
 • VPN.XXX - https://www.vpn.xxx</br>
 • Windscribe - https://windscribe.com</br>
 • ExpressVPN - https://www.expressvpn.com/vpnmentor1</br>
-• NordVPN - https://nordvpn.com</br>
 • Private Internet Access - https://www.privateinternetaccess.com</br>
-
-<h3>VPN Guides and Tutorials</h3>
-• r/vpnrecommendations - https://www.reddit.com/r/vpnrecommendations</br>
-• r/VPN - https://www.reddit.com/r/VPN/wiki/index</br>
-• r/VPNTorrents - https://www.reddit.com/r/VPNTorrents</br>
-• Choosing the best VPN (for you) - https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2</br>
-• Choosing the VPN that's right for you - https://ssd.eff.org/en/module/choosing-vpn-thats-right-you</br>
-• VPN Alert - https://vpnalert.com</br>
-• That One Privacy Site - https://thatoneprivacysite.net/vpn-section</br>
-• privacytools.io - https://www.privacytools.io</br>
-• VPN over SSH - https://wiki.archlinux.org/index.php/VPN_over_SSH</br>
+• NordVPN - https://nordvpn.com</br>
  
-<p><b>TOR, VPN and Proxy</b></p></br>
-https://www.rapidseedbox.com/blog/vpn-vs-proxy</br>
-
+<h3>Others</h3>
+• TorPlusVPN - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN
+• Proxy - https://www.rapidseedbox.com/blog/vpn-vs-proxy</br>
 
 <!-- ################################################################################# -->
 
@@ -326,9 +325,8 @@ Go to https://location.services.mozilla.com/optout</br>
 
 <b>Privacy</b></br>
 • Protonmail -</br>
-• https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures</br>
 
-<b>Self-hosted</b></br>
+<b>Self-hosted Email</b></br>
 • Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/</br>
 • Burnermail.io - https://burnermail.io/</br>
 • Anonaddy.com - https://anonaddy.com/#pricing</br>
@@ -338,8 +336,8 @@ Go to https://location.services.mozilla.com/optout</br>
 
 <b>Temp Email</b></br>
 • 10MinuteMail - https://10minutemail.com</br>
+• Guerrilla Mail - https://www.guerrillamail.com</a>
 • http://www.yopmail.com/zh</br>
-• https://www.guerrillamail.com/zh/inbox</br>
 • http://www.fakemailgenerator.com</br>
 • https://temp-mail.org/en</br>
 • https://www.guerrillamail.com</br>
@@ -350,12 +348,12 @@ Go to https://location.services.mozilla.com/optout</br>
 • https://www.snapmail.cc</br>
 • https://www.linshi-email.com</br>
 
-<h3>Generators</h3>
-
-<b>Utilities and Spoof</b></br>
+<h3>Utilities and Spoof</h3>
 • Text Fixer - https://www.textfixer.com</br>
 • SS64 Syntax Utils - https://ss64.com</br> 
 • Tools4noobs - https://www.tools4noobs.com</br>
+
+<h3>Generators</h3>
 
 <b>Name, Address, IDs Generators</b></br>
 • Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
@@ -394,29 +392,29 @@ Go to https://location.services.mozilla.com/optout</br>
 • Selfie2Anime - https://selfie2anime.com</br>
 • Reflect.tech - https://reflect.tech/faceswap/hot</br>
 • PaddleGAN - https://github.com/PaddlePaddle/PaddleGAN</br>
+• Random Pic - https://picsum.photos</br>
 
 <!-- ################################################################################# -->
 
 <h3>OTHER CONSIDERATIONS</h3>
+
+<b>Piracy</b></br>
+https://github.com/Igglybuff/awesome-piracy</br>
+https://github.com/lkrjangid1/Awesome-Warez</br>
+https://github.com/Illegal-Services/Illegal_Services</br>
+https://github.com/Lucetia/piracy</br>
+https://github.com/the-rarbg/yaps</br>
+https://torrentfreak.com</br>
+https://lemmy.dbzer0.com/c/piracy</br>
+https://rentry.co/megathread</br>
+https://1337x.to</br>
+https://fitgirl-repacks.site</br>
 
 <b>Self-hosting</b></br>
 https://www.reddit.com/r/selfhosted</br>
 https://github.com/awesome-selfhosted/awesome-selfhosted</br> 
 https://github.com/syncthing/syncthing</br>
 https://github.com/anonaddy/anonaddy</br>
-
-<b>Piracy</b></br>
-https://torrentfreak.com</br>
-https://github.com/Igglybuff/awesome-piracy</br>
-https://github.com/alancnet/torrent-vpn</br> 
-https://github.com/lkrjangid1/Awesome-Warez</br>
-https://github.com/Igglybuff/awesome-piracy</br>
-https://github.com/Illegal-Services/Illegal_Services</br>
-https://github.com/Lucetia/piracy</br>
-https://lemmy.dbzer0.com/c/piracy</br>
-https://rentry.co/megathread</br>
-https://1337x.to</br>
-https://fitgirl-repacks.site</br>
 
 <b>Auditing logs, network, volatile memory</b></br>
 https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items</br>
@@ -443,7 +441,7 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 
 <div class="block4">
 
-![Alt text](_DATA/OFF.svg)
+![Alt text](.data/OFF.svg)
 
 <details>
 <summary>OFFLINE ANONYMITY​​​​​</summary>
@@ -559,7 +557,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 
 <div class="block5">
 
-![Alt text](_DATA/PV.svg)
+![Alt text](.data/PV.svg)
 
 <details>
 <summary>PRIVACY​​​​ ALTERNATIVES​</summary>
