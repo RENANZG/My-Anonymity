@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang='en' class=''>
+
+<head>
+
+  <meta charset='UTF-8'>
+
 <body>
+
 <h1>🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵</h1>
 
 <!-- TAKE OUT SON OF BITCH ;D -->
 
-<pre>"The primary threat facing someone trying to stay anonymous on the internet today
-is their own bad opsec, and that is precisely the same as it was in 2013. Tails and Tor 
-reduced the number of ways anyone on my team could make dangerous mistakes, and so were
-crucial protections." (Edward Snowden)</pre>
+<blockquote><h3>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec, and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</h3></blockquote>
 
 ![banner](.data/son_of_man_1964_-_magritte_830px.png)
 
@@ -21,59 +24,82 @@ crucial protections." (Edward Snowden)</pre>
 <div class="block1">
   
 <h3>BEST REFERENCES</h3>
-<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
+
+<table valign="top" style="width:100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
 <tr>
-<td valign="top" style="height:100%">
+<td valign="top" style="height:25%">
 <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">Whonix - Tips on Remaining Anonymous</a></br>
+<a href="https://www.whonix.org/wiki/Essential_Host_Security" target="_blank"><b>Whonix</b> - Essential Host Security</a></br>
+<a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp(PDF)</a></br>
+<a href="https://www.whonix.org/wiki/System_Hardening_Checklist" target="_blank"><b>Whonix</b> - System Hardening Checklist</a></br>
 <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a></br>
 <a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer">EFF Fundation</a></br>
-<a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF - Security Companion</a></br>
-<a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a></br>
-<a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">Awesome Anti-forensic</a></br>
-<a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">Anti-forensic Techniques</a></br>
-<a href="https://github.com/PaulNorman01/Forensia" target="_blank" rel="noopener noreferrer">Forensia</a></br>
-<a href="https://evasions.checkpoint.com" target="_blank" rel="noopener noreferrer">Evasion Techniques</a></br>
-<a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
-<a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a></br>
-<a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a></br>
-</td>
-
-<td valign="top" style="height:100%">
-<a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
-<a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a></br>	
-<a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a></br>	
-<a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a></br>	
-<a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">Awesome Self-hosted</a></br>	
-<a href="https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io" target="_blank" rel="noopener noreferrer">Cryptoanarchy Wiki</a></br>	
-<a href="https://github.com/tombusby/cypherpunk-research" target="_blank" rel="noopener noreferrer">Cypherpunk Research</a></br>	
+<a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF Security Companion</a></br>
 <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a></br>	
 <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a></br>
 <a href="https://nomoregoogle.com/" target="_blank" rel="noopener noreferrer">No More Google</a></br>
 </td>
 
-<td valign="top" style="height:100%">
+<td valign="top" style="height:25%">
+<a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
+<a href="https://github.com/undergroundwires/privacy.sexy" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
+<a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a></br>
+<a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a></br>
+<a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a></br>
+<a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">Anti-forensic Techniques</a></br>
+<a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">Awesome Anti-forensic</a></br>
+<a href="https://github.com/PaulNorman01/Forensia" target="_blank" rel="noopener noreferrer">Forensia</a></br>
+<a href="https://github.com/CheckPointSW/Evasions" target="_blank" rel="noopener noreferrer">Evasion Techniques</a></br>
+<a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a></br>	
+<a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">Awesome Self-hosted</a></br>	
+<a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a></br>	
+<a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a></br>	
+<a href="https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io" target="_blank" rel="noopener noreferrer">Cryptoanarchy Wiki</a></br>	
+<a href="https://github.com/tombusby/cypherpunk-research" target="_blank" rel="noopener noreferrer">Cypherpunk Research</a></br>	
+</td>
+
+<td valign="top" style="height:25%">
+<a href="https://haveibeenpwned.com" target="_blank" rel="noopener noreferrer">Have I Been Pwned ?</a></br>
 <a href="https://joindeleteme.com" target="_blank" rel="noopener noreferrer">Join Delete Me</a></br>
 <a href="https://www.accountkiller.com" target="_blank" rel="noopener noreferrer">Account Killer</a></br>
-<a href="https://spreadprivacy.com" target="_blank" rel="noopener noreferrer">Spread Privacy</a></br>
 <a href="https://prism-break.org" target="_blank" rel="noopener noreferrer">Prism-Break</a></br>
+<a href="https://spreadprivacy.com" target="_blank" rel="noopener noreferrer">Spread Privacy</a></br>
 <a href="https://www.privacyguides.org  " target="_blank" rel="noopener noreferrer">Privacy Guides</a></br>
 <a href="https://privacytools.io" target="_blank" rel="noopener noreferrer">Privacy Tools</a></br>
 <a href="https://proprivacy.com" target="_blank" rel="noopener noreferrer">Pro Privacy</a></br>
-<a href="https://haveibeenpwned.com" target="_blank" rel="noopener noreferrer">Have I Been Pwned ?</a></br>
 <a href="https://www.whois.com" target="_blank" rel="noopener noreferrer">Whois</a></br>
 <a href="https://gdpr-info.eu/issues/right-to-be-forgotten" target="_blank" rel="noopener noreferrer">GDPR - Right to be forgotten</a></br>
 </td>
 
+<td valign="top" style="height:25%">
+<a href="https://www.reddit.com/r/opsec/" target="_blank" rel="noopener noreferrer">r/opsec</a></br>
+<a href="https://www.reddit.com/r/redteamsec" target="_blank" rel="noopener noreferrer">r/redteamsec</a></br> 
+<a href="https://www.reddit.com/r/netsec" target="_blank" rel="noopener noreferrer">r/netsec</a></br> 
+<a href="https://www.reddit.com/r/privacy" target="_blank" rel="noopener noreferrer">r/privacy</a></br>
+<a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
+<a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br> 
+<a href="https://www.reddit.com/r/computerforensics" target="_blank" rel="noopener noreferrer">r/computerforensics</a></br> 
+<a href="https://www.reddit.com/r/Smartphoneforensics" target="_blank" rel="noopener noreferrer">r/Smartphoneforensics</a></br> 
+<a href="https://www.reddit.com/r/antiforensics" target="_blank" rel="noopener noreferrer">r/antiforensics</a></br> 
+<a href="https://www.reddit.com/r/crypto" target="_blank" rel="noopener noreferrer">r/crypto</a></br> 
+<a href="https://www.reddit.com/r/Piracy" target="_blank" rel="noopener noreferrer">r/Piracy</a></br> 
+<a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br> 
+<a href="https://www.reddit.com/r/oopsec/" target="_blank" rel="noopener noreferrer">r/oopsec</a></br>
+<a href="https://www.reddit.com/r/privacymemes" target="_blank" rel="noopener noreferrer">r/privacymemes</a></br>
+</td>
 </tr>
 </thead>
 </table>
+
 </div>
 
 </br>
 <hr>
 
 <!-- ################################################################################# -->
+
+<h3>Privacy vs. Anonymity</h3>
 
 <div class="block2">
 
@@ -115,7 +141,6 @@ crucial protections." (Edward Snowden)</pre>
 <hr>
 
 <!-- ################################################################################# -->
-
 
 ![Alt text](.data/PA1.png)</br>
 
@@ -192,7 +217,6 @@ This is a short guide to help you start developing an anonymous developer accoun
 </ol>
 
 <sub>Credits: https://github.com/Mikerah/anon-guide</sub></br>
-
 </details>
 
 <details>
@@ -293,37 +317,18 @@ https://github.com/alancnet/torrent-vpn</br>
 
 <!-- ################################################################################# -->
 
-
-<h3>• Random MAC Address</h3>
-
-<pre>
-&nbsp; 
-&nbsp; &nbsp; $ ip link
-&nbsp; &nbsp; $ sudo ifconfig wlan0 down
-&nbsp; &nbsp; $ sudo macchanger -r wlan0
-&nbsp; &nbsp; • Shows specified MAC Address of NIC
-&nbsp; &nbsp; $ sudo macchanger -s wlan0
-&nbsp; &nbsp; $ sudo ifconfig wlan0 up
-</pre>
-
-<h3>• Opt-Out WLAN-SSID</h3>
-
-To opt-out of <b>global maps</b> (https://wigle.net), rename your network WiFi SSID to
-<pre> &lt;SSID&gt;_optout_nomap </pre>
-
-<h3>• To opt-out of Mozilla Location Services</h3>
-
-Go to https://location.services.mozilla.com/optout</br>
-
 <h3>Anonymous Communication</h3>
 • Matrix Protocol - https://matrix.org</br>
 • Signal - https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Discord Bot</br>
-• https://github.com/onionshare/onionshare</br>
+
+<h3>Anonymous File Transfer</h3>
+• Onion Share - https://github.com/onionshare/onionshare</br>
 
 <h3>Email</h3>
 
 <b>Privacy</b></br>
+• Burner Email - https://github.com/wesbos/burner-email-providers</br>
 • Protonmail -</br>
 
 <b>Self-hosted Email</b></br>
@@ -424,11 +429,30 @@ https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/lo
 • exifcleaner - https://github.com/szTheory/exifcleaner/releases/latest</br>
 • Exif Pilot - https://www.colorpilot.com/exif.html</br>
 
-<b>Others</b></br> 
 • Deceptive Patterns</br> 
 https://www.deceptive.design</br> 
-• Not everything is secret in encrypted apps like iMessage and WhatsApp</br> 
-https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsapp-google</br>
+
+
+<h4>• Random MAC Address</h4>
+
+<pre>
+&nbsp; 
+&nbsp; &nbsp; $ ip link
+&nbsp; &nbsp; $ sudo ifconfig wlan0 down
+&nbsp; &nbsp; $ sudo macchanger -r wlan0
+&nbsp; &nbsp; • Shows specified MAC Address of NIC
+&nbsp; &nbsp; $ sudo macchanger -s wlan0
+&nbsp; &nbsp; $ sudo ifconfig wlan0 up
+</pre>
+
+<h4>• Opt-Out WLAN-SSID</h4>
+
+To opt-out of <b>global maps</b> (https://wigle.net), rename your network WiFi SSID to
+<pre> &lt;SSID&gt;_optout_nomap </pre>
+
+<h3>• To opt-out of Mozilla Location Services</h3>
+
+Go to https://location.services.mozilla.com/optout</br>
 
 </details>
 
@@ -447,96 +471,137 @@ https://www.washingtonpost.com/technology/2023/08/22/encryption-imessage-whatsap
 <summary>OFFLINE ANONYMITY​​​​​</summary>
 </br>
 
-<h3>BIOMETRICS ANTI-SURVEILLANCE</h3>
-<b>Facial recognition</b></br>
+<h2>BIOMETRICS ANTI-SURVEILLANCE</h2>
+
+<h3>FACIAL RECOGNITION</h3>
+
 • Fawkes: Protecting Privacy against Unauthorized Deep Learning Models</br>
 https://www.usenix.org/conference/usenixsecurity20/presentation/shan</br>
 https://github.com/Shawn-Shan/fawkes</br>
+
 • Invisible Mask: Practical Attacks on Face Recognition with Infrared</br> 
 https://arxiv.org/pdf/1803.04683.pdf</br> 
 https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared</br> 
+
 • Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models</br> 
 https://arxiv.org/abs/2111.10759</br> 
 https://www.youtube.com/watch?v=_TXkDO5z11w</br>
+
 • A Poisoning Attack Against Unsupervised Template Updating"</br>
 https://github.com/ssloxford/biometric-backdoors</br>
 
-<b>Fingerprint recognition</b></br>
+<h3>FINGERPRINT RECOGNITION</h3>
 • DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing</br> 
 https://www.youtube.com/watch?v=hJ35ApLKpN4</br>
 
-<b>Others</b></br>
-• Surveillance Report</br>
-https://surveillancereport.tech</br>
-• IntelTechniques</br>
-https://inteltechniques.com/links.html</br>
+<h3>ADVERSARIAL MACHINE LEARNING</h3>
+https://github.com/yenchenlin/awesome-adversarial-machine-learning</br>
 
-<h3>DOCUMENTS ANTI-SURVEILLANCE</h3>
 
-<b>Fake Documents</b></br> 
-• Fake IDs - Onion Services</br>
+<h3>DOCUMENTS</h3>
 
-<b>Bussines Inteligence</b></br>
+<h4>Registre Exp</h4>
+• With less utility, you can easily use RegExp patterns.</br>
+
+<h4>Fake IDs</h4>
+• At onion hidden services (this is probably scam, check the seller's reputation).</br>
+• Consult your friends, criminal lawyers probably know where to find things.</br>
+• Depending on the country or state of the federation you are in, there are documents that are easier to find.</br>
+
+<h4>Bussines Inteligence</h4>
 • Financial Intelligence Units (FIUs)</br>
 Automated triage of financial intelligence reports - Algorithms</br>
 • Artificial Intelligence, Machine Learning and Big Data in Finance</br>
 https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-learning-big-data-in-finance.pdf</br>
 
-<b>Adversarial Machine Learning</b></br>
-https://github.com/yenchenlin/awesome-adversarial-machine-learning</br>
- 
-<h2>PHYSICAL ANTI-SURVEILLANCE</h2></br>
+<h3>OTHERS</h3>
+• Surveillance Report</br>
+https://surveillancereport.tech</br>
+• IntelTechniques</br>
+https://inteltechniques.com/links.html</br>
 
-<b>Hidden Objects</b></br>
+</br>
+<hr>
+
+<!-- ################################################################################# -->
+
+<h2>PHYSICAL ANTI-SURVEILLANCE</h2>
+
+https://paladinpressbooks.com</br> 
+https://us.artechhouse.com/storehome.aspx</br> 
+
+<!-- ################################################################################# -->
+
+<h3>HIDDEN OBJECTS</h3>
+• Hire an object storage service anonymously ("box self storage")</br>
+• https://www.boredpanda.com/how-to-hide-things-secret-hiding-places</br>
 • How to Hide Things in Public Places - Dennis Fiery</br>
 • DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant</br>
 • The Big Book of Secret Hiding Places - Jack Luger</br>
-• https://www.boredpanda.com/how-to-hide-things-secret-hiding-places</br>
 
-<b>Ways law enforcement investigate</b></br>
-https://www.youtube.com/watch?v=zJZhPF8CuaM</br>
+<!-- ################################################################################# -->
+
+<h3>INVESTIGATION BY LAW ENFORCEMENT AGENCIES</h3>
+
+<h4>Ways law enforcement investigate</h4>
+• Ten Ways Law Enforcement Investigate Drug Cases - https://www.youtube.com/watch?v=zJZhPF8CuaM</br>
 • Trash Pull</br>
 • Malwares</br>
 • Search Warrant</br>
-• Photographs enhancement techniques</br> 
-• Video enhancement techniques 
+• Photographs enhancement techniques</br>
+• Video enhancement techniques</br>
 • Audio enhancement techniques</br>
 • Fingerprints</br>
 • DNA testing</br>
 • Blood tests</br>
 • Ballistics</br>
 
+<h4>Interrogations and torture</h4>
+• Interrogation techniques</br>
+• Guantanamo</br>
+• SS Training</br>
+
+<!-- ################################################################################# -->
+
 <h3>GENERAL ANTI-SURVEILLANCE</h3>
 
-https://paladinpressbooks.com</br> 
-https://us.artechhouse.com/storehome.aspx</br> 
+<h4>Learning techniques and skills from de best</h4>
 
-<b>The Case of Spies: American, Russian and British.</b></br>
-• Techniques used by spies</br>
-- Dead drop</br>
-- </br> 
-<b>The Case of authoritarian governments</b></br>
-• Techniques used by authoritarian governments</br>
-- Secret methods of investigation (Pegasus Spyware)</br>
-- </br>
-<b>Anarchist Considerations</b></br>
-• Techniques used by anarchists</br>
+<h5>Governments & Politicians</h5>
+- Moral scandals</br>
+- Propaganda (films, docs etc)</br>
+- Negotiation and association</br>
+- Money Laundry</br>
+- Whistleblowers</br>
+
+<h5>Spies</h5>
+- Books about american, british and russian spies</br>
+- Dead drop technique</br>
+- https://spyscape.com</br> 
+
+<h5>Anarchists & Resistance Groups</h5>
 - bib</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
 
-<b>Information Warfare</b></br>
+<h5>Mobsters & Droug Traffikers</h5>
+- Unmasking the informant inside the cartel | Four Corners - https://www.youtube.com/watch?v=Kse32_VpTOE
+
+<h4>Political Dimension</h4>
+
+<h5>Law Warfare</h5>
 • </br>
 
-<b>Law Warfare</b></br>
+<h5>Information Warfare</h5>
+• Fake news</br>
 • </br>
 
-<b>New rhetoric</b></br>
+<h5>New rhetoric</h5>
 • </br>
 
-<b>Counter-coulture, subversion, mimicry and criminality</b></br>
+<h5>Counter-culture, subversion, mimicry and criminality</h5>
 • </br>
 
-<b>Academic Considerations</b></br>
+<h5>Academic Considerations</h5>
 • Antonio Gramsci (1891–1937)</br>
 • Gaston Bachelard (1884 - 1962)</br>
 • Karl Popper (1902 - 1994)</br>
@@ -544,7 +609,6 @@ https://us.artechhouse.com/storehome.aspx</br>
 • Michel Foucault (1926 - 1984)</br>
 • Louis Althusser (1918 - 1990)</br>
 • Giorgio Agamben (1942)</br>
-
 
 </details>
 
@@ -564,34 +628,34 @@ https://us.artechhouse.com/storehome.aspx</br>
 
 </br>
 
-- [Nitter instances](https://github.com/zedeus/nitter/wiki/Instances)</br>
-- [Invidious instances](https://docs.invidious.io/Invidious-Instances.md)</br>
-- [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)</br>
-- [SimplyTranslate instances](https://git.sr.ht/~metalune/simplytranslate_web#list-of-instances)</br>
-- [OpenStreetMap tile servers](https://wiki.openstreetmap.org/wiki/Tile_servers)</br>
+- General</br>
+[Nitter instances](https://github.com/zedeus/nitter/wiki/Instances)</br>
+[Invidious instances](https://docs.invidious.io/Invidious-Instances.md)</br>
+[Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)</br>
+[SimplyTranslate instances](https://git.sr.ht/~metalune/simplytranslate_web#list-of-instances)</br>
+[OpenStreetMap tile servers](https://wiki.openstreetmap.org/wiki/Tile_servers)</br>
 - Reddit alternatives:</br>
-  - [Libreddit](https://github.com/spikecodes/libreddit#instances)</br>
-  - [Teddit](https://codeberg.org/teddit/teddit#instances)</br>
-  - [Snew](https://github.com/snew/snew)</br>
-  - [Old Reddit](https://old.reddit.com) & [Mobile Reddit](https://i.reddit.com), purported to be more privacy respecting than the new UI.</br>
+[Libreddit](https://github.com/spikecodes/libreddit#instances)</br>
+[Teddit](https://codeberg.org/teddit/teddit#instances)</br>
+[Snew](https://github.com/snew/snew)</br>
+[Old Reddit](https://old.reddit.com) & [Mobile Reddit](https://i.reddit.com), purported to be more privacy respecting than the new UI.</br>
 - Google Search alternatives:</br>
-  - [SearX](https://searx.github.io/searx/)</br>
-  - [DuckDuckGo](https://duckduckgo.com)</br>
-  - [Startpage](https://startpage.com)</br>
-  - [Ecosia](https://www.ecosia.org)</br>
-  - [Qwant](https://www.qwant.com)</br>
-  - [Mojeek](https://www.mojeek.com)</br>
-  - [Presearch](https://www.presearch.org)</br>
-  - [Whoogle](https://benbusby.com/projects/whoogle-search/)</br>
-
+[DuckDuckGo](https://duckduckgo.com)</br>
+[SearX](https://searx.github.io/searx/)</br>
+[Startpage](https://startpage.com)</br>
+[Ecosia](https://www.ecosia.org)</br>
+[Qwant](https://www.qwant.com)</br>
+[Mojeek](https://www.mojeek.com)</br>
+[Presearch](https://www.presearch.org)</br>
+[Whoogle](https://benbusby.com/projects/whoogle-search/)</br>
 </details>
 
 </div>
 
-<!-- ################################################################################# -->
-
 </br>
 <hr>
+
+<!-- ################################################################################# -->
 
 <div class="block6">
 
@@ -599,9 +663,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 <p><b>Others</b></p>
 <p>UNO IGF - https://www.intgovforum.org</p>
 <p>USENIX Conferences - https://www.usenix.org/conferences</p>
-<p>https://www.reddit.com/r/privacy</p>
-<p>https://www.reddit.com/r/privacymemes</p>
-<p>https://www.reddit.com/r/tails</p>
+<p>https://telegra.ph</p>
 
 <p><b>YouTube - Privacy</b></p>
 <p>Hack In The Box Security Conference - https://www.youtube.com/@hitbsecconf</p>
