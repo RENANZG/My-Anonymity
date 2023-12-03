@@ -184,10 +184,15 @@
 <summary>ONLINE ANONYMITY​​​​​</summary>
 </br>
 
-<h3>Anonymous Developer</h3>
+<h3>ANONYMOUS DEVELOPER</h3>
 
 <details>
 <summary><b>How to create an anonymous GitHub</b></summary>
+
+
+Protonmail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
+
+!Outdated!
 
 This is a short guide to help you start developing an anonymous developer account.
 
@@ -259,7 +264,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
-</a></br>
+</a>
 <a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
 </a></br>
