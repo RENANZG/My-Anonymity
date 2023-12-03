@@ -19,7 +19,7 @@
 
 <div class="container">
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <div class="block1">
   
@@ -97,7 +97,7 @@
 </br>
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>Privacy vs. Anonymity</h3>
 
@@ -132,7 +132,7 @@
   <tr>
     <td>ANONYMOUS</td>
     <td>Wikileaks annouces<br>anonymous cryptocyrrency<br>donation</td>
-    <td>Centralized marlketplace<br>sale with annonymous <br>cryptocurrency</td>
+    <td>Centralized marlketplace<br>sale with annonymous <br>cryptocurrency (Monero)</td>
     <td>Descentralized marketplace<br>sale with anonnymous<br>cryptocurrency (Monero)</td>
   </tr>
 </tbody>
@@ -140,18 +140,18 @@
 
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 ![Alt text](.data/PA1.png)</br>
 
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 ![Alt text](.data/TA.jpg)</br>
 
 <hr>
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>Flag Theory - <a href="https://flagtheory.com">https://flagtheory.com</a></h3>
 
@@ -160,7 +160,7 @@
 
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>EFF’s “Street-Level Surveillance” - <a href="https://www.eff.org/sls">https://www.eff.org/sls</a></h3>
 
@@ -174,7 +174,7 @@
 
 </div>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <div class="block3">
 
@@ -197,6 +197,8 @@ This is a short guide to help you start developing an anonymous developer accoun
 <li>Chrome and derivaties: <a href="https://support.google.com/chrome/answer/2364824?hl=en&amp;co=GENIE.Platform%3DDesktop">https://support.google.com/chrome/answer/2364824?hl=en&amp;co=GENIE.Platform%3DDesktop</a></li>
 </ul>
 </li>
+
+
 <li>Create a new <a href="https://protonmail.com/">Protonmail</a> account. <ul>
 <li>Protonmail doesn&#39;t ask for any personally identifiable information when setting up a new account</li>
 <li>For recovery options, ensure that you don&#39;t use an email that can dox or your phone number</li>
@@ -249,21 +251,22 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/tdurieux/anonymous_github</sub></br>
 </details>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>SECURE OPERATING SYSTEMS</h3>
 
 <h3>Tails</h3>
 
 <a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
+<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
 </a></br>
 <a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
 </a></br>
 <a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
-</a></br>
+<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
+<a href="https://www.youtube.com/watch?v=47zJPU0VHSQ">
+<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D47zJPU0VHSQ" alt="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA" title="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA"/></a></br>
 
 <p>Tor Wiki - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/OperationalSecurity</p>
 
@@ -320,7 +323,7 @@ https://github.com/alancnet/torrent-vpn</br>
 • TorPlusVPN - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN
 • Proxy - https://www.rapidseedbox.com/blog/vpn-vs-proxy</br>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>Anonymous Communication</h3>
 • Matrix Protocol - https://matrix.org</br>
@@ -362,11 +365,11 @@ https://github.com/alancnet/torrent-vpn</br>
 • Text Fixer - https://www.textfixer.com</br>
 • SS64 Syntax Utils - https://ss64.com</br> 
 • Tools4noobs - https://www.tools4noobs.com</br>
-
+• Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
+• Commonly Used Software Development Tools - https://ctool.dev
 <h3>Generators</h3>
 
 <b>Name, Address, IDs Generators</b></br>
-• Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
 • Fake Name Generator - https://www.fakenamegenerator.com</br>
 • Fake Address, Random Address Generator - https://www.fakeaddressgenerator.com/Index/index</br>
 • Behind the Name - https://www.behindthename.com/random</br>
@@ -404,7 +407,7 @@ https://github.com/alancnet/torrent-vpn</br>
 • PaddleGAN - https://github.com/PaddlePaddle/PaddleGAN</br>
 • Random Pic - https://picsum.photos</br>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>OTHER CONSIDERATIONS</h3>
 
@@ -466,7 +469,7 @@ Go to https://location.services.mozilla.com/optout</br>
 </br>
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <div class="block4">
 
@@ -528,14 +531,14 @@ https://inteltechniques.com/links.html</br>
 </br>
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h2>PHYSICAL ANTI-SURVEILLANCE</h2>
 
 https://paladinpressbooks.com</br> 
 https://us.artechhouse.com/storehome.aspx</br> 
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>HIDDEN OBJECTS</h3>
 • Hire an object storage service anonymously ("box self storage")</br>
@@ -544,7 +547,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 • DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant</br>
 • The Big Book of Secret Hiding Places - Jack Luger</br>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <h3>INVESTIGATION BY LAW ENFORCEMENT AGENCIES</h3>
 
@@ -566,18 +569,54 @@ https://us.artechhouse.com/storehome.aspx</br>
 • Guantanamo</br>
 • SS Training</br>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
+
+.data/ID.jpg
+
+<h3>INTELLIGENCE STRATEGY</h3>
+
+https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
+
+<h4>Types of Intelligence</h4>
+
+<p>The intelligence cycle is a process of collecting information and developing it into intelligence for use by IC customers. The steps in the process are direction, collection, processing, exploitation, and dissemination. IC products can either be based on a single type of collection or “all-source,” that is, based upon all available types of collection. IC products also can be produced by one IC element or coordinated with other IC elements, and delivered to IC customers in various formats, including papers, digital media, briefings, maps, graphics, videos, and other distribution methods.</p>
+
+<h4>Six basic intelligence sources, or collection disciplines</h4>
+
+![ID](.data/ID.jpg)
+
+
+<p>SIGINT—Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
+
+<p>IMINT—Imagery Intelligence includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.</p>
+
+<p>MASINT—Measurement and Signature Intelligence is information produced by quantitative and qualitative analysis of physical attributes of targets and events to characterize, locate, and identify them. MASINT exploits a variety of phenomenologies, from a variety of sensors and platforms, to support signature development and analysis, to perform technical analysis, and to detect, characterize, locate and identify targets and events. MASINT is derived from specialized, technically-derived measurements of physical phenomenon intrinsic to an object or event and it includes the use of quantitative signatures to interpret the data. The Director of DIA is both the “Intelligence Community Functional Manager for MASINT” and the “DOD MASINT Manager.” The National MASINT Office (NMO) manages and executes MASINT services of common concern and related activities for the D/DIA in response to National and Department of Defense requirements. If interested in learning more about MASINT, check out the NMO's primer here.</p>
+
+<p>HUMINT—Human intelligence is derived from human sources. To the public, HUMINT remains synonymous with espionage and clandestine activities; however, most of HUMINT collection is performed by overt collectors such as strategic debriefers and military attaches. It is the oldest method for collecting information, and until the technical revolution of the mid- to late 20th century, it was the primary source of intelligence.</p>
+
+<p>OSINT—Open-Source Intelligence is publicly available information appearing in print or electronic form including radio, television, newspapers, journals, the Internet, commercial databases, and videos, graphics, and drawings. While open-source collection responsibilities are broadly distributed through the IC, the major collectors are the DNI's Open Source Center (OSC) and the National Air and Space Intelligence Center (NASIC).</p>
+
+<p>GEOINT—Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.</p>
+
+
+<!-- ################################################# -->
 
 <h3>GENERAL ANTI-SURVEILLANCE</h3>
 
-<h4>Learning techniques and skills from de best</h4>
+<h4>Brainstorm: strategy, techniques and skills</h4>
 
 <h5>Governments & Politicians</h5>
 - Moral scandals</br>
-- Propaganda (films, docs etc)</br>
 - Negotiation and association</br>
 - Money Laundry</br>
+
+<h6>Journalism</h5>
 - Whistleblowers</br>
+- International Journalism Festival - https://www.youtube.com/@journalismfest</br>
+
+<h6>Mass Media</h5>
+- Steve Bannon</br>
+- Propaganda (films, docs etc)</br>
 
 <h5>Spies</h5>
 - Books about american, british and russian spies</br>
@@ -591,7 +630,10 @@ https://us.artechhouse.com/storehome.aspx</br>
 <h5>Mobsters & Droug Traffikers</h5>
 - Unmasking the informant inside the cartel | Four Corners - https://www.youtube.com/watch?v=Kse32_VpTOE
 
-<h4>Political Dimension</h4>
+<h4>Political Considerations</h4>
+
+<h5>Hybrid Warfare</h5>
+• </br>
 
 <h5>Law Warfare</h5>
 • </br>
@@ -604,17 +646,20 @@ https://us.artechhouse.com/storehome.aspx</br>
 • </br>
 
 <h5>Counter-culture, subversion, mimicry and criminality</h5>
-• </br>
+• Conflicts with no definable objective</br>
 
-<h5>Academic Considerations</h5>
-• Antonio Gramsci (1891–1937)</br>
+<h4>Academic Considerations</h4>
+• Sun Tzu (544 - 496 BC)</br>
+• Niccolò Machiavelli (1469 - 1527)</br>
+• Antonio Gramsci (1891 - 1937)</br>
 • Gaston Bachelard (1884 - 1962)</br>
 • Karl Popper (1902 - 1994)</br>
 • Nicos Poulantzas (1936 - 1979)</br>
-• Michel Foucault (1926 - 1984)</br>
 • Louis Althusser (1918 - 1990)</br>
-• Giorgio Agamben (1942)</br>
 
+• Friedrich Nietzsche (1844 - 1900)</br>
+• Michel Foucault (1926 - 1984)</br>
+• Giorgio Agamben (1942)</br>
 </details>
 
 </div>
@@ -622,7 +667,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 </br>
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <div class="block5">
 
@@ -660,7 +705,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 </br>
 <hr>
 
-<!-- ################################################################################# -->
+<!-- ################################################# -->
 
 <div class="block6">
 
@@ -671,10 +716,12 @@ https://us.artechhouse.com/storehome.aspx</br>
 <p>https://telegra.ph</p>
 
 <p><b>YouTube - Privacy</b></p>
+<p>Mental Outlaw - https://www.youtube.com/c/MentalOutlaw</p>
+<p>Surveillance Report - https://www.youtube.com/c/SurveillanceReport</p>
 <p>Hack In The Box Security Conference - https://www.youtube.com/@hitbsecconf</p>
 <p>May Contain Hackers - https://www.youtube.com/@MCh3022NL</p>
 <p>European Digital Rights - https://www.youtube.com/@EuropeanDigitalRights</p>
-<p>International Journalism Festival - https://www.youtube.com/@journalismfest</p>
+<p>Techlore - https://www.youtube.com/c/Techlore</p>
 <p>David Bombal - https://www.youtube.com/c/DavidBombal</p>
 <p>Hak5 - https://www.youtube.com/c/hak5</p>
 <p>John Hammond - https://www.youtube.com/c/JohnHammond010</p>
@@ -685,11 +732,8 @@ https://us.artechhouse.com/storehome.aspx</br>
 <p>Sir Sudo - https://www.youtube.com/c/SirSudo</p>
 <p>SomeOrdinaryGamers - https://www.youtube.com/c/SomeOrdinaryGamers</p>
 <p>spacehuhn - https://www.youtube.com/c/spacehuhn</p>
-<p>Surveillance Report - https://www.youtube.com/c/SurveillanceReport</p>
-<p>Techlore - https://www.youtube.com/c/Techlore</p>
 <p>ThioJoe - https://www.youtube.com/c/ThioJoe</p>
 <p>Luke Smith - https://www.youtube.com/c/LukeSmithxyz</p>
-<p>Mental Outlaw - https://www.youtube.com/c/MentalOutlaw</p>
 <p>Rob Braxman Tech - https://www.youtube.com/c/BraxMe</p>
 <p>The Hated One - https://www.youtube.com/c/TheHatedOne</p>
 </sub>
