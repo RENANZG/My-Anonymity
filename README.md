@@ -13,7 +13,10 @@
 
 <blockquote><h3>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec, and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</h3></blockquote>
 
-![banner](.data/son_of_man_1964_-_magritte_830px.png)
+
+<div id="header" align="center">
+  <img src=".data/son_of_man_1964_-_magritte_830px.png" width="830"/>
+</div>
 
 <hr>
 
@@ -184,6 +187,8 @@
 <summary>ONLINE ANONYMITY​​​​​</summary>
 </br>
 
+<!-- ################################################# -->
+
 <h3>ANONYMOUS DEVELOPER</h3>
 
 <details>
@@ -231,6 +236,8 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/Mikerah/anon-guide</sub></br>
 </details>
 
+<!-- ################################################# -->
+
 <details>
 <summary><b>How to erase GitHub history</b></summary>
 
@@ -239,6 +246,8 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/fedebotu/clone-anonymous-github</sub></br>
 </details>
 
+<!-- ################################################# -->
+
 <details>
 <summary><b>Contribute Code Anonymously</b></summary>
 
@@ -246,6 +255,8 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <sub>Credits: https://github.com/AnalogJ/gitmask</sub></br>
 </details>
+
+<!-- ################################################# -->
 
 <details>
 <summary><b>Proxy server to support anonymous browsing</b></summary>
@@ -288,7 +299,7 @@ https://www.whonix.org</br>
 https://www.whonix.org/wiki/Comparison_with_Others</br>
 
 <h3>QubesOS</h3>
-
+https://www.qubes-os.org</br>
 
 <h3>Anon Internet</h3>
 • Tor - https://www.torproject.org - Tor is free software and an open network that helps you defend against traffic analysis.</br>
@@ -330,8 +341,11 @@ https://github.com/alancnet/torrent-vpn</br>
 
 <!-- ################################################# -->
 
+-under-construction- 
+
 <h3>Anonymous Communication</h3>
 • Matrix Protocol - https://matrix.org</br>
+
 • Signal - https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Discord Bot</br>
 
@@ -349,7 +363,7 @@ https://github.com/alancnet/torrent-vpn</br>
 • Burnermail.io - https://burnermail.io/</br>
 • Anonaddy.com - https://anonaddy.com/#pricing</br>
 • Simplelogin.io - https://simplelogin.io/</br>
-• Simplelogin.io github repo - https://github.com/simple-login/app</br>
+• Simplelogin.io GitHub - https://github.com/simple-login/app</br>
 • Forward Email - https://forwardemail.net/en</br>
 
 <b>Temp Email</b></br>
@@ -372,7 +386,22 @@ https://github.com/alancnet/torrent-vpn</br>
 • Tools4noobs - https://www.tools4noobs.com</br>
 • Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
 • Commonly Used Software Development Tools - https://ctool.dev
+
 <h3>Generators</h3>
+<b>Image Generation</b></br>
+• This Person Does Not Exist - https://thispersondoesnotexist.com</br>
+• This Waifu Does Not Exist - https://www.thiswaifudoesnotexist.net/?ref=appinn</br>
+• These Cats Do Not Exist - http://thesecatsdonotexist.com/</br>
+• Gallery of AI Generated Faces | Generated.photos - https://generated.photos/faces</br>
+• Pixel-me - https://pixel-me.tokyo/en</br>
+• Artbreeder - https://artbreeder.com/browse</br>
+• Comixify - https://comixify.ii.pw.edu.pl</br>
+• Which Face is Real? - http://www.whichfaceisreal.com</br>
+• SPADE Project Page - https://nvlabs.github.io/SPADE</br>
+• Selfie2Anime - https://selfie2anime.com</br>
+• Reflect.tech - https://reflect.tech/faceswap/hot</br>
+• PaddleGAN - https://github.com/PaddlePaddle/PaddleGAN</br>
+• Random Pic - https://picsum.photos</br>
 
 <b>Name, Address, IDs Generators</b></br>
 • Fake Name Generator - https://www.fakenamegenerator.com</br>
@@ -397,20 +426,6 @@ https://github.com/alancnet/torrent-vpn</br>
 • My Fake Information Generator and Validator - http://www.myfakeinfo.com/index.php</br>
 • User Information Generator Articles - https://names.igopaygo.com</br>
 
-<b>Image Generation</b></br>
-• This Person Does Not Exist - https://thispersondoesnotexist.com</br>
-• This Waifu Does Not Exist - https://www.thiswaifudoesnotexist.net/?ref=appinn</br>
-• These Cats Do Not Exist - http://thesecatsdonotexist.com/</br>
-• Gallery of AI Generated Faces | Generated.photos - https://generated.photos/faces</br>
-• Pixel-me - https://pixel-me.tokyo/en</br>
-• Artbreeder - https://artbreeder.com/browse</br>
-• Comixify - https://comixify.ii.pw.edu.pl</br>
-• Which Face is Real? - http://www.whichfaceisreal.com</br>
-• SPADE Project Page - https://nvlabs.github.io/SPADE</br>
-• Selfie2Anime - https://selfie2anime.com</br>
-• Reflect.tech - https://reflect.tech/faceswap/hot</br>
-• PaddleGAN - https://github.com/PaddlePaddle/PaddleGAN</br>
-• Random Pic - https://picsum.photos</br>
 
 <!-- ################################################# -->
 
@@ -434,12 +449,10 @@ https://github.com/awesome-selfhosted/awesome-selfhosted</br>
 https://github.com/syncthing/syncthing</br>
 https://github.com/anonaddy/anonaddy</br>
 
-<b>Auditing logs, network, volatile memory</b></br>
-https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/log_items</br>
 
 <b>EXIF Tools</b></br>
-• exiftool - https://exiftool.org</br>
-• exifcleaner - https://github.com/szTheory/exifcleaner/releases/latest</br>
+• exifcleaner (GUI)- https://github.com/szTheory/exifcleaner/releases/latest</br>
+• exiftool (CLI)- https://exiftool.org</br>
 • Exif Pilot - https://www.colorpilot.com/exif.html</br>
 
 • Deceptive Patterns</br> 
@@ -557,7 +570,6 @@ https://us.artechhouse.com/storehome.aspx</br>
 <h3>INVESTIGATION BY LAW ENFORCEMENT AGENCIES</h3>
 
 <h4>Ways law enforcement investigate</h4>
-• Ten Ways Law Enforcement Investigate Drug Cases - https://www.youtube.com/watch?v=zJZhPF8CuaM</br>
 • Trash Pull</br>
 • Malwares</br>
 • Search Warrant</br>
@@ -569,14 +581,16 @@ https://us.artechhouse.com/storehome.aspx</br>
 • Blood tests</br>
 • Ballistics</br>
 
+<h4>Undercover</h4>
+• Covert Agent - https://www.rbth.com/history/335021-kgb-guide-how-detect-foreign-spy</br>
+• Undercover Employees, Informants, and Cooperating Witnesses</br>
+
 <h4>Interrogations and torture</h4>
 • Interrogation techniques</br>
-• Guantanamo</br>
-• SS Training</br>
+• US Guantanamo</br>
+• SS Nazi Training</br>
 
 <!-- ################################################# -->
-
-.data/ID.jpg
 
 <h3>INTELLIGENCE STRATEGY</h3>
 
@@ -584,24 +598,24 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <h4>Types of Intelligence</h4>
 
-<p>The intelligence cycle is a process of collecting information and developing it into intelligence for use by IC customers. The steps in the process are direction, collection, processing, exploitation, and dissemination. IC products can either be based on a single type of collection or “all-source,” that is, based upon all available types of collection. IC products also can be produced by one IC element or coordinated with other IC elements, and delivered to IC customers in various formats, including papers, digital media, briefings, maps, graphics, videos, and other distribution methods.</p>
+<p>"The intelligence cycle is a process of collecting information and developing it into intelligence for use by IC customers. The steps in the process are direction, collection, processing, exploitation, and dissemination. IC products can either be based on a single type of collection or “all-source,” that is, based upon all available types of collection. IC products also can be produced by one IC element or coordinated with other IC elements, and delivered to IC customers in various formats, including papers, digital media, briefings, maps, graphics, videos, and other distribution methods."</p>
 
 <h4>Six basic intelligence sources, or collection disciplines</h4>
 
 ![ID](.data/ID.jpg)
 
 
-<p>SIGINT—Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
+<p>SIGINT — Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
 
-<p>IMINT—Imagery Intelligence includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.</p>
+<p>IMINT — Imagery Intelligence includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.</p>
 
-<p>MASINT—Measurement and Signature Intelligence is information produced by quantitative and qualitative analysis of physical attributes of targets and events to characterize, locate, and identify them. MASINT exploits a variety of phenomenologies, from a variety of sensors and platforms, to support signature development and analysis, to perform technical analysis, and to detect, characterize, locate and identify targets and events. MASINT is derived from specialized, technically-derived measurements of physical phenomenon intrinsic to an object or event and it includes the use of quantitative signatures to interpret the data. The Director of DIA is both the “Intelligence Community Functional Manager for MASINT” and the “DOD MASINT Manager.” The National MASINT Office (NMO) manages and executes MASINT services of common concern and related activities for the D/DIA in response to National and Department of Defense requirements. If interested in learning more about MASINT, check out the NMO's primer here.</p>
+<p>MASINT — Measurement and Signature Intelligence is information produced by quantitative and qualitative analysis of physical attributes of targets and events to characterize, locate, and identify them. MASINT exploits a variety of phenomenologies, from a variety of sensors and platforms, to support signature development and analysis, to perform technical analysis, and to detect, characterize, locate and identify targets and events. MASINT is derived from specialized, technically-derived measurements of physical phenomenon intrinsic to an object or event and it includes the use of quantitative signatures to interpret the data. The Director of DIA is both the “Intelligence Community Functional Manager for MASINT” and the “DOD MASINT Manager.” The National MASINT Office (NMO) manages and executes MASINT services of common concern and related activities for the D/DIA in response to National and Department of Defense requirements. If interested in learning more about MASINT, check out the NMO's primer here.</p>
 
-<p>HUMINT—Human intelligence is derived from human sources. To the public, HUMINT remains synonymous with espionage and clandestine activities; however, most of HUMINT collection is performed by overt collectors such as strategic debriefers and military attaches. It is the oldest method for collecting information, and until the technical revolution of the mid- to late 20th century, it was the primary source of intelligence.</p>
+<p>HUMINT — Human intelligence is derived from human sources. To the public, HUMINT remains synonymous with espionage and clandestine activities; however, most of HUMINT collection is performed by overt collectors such as strategic debriefers and military attaches. It is the oldest method for collecting information, and until the technical revolution of the mid- to late 20th century, it was the primary source of intelligence.</p>
 
-<p>OSINT—Open-Source Intelligence is publicly available information appearing in print or electronic form including radio, television, newspapers, journals, the Internet, commercial databases, and videos, graphics, and drawings. While open-source collection responsibilities are broadly distributed through the IC, the major collectors are the DNI's Open Source Center (OSC) and the National Air and Space Intelligence Center (NASIC).</p>
+<p>OSINT — Open-Source Intelligence is publicly available information appearing in print or electronic form including radio, television, newspapers, journals, the Internet, commercial databases, and videos, graphics, and drawings. While open-source collection responsibilities are broadly distributed through the IC, the major collectors are the DNI's Open Source Center (OSC) and the National Air and Space Intelligence Center (NASIC).</p>
 
-<p>GEOINT—Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.</p>
+<p>GEOINT — Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.</p>
 
 
 <!-- ################################################# -->
@@ -609,6 +623,10 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 <h3>GENERAL ANTI-SURVEILLANCE</h3>
 
 <h4>Brainstorm: strategy, techniques and skills</h4>
+
+<h5>Strategy</h5>
+• Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
+• Analysis of fallacious speeches justified on the basis of high moral values.</br>
 
 <h5>Governments & Politicians</h5>
 - Moral scandals</br>
@@ -651,7 +669,8 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 • </br>
 
 <h5>Counter-culture, subversion, mimicry and criminality</h5>
-• Conflicts with no definable objective</br>
+
+• Conflicts with no definable objective.</br>
 
 <h4>Academic Considerations</h4>
 • Sun Tzu (544 - 496 BC)</br>
