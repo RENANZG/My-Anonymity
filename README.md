@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='en' class=''>
+<html lang='en'>
 
 <head>
 
@@ -7,24 +7,25 @@
 
 <body>
 
-<h1>🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵</h1>
+<div id="header">
 
-<!-- TAKE OUT SON OF BITCH ;D -->
+<h1>🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵</h1>
 
 <blockquote><h3>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec, and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</h3></blockquote>
 
+<img src=".data/son_of_man_1964_-_magritte_830px.png" title="Son of Man (1964) - René Magritte" width="100%"/>
 
-<div id="header" align="center">
-  <img src=".data/son_of_man_1964_-_magritte_830px.png" width="830"/>
 </div>
 
 <hr>
 
-<div class="container">
-
 <!-- ################################################# -->
 
-<div class="block1">
+<div class="container">
+
+
+
+<div id="block1">
   
 <h3>BEST REFERENCES</h3>
 
@@ -32,10 +33,10 @@
 <thead>
 <tr>
 <td valign="top" style="height:25%">
-<a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer">Whonix - Tips on Remaining Anonymous</a></br>
+<a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer"><b>Whonix</b> - Tips on Remaining Anonymous</a></br>
 <a href="https://www.whonix.org/wiki/Essential_Host_Security" target="_blank"><b>Whonix</b> - Essential Host Security</a></br>
-<a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp(PDF)</a></br>
 <a href="https://www.whonix.org/wiki/System_Hardening_Checklist" target="_blank"><b>Whonix</b> - System Hardening Checklist</a></br>
+<a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp(PDF)</a></br>
 <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a></br>
 <a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer">EFF Fundation</a></br>
 <a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF Security Companion</a></br>
@@ -45,8 +46,8 @@
 </td>
 
 <td valign="top" style="height:25%">
-<a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
 <a href="https://github.com/undergroundwires/privacy.sexy" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
+<a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
 <a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a></br>
 <a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a></br>
 <a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a></br>
@@ -76,12 +77,13 @@
 </td>
 
 <td valign="top" style="height:25%">
+<a href="https://www.reddit.com/r/privacy" target="_blank" rel="noopener noreferrer">r/privacy</a></br>
 <a href="https://www.reddit.com/r/opsec/" target="_blank" rel="noopener noreferrer">r/opsec</a></br>
 <a href="https://www.reddit.com/r/redteamsec" target="_blank" rel="noopener noreferrer">r/redteamsec</a></br> 
 <a href="https://www.reddit.com/r/netsec" target="_blank" rel="noopener noreferrer">r/netsec</a></br> 
-<a href="https://www.reddit.com/r/privacy" target="_blank" rel="noopener noreferrer">r/privacy</a></br>
-<a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
+<a href="https://www.reddit.com/r/onion" target="_blank" rel="noopener noreferrer">r/onion</a></br>
 <a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br> 
+<a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
 <a href="https://www.reddit.com/r/computerforensics" target="_blank" rel="noopener noreferrer">r/computerforensics</a></br> 
 <a href="https://www.reddit.com/r/Smartphoneforensics" target="_blank" rel="noopener noreferrer">r/Smartphoneforensics</a></br> 
 <a href="https://www.reddit.com/r/antiforensics" target="_blank" rel="noopener noreferrer">r/antiforensics</a></br> 
@@ -90,6 +92,9 @@
 <a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br> 
 <a href="https://www.reddit.com/r/oopsec/" target="_blank" rel="noopener noreferrer">r/oopsec</a></br>
 <a href="https://www.reddit.com/r/privacymemes" target="_blank" rel="noopener noreferrer">r/privacymemes</a></br>
+<a href="https://www.reddit.com/r/ghostguns" target="_blank" rel="noopener noreferrer">r/ghostguns</a></br>
+<a href="https://www.reddit.com/r/drones" target="_blank" rel="noopener noreferrer">r/drones</a></br>
+<a href="https://old.reddit.com/r/Save3rdPartyApps/comments/148m42t/the_fight_continues" target="_blank" rel="noopener noreferrer">/r/Save3rdPartyApps</a></br>
 </td>
 </tr>
 </thead>
@@ -104,7 +109,13 @@
 
 <h3>Privacy vs. Anonymity</h3>
 
-<div class="block2">
+<p>• Identity: the unique set of characteristics that can be used to identify a person and their unique physical body as themself and no one else.</p>
+<p>• Pseudonymity: the near-anonymous state in which a person has a consistent identifier [1] that is not their real name.</p>
+<p>• Anonymity: the state of a person's identity being unknown to all other people than themself.</p>
+
+<sub>Ref.: https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous</sub>
+
+<div id="block2">
 
 <table>
 <thead>
@@ -144,62 +155,63 @@
 <hr>
 
 <!-- ################################################# -->
+<h3><a href=""></a>Privacy-Anonymity Spectrum</h3>
 
-![Alt text](.data/PA1.png)</br>
-
-<hr>
-
-<!-- ################################################# -->
-
-![Alt text](.data/TA.jpg)</br>
+<img src=".data/Privacy_Spectrum.png" title="Privacy-Anonymity Spectrum" width="830">
 
 <hr>
 <!-- ################################################# -->
+<h3><a href=""></a>Privacy Benefits</h3>
 
+<img src=".data/Privacy_Benefits.jpg" title="Privacy Benefits" width="830">
+
+<hr>
+<!-- ################################################# -->
 <h3>Flag Theory - <a href="https://flagtheory.com">https://flagtheory.com</a></h3>
 
-![Alt text](.data/SF.jpg)</br>
-
+<img src=".data/Flag_Theory.jpg" title="Flag Theory" width="830">
 
 <hr>
-
 <!-- ################################################# -->
-
 <h3>EFF’s “Street-Level Surveillance” - <a href="https://www.eff.org/sls">https://www.eff.org/sls</a></h3>
 
-![Alt text](.data/EFF.png)</br>
+<img src=".data/Street_Surveilance.png" title="EFF’s “Street-Level Surveillance”" width="830">
 
+<hr>
+<!-- ################################################# -->
+<h3><a href=""></a>Electronic Warfare</h3>
+
+<img src=".data/Electronic_Warfare.jpg" title="Electronic Warfare" width="830">
+
+<hr>
+<!-- ################################################# -->
 
 </br>
-<hr>
 
-<pre><img src="https://latex.codecogs.com/svg.image?{\color{Red}\mathbf{-UNDER\;WORK-}}" title="{\color{Red}\mathbf{-UNDER\;WORK-}}" /></pre>
+<pre>-UNDER CONSTRUCTION-</pre>
 
 </div>
 
 <!-- ################################################# -->
 
-<div class="block3">
+<div id="block3">
 
-![Alt text](.data/ON.svg)
+<img src=".data/ONLINE_ANONYMITY​​​​.png" title="Click below">
 
 <details>
 <summary>ONLINE ANONYMITY​​​​​</summary>
 </br>
-
-<!-- ################################################# -->
 
 <h3>ANONYMOUS DEVELOPER</h3>
 
 <details>
 <summary><b>How to create an anonymous GitHub</b></summary>
 
+Protonmail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion<br>
 
-Protonmail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
+!Outdated!<br>
 
-!Outdated!
-
-This is a short guide to help you start developing an anonymous developer account.
+This is a short guide to help you start developing an anonymous developer account.<br>
 
 <ol>
 <li>Create a new browser profile in your browser of choice<ul>
@@ -207,7 +219,6 @@ This is a short guide to help you start developing an anonymous developer accoun
 <li>Chrome and derivaties: <a href="https://support.google.com/chrome/answer/2364824?hl=en&amp;co=GENIE.Platform%3DDesktop">https://support.google.com/chrome/answer/2364824?hl=en&amp;co=GENIE.Platform%3DDesktop</a></li>
 </ul>
 </li>
-
 
 <li>Create a new <a href="https://protonmail.com/">Protonmail</a> account. <ul>
 <li>Protonmail doesn&#39;t ask for any personally identifiable information when setting up a new account</li>
@@ -236,7 +247,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/Mikerah/anon-guide</sub></br>
 </details>
 
-<!-- ################################################# -->
+<!-- ###################### -->
 
 <details>
 <summary><b>How to erase GitHub history</b></summary>
@@ -246,7 +257,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/fedebotu/clone-anonymous-github</sub></br>
 </details>
 
-<!-- ################################################# -->
+<!-- ###################### -->
 
 <details>
 <summary><b>Contribute Code Anonymously</b></summary>
@@ -256,7 +267,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/AnalogJ/gitmask</sub></br>
 </details>
 
-<!-- ################################################# -->
+<!-- ###################### -->
 
 <details>
 <summary><b>Proxy server to support anonymous browsing</b></summary>
@@ -267,7 +278,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 <sub>Credits: https://github.com/tdurieux/anonymous_github</sub></br>
 </details>
 
-<!-- ################################################# -->
+<!-- ###################### -->
 
 <h3>SECURE OPERATING SYSTEMS</h3>
 
@@ -355,20 +366,21 @@ https://github.com/alancnet/torrent-vpn</br>
 <h3>Email</h3>
 
 <b>Privacy</b></br>
+• Protonmail - </br>
+• Protonmail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion</br>
 • Burner Email - https://github.com/wesbos/burner-email-providers</br>
-• Protonmail -</br>
 
 <b>Self-hosted Email</b></br>
-• Reddit Thread - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/</br>
 • Burnermail.io - https://burnermail.io/</br>
 • Anonaddy.com - https://anonaddy.com/#pricing</br>
 • Simplelogin.io - https://simplelogin.io/</br>
 • Simplelogin.io GitHub - https://github.com/simple-login/app</br>
 • Forward Email - https://forwardemail.net/en</br>
+• Thread r/selfhosted - https://www.reddit.com/r/selfhosted/comments/isu8mw/selfhosted_throw_away_email_addresses_that_allow/</br>
 
 <b>Temp Email</b></br>
-• 10MinuteMail - https://10minutemail.com</br>
 • Guerrilla Mail - https://www.guerrillamail.com</a>
+• 10MinuteMail - https://10minutemail.com</br>
 • http://www.yopmail.com/zh</br>
 • http://www.fakemailgenerator.com</br>
 • https://temp-mail.org/en</br>
@@ -388,7 +400,8 @@ https://github.com/alancnet/torrent-vpn</br>
 • Commonly Used Software Development Tools - https://ctool.dev
 
 <h3>Generators</h3>
-<b>Image Generation</b></br>
+
+<h4>Image Generation</h4>
 • This Person Does Not Exist - https://thispersondoesnotexist.com</br>
 • This Waifu Does Not Exist - https://www.thiswaifudoesnotexist.net/?ref=appinn</br>
 • These Cats Do Not Exist - http://thesecatsdonotexist.com/</br>
@@ -403,7 +416,7 @@ https://github.com/alancnet/torrent-vpn</br>
 • PaddleGAN - https://github.com/PaddlePaddle/PaddleGAN</br>
 • Random Pic - https://picsum.photos</br>
 
-<b>Name, Address, IDs Generators</b></br>
+<h4>Name, Address, IDs Generators</h4>
 • Fake Name Generator - https://www.fakenamegenerator.com</br>
 • Fake Address, Random Address Generator - https://www.fakeaddressgenerator.com/Index/index</br>
 • Behind the Name - https://www.behindthename.com/random</br>
@@ -431,7 +444,7 @@ https://github.com/alancnet/torrent-vpn</br>
 
 <h3>OTHER CONSIDERATIONS</h3>
 
-<b>Piracy</b></br>
+<h4>Piracy</h4>
 https://github.com/Igglybuff/awesome-piracy</br>
 https://github.com/lkrjangid1/Awesome-Warez</br>
 https://github.com/Illegal-Services/Illegal_Services</br>
@@ -443,14 +456,14 @@ https://rentry.co/megathread</br>
 https://1337x.to</br>
 https://fitgirl-repacks.site</br>
 
-<b>Self-hosting</b></br>
+<h4>Self-hosting</h4>
 https://www.reddit.com/r/selfhosted</br>
 https://github.com/awesome-selfhosted/awesome-selfhosted</br> 
 https://github.com/syncthing/syncthing</br>
 https://github.com/anonaddy/anonaddy</br>
 
 
-<b>EXIF Tools</b></br>
+<h4>EXIF Tools</h4>
 • exifcleaner (GUI)- https://github.com/szTheory/exifcleaner/releases/latest</br>
 • exiftool (CLI)- https://exiftool.org</br>
 • Exif Pilot - https://www.colorpilot.com/exif.html</br>
@@ -489,9 +502,9 @@ Go to https://location.services.mozilla.com/optout</br>
 
 <!-- ################################################# -->
 
-<div class="block4">
+<div id="block4">
 
-![Alt text](.data/OFF.svg)
+<img src=".data/OFFLINE_ANONYMITY​​​​.png" title="Click below">
 
 <details>
 <summary>OFFLINE ANONYMITY​​​​​</summary>
@@ -534,7 +547,7 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning</br>
 • Consult your friends, criminal lawyers probably know where to find things.</br>
 • Depending on the country or state of the federation you are in, there are documents that are easier to find.</br>
 
-<h4>Bussines Inteligence</h4>
+<h4>Business Intelligence</h4>
 • Financial Intelligence Units (FIUs)</br>
 Automated triage of financial intelligence reports - Algorithms</br>
 • Artificial Intelligence, Machine Learning and Big Data in Finance</br>
@@ -602,8 +615,7 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <h4>Six basic intelligence sources, or collection disciplines</h4>
 
-![ID](.data/ID.jpg)
-
+<img src=".data/Intelligence_Sources.jpg" title="Intelligence Sources">
 
 <p>SIGINT — Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
 
@@ -629,9 +641,14 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 • Analysis of fallacious speeches justified on the basis of high moral values.</br>
 
 <h5>Governments & Politicians</h5>
-- Moral scandals</br>
+- Fear to manipulate public opinion</br>
+- Moral scandals and accusations</br>
 - Negotiation and association</br>
-- Money Laundry</br>
+- Tenders with the companies themselves</br>
+- Enticement of the media and state agents</br>
+- Using the system for your own benefit</br>
+- Offering positions and promotions</br>
+- Tailor-made laws</br>
 
 <h6>Journalism</h5>
 - Whistleblowers</br>
@@ -651,25 +668,25 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
 
 <h5>Mobsters & Droug Traffikers</h5>
-- Unmasking the informant inside the cartel | Four Corners - https://www.youtube.com/watch?v=Kse32_VpTOE
+- Unmasking the informant inside the cartel | Four Corners - https://www.youtube.com/watch?v=Kse32_VpTOE</br>
 
-<h4>Political Considerations</h4>
+<h4>Other Considerations</h4>
 
 <h5>Hybrid Warfare</h5>
 • </br>
 
+<h5>Information Warfare</h5>
+• Fake news</br>
+• New rhetoric</br>
+
 <h5>Law Warfare</h5>
 • </br>
 
-<h5>Information Warfare</h5>
-• Fake news</br>
-• </br>
-
-<h5>New rhetoric</h5>
+<h5>Chilling Effect</h5>
 • </br>
 
 <h5>Counter-culture, subversion, mimicry and criminality</h5>
-
+• Conflicts with definable objective.</br>
 • Conflicts with no definable objective.</br>
 
 <h4>Academic Considerations</h4>
@@ -683,6 +700,7 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Michel Foucault (1926 - 1984)</br>
+• ()
 • Giorgio Agamben (1942)</br>
 </details>
 
@@ -693,35 +711,38 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <!-- ################################################# -->
 
-<div class="block5">
+<div id="block5">
 
-![Alt text](.data/PV.svg)
+<img src=".data/PRIVACY​​​​_ALTERNATIVES​.png" title="Click below">
 
 <details>
 <summary>PRIVACY​​​​ ALTERNATIVES​</summary>
 
 </br>
 
-- General</br>
-[Nitter instances](https://github.com/zedeus/nitter/wiki/Instances)</br>
-[Invidious instances](https://docs.invidious.io/Invidious-Instances.md)</br>
-[Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)</br>
-[SimplyTranslate instances](https://git.sr.ht/~metalune/simplytranslate_web#list-of-instances)</br>
-[OpenStreetMap tile servers](https://wiki.openstreetmap.org/wiki/Tile_servers)</br>
-- Reddit alternatives:</br>
-[Libreddit](https://github.com/spikecodes/libreddit#instances)</br>
-[Teddit](https://codeberg.org/teddit/teddit#instances)</br>
-[Snew](https://github.com/snew/snew)</br>
-[Old Reddit](https://old.reddit.com) & [Mobile Reddit](https://i.reddit.com), purported to be more privacy respecting than the new UI.</br>
-- Google Search alternatives:</br>
-[DuckDuckGo](https://duckduckgo.com)</br>
-[SearX](https://searx.github.io/searx/)</br>
-[Startpage](https://startpage.com)</br>
-[Ecosia](https://www.ecosia.org)</br>
-[Qwant](https://www.qwant.com)</br>
-[Mojeek](https://www.mojeek.com)</br>
-[Presearch](https://www.presearch.org)</br>
-[Whoogle](https://benbusby.com/projects/whoogle-search/)</br>
+<ul>
+<li>General</br>
+<a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter instances</a></br>
+<a href="https://docs.invidious.io/Invidious-Instances.md">Invidious instances</a></br>
+<a href="https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md">Bibliogram instances</a></br>
+<a href="https://git.sr.ht/~metalune/simplytranslate_web#list-of-instances">SimplyTranslate instances</a></br>
+<a href="https://wiki.openstreetmap.org/wiki/Tile_servers">OpenStreetMap tile servers</a></br></li>
+<li>Reddit alternatives:</br>
+<a href="https://github.com/spikecodes/libreddit#instances">Libreddit</a></br>
+<a href="https://codeberg.org/teddit/teddit#instances">Teddit</a></br>
+<a href="https://github.com/snew/snew">Snew</a></br>
+<a href="https://old.reddit.com">Old Reddit</a> &amp; <a href="https://i.reddit.com">Mobile Reddit</a>, purported to be more privacy respecting than the new UI.</br></li>
+<li>Google Search alternatives:</br>
+<a href="https://duckduckgo.com">DuckDuckGo</a></br>
+<a href="https://searx.github.io/searx/">SearX</a></br>
+<a href="https://startpage.com">Startpage</a></br>
+<a href="https://www.ecosia.org">Ecosia</a></br>
+<a href="https://www.qwant.com">Qwant</a></br>
+<a href="https://www.mojeek.com">Mojeek</a></br>
+<a href="https://www.presearch.org">Presearch</a></br>
+<a href="https://benbusby.com/projects/whoogle-search/">Whoogle</a></br></li>
+</ul>
+
 </details>
 
 </div>
@@ -731,7 +752,7 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <!-- ################################################# -->
 
-<div class="block6">
+<div id="block6">
 
 <sub>
 <p><b>Others</b></p>
@@ -763,7 +784,14 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 </sub>
 
 </div>
+</div>
 
+<!-- ################################################# -->
+
+<div id="footer">
+<br>
+<br>
+<p align=center>Made with ♥</p>
 </div>
 
 </body>
