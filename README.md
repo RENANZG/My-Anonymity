@@ -107,6 +107,13 @@
 
 <!-- ################################################# -->
 
+<h2>Considerations</h2>
+• Conflicts with definable objective.</br>
+• Conflicts with no definable objective.</br>
+• Resistance by dominated groups.</br>
+• Resistance by dominated groups using means that do not disturb their internal unity.</br>
+• Analysis of fallacious speeches justified on the basis of high moral values.</br>
+
 <h3>Privacy vs. Anonymity</h3>
 
 <p>• Identity: the unique set of characteristics that can be used to identify a person and their unique physical body as themself and no one else.</p>
@@ -655,8 +662,8 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 - International Journalism Festival - https://www.youtube.com/@journalismfest</br>
 
 <h6>Mass Media</h5>
-- Steve Bannon</br>
-- Propaganda (films, docs etc)</br>
+- Hollywood Propaganda (films, docs etc)</br>
+- Steve Bannon - Cambridge Analytica</br>
 
 <h5>Spies</h5>
 - Books about american, british and russian spies</br>
