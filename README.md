@@ -117,7 +117,7 @@
 • Resistance by dominated individuals.</br>
 • Analysis of fallacious speeches or actions justified on the basis of high moral values.</br>
 • Analysis of fallacious speeches or actions justified on the basis of insurmountable civilizational limits.</br>
-• Analysis of fallacious speeches or actions justified on the basis of exceptional cases.</br>
+• Analysis of fallacious speeches or actions justified on the basis of fear or exceptional cases.</br>
 • International Law</br>
 
 <h3>Privacy vs. Anonymity</h3>
