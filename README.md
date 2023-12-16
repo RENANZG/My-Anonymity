@@ -107,12 +107,13 @@
 
 <!-- ################################################# -->
 
-<h2>Considerations</h2>
+<h2>Considerations - Notebooks</h2>
 • Conflicts with definable objective.</br>
 • Conflicts with no definable objective.</br>
 • Resistance by dominated groups.</br>
 • Resistance by dominated groups using means that do not disturb their internal unity.</br>
-• Analysis of fallacious speeches justified on the basis of high moral values.</br>
+• Analysis of fallacious speeches or actions justified on the basis of high moral values.</br>
+• Analysis of fallacious speeches or actions justified on the basis of insurmountable civilizational limits.</br>
 
 <h3>Privacy vs. Anonymity</h3>
 
