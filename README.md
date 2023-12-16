@@ -38,8 +38,10 @@
 <a href="https://www.whonix.org/wiki/System_Hardening_Checklist" target="_blank"><b>Whonix</b> - System Hardening Checklist</a></br>
 <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp(PDF)</a></br>
 <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a></br>
-<a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer">EFF Fundation</a></br>
+<a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer">EFF Foundation</a></br>
 <a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF Security Companion</a></br>
+<a href="https://www.anarsec.guide" target="_blank" rel="noopener noreferrer">Anarsec</a></br>
+<a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a></br>
 <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a></br>	
 <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a></br>
 <a href="https://nomoregoogle.com/" target="_blank" rel="noopener noreferrer">No More Google</a></br>
@@ -74,6 +76,7 @@
 <a href="https://proprivacy.com" target="_blank" rel="noopener noreferrer">Pro Privacy</a></br>
 <a href="https://www.whois.com" target="_blank" rel="noopener noreferrer">Whois</a></br>
 <a href="https://gdpr-info.eu/issues/right-to-be-forgotten" target="_blank" rel="noopener noreferrer">GDPR - Right to be forgotten</a></br>
+<a href="https://tosdr.org" target="_blank" rel="noopener noreferrer">Terms of Service, Didn't Read</a></br>
 </td>
 
 <td valign="top" style="height:25%">
@@ -94,7 +97,7 @@
 <a href="https://www.reddit.com/r/privacymemes" target="_blank" rel="noopener noreferrer">r/privacymemes</a></br>
 <a href="https://www.reddit.com/r/ghostguns" target="_blank" rel="noopener noreferrer">r/ghostguns</a></br>
 <a href="https://www.reddit.com/r/drones" target="_blank" rel="noopener noreferrer">r/drones</a></br>
-<a href="https://old.reddit.com/r/Save3rdPartyApps/comments/148m42t/the_fight_continues" target="_blank" rel="noopener noreferrer">/r/Save3rdPartyApps</a></br>
+<a href="https://old.reddit.com/r/Save3rdPartyApps/comments/148m42t/the_fight_continues" target="_blank" rel="noopener noreferrer">r/Save3rdPartyApps</a></br>
 </td>
 </tr>
 </thead>
