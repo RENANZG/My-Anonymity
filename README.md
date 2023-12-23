@@ -110,19 +110,6 @@
 
 <!-- ################################################# -->
 
-<h2>Considerations - Notebooks</h2>
-• Conflicts with definable objective.</br>
-• Conflicts with no definable objective.</br>
-• Resistance by dominated groups.</br>
-• Resistance by dominated groups using means that do not disturb their internal unity.</br>
-• Disruptive actions by individuals.</br>
-• Disruptive political actions by individuals.</br>
-• Resistance by dominated individuals.</br>
-• Analysis of fallacious speeches or actions justified on the basis of high moral values.</br>
-• Analysis of fallacious speeches or actions justified on the basis of insurmountable civilizational limits.</br>
-• Analysis of fallacious speeches or actions justified on the basis of fear or exceptional cases.</br>
-• International Law</br>
-
 <h3>Privacy vs. Anonymity</h3>
 
 <p>• Identity: the unique set of characteristics that can be used to identify a person and their unique physical body as themself and no one else.</p>
@@ -200,6 +187,32 @@
 <img src=".data/Electronic_Warfare.jpg" title="Electronic Warfare" width="830">
 
 <hr>
+<!-- ################################################# -->
+
+<h3>INTELLIGENCE STRATEGY</h3>
+
+https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
+
+<h4>Types of Intelligence</h4>
+
+<p>"The intelligence cycle is a process of collecting information and developing it into intelligence for use by IC customers. The steps in the process are direction, collection, processing, exploitation, and dissemination. IC products can either be based on a single type of collection or “all-source,” that is, based upon all available types of collection. IC products also can be produced by one IC element or coordinated with other IC elements, and delivered to IC customers in various formats, including papers, digital media, briefings, maps, graphics, videos, and other distribution methods."</p>
+
+<h4>Six basic intelligence sources, or collection disciplines</h4>
+
+<img src=".data/Intelligence_Sources.jpg" title="Intelligence Sources">
+
+<p>SIGINT — Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
+
+<p>IMINT — Imagery Intelligence includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.</p>
+
+<p>MASINT — Measurement and Signature Intelligence is information produced by quantitative and qualitative analysis of physical attributes of targets and events to characterize, locate, and identify them. MASINT exploits a variety of phenomenologies, from a variety of sensors and platforms, to support signature development and analysis, to perform technical analysis, and to detect, characterize, locate and identify targets and events. MASINT is derived from specialized, technically-derived measurements of physical phenomenon intrinsic to an object or event and it includes the use of quantitative signatures to interpret the data. The Director of DIA is both the “Intelligence Community Functional Manager for MASINT” and the “DOD MASINT Manager.” The National MASINT Office (NMO) manages and executes MASINT services of common concern and related activities for the D/DIA in response to National and Department of Defense requirements. If interested in learning more about MASINT, check out the NMO's primer here.</p>
+
+<p>HUMINT — Human intelligence is derived from human sources. To the public, HUMINT remains synonymous with espionage and clandestine activities; however, most of HUMINT collection is performed by overt collectors such as strategic debriefers and military attaches. It is the oldest method for collecting information, and until the technical revolution of the mid- to late 20th century, it was the primary source of intelligence.</p>
+
+<p>OSINT — Open-Source Intelligence is publicly available information appearing in print or electronic form including radio, television, newspapers, journals, the Internet, commercial databases, and videos, graphics, and drawings. While open-source collection responsibilities are broadly distributed through the IC, the major collectors are the DNI's Open Source Center (OSC) and the National Air and Space Intelligence Center (NASIC).</p>
+
+<p>GEOINT — Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.</p>
+
 <!-- ################################################# -->
 
 </br>
@@ -327,6 +340,7 @@ https://www.whonix.org/wiki/Comparison_with_Others</br>
 
 <h3>QubesOS</h3>
 https://www.qubes-os.org</br>
+https://osresearch.net/InstallingOS</br>
 
 <h3>Anon Internet</h3>
 • Tor - https://www.torproject.org - Tor is free software and an open network that helps you defend against traffic analysis.</br>
@@ -458,6 +472,8 @@ https://github.com/alancnet/torrent-vpn</br>
 
 <!-- ################################################# -->
 
+
+
 <h3>OTHER CONSIDERATIONS</h3>
 
 <h4>Piracy</h4>
@@ -578,14 +594,14 @@ https://inteltechniques.com/links.html</br>
 </br>
 <hr>
 
-<!-- ################################################# -->
+<!-- ######################### -->
 
 <h2>PHYSICAL ANTI-SURVEILLANCE</h2>
 
 https://paladinpressbooks.com</br> 
 https://us.artechhouse.com/storehome.aspx</br> 
 
-<!-- ################################################# -->
+<!-- ######################### -->
 
 <h3>HIDDEN OBJECTS</h3>
 • Hire an object storage service anonymously ("box self storage")</br>
@@ -594,7 +610,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 • DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant</br>
 • The Big Book of Secret Hiding Places - Jack Luger</br>
 
-<!-- ################################################# -->
+<!-- ######################### -->
 
 <h3>INVESTIGATION BY LAW ENFORCEMENT AGENCIES</h3>
 
@@ -619,32 +635,66 @@ https://us.artechhouse.com/storehome.aspx</br>
 • US Guantanamo</br>
 • SS Nazi Training</br>
 
+<br>
+</details>
+</div>
+
+</br>
+<hr>
+
 <!-- ################################################# -->
 
-<h3>INTELLIGENCE STRATEGY</h3>
+<div id="block5">
 
-https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
+<h1>REFLECTIONS ON RESISTANCE</h1>
 
-<h4>Types of Intelligence</h4>
+<details>
+<summary>REFLECTIONS ON RESISTANCE</summary>
+<br>
 
-<p>"The intelligence cycle is a process of collecting information and developing it into intelligence for use by IC customers. The steps in the process are direction, collection, processing, exploitation, and dissemination. IC products can either be based on a single type of collection or “all-source,” that is, based upon all available types of collection. IC products also can be produced by one IC element or coordinated with other IC elements, and delivered to IC customers in various formats, including papers, digital media, briefings, maps, graphics, videos, and other distribution methods."</p>
+<h2>Considerations - Notebooks</h2>
 
-<h4>Six basic intelligence sources, or collection disciplines</h4>
+• Conflicts with definable objective.</br>
+• Conflicts with no definable objective.</br>
+• Resistance by dominated groups.</br>
+• Resistance by dominated groups using means that do not disturb their internal unity.</br>
+• Disruptive actions by individuals.</br>
+• Disruptive political actions by individuals.</br>
+• Resistance by dominated individuals.</br>
+• Analysis of fallacious speeches or actions justified on the basis of high moral values or "true crimes".</br>
+• Analysis of fallacious speeches or actions justified on the basis of insurmountable civilizational limits.</br>
+• Analysis of fallacious speeches or actions justified on the basis of fear, risk or exceptional cases.</br>
+• Organic intellectuality, institutions, economic groups and religiuous groups.</br>
+• Criminology concepts, policy of "zero tolerance", "war on drugs/terrorism", "enemy".</br>
+• International Law, UNO doesn't work like the Supreme Court.</br>
 
-<img src=".data/Intelligence_Sources.jpg" title="Intelligence Sources">
+<!-- ################################################# -->
 
-<p>SIGINT — Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
+<h2>News</h2>
 
-<p>IMINT — Imagery Intelligence includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.</p>
+<h4>https://theintercept.com</h4>
 
-<p>MASINT — Measurement and Signature Intelligence is information produced by quantitative and qualitative analysis of physical attributes of targets and events to characterize, locate, and identify them. MASINT exploits a variety of phenomenologies, from a variety of sensors and platforms, to support signature development and analysis, to perform technical analysis, and to detect, characterize, locate and identify targets and events. MASINT is derived from specialized, technically-derived measurements of physical phenomenon intrinsic to an object or event and it includes the use of quantitative signatures to interpret the data. The Director of DIA is both the “Intelligence Community Functional Manager for MASINT” and the “DOD MASINT Manager.” The National MASINT Office (NMO) manages and executes MASINT services of common concern and related activities for the D/DIA in response to National and Department of Defense requirements. If interested in learning more about MASINT, check out the NMO's primer here.</p>
+• CATFISHED BY COPS - The Hamas Terrorist Who Wasn’t - The Intecept</br>
+https://theintercept.com/2023/12/18/fbi-nypd-catfishing-terrorism-sting-hamas</br>
+• THE SNITCH IN THE SILVER HEARSE - The FBI Paid a Violent Felon to Infiltrate Denver’s Racial Justice Movement - The Intecept</br>
+https://theintercept.com/2023/02/07/fbi-denver-racial-justice-protests-informant/</br>
+“They Believed Anything but the Truth” — 14 Years in Guantánamo</br>
+https://theintercept.com/2021/08/17/guantanamo-memoir-mansoor-adayfi/</br>
 
-<p>HUMINT — Human intelligence is derived from human sources. To the public, HUMINT remains synonymous with espionage and clandestine activities; however, most of HUMINT collection is performed by overt collectors such as strategic debriefers and military attaches. It is the oldest method for collecting information, and until the technical revolution of the mid- to late 20th century, it was the primary source of intelligence.</p>
+etc, etc, etc...</br>
 
-<p>OSINT — Open-Source Intelligence is publicly available information appearing in print or electronic form including radio, television, newspapers, journals, the Internet, commercial databases, and videos, graphics, and drawings. While open-source collection responsibilities are broadly distributed through the IC, the major collectors are the DNI's Open Source Center (OSC) and the National Air and Space Intelligence Center (NASIC).</p>
+<h4>https://truthout.org</h4>
 
-<p>GEOINT — Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.</p>
+• Police Tech Isn’t Designed to Be Accurate — It’s Made to Exert Social Control</br>
+https://truthout.org/articles/police-tech-isnt-designed-to-be-accurate-its-made-to-exert-social-control</br>
+• NYPD Has Used Drones to Monitor Pro-Palestine Protests, Make 239 Arrests</br>
+https://truthout.org/articles/nypd-has-used-drones-to-monitor-pro-palestine-protests-make-239-arrests/</br>
+• In New York, Inadequate Treatment Is Turning Drug Arrests Into Death Sentences</br>
+https://truthout.org/articles/in-new-york-inadequate-treatment-is-turning-drug-arrests-into-death-sentences/</br>
+• I Faced Death by Incarceration. The UN Heard My Plea to Abolish Life Sentences.</br>
+https://truthout.org/articles/i-faced-death-by-incarceration-the-un-heard-my-plea-to-abolish-life-sentences/</br>
 
+etc, etc, etc...</br>
 
 <!-- ################################################# -->
 
@@ -677,16 +727,33 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 <h5>Spies</h5>
 - Books about american, british and russian spies</br>
 - Dead drop technique</br>
-- https://spyscape.com</br> 
-
-<h5>Anarchists & Resistance Groups</h5>
-- bib</br>
+- Books, books, books...</br>
+ 
+<h5>Anarchists</h5>
+- Books, books, books...</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
+
+<h5>Jews</h5>
+- Books, books, books...</br>
+
+<h5>Slaves</h5>
+- Books, books, books...</br>
+
+<h5>Aboriginal Groups</h5>
+- Books, books, books...</br>
+
+<h5>Resistance Groups</h5>
+- Guerrila warfare</br>
+- Books, books, books...</br>
 
 <h5>Mobsters & Droug Traffikers</h5>
 - Unmasking the informant inside the cartel | Four Corners - https://www.youtube.com/watch?v=Kse32_VpTOE</br>
+- Al Capone
 
-<h4>Other Considerations</h4>
+<h5>Counter-culture movement</h5>
+- Books, books, books...</br>
+
+<h3>Other Considerations</h3>
 
 <h5>Hybrid Warfare</h5>
 • </br>
@@ -701,11 +768,15 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 <h5>Chilling Effect</h5>
 • </br>
 
-<h5>Counter-culture, subversion, mimicry and criminality</h5>
-• Conflicts with definable objective.</br>
-• Conflicts with no definable objective.</br>
+<h5>Subversion, mimicry and criminality</h5>
+
 
 <h4>Academic Considerations</h4>
+
+<h5>Organic and inorganic intellectuals?</h5>
+
+<h5>Where is the truth? Is this all power, strength, rethoric?</h5>
+
 • Sun Tzu (544 - 496 BC)</br>
 • Niccolò Machiavelli (1469 - 1527)</br>
 • Antonio Gramsci (1891 - 1937)</br>
@@ -716,23 +787,25 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Michel Foucault (1926 - 1984)</br>
-• ()
+• Noam Chomsky ()</br>
+• Slavoj Zizek ()</br>
 • Giorgio Agamben (1942)</br>
+
+</br>
 </details>
 
 </div>
 
 </br>
 <hr>
-
 <!-- ################################################# -->
 
-<div id="block5">
+<div id="block6">
 
 <img src=".data/PRIVACY​​​​_ALTERNATIVES​.png" title="Click below">
 
 <details>
-<summary>PRIVACY​​​​ ALTERNATIVES​</summary>
+<summary>PRIVACY​​​ SOFTWARE​ ALTERNATIVES​</summary>
 
 </br>
 
@@ -768,7 +841,7 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <!-- ################################################# -->
 
-<div id="block6">
+<div id="block7">
 
 <sub>
 <p><b>Others</b></p>
