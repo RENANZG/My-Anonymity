@@ -655,16 +655,18 @@ https://us.artechhouse.com/storehome.aspx</br>
 <h2>Considerations - Notebooks</h2>
 
 • Conflicts with definable objective.</br>
-• Conflicts with no definable objective.</br>
+• Conflicts with definable political objective (guerillas ?).</br>
+• Conflicts with no definable objective (anarchists ?).</br>
 • Resistance by dominated groups.</br>
 • Resistance by dominated groups using means that do not disturb their internal unity.</br>
-• Disruptive actions by individuals.</br>
+• Disruptive actions by individuals. Resistance by dominated individuals.</br>
 • Disruptive political actions by individuals.</br>
-• Resistance by dominated individuals.</br>
+• As a rule, groups are stronger than individuals. However, there are dissidents in high positions.</br>
 • Analysis of fallacious speeches or actions justified on the basis of high moral values or "true crimes".</br>
 • Analysis of fallacious speeches or actions justified on the basis of insurmountable civilizational limits.</br>
 • Analysis of fallacious speeches or actions justified on the basis of fear, risk or exceptional cases.</br>
-• To be one step ahead, only with a lot of money from the state. Resistance will always be asymmetric.
+• To be one step ahead, only with a lot of money from the state. Resistance will always be asymmetric.</br>
+• Why are you going to prison if you don't want to do military service?</br>
 • Organic intellectuality, institutions, economic groups and religiuous groups.</br>
 • Criminology concepts, policy of "zero tolerance", "war on drugs/terrorism", "enemy".</br>
 • International Law, UNO doesn't work as well as the Supreme Court.</br>
@@ -786,10 +788,12 @@ etc, etc, etc...</br>
 • Nicos Poulantzas (1936 - 1979)</br>
 • Louis Althusser (1918 - 1990)</br>
 
+• Hannah Arendt (1906–1975)</br>
+
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Michel Foucault (1926 - 1984)</br>
-• Noam Chomsky ()</br>
-• Slavoj Zizek ()</br>
+• Noam Chomsky (1928)</br>
+• Slavoj Žižek (1949)</br>
 • Giorgio Agamben (1942)</br>
 
 </br>
