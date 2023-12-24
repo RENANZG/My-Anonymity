@@ -664,9 +664,10 @@ https://us.artechhouse.com/storehome.aspx</br>
 • Analysis of fallacious speeches or actions justified on the basis of high moral values or "true crimes".</br>
 • Analysis of fallacious speeches or actions justified on the basis of insurmountable civilizational limits.</br>
 • Analysis of fallacious speeches or actions justified on the basis of fear, risk or exceptional cases.</br>
+• To be one step ahead, only with a lot of money from the state. Resistance will always be asymmetric.
 • Organic intellectuality, institutions, economic groups and religiuous groups.</br>
 • Criminology concepts, policy of "zero tolerance", "war on drugs/terrorism", "enemy".</br>
-• International Law, UNO doesn't work like the Supreme Court.</br>
+• International Law, UNO doesn't work as well as the Supreme Court.</br>
 
 <!-- ################################################# -->
 
