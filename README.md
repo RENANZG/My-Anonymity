@@ -883,9 +883,13 @@ etc, etc, etc...</br>
 <!-- ################################################# -->
 
 <div id="footer">
+
 <br>
 <br>
-<p align=center>Made with ♥</p>
+<br>
+
+<p align="center"><img src=".data/We_Want_You_-_Anon.png"  align="center"/></p>
+
 </div>
 
 </body>
