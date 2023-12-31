@@ -624,11 +624,12 @@ https://us.artechhouse.com/storehome.aspx</br>
 <summary>Little Tricks​</summary>
 <br>
 
-Illegaly left you alone with a secret recording device.</br>
+• Illegaly left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
+• Illegaly forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
 Illegaly put GPS in your vehicle (GSM Chip).</br>
-Illegaly use traker programms (e. g. FirsMile) in your devices.</br>
-Illegaly use facial regonition cammeras spread in the city or in public transport.</br>
-Illegaly use state database or state informants.</br>
+• Illegaly use traker programms (e. g. FirstMile) in your devices.</br>
+• Illegaly use facial regonition cammeras spread in the city or in public transport.</br>
+• Illegaly use state database or state informants.</br>
 
 <br>
 </details>
@@ -640,7 +641,7 @@ Illegaly use state database or state informants.</br>
 <br>
 
 <h4>Registre Exp</h4>
-• With less utility, you can easily use RegExp patterns.</br>
+• With less utility, you can easily use RegEx patterns.</br>
 
 <h4>Fake IDs</h4>
 • At onion hidden services (this is probably scam, check the seller's reputation).</br>
@@ -1034,7 +1035,10 @@ etc, etc, etc...</br>
 </div>
 </div>
 
-<a href="https://github.com/RENANZG/My-Anonymity#-anonymity-"><p align="right">Back to Top ⬆</p></a>
+<!-- ################################################# -->
+<br>
+
+<a href="https://github.com/RENANZG/My-Anonymity#-anonymity-">Back to Top ⬆</a>
 
 <!-- ################################################# -->
 
@@ -1044,9 +1048,11 @@ etc, etc, etc...</br>
 <br>
 <br>
 
-<p align="center"><img src=".data/We_Want_You_-_Anon.png"  align="center"/></p>
+<p align="center"><img src=".data/We_Want_You_-_Anon.png"></p>
 
 </div>
+
+<!-- ################################################# -->
 
 </body>
 </html>
