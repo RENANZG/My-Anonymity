@@ -626,8 +626,9 @@ https://us.artechhouse.com/storehome.aspx</br>
 
 • Illegaly left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
 • Illegaly forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
-Illegaly put GPS in your vehicle (GSM Chip).</br>
-• Illegaly use traker programms (e. g. FirstMile) in your devices.</br>
+• Illegally pressures you to produce evidence against yourself.</br>
+• Illegaly put GPS in your vehicle (GSM Chip).</br>
+• Illegaly use trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
 • Illegaly use facial regonition cammeras spread in the city or in public transport.</br>
 • Illegaly use state database or state informants.</br>
 
