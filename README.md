@@ -624,13 +624,13 @@ https://us.artechhouse.com/storehome.aspx</br>
 <summary>Little Tricks​</summary>
 <br>
 
-• Illegaly left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
+• Illegally left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
 • Illegaly forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
 • Illegally pressures you to produce evidence against yourself.</br>
-• Illegaly put GPS in your vehicle (GSM Chip).</br>
-• Illegaly use trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
-• Illegaly use facial regonition cammeras spread in the city or in public transport.</br>
-• Illegaly use state database or state informants.</br>
+• Illegally put GPS in your vehicle (GSM Chip).</br>
+• Illegally use trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
+• Illegally use facial regonition cammeras spread in the city or in public transport.</br>
+• Illegally use state database or state informants.</br>
 
 <br>
 </details>
