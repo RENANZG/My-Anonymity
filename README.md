@@ -7,13 +7,13 @@
 
 <body>
 
-<div id="header" align="center">
+<div id="header">
 
 <h1>🕵🌐👤🤫 ANONYMITY 🤫👤🌐🕵</h1>
 
 <blockquote><h3>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec, and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</h3></blockquote>
 
-<img src=".data/son_of_man_1964_-_magritte_830px.png" title="Son of Man (1964) - René Magritte"/>
+<img src=".data/son_of_man_1964_-_magritte_830px.png" title="Son of Man (1964) - René Magritte" align="center"/>
 
 </div>
 
@@ -624,16 +624,17 @@ https://us.artechhouse.com/storehome.aspx</br>
 <summary>Little Tricks​</summary>
 <br>
 
-• Illegally left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
-• Illegaly forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
-• Illegally pressures you to produce evidence against yourself.</br>
-• Illegally put GPS in your vehicle (GSM Chip).</br>
-• Illegally uses trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
-• Illegally use facial regonition cammeras spread in the city or in public transport.</br>
-• Illegally use state database or state informants.</br>
-• Illegally acting as an agent provocateur.</br>
-• Acting illegally, manipulating the target's behavior so that it is further harmed.</br>
-• Acting illegally to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
+• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
+• Forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
+• Pressures you to produce evidence against yourself.</br>
+• Put GPS in your vehicle (GSM Chip).</br>
+• Uses trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
+• Use facial regonition cammeras spread in the city or in public transport.</br>
+• Use state database or state informants.</br>
+• Acting as an agent provocateur.</br>
+• Acting to manipulate  the target's behavior so that it is further harmed.</br>
+• Acting to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
+• Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points).</br>
 
 <br>
 </details>
@@ -1052,7 +1053,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <!-- ################################################# -->
 <br>
 
-<a href="https://github.com/RENANZG/My-Anonymity#-anonymity-">Back to Top ⬆</a>
+<p align="right"> <a href="https://github.com/RENANZG/My-Anonymity?tab=readme-ov-file#">Back to Top ⬆</a> </p>
 
 <!-- ################################################# -->
 
