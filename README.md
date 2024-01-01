@@ -628,9 +628,12 @@ https://us.artechhouse.com/storehome.aspx</br>
 • Illegaly forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
 • Illegally pressures you to produce evidence against yourself.</br>
 • Illegally put GPS in your vehicle (GSM Chip).</br>
-• Illegally use trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
+• Illegally uses trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
 • Illegally use facial regonition cammeras spread in the city or in public transport.</br>
 • Illegally use state database or state informants.</br>
+• Illegally acting as an agent provocateur.</br>
+• Acting illegally, manipulating the target's behavior so that it is further harmed.</br>
+• Acting illegally to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
 
 <br>
 </details>
@@ -700,7 +703,7 @@ https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-l
 <h5>Undercover Agents</h5>
 • Covert Agent - https://www.rbth.com/history/335021-kgb-guide-how-detect-foreign-spy</br>
 • Undercover Employees, Informants, and Cooperating Witnesses</br>
-
+• Agent provocateur – Person who incites others to commit incriminating acts</br>
 <h5>Interrogations and torture</h5>
 • Interrogation techniques</br>
 • US Guantanamo</br>
@@ -809,7 +812,7 @@ etc, etc, etc...</br>
 <!-- ######################### -->
 
 <details>
-<summary>General Anti-surveillance</summary>
+<summary>Brainstorm: strategy, techniques and skills</summary>
 <br>
 
 <h4>Brainstorm: strategy, techniques and skills</h4>
@@ -820,7 +823,10 @@ etc, etc, etc...</br>
 
 <h5>Governments & Politicians</h5>
 - Fear to manipulate public opinion</br>
-- Moral scandals and accusations</br>
+- Moral panic – Fear that some evil threatens society</br>
+- Obscurantism – Practice of obscuring information</br>
+- Swiftboating – Political jargon for a particular form of character assassination as a smear tactic</br>
+- Push polling – Use of polling to spread misinformation</br>
 - Negotiation and association</br>
 - Tenders with the companies themselves</br>
 - Enticement of the media and state agents</br>
@@ -830,15 +836,22 @@ etc, etc, etc...</br>
 
 <h6>Journalism</h5>
 - Whistleblowers</br>
+- Discrediting tactic – Effort to damage someone's reputation</br>
+- Hoax – Widespread deliberate fabrication presented as truth</br>
 - International Journalism Festival - https://www.youtube.com/@journalismfest</br>
 
 <h6>Mass Media</h5>
 - Hollywood Propaganda (films, docs etc)</br>
+- Propaganda – Communication used to influence opinion</br>
 - Steve Bannon - Cambridge Analytica</br>
+- Fear, uncertainty, and doubt - Fear, uncertainty and doubt (often shortened to FUD) is a manipulative propaganda tactic used in sales, marketing, public relations, politics, polling and cults. FUD is generally a strategy to influence perception by disseminating negative and dubious or false information, and is a manifestation of the appeal to fear.</br>
+https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Spies</h5>
 - Books about american, british and russian spies</br>
 - Dead drop technique</br>
+- Denial and deception – Framework in military intelligence theory</br>
+- False flag – Covert operation designed to deceive</br>
 - Books, books, books...</br>
  
 <h5>Anarchists</h5>
