@@ -729,6 +729,8 @@ https://us.artechhouse.com/storehome.aspx</br>
 • Acting to manipulate  the target's behavior so that it is further harmed.</br>
 • Acting to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
 • Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points).</br>
+• Accident simulation to get out of a safe place - https://www.youtube.com/watch?v=gq01C2kjMiM</br>
+
 
 <br>
 </details>
