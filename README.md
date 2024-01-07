@@ -23,8 +23,6 @@
 
 <div class="container">
 
-
-
 <div id="block1">
   
 <h3>BEST REFERENCES</h3>
@@ -342,9 +340,9 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <h4>Secure Operating Systems</h4>
 
-<h4>Tails</h4>
-
 <p>1.PRIVACY/tails-install.sh</p>
+
+<h4>Tails</h4>
 
 <p>Tor Wiki - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/OperationalSecurity</p>
 
@@ -356,12 +354,14 @@ https://github.com/Attacks-on-Tor/Attacks-on-Tor</br>
 
 <h4>Whonix</h4>
 https://www.whonix.org</br>
+https://forums.whonix.org</br>
 
-<h4>Tails Vs. Whonix</h4>
+<p>Tails Vs. Whonix</p>
 https://www.whonix.org/wiki/Comparison_with_Others</br>
 
 <h4>QubesOS</h4>
 https://www.qubes-os.org</br>
+https://forum.qubes-os.org</br>
 https://osresearch.net/InstallingOS</br>
 
 <br>
@@ -454,6 +454,8 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 • https://github.com/GNU-Linux-libre/Awesome-Session-Group-List</br>
 
 <h5>• Signal</h5>
+• https://signal.org/android/apk/</br>
+• https://github.com/signalapp</br>
 • https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Signal Did NOT Get Hacked - https://www.youtube.com/watch?v=QEq2JQ6nzuQ</br>
 
@@ -627,6 +629,10 @@ https://github.com/anonaddy/anonaddy</br>
 • Product Liability landmark - Omegle</br>
 
 <h4>Geolocation</h4>
+
+<h5>• MAC Address</h5>
+
+https://www.whonix.org/wiki/MAC_Address</br>
 
 <h5>• Opt-Out WLAN-SSID</h5>
 
