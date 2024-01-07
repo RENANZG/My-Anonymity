@@ -81,18 +81,19 @@
 
 <td valign="top" style="height:25%">
 <a href="https://www.reddit.com/r/privacy" target="_blank" rel="noopener noreferrer">r/privacy</a></br>
-<a href="https://www.reddit.com/r/opsec/" target="_blank" rel="noopener noreferrer">r/opsec</a></br>
-<a href="https://www.reddit.com/r/redteamsec" target="_blank" rel="noopener noreferrer">r/redteamsec</a></br> 
-<a href="https://www.reddit.com/r/netsec" target="_blank" rel="noopener noreferrer">r/netsec</a></br> 
 <a href="https://www.reddit.com/r/onion" target="_blank" rel="noopener noreferrer">r/onion</a></br>
-<a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br> 
+<a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br>
 <a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
-<a href="https://www.reddit.com/r/computerforensics" target="_blank" rel="noopener noreferrer">r/computerforensics</a></br> 
-<a href="https://www.reddit.com/r/Smartphoneforensics" target="_blank" rel="noopener noreferrer">r/Smartphoneforensics</a></br> 
-<a href="https://www.reddit.com/r/antiforensics" target="_blank" rel="noopener noreferrer">r/antiforensics</a></br> 
-<a href="https://www.reddit.com/r/crypto" target="_blank" rel="noopener noreferrer">r/crypto</a></br> 
-<a href="https://www.reddit.com/r/Piracy" target="_blank" rel="noopener noreferrer">r/Piracy</a></br> 
-<a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br> 
+<a href="https://www.reddit.com/r/opsec/" target="_blank" rel="noopener noreferrer">r/opsec</a></br>
+<a href="https://www.reddit.com/r/redteamsec" target="_blank" rel="noopener noreferrer">r/redteamsec</a></br>
+<a href="https://www.reddit.com/r/netsec" target="_blank" rel="noopener noreferrer">r/netsec</a></br>
+<a href="https://www.reddit.com/r/computerforensics" target="_blank" rel="noopener noreferrer">r/computerforensics</a></br>
+<a href="https://www.reddit.com/r/Smartphoneforensics" target="_blank" rel="noopener noreferrer">r/Smartphoneforensics</a></br>
+<a href="https://www.reddit.com/r/antiforensics" target="_blank" rel="noopener noreferrer">r/antiforensics</a></br>
+<a href="https://www.reddit.com/r/conspiracy" target="_blank" rel="noopener noreferrer">r/conspiracy</a></br>
+<a href="https://www.reddit.com/r/crypto" target="_blank" rel="noopener noreferrer">r/crypto</a></br>
+<a href="https://www.reddit.com/r/Piracy" target="_blank" rel="noopener noreferrer">r/Piracy</a></br>
+<a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br>
 <a href="https://www.reddit.com/r/oopsec/" target="_blank" rel="noopener noreferrer">r/oopsec</a></br>
 <a href="https://www.reddit.com/r/privacymemes" target="_blank" rel="noopener noreferrer">r/privacymemes</a></br>
 <a href="https://www.reddit.com/r/ghostguns" target="_blank" rel="noopener noreferrer">r/ghostguns</a></br>
@@ -228,15 +229,24 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
+<div id="anondev1">
 <details>
-<summary><b>Anonymous devloper</b>​​​​​</summary>
+<summary><b>Anonymous Developer</b></summary>
 <br>
 
-<h3>How to create an anonymous GitHub</h3>
+<!-- ###################### -->
+
+<div id="anondev2">
+
+<details>
+<summary>&nbsp; How to create an anonymous GitHub​​​​​</summary>
+<br>
+
+<h4>How to create an anonymous GitHub</h4>
 
 Protonmail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion<br>
 
-!Outdated!<br>
+<b>Outdated !</b><br>
 
 This is a short guide to help you start developing an anonymous developer account.<br>
 
@@ -275,11 +285,13 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <br>
 </details>
+</div>
 
 <!-- ###################### -->
 
+<div id="anondev3">
 <details>
-<summary><b>How to erase GitHub history</b></summary>
+<summary>&nbsp; How to Erase GitHub History</summary>
 <br>
 
 
@@ -287,11 +299,13 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <br>
 </details>
+</div>
 
 <!-- ###################### -->
 
+<div id="anondev4">
 <details>
-<summary><b>Contribute code anonymously</b></summary>
+<summary>&nbsp; Contribute Code Anonymously on GitHub</summary>
 <br>
 
 
@@ -299,11 +313,13 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <br>
 </details>
+</div>
 
 <!-- ###################### -->
 
+<div id="anondev5">
 <details>
-<summary><b>Proxy server to support anonymous browsing</b></summary>
+<summary>&nbsp; Proxy Server to Support GitHub Anonymous Browsing</summary>
 <br>
 
 
@@ -312,35 +328,30 @@ This is a short guide to help you start developing an anonymous developer accoun
 
 <br>
 </details>
+</div>
+
+<br>
+</details>
+</div>
 
 <!-- ###################### -->
 
-
 <details>
-<summary><b>Secure operating systems</b></summary>
+<summary><b>Secure Operating Systems</b></summary>
 <br>
 
 <h4>Secure Operating Systems</h4>
 
 <h4>Tails</h4>
 
-<a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
-<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
-</a>
-<a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
-<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
-</a></br>
-<a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
-<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
-<a href="https://www.youtube.com/watch?v=47zJPU0VHSQ">
-<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D47zJPU0VHSQ" alt="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA" title="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA"/></a></br>
+<p>1.PRIVACY/tails-install.sh</p>
 
 <p>Tor Wiki - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/OperationalSecurity</p>
 
-<h4>Protocol Leak and Fingerprinting Protection</h4></br> 
+<h4>Protocol Leak and Fingerprinting Protection</h4></br>
 https://www.whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers</br>
 
-<h4>Attacks on Tor</h4></br> 
+<h4>Attacks on Tor</h4></br>
 https://github.com/Attacks-on-Tor/Attacks-on-Tor</br>
 
 <h4>Whonix</h4>
@@ -356,16 +367,21 @@ https://osresearch.net/InstallingOS</br>
 <br>
 </details>
 
+<!-- ###################### -->
+
 <details>
-<summary><b>Secure communications</b></summary>
+<summary><b>Secure Internet</b></summary>
 <br>
 
 <h4>Anon Internet</h4>
-• Tor - https://www.torproject.org - Tor is free software and an open network that helps you defend against traffic analysis.</br>
+
+<img src=".data/Lokinet.jpg" width="640" height="320"/>
+
+• Tor - https://www.torproject.org - Tor  (The Onion Router) is free software and an open network that helps you defend against traffic analysis.</br>
 • I2P - https://geti2p.net/en/ - I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.</br>
+• Lokinet - https://github.com/loki-project/loki-network - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.</br>
 • Freenet - https://freenetproject.org - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.</br>
 • Zeronet - https://zeronet.io - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network</br>
-• Loki - https://github.com/loki-project/loki-network - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.</br>
 • IPFS - https://ipfs.io - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.</br>
 • Yggdrasil - https://yggdrasil-network.github.io/about.html - Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.</br>
 • Nym - https://github.com/nymtech/nym - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.</br>
@@ -377,7 +393,7 @@ https://osresearch.net/InstallingOS</br>
 • Choosing the best VPN (for you) - https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2</br>
 • Choosing the VPN that's right for you - https://ssd.eff.org/en/module/choosing-vpn-thats-right-you</br>
 • VPN Alert - https://vpnalert.com</br>
-https://github.com/alancnet/torrent-vpn</br> 
+https://github.com/alancnet/torrent-vpn</br>
 • That One Privacy Site - https://thatoneprivacysite.net/vpn-section</br>
 • privacytools.io - https://www.privacytools.io</br>
 • VPN over SSH - https://wiki.archlinux.org/index.php/VPN_over_SSH</br>
@@ -387,7 +403,7 @@ https://github.com/alancnet/torrent-vpn</br>
 • Mullvad - http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion</br>
 • ProtonVPN - https://protonvpn.com</br>
 • AirVPN - https://airvpn.org</br>
-• IVPN - https://www.ivpn.net</br> 
+• IVPN - https://www.ivpn.net</br>
 • VPN.XXX - https://www.vpn.xxx</br>
 • Windscribe - https://windscribe.com</br>
 • ExpressVPN - https://www.expressvpn.com/vpnmentor1</br>
@@ -398,18 +414,48 @@ https://github.com/alancnet/torrent-vpn</br>
 • TorPlusVPN - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN
 • Proxy - https://www.rapidseedbox.com/blog/vpn-vs-proxy</br>
 
-<h4>Anonymous Communication</h4>
+<br>
+</details>
 
-👷🛠️UNDER CONSTRUCTION🚧🏗<br>
+<!-- ###################### -->
 
-• Matrix Protocol - https://matrix.org</br>
+<details>
+<summary><b>Secure Communication</b></summary>
+<br>
 
-• Signal - https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
+• Chat Secure</br>
+https://chatsecure.org</br>
 
-• Discord Bot</br>
+• XMPP vs Matrix vs MQTT</br>
+https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protocol-is-best-for-your-chat-application</br>
 
-<h4>Anonymous File Transfer</h4>
-• Onion Share - https://github.com/onionshare/onionshare</br>
+<h4>Chats</h4>
+
+<img src=".data/ComApps.png" width="640" height="320"/>
+
+<h4>Matrix Protocol</h4>
+• https://matrix.org</br>
+• https://github.com/matrix-org</br>
+• https://en.wikipedia.org/wiki/Matrix_(protocol)</br>
+• https://www.reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix</br>
+
+<h5>• XMPP</h5>
+• https://github.com/profanity-im/profanity</br>
+• https://github.com/zom/zom-android</br>
+• http://conversations.im</br>
+• https://github.com/psi-im/psi</br>
+• https://github.com/dino/dino</br>
+• https://github.com/nioc/xmpp-web</br>
+
+<h5>• Session</h5>
+• https://github.com/oxen-io/session-desktop</br>
+• https://github.com/oxen-io/session-android</br>
+• https://arxiv.org/pdf/2002.04609.pdf
+• https://github.com/GNU-Linux-libre/Awesome-Session-Group-List</br>
+
+<h5>• Signal</h5>
+• https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
+• Signal Did NOT Get Hacked - https://www.youtube.com/watch?v=QEq2JQ6nzuQ</br>
 
 <h4>Email</h4>
 
@@ -440,9 +486,62 @@ https://github.com/alancnet/torrent-vpn</br>
 • https://www.snapmail.cc</br>
 • https://www.linshi-email.com</br>
 
+<br>
+</details>
+
+<!-- ###################### -->
+
+<details>
+<summary><b>Secure File Sharing</b></summary>
+<br>
+
+<h4>Anonymous File Sharing Services and Temporary Online Storage</h4>
+
+<h4>• Onion Share</h4>
+https://github.com/onionshare/onionshare<br>
+
+<h4>• Tempsend</h4>
+https://tempsend.com<br>
+
+<h4>• WeTransfer</h4>
+https://wetransfer.com
+
+<h4>• Send Anywhere</h4>
+https://send-anywhere.com<br>
+
+<h4>• SendGB</h4>
+https://www.sendgb.com<br>
+
+<h4>• Volafile</h4>
+https://volafile.org<br>
+
+<h4>• SendSpace</h4>
+https://www.sendspace.com<br>
+
+<h4>• MyAirBridge</h4>
+https://www.myairbridge.com/en/eng<br>
+
+<h4>• Gofile</h4>
+https://gofile.io/welcome<br>
+
+<h4>• OTF One Time File</h4>
+https://gofile.io/welcome<br>
+
+<h4>• Bitwarden Send</h4>
+https://bitwarden.com/products/send<br>
+
+<br>
+</details>
+
+<!-- ###################### -->
+
+<details>
+<summary><b>Utilities and Generators</b></summary>
+<br>
+
 <h4>Utilities and Spoof</h4>
 • Text Fixer - https://www.textfixer.com</br>
-• SS64 Syntax Utils - https://ss64.com</br> 
+• SS64 Syntax Utils - https://ss64.com</br>
 • Tools4noobs - https://www.tools4noobs.com</br>
 • Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
 • Commonly Used Software Development Tools - https://ctool.dev
@@ -468,13 +567,13 @@ https://github.com/alancnet/torrent-vpn</br>
 • Fake Name Generator - https://www.fakenamegenerator.com</br>
 • Fake Address, Random Address Generator - https://www.fakeaddressgenerator.com/Index/index</br>
 • Behind the Name - https://www.behindthename.com/random</br>
-• Easy Random Name Picker - https://randomwordgenerator.com/name.php</br> 
-• Random User Generator - https://randomuser.me</br> 
-• ID Free Site - https://id.ifreesite.com</br> 
+• Easy Random Name Picker - https://randomwordgenerator.com/name.php</br>
+• Random User Generator - https://randomuser.me</br>
+• ID Free Site - https://id.ifreesite.com</br>
 • Fake ID - https://www.elfqrin.com/fakeid.php</br>
-• Credit Card Generator - https://www.elfqrin.com/discard_credit_card_generator.php</br> 
-• Credit Card BINs generator and validator - https://www.elfqrin.com/credit_card_bin_generator.php</br> 
-• US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator - https://www.elfqrin.com/usssndriverlicenseidgen.php</br> 
+• Credit Card Generator - https://www.elfqrin.com/discard_credit_card_generator.php</br>
+• Credit Card BINs generator and validator - https://www.elfqrin.com/credit_card_bin_generator.php</br>
+• US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator - https://www.elfqrin.com/usssndriverlicenseidgen.php</br>
 • US Car License Plates Registration Tags Generator - https://www.elfqrin.com/uscarlicenseplates.php</br>
 • airob0t/idcardgenerator - https://github.com/airob0t/idcardgenerator</br>
 • gh0stkey/RGPerson - https://github.com/gh0stkey/RGPerson</br>
@@ -512,42 +611,31 @@ https://fitgirl-repacks.site</br>
 
 <h4>Self-hosting</h4>
 https://www.reddit.com/r/selfhosted</br>
-https://github.com/awesome-selfhosted/awesome-selfhosted</br> 
+https://github.com/awesome-selfhosted/awesome-selfhosted</br>
 https://github.com/syncthing/syncthing</br>
 https://github.com/anonaddy/anonaddy</br>
 
 
 <h4>EXIF Tools</h4>
+• exiftool (CLI)- https://exiftool.org - </br>
 • exifcleaner (GUI)- https://github.com/szTheory/exifcleaner/releases/latest</br>
-• exiftool (CLI)- https://exiftool.org</br>
 • Exif Pilot - https://www.colorpilot.com/exif.html</br>
 • Vereexif - https://www.verexif.com/en/</br>
 
-• Deceptive Patterns</br> 
-https://www.deceptive.design</br> 
+<h4>Deceptive Patterns</h4>
+• Seceptive Design - https://www.deceptive.design</br>
+• Product Liability landmark - Omegle</br>
 
+<h4>Geolocation</h4>
 
-<h4>• Random MAC Address</h4>
-
-<pre>
-&nbsp; 
-&nbsp; &nbsp; $ ip link
-&nbsp; &nbsp; $ sudo ifconfig wlan0 down
-&nbsp; &nbsp; $ sudo macchanger -r wlan0
-&nbsp; &nbsp; • Shows specified MAC Address of NIC
-&nbsp; &nbsp; $ sudo macchanger -s wlan0
-&nbsp; &nbsp; $ sudo ifconfig wlan0 up
-</pre>
-
-<h4>• Opt-Out WLAN-SSID</h4>
+<h5>• Opt-Out WLAN-SSID</h5>
 
 To opt-out of <b>global maps</b> (https://wigle.net), rename your network WiFi SSID to
 <pre> &lt;SSID&gt;_optout_nomap </pre>
 
-<h3>• To opt-out of Mozilla Location Services</h3>
+<h5>• To opt-out of Mozilla Location Services</h5>
 
 Go to https://location.services.mozilla.com/optout</br>
-
 
 <br>
 </details>
@@ -566,7 +654,7 @@ Go to https://location.services.mozilla.com/optout</br>
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <details>
-<summary>Biometrics Anti-surveillance​</summary>
+<summary><b>Biometrics Anti-surveillance</b>​</summary>
 <br>
 
 <h4>Facial Recognition</h4>
@@ -575,22 +663,22 @@ Go to https://location.services.mozilla.com/optout</br>
 https://www.usenix.org/conference/usenixsecurity20/presentation/shan</br>
 https://github.com/Shawn-Shan/fawkes</br>
 
-• Invisible Mask: Practical Attacks on Face Recognition with Infrared</br> 
-https://arxiv.org/pdf/1803.04683.pdf</br> 
-https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared</br> 
+• Invisible Mask: Practical Attacks on Face Recognition with Infrared</br>
+https://arxiv.org/pdf/1803.04683.pdf</br>
+https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared</br>
 
-• Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models</br> 
-https://arxiv.org/abs/2111.10759</br> 
+• Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models</br>
+https://arxiv.org/abs/2111.10759</br>
 https://www.youtube.com/watch?v=_TXkDO5z11w</br>
 
-• A Poisoning Attack Against Unsupervised Template Updating"</br>
+• A Poisoning Attack Against Unsupervised Template Updating</br>
 https://github.com/ssloxford/biometric-backdoors</br>
 
 <h4>ADVERSARIAL MACHINE LEARNING</h4>
 https://github.com/yenchenlin/awesome-adversarial-machine-learning</br>
 
 <h4>FINGERPRINT RECOGNITION</h4>
-• DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing</br> 
+• DEF CON Safe Mode - Yamila Levalle - Bypassing Biometric Systems with 3D Printing</br>
 https://www.youtube.com/watch?v=hJ35ApLKpN4</br>
 
 <br>
@@ -599,13 +687,13 @@ https://www.youtube.com/watch?v=hJ35ApLKpN4</br>
 <!-- ######################### -->
 
 <details>
-<summary>Physical Anti-surveillance</summary>
+<summary><b>Physical Anti-surveillance</b></summary>
 <br>
 
 <h4>Physical Anti-surveillance</h4>
 
-https://paladinpressbooks.com</br> 
-https://us.artechhouse.com/storehome.aspx</br> 
+https://paladinpressbooks.com</br>
+https://us.artechhouse.com/storehome.aspx</br>
 
 <h4>Hidden Objects</h4>
 
@@ -621,14 +709,14 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary>Little Tricks​</summary>
+<summary><b>Little Tricks</b>​</summary>
 <br>
 
-• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
+• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement, ).</br>
 • Forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
 • Pressures you to produce evidence against yourself.</br>
-• Put GPS in your vehicle (GSM Chip).</br>
-• Uses trakers (e. g. FirstMile, IMSI Cachers, Drones).</br>
+• Put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
+• Uses trakers (e. g. FirstMile, IMSI Cachers, Drones, case Wong Sun etc).</br>
 • Use facial regonition cammeras spread in the city or in public transport.</br>
 • Use state database or state informants.</br>
 • Acting as an agent provocateur.</br>
@@ -642,7 +730,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary>Documents</summary>
+<summary><b>Documents</b></summary>
 <br>
 
 <h4>Registre Exp</h4>
@@ -659,7 +747,20 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary>Business Intelligence</summary>
+<summary><b>AirBnB Strategy</b></summary>
+<br>
+
+• AirBnB paid with monero</br>
+
+https://www.reddit.com/r/Monero/comments/75tm5q/i_have_created_a_crypto_airbnb_accepting_btc_and</br>
+
+<br>
+</details>
+
+<!-- ######################### -->
+
+<details>
+<summary><b>Business Intelligence</b></summary>
 <br>
 
 <h4>Financial Intelligence</h4>
@@ -681,7 +782,7 @@ https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-l
 <!-- ######################### -->
 
 <details>
-<summary>Criminal Investigation</summary>
+<summary><b>Criminal</b></summary>
 <br>
 
 <h4>Criminal Investigation</h4>
@@ -705,6 +806,7 @@ https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-l
 • Covert Agent - https://www.rbth.com/history/335021-kgb-guide-how-detect-foreign-spy</br>
 • Undercover Employees, Informants, and Cooperating Witnesses</br>
 • Agent provocateur – Person who incites others to commit incriminating acts</br>
+
 <h5>Interrogations and torture</h5>
 • Interrogation techniques</br>
 • US Guantanamo</br>
@@ -716,7 +818,7 @@ https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-l
 <!-- ######################### -->
 
 <details>
-<summary>Others</summary>
+<summary><b>Others</b></summary>
 <br>
 
 <h4>Others</h4>
@@ -743,7 +845,7 @@ https://inteltechniques.com/links.html</br>
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <details>
-<summary>Considerations</summary>
+<summary><b>Considerations</b></summary>
 <br>
 
 <h4>Considerations - Notebooks</h4>
@@ -771,7 +873,7 @@ https://inteltechniques.com/links.html</br>
 <!-- ######################### -->
 
 <details>
-<summary>Interesting News</summary>
+<summary><b>Interesting News</b></summary>
 <br>
 
 <h4>https://theintercept.com</h4>
@@ -813,7 +915,7 @@ etc, etc, etc...</br>
 <!-- ######################### -->
 
 <details>
-<summary>Brainstorm: strategy, techniques and skills</summary>
+<summary><b>Brainstorm</b></summary>
 <br>
 
 <h4>Brainstorm: strategy, techniques and skills</h4>
@@ -821,6 +923,8 @@ etc, etc, etc...</br>
 <h5>Strategy</h5>
 • Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
 • Analysis of fallacious speeches justified on the basis of high moral values.</br>
+
+<p>The men of the 155th Brigade of the Russian Pacific Fleet wrote an open letter to the Governor of the Primorsky Krai Oleg Kozhemiako. In the letter, the soldiers stationed in the Ugledarsky direction complain about personnel and equipment losses. They also accused the authorities of using them as "cannon fodder".</p>
 
 <h5>Governments & Politicians</h5>
 - Fear to manipulate public opinion</br>
@@ -836,12 +940,14 @@ etc, etc, etc...</br>
 - Tailor-made laws</br>
 
 <h6>Journalism</h5>
+- https://github.com/nemild/hack-the-media
 - Whistleblowers</br>
 - Discrediting tactic – Effort to damage someone's reputation</br>
 - Hoax – Widespread deliberate fabrication presented as truth</br>
 - International Journalism Festival - https://www.youtube.com/@journalismfest</br>
 
 <h6>Mass Media</h5>
+- https://github.com/nemild/hack-the-media
 - Hollywood Propaganda (films, docs etc)</br>
 - Propaganda – Communication used to influence opinion</br>
 - Steve Bannon - Cambridge Analytica</br>
@@ -854,7 +960,10 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - Denial and deception – Framework in military intelligence theory</br>
 - False flag – Covert operation designed to deceive</br>
 - Books, books, books...</br>
- 
+
+<h5>Resistance by Civilians</h5>
+- Vietcong 
+
 <h5>Anarchists</h5>
 - Books, books, books...</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
@@ -869,7 +978,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - Books, books, books...</br>
 
 <h5>Resistance Groups</h5>
-- Guerrila warfare</br>
+- Vietcong Guerrila warfare</br>
 - Books, books, books...</br>
 
 <h5>Mobsters & Droug Traffikers</h5>
@@ -902,7 +1011,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <!-- ######################### -->
 
 <details>
-<summary>Academic Considerations</summary>
+<summary><b>Academic Considerations</b></summary>
 <br>
 
 <h4>Academic Considerations</h4>
@@ -911,6 +1020,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Where is the truth? Is this all power, strength, rethoric?</h5>
 
+<h5></h5>
 • Sun Tzu (544 - 496 BC)</br>
 • Niccolò Machiavelli (1469 - 1527)</br>
 • Antonio Gramsci (1891 - 1937)</br>
@@ -922,6 +1032,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 • Hannah Arendt (1906–1975)</br>
 
+<h5></h5>
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Michel Foucault (1926 - 1984)</br>
 • Noam Chomsky (1928)</br>
@@ -934,7 +1045,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <!-- ######################### -->
 
 <details>
-<summary>Libraries</summary>
+<summary><b>Libraries</b></summary>
 <br>
 
 <DT><H3>Libraries</H3>
@@ -965,7 +1076,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <details>
-<summary>Privacy​​​ Software​ Alternatives​</summary>
+<summary><b>Privacy​​​ Software​ Alternatives</b>​</summary>
 <br>
 
 <ul>
@@ -1009,7 +1120,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <div id="block7">
 
 <details>
-<summary>Others​</summary>
+<summary><b>Others</b>​</summary>
 <br>
 
 <h4>Others</h4>
