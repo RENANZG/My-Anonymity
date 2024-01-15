@@ -1,5 +1,12 @@
 #!/bin/bash
 
+######################################################
+##  Make it executable:                             ##
+##  $ sudo chmod +x ~/Downloads/tails-install.sh    ##
+##  Then run                                        ##
+##  $ sudo bash ~/Downloads/tails-install.sh        ##
+######################################################
+
 if [ "$1" == "clean" ]; then
   find data -not -path data -not -path data/BOOTX64.efi -not -path data/.gitignore -delete
   echo "Cleaned up the data/ directory!"

@@ -538,15 +538,51 @@ https://bitwarden.com/products/send<br>
 <!-- ###################### -->
 
 <details>
-<summary><b>Utilities and Generators</b></summary>
+<summary><b>Online Utilities</b></summary>
 <br>
 
-<h4>Utilities and Spoof</h4>
+<h4>Utilities</h4>
+
 • Text Fixer - https://www.textfixer.com</br>
 • SS64 Syntax Utils - https://ss64.com</br>
 • Tools4noobs - https://www.tools4noobs.com</br>
 • Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
 • Commonly Used Software Development Tools - https://ctool.dev
+• Virus Total — https://www.virustotal.com<br>
+• Binvis — https://binvis.io<br>
+• Hybrid — https://hybrid-analysis.com<br>
+• Verexif - https://www.verexif.com/en/<br>
+• Any Run — https://app.any.run<br>
+• IP Logger — https://iplogger.org<br>
+• The ZMap Project — https://zmap.io<br>
+• Grabify IP Logger — https://grabify.link/<br>
+• IP Tracker — https://iplogger.org/ip-tracker<br>
+• IP API<br>
+&emsp; — ip-api — https://ip-api.com<br>
+&emsp; — ipify — https://www.ipify.org<br>
+&emsp; — ipapi — https://ipapi.co<br>
+&emsp; — vpnapi — https://vpnapi.io<br>
+&emsp; — ipapi — https://ipapi.com<br>
+• Location Tracker — https://iplogger.org/location-tracker<br>
+• URL checker —  https://iplogger.org/url_checker<br>
+• MAC address lookup — https://iplogger.org/mac-checker<br>
+• Name OSINT — https://namechk.com<br>
+• Message Header Analyzer — https://mha.azurewebsites.net | https://github.com/microsoft/MHA<br>
+• Reverse Shell Generator — https://www.revshells.com<br>
+• Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
+• Breach Directory - https://breachdirectory.org<br>
+• MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
+• Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
+• Web Cache - https://archive.org<br>
+
+<br>
+</details>
+
+<!-- ################################################# -->
+
+<details>
+<summary><b>Generators</b></summary>
+<br>
 
 <h4>Generators</h4>
 
@@ -567,12 +603,13 @@ https://bitwarden.com/products/send<br>
 
 <h5>Name, Address, IDs Generators</h5>
 • Fake Name Generator - https://www.fakenamegenerator.com</br>
+• Fake ID - https://www.elfqrin.com/fakeid.php</br>
+• Fake Person/Name Generator - https://www.fakepersongenerator.com/Index/generate</br>
+• Random User Generator - https://randomuser.me</br>
+• Just Delete Me - https://backgroundchecks.org/justdeleteme/fake-identity-generator</br>
 • Fake Address, Random Address Generator - https://www.fakeaddressgenerator.com/Index/index</br>
 • Behind the Name - https://www.behindthename.com/random</br>
 • Easy Random Name Picker - https://randomwordgenerator.com/name.php</br>
-• Random User Generator - https://randomuser.me</br>
-• ID Free Site - https://id.ifreesite.com</br>
-• Fake ID - https://www.elfqrin.com/fakeid.php</br>
 • Credit Card Generator - https://www.elfqrin.com/discard_credit_card_generator.php</br>
 • Credit Card BINs generator and validator - https://www.elfqrin.com/credit_card_bin_generator.php</br>
 • US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator - https://www.elfqrin.com/usssndriverlicenseidgen.php</br>
@@ -580,10 +617,8 @@ https://bitwarden.com/products/send<br>
 • airob0t/idcardgenerator - https://github.com/airob0t/idcardgenerator</br>
 • gh0stkey/RGPerson - https://github.com/gh0stkey/RGPerson</br>
 • naozibuhao/idcard - https://github.com/naozibuhao/idcard</br>
-• Just Delete Me - https://backgroundchecks.org/justdeleteme/fake-identity-generator</br>
 • Fake Person/Name Generator | User Identity, Account and Profile Generator - https://fakepersongenerator.com</br>
 • faker.js - https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html</br>
-• Fake Person/Name Generator - https://www.fakepersongenerator.com/Index/generate</br>
 • Full Contact Information Generator - https://names.igopaygo.com/people/full-contact</br>
 • My Fake Information Generator and Validator - http://www.myfakeinfo.com/index.php</br>
 • User Information Generator Articles - https://names.igopaygo.com</br>
@@ -617,9 +652,8 @@ https://github.com/awesome-selfhosted/awesome-selfhosted</br>
 https://github.com/syncthing/syncthing</br>
 https://github.com/anonaddy/anonaddy</br>
 
-
 <h4>EXIF Tools</h4>
-• exiftool (CLI)- https://exiftool.org - </br>
+• exiftool (CLI)- https://exiftool.org</br>
 • exifcleaner (GUI)- https://github.com/szTheory/exifcleaner/releases/latest</br>
 • Exif Pilot - https://www.colorpilot.com/exif.html</br>
 • Vereexif - https://www.verexif.com/en/</br>
@@ -628,7 +662,7 @@ https://github.com/anonaddy/anonaddy</br>
 • Seceptive Design - https://www.deceptive.design</br>
 • Product Liability landmark - Omegle</br>
 
-<h4>Geolocation</h4>
+<h4>Spoof</h4>
 
 <h5>• MAC Address</h5>
 
@@ -636,12 +670,14 @@ https://www.whonix.org/wiki/MAC_Address</br>
 
 <h5>• Opt-Out WLAN-SSID</h5>
 
-To opt-out of <b>global maps</b> (https://wigle.net), rename your network WiFi SSID to
-<pre> &lt;SSID&gt;_optout_nomap </pre>
+<p>To opt-out of <b>global maps</b> (https://wigle.net), rename your network WiFi SSID to
+<pre> &lt;SSID&gt;_optout_nomap </pre></p>
+
+<p>*If it is not possible to hide the SSID or it is a commercial network.</p>
 
 <h5>• To opt-out of Mozilla Location Services</h5>
 
-Go to https://location.services.mozilla.com/optout</br>
+<p>Go to https://location.services.mozilla.com/optout</p>
 
 <br>
 </details>
@@ -665,13 +701,20 @@ Go to https://location.services.mozilla.com/optout</br>
 
 <h4>Facial Recognition</h4>
 
-• Fawkes: Protecting Privacy against Unauthorized Deep Learning Models</br>
-https://www.usenix.org/conference/usenixsecurity20/presentation/shan</br>
-https://github.com/Shawn-Shan/fawkes</br>
+
+• Juan Carlos Abadia - Plastic surgery</br>
+
+https://www.vice.com/en/article/vbweqj/the-10-most-insane-moments-and-stories-from-el-chapos-trial</br>
+
+<img src=".data/Juan_Carlos_Abadia.jpg"></a>
 
 • Invisible Mask: Practical Attacks on Face Recognition with Infrared</br>
 https://arxiv.org/pdf/1803.04683.pdf</br>
 https://www.digitaltrends.com/cool-tech/facial-recognition-hat-infrared</br>
+
+• Fawkes: Protecting Privacy against Unauthorized Deep Learning Models</br>
+https://www.usenix.org/conference/usenixsecurity20/presentation/shan</br>
+https://github.com/Shawn-Shan/fawkes</br>
 
 • Adversarial Mask - Real-World Universal Adversarial Attack on Face Recognition Models</br>
 https://arxiv.org/abs/2111.10759</br>
@@ -715,22 +758,36 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Little Tricks</b>​</summary>
+<summary><b>General Little Tricks</b>​</summary>
 <br>
 
-• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement, ).</br>
+• Pressures you to produce evidence against yourself. intimidation tactic.</br>
+• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
 • Forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
-• Pressures you to produce evidence against yourself.</br>
 • Put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
-• Uses trakers (e. g. FirstMile, IMSI Cachers, Drones, case Wong Sun etc).</br>
+• Uses trakers (e. g. FirstMile, IMSI Cachers, Drones, Wong Sun case etc).</br>
 • Use facial regonition cammeras spread in the city or in public transport.</br>
 • Use state database or state informants.</br>
 • Acting as an agent provocateur.</br>
-• Acting to manipulate  the target's behavior so that it is further harmed.</br>
+• Acting to manipulate the target's behavior so that it is further harmed.</br>
 • Acting to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
 • Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points).</br>
 • Accident simulation to get out of a safe place - https://www.youtube.com/watch?v=gq01C2kjMiM</br>
 
+<br>
+</details>
+
+<!-- ######################### -->
+
+<details>
+<summary><b>Search Warrants</b>​</summary>
+<br>
+
+• Any trace will authorize a search warrant. This also authorizes a fishing expedition probatory.</br>
+
+• A minor offense to a major one, Al Capone was caught because of income tax.</br>
+
+• Law enforcment will violate the law in order to catch you (with or without a search warrant). Judges are afraid of annulling all evidence and are afraid of pressure from the media.</br>
 
 <br>
 </details>
@@ -774,7 +831,7 @@ https://www.reddit.com/r/Monero/comments/75tm5q/i_have_created_a_crypto_airbnb_a
 <h4>Financial Intelligence</h4>
 
 • Financial Intelligence Units (FIUs)</br>
-Automated triage of financial intelligence reports - Algorithms</br>
+• Automated triage of financial intelligence reports - Algorithms</br>
 
 • Artificial Intelligence, Machine Learning and Big Data in Finance</br>
 
@@ -801,7 +858,8 @@ https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-l
 
 • Trash Pull</br>
 • Malwares</br>
-• Search Warrant</br>
+• Digital forensics</br>
+• Search warrant</br>
 • Photographs enhancement techniques</br>
 • Video enhancement techniques</br>
 • Audio enhancement techniques</br>
@@ -814,6 +872,7 @@ https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-l
 • Covert Agent - https://www.rbth.com/history/335021-kgb-guide-how-detect-foreign-spy</br>
 • Undercover Employees, Informants, and Cooperating Witnesses</br>
 • Agent provocateur – Person who incites others to commit incriminating acts</br>
+• Nosy neighbors</br>
 
 <h5>Interrogations and torture</h5>
 • Interrogation techniques</br>
@@ -874,6 +933,7 @@ https://inteltechniques.com/links.html</br>
 • Organic intellectuality, institutions, economic groups and religiuous groups.</br>
 • Criminology concepts, policy of "zero tolerance", "war on drugs/terrorism", "enemy".</br>
 • UNO doesn't work as well as the Supreme Court.</br>
+• The technical apparatuses for "social control" that a "democratic" government can use for legitimate purposes are easily co-opted by "authoritarian" efforts and practices for the political persecution of "detractors" or "dissenters". Could it be that after taking over the technical or power apparatus for "social control" there would be a point of no return? Would it be like the thesis of mutual destruction of atomic power?</br>
 
 <br>
 </details>
@@ -908,6 +968,11 @@ https://truthout.org/articles/i-faced-death-by-incarceration-the-un-heard-my-ple
 
 etc, etc, etc...</br>
 
+<h4>https://www.aclu.org</h4>
+
+• Lifting the Veil on the Design of Predictive Tools in the Criminal Legal System
+https://www.aclu.org/news/racial-justice/lifting-the-veil-on-the-design-of-predictive-tools-in-the-criminal-legal-system</br>
+
 <h4>https://thehackernews.com</h4>
 
 • </br>
@@ -916,6 +981,26 @@ https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html</br
 https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 
 etc, etc, etc...</br>
+
+<br>
+</details>
+
+<!-- ######################### -->
+
+<details>
+<summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
+<br>
+
+• Taylor & Francis - Intelligence and National Security - Open access articles
+https://www.tandfonline.com/action/showOpenAccess?journalCode=fint20
+• The Journal of Intelligence, Conflict, and Warfare
+https://journals.lib.sfu.ca/index.php/jicw/issue/archive
+• CIA.gov - Center for the study of intelligence
+https://www.cia.gov/resources/csi/studies-in-intelligence/
+• DCAF - Geneva Centre for Security Sector Governance
+https://www.dcaf.ch/resources?type=publications
+• E-International Relations - Open access scholarly books 
+https://www.e-ir.info/publications/
 
 <br>
 </details>
@@ -1028,24 +1113,46 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Where is the truth? Is this all power, strength, rethoric?</h5>
 
-<h5></h5>
+<h5>Pragmatism</h5>
 • Sun Tzu (544 - 496 BC)</br>
 • Niccolò Machiavelli (1469 - 1527)</br>
-• Antonio Gramsci (1891 - 1937)</br>
 
-• Gaston Bachelard (1884 - 1962)</br>
-• Karl Popper (1902 - 1994)</br>
+<h5>Social Contract Theory</h5>
+• Thomas Hobbes ( - )</br>
+
+<h5>Left or right-wing ?</h5>
+• Pierre-Joseph Proudhon ( - )</br>
+
+<h5>Theology</h5>
+• Carl Schmitt ( - )</br>
+
+<h5>Politcs Left-Wing</h5>
+• Karl Marx ( - )</br>
+• Antonio Gramsci (1891 - 1937)</br>
 • Nicos Poulantzas (1936 - 1979)</br>
 • Louis Althusser (1918 - 1990)</br>
-
 • Hannah Arendt (1906–1975)</br>
 
-<h5></h5>
+<h5>Politcs Right-Wing</h5>
+• John Locke (1632–1704)</br>
+• Adam Smith (1723-1790)</br>
+• Milton Friedman ( - )</br>
+• Ludwig von Mises ( - )</br>
+• Friedrich Hayek ( - )</br>
+
+<h5>Epistemology</h5>
+• Gaston Bachelard (1884 - 1962)</br>
+• Karl Popper (1902 - 1994)</br>
+
+<h5>Pernicious</h5>
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Michel Foucault (1926 - 1984)</br>
+• Giorgio Agamben (1942)</br>
+
+<h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
 • Slavoj Žižek (1949)</br>
-• Giorgio Agamben (1942)</br>
+• Byung-Chul Han (1959)</br>
 
 <br>
 </details>
