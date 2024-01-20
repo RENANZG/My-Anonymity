@@ -232,7 +232,7 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 <summary><b>Anonymous Developer</b></summary>
 <br>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <div id="anondev2">
 
@@ -285,7 +285,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 </details>
 </div>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <div id="anondev3">
 <details>
@@ -299,7 +299,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 </details>
 </div>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <div id="anondev4">
 <details>
@@ -313,7 +313,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 </details>
 </div>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <div id="anondev5">
 <details>
@@ -332,7 +332,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 </details>
 </div>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <details>
 <summary><b>Secure Operating Systems</b></summary>
@@ -367,7 +367,7 @@ https://osresearch.net/InstallingOS</br>
 <br>
 </details>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <details>
 <summary><b>Secure Internet</b></summary>
@@ -417,7 +417,7 @@ https://github.com/alancnet/torrent-vpn</br>
 <br>
 </details>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <details>
 <summary><b>Secure Communication</b></summary>
@@ -459,6 +459,167 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 • https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Signal Did NOT Get Hacked - https://www.youtube.com/watch?v=QEq2JQ6nzuQ</br>
 
+<!-- ########## -->
+<div>
+<details>
+<summary><b>Telegram</b></summary>
+<br>
+
+<p>Beware of impersonators (carefully check out Telegram bio as the scammer may insert any nickname to his bio and leave his own nickname blank), fake <a href="https://medium.com/immunefi/how-not-to-get-hacked-on-telegram-2db2b93a5fa2" rel="noreferrer" target="_blank">notifications</a> about logging into Telegram (<a href="https://hacken.io/discover/top-7-social-engineering-frauds-in-crypto/" rel="noreferrer" target="_blank">check</a> out them carefully, they should come into the official telegram news &amp; tips channel) with a phishing link, fake bots (yep, bots - not user accounts - may DM first) <a href="https://twitter.com/officer_cia/status/1569951983271907328?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1569951983271907328%7Ctwgr%5Eb80f078d6f5711b3dd78b8429b80fc0a99e98d68%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fofficercia.mirror.xyz%2Fdlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8" rel="noreferrer" target="_blank">and so on</a>.</p>
+
+<blockquote>
+<p>NONE of the telegram chats are E2E encrypted not 1:1, not groups - only TLS. Only the secret chat one iirc!</p>
+</blockquote>
+
+<h3>Settings:</h3>
+
+<ul>
+<li>
+<p>Phone Number → Who can see my phone number — Nobody.</p>
+</li>
+<li>
+<p>Data and Storage → Auto Download Media → Toggle off</p>
+</li>
+<li>
+<p>Phone Number → Who can find me by my number — My Contacts.</p>
+</li>
+<li>
+<p>Last Seen &amp; Online → Who can see my timestamp — Nobody.</p>
+</li>
+<li>
+<p>Profile photo → Who can see my profile photo — My Contacts.</p>
+</li>
+<li>
+<p>Calls → Who can call me — My Contacts (or Nobody, if you prefer).</p>
+</li>
+<li>
+<p>Calls→ Peer-to-peer — My contacts (or Nobody, if you prefer not to share your IP address with chat partners).</p>
+</li>
+<li>
+<p>When you start the call, you will see four emojis at the top right corner - ask the person you are calling to name them and compare them to yours (they should be the same as yours). This is protection from MitM.</p>
+</li>
+<li>
+<p>Forwarded Messages → Who can add a link to my account when forwarding my messages — My Contacts.</p>
+</li>
+<li>
+<p>Never add contacts to Telegram (if there are any - erase them), and always use VPN.</p>
+</li>
+<li>
+<p>Groups &amp; Channels → Who can add me — My Contacts.</p>
+</li>
+<li>
+<p>Set up a 2FA (cloud password)!</p>
+</li>
+<li>
+<p>Disable sticker loop animation! Animated Stickers = danger.</p>
+</li>
+<li>
+<p>Disable auto-downloading (both wi-fi and cellular): Privacy &amp; Security → Data Settings !</p>
+</li>
+<li>
+<p>Disable P2P calls for everyone as it may expose your IP! <strong>Same with secret chats!</strong> End-to-End encryption means thats your IP will become known the person you’re chatting with. <a href="https://mothership.sg/2023/01/circles-life-esim-swap-fraud/" rel="noreferrer" target="_blank">And vice versa.</a></p>
+</li>
+<li>
+<p>Disable link &amp; image previews in secret chats, scroll down in a Privacy and Security section!</p>
+</li>
+<li>
+<p><a href="https://www.csa.gov.sg/singcert/Advisories/ad-2022-013" rel="noreferrer" target="_blank">Disable autoplay GIFs!</a></p>
+</li>
+<li>
+<p>Never activate (via <strong>/start</strong>) any <a href="https://www.cqcore.uk/telegram-osint-vm-part-2/" rel="noreferrer" target="_blank">telegram</a> bot! Do not even touch telegram bots (only public chat bots are considered safe, you can operate them in a public chat via commands), never DM a Telegram bot! (any button can contain a SQLi vulnerability or even worse)!</p>
+</li>
+<li>
+<p>If you have to open PDF (CV for example), use <a href="https://dangerzone.rocks/" rel="noreferrer" target="_blank">dangerzone.rocks</a> or google drive preview regime (ask to upload)!</p>
+</li>
+<li>
+<p>Watch out active session! <a href="https://innovation-village.com/ncc-warns-a-new-malware-steals-telegram-users-data-without-two-factor-authentication/" rel="noreferrer" target="_blank">Terminate inactive sessions!</a> Watch out <a href="https://www.zdnet.com/article/telegrab-malware-hijacks-telegram-chat-sessions/" rel="noreferrer" target="_blank">session stealers!</a></p>
+</li>
+<li>
+<p>If you receive a message about logging into your account - <strong>check that it is on a legitimate <a href="https://www.cqcore.uk/telegram-osint-vm-part-2/" rel="noreferrer" target="_blank">telegram</a> notification &amp; news channel.</strong> Scammers can impersonate this notification channel to force you to give them the OTR code from the SMS.</p>
+</li>
+<li>
+<p><a href="https://telegra.ph/How-to-configure-Telegram-security-and-privacy-07-21" rel="noreferrer" target="_blank">Check out this list!</a></p>
+</li>
+<li>
+<p><a href="https://github.com/tginfo/Telegram-Limits" rel="noreferrer" target="_blank">This project describes Telegram limitations!</a> | <a href="https://crowdin.com/project/telegram-limits" rel="noreferrer" target="_blank">Link 2</a></p>
+</li>
+<li>
+</li>
+</ul>
+
+
+
+<br>
+</details>
+</div>
+<!-- ########## -->
+<div>
+<details>
+<summary><b>Discord</b></summary>
+<br>
+
+<h3>A couple of basic tips:</h3>
+
+<ul>
+<li>
+<p>Use a randomly generated <a href="https://0xrusowsky.substack.com/p/on-operational-security" rel="noreferrer" target="_blank">password</a>. Grab a password generator like BitWarden and use it to generate and store your passwords. It’s 2021. You can’t afford to use lame passwords stored in .txt files on your computer, especially when your crypto is at risk. Be smart and sleep better at night.</p>
+</li>
+<li>
+<p>Turn on two-factor authentication (2FA) in Discord. You can find this setting in User Settings on Discord. <a href="https://medium.com/immunefi/how-to-avoid-blockchain-blackhats-on-discord-78e4f278c4a2" rel="noreferrer" target="_blank">Discord</a> allows you to use Aegis, Authy (disable multi-device for a better OpSec) or other methods.</p>
+</li>
+<li>
+<p>Configure privacy settings, which you can find in <a href="https://github.com/mpgn/discord-e2e-encryption" rel="noreferrer" target="_blank">Privacy</a> &amp; Safety under User Settings. Choose whether you want to allow direct messages from server members or not. It’s up to you. Note, however, that if you have DMs turned off, then if you join a server with a Captcha or Verification bot that authenticates you via DM, you may not be able to use it. Check the server information to see if open DMs are required for that server.</p>
+</li>
+<li>
+<p>In Privacy &amp; Safety, select who can add you as a friend. If you’re extra paranoid, you can prevent anyone from adding you as a friend, or you can allow it just for members of the same server.</p>
+</li>
+<li>
+<p><a href="https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg" rel="noreferrer" target="_blank">Run a VPN!</a> Or rent a VPS and bootstrap an open-source <a href="https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg" rel="noreferrer" target="_blank">VPN</a> server!</p>
+</li>
+</ul>
+
+<hr>
+
+<h3>One of the most dangerous scams, as an example:</h3>
+
+<p>Judging from the&nbsp;<a href="https://twitter.com/LittlelemonsNFT/status/1477923368053706755" rel="noreferrer" target="_blank">original tweet</a>, the story goes like this:</p>
+
+<ul>
+<li>
+<p>A scammer picks a <a href="https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk" rel="noreferrer" target="_blank">target</a> — our victim — who has a presence on a Discord channel.</p>
+</li>
+<li>
+<p>The scammer creates a fake user on the channel impersonating the target.</p>
+</li>
+<li>
+<p>He then starts spamming, scamming or trash-talking in the channel with an intent to get banned.</p>
+</li>
+<li>
+<p>Discord channel moderators see the mayhem and work to ban this account. Our scammer had skillfully used some known Discord Nitro tricks to manipulate his account user nickname. This way, the channel moderators are fooled into banning the account of the target (and, possibly, the account of the scammer).</p>
+</li>
+<li>
+<p>After seeing that the target is <a href="https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80" rel="noreferrer" target="_blank">banned</a>, the scammer creates a manipulated image of a fake discussion among the Discord channel’s team members about the target’s ban.</p>
+</li>
+<li>
+<p>Then, impersonating the channel’s moderator, the scammer reaches out to the target via a DM. The target is surprised that he/she has been banned and starts to uncritically accept the words of the scammer who appears to offer help.</p>
+</li>
+<li>
+<p>The scammer fakes urgency insisting that the situation needs to be remedied right now. He asks the target to prove innocence and to come on a Discord call.</p>
+</li>
+<li>
+<p>The scammer convinces the target to share the Discord Web UI computer screen and instructs the target to open Discord Developer Tools and reveal the Discord token. This token can be used to take full control of the account (without the password, and bypassing the Two Factor Authentication).</p>
+</li>
+<li>
+<p>All this fancy manipulation leads to the scammer gaining full control of the target’s Discord account — he can now cause damage to the victim or the victim’s company.</p>
+</li>
+</ul>
+
+<br>
+</details>
+</div>
+<!-- ########## -->
+
+
 <h4>Email</h4>
 
 <b>Privacy</b></br>
@@ -491,7 +652,7 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 <br>
 </details>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <details>
 <summary><b>Secure File Sharing</b></summary>
@@ -535,7 +696,7 @@ https://bitwarden.com/products/send<br>
 <br>
 </details>
 
-<!-- ###################### -->
+<!-- #################### -->
 
 <details>
 <summary><b>Online Utilities</b></summary>
@@ -1070,6 +1231,9 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Aboriginal Groups</h5>
 - Books, books, books...</br>
 
+<h5>Strategy of Catholic Evangelization</h5>
+- Books, books, books...</br>
+
 <h5>Resistance Groups</h5>
 - Vietcong Guerrila warfare</br>
 - Books, books, books...</br>
@@ -1077,6 +1241,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Mobsters & Droug Traffikers</h5>
 - Unmasking the informant inside the cartel | Four Corners - https://www.youtube.com/watch?v=Kse32_VpTOE</br>
 - Al Capone
+- Juan Pablo Abadia
 
 <h5>Counter-culture movement</h5>
 - Books, books, books...</br>
@@ -1094,6 +1259,9 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • </br>
 
 <h5>Chilling Effect</h5>
+• </br>
+
+<h5>Sneak and Peek</h5>
 • </br>
 
 <h5>Subversion, mimicry and criminality</h5>
@@ -1148,14 +1316,18 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Michel Foucault (1926 - 1984)</br>
 • Giorgio Agamben (1942)</br>
+• Giles Deleuze (1925)</br>
+• Achille Mbembe (1957)</br>
 
 <h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
 • Slavoj Žižek (1949)</br>
-• Byung-Chul Han (1959)</br>
+• Judith Butler (1956)</br>
 
 <br>
 </details>
+
+
 
 <!-- ######################### -->
 
@@ -1289,7 +1461,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <br>
 <br>
 
-<p align="center"><img src=".data/We_Want_You_-_Anon.png"></p>
+<p align="center">He that would make his own liberty secure must guard even his enemy from oppression.<p>
 
 </div>
 
