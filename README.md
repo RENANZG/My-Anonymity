@@ -1367,7 +1367,6 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <br>
 
 <ul>
-
 <li>General</br>
 <a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter instances</a></br>
 <a href="https://docs.invidious.io/Invidious-Instances.md">Invidious instances</a></br>
