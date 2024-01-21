@@ -13,7 +13,7 @@
 
 <blockquote><h3>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec, and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</h3></blockquote>
 
-<img src=".data/son_of_man_1964_-_magritte_830px.png" title="Son of Man (1964) - René Magritte" align="center"/>
+<img src="https://github.com/RENANZG/My-Anonymity/assets/53377291/4ed82c57-5325-491d-987a-6bcf31d3acff" title="Son of Man (1964) - René Magritte" align="center"/>
 
 </div>
 
