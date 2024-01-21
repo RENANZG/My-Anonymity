@@ -13,7 +13,7 @@
 
 <blockquote><h3>"The primary threat facing someone trying to stay anonymous on the internet today is their own bad opsec, and that is precisely the same as it was in 2013. Tails and Tor reduced the number of ways anyone on my team could make dangerous mistakes, and so were crucial protections." (Edward Snowden)</h3></blockquote>
 
-<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/son_of_man_1964_-_magritte_830px.png" title="Son of Man (1964) - René Magritte" align="center"/>
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/s0n_0f_m4n_1964_-_m4gr1tt3_830px.png" title="Son of Man (1964) - René Magritte" align="center"/>
 
 </div>
 
@@ -159,31 +159,31 @@
 <!-- ################################################# -->
 <h3><a href=""></a>Privacy-Anonymity Spectrum</h3>
 
-<img src=".data/Privacy_Spectrum.png" title="Privacy-Anonymity Spectrum" width="830">
+<img src=".data/Pr1v3cy_Sp3ctrum.png" title="Privacy-Anonymity Spectrum" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3><a href=""></a>Privacy Benefits</h3>
 
-<img src=".data/Privacy_Benefits.jpg" title="Privacy Benefits" width="830">
+<img src=".data/Pr1v4cy_B3n3f1ts.jpg" title="Privacy Benefits" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3>Flag Theory - <a href="https://flagtheory.com">https://flagtheory.com</a></h3>
 
-<img src=".data/Flag_Theory.jpg" title="Flag Theory" width="830">
+<img src=".data/Fl4g_Th30ry.jpg" title="Flag Theory" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3>EFF’s “Street-Level Surveillance” - <a href="https://www.eff.org/sls">https://www.eff.org/sls</a></h3>
 
-<img src=".data/Street_Surveilance.png" title="EFF’s “Street-Level Surveillance”" width="830">
+<img src=".data/Str33t_Surv31l4nc3.png" title="EFF’s “Street-Level Surveillance”" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3><a href=""></a>Electronic Warfare</h3>
 
-<img src=".data/Electronic_Warfare.jpg" title="Electronic Warfare" width="830">
+<img src=".data/El3ctr0n1c_W4rf4r3.jpg" title="Electronic Warfare" width="830">
 
 <hr>
 <!-- ################################################# -->
@@ -198,7 +198,7 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <h4>Six basic intelligence sources, or collection disciplines</h4>
 
-<img src=".data/Intelligence_Sources.jpg" title="Intelligence Sources">
+<img src=".data/1nt3ll1gn3c3_S0urc3s.jpg" title="Intelligence Sources">
 
 <p>SIGINT — Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
 
@@ -222,7 +222,7 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <div id="block3">
 
-<img src=".data/ONLINE_ANONYMITY​​​​.png" title="Click below">
+<img src=".data/0NL1N3_4N0NYM1TY​​​​​.png" title="Click below">
 <hr>
 
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
@@ -375,7 +375,7 @@ https://osresearch.net/InstallingOS</br>
 
 <h4>Anon Internet</h4>
 
-<img src=".data/Lokinet.jpg" width="640" height="320"/>
+<img src=".data/L0k1n3t.jpg" width="640" height="320"/>
 
 • Tor - https://www.torproject.org - Tor  (The Onion Router) is free software and an open network that helps you defend against traffic analysis.</br>
 • I2P - https://geti2p.net/en/ - I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.</br>
@@ -431,7 +431,7 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 
 <h4>Chats</h4>
 
-<img src=".data/ComApps.png" width="640" height="320"/>
+<img src=".data/C0m4pps.png" width="640" height="320"/>
 
 <h4>Matrix Protocol</h4>
 • https://matrix.org</br>
@@ -851,7 +851,7 @@ https://www.whonix.org/wiki/MAC_Address</br>
 
 <div id="block4">
 
-<img src=".data/OFFLINE_ANONYMITY​​​​.png" title="Click below">
+<img src=".data/0FFL1N3_4N0NYM1TY​​​​.png" title="Click below">
 <hr>
 
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
@@ -867,7 +867,7 @@ https://www.whonix.org/wiki/MAC_Address</br>
 
 https://www.vice.com/en/article/vbweqj/the-10-most-insane-moments-and-stories-from-el-chapos-trial</br>
 
-<img src=".data/Juan_Carlos_Abadia.jpg"></a>
+<img src=".data/Ju4n_C4rl0s_4b4d14.jpg"></a>
 
 • Invisible Mask: Practical Attacks on Face Recognition with Infrared</br>
 https://arxiv.org/pdf/1803.04683.pdf</br>
@@ -1354,7 +1354,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <div id="block6">
 
-<img src=".data/PRIVACY​​​​_ALTERNATIVES​.png" title="Click below">
+<img src=".data/PR1V4CY​​​​_4LT3RN4T1V3S​​.png" title="Click below">
 <hr>
 
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
