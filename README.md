@@ -1261,9 +1261,6 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Chilling Effect</h5>
 • </br>
 
-<h5>Sneak and Peek</h5>
-• </br>
-
 <h5>Subversion, mimicry and criminality</h5>
 
 <br>
@@ -1367,6 +1364,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <br>
 
 <ul>
+
 <li>General</br>
 <a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter instances</a></br>
 <a href="https://docs.invidious.io/Invidious-Instances.md">Invidious instances</a></br>
