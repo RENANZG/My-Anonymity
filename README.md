@@ -42,7 +42,8 @@
 <a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a></br>
 <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a></br>	
 <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a></br>
-<a href="https://nomoregoogle.com/" target="_blank" rel="noopener noreferrer">No More Google</a></br>
+<a href="https://nomoregoogle.com" target="_blank" rel="noopener noreferrer">No More Google</a></br>
+<a href="https://www.cnet.com/news/privacy/" target="_blank" rel="noopener noreferrer">CNET</a></br>
 </td>
 
 <td valign="top" style="height:25%">
@@ -108,6 +109,22 @@
 <hr>
 
 <!-- ################################################# -->
+
+<h3>About Censorship of GitHub</h3>
+
+https://en.wikipedia.org/wiki/Censorship_of_GitHub<br>
+
+My GitHub account has been suddenly "flagged" and hidden from public view
+https://github.com/orgs/community/discussions/27294
+
+My GitHub account has been suddenly "flagged" and hidden from public view - how come?
+https://webapps.stackexchange.com/questions/105956/my-github-account-has-been-suddenly-flagged-and-hidden-from-public-view-how
+
+<hr>
+
+<!-- ################################################# -->
+
+<h3>About Censorship of GitHub</h3>
 
 <h3>Privacy vs. Anonymity</h3>
 
