@@ -112,19 +112,15 @@
 
 <h3>About Censorship of GitHub</h3>
 
+• Censorship of GitHub
 https://en.wikipedia.org/wiki/Censorship_of_GitHub<br>
 
-My GitHub account has been suddenly "flagged" and hidden from public view
-https://github.com/orgs/community/discussions/27294
-
-My GitHub account has been suddenly "flagged" and hidden from public view - how come?
+• My GitHub account has been suddenly "flagged" and hidden from public view - how come? <br>
 https://webapps.stackexchange.com/questions/105956/my-github-account-has-been-suddenly-flagged-and-hidden-from-public-view-how
 
 <hr>
 
 <!-- ################################################# -->
-
-<h3>About Censorship of GitHub</h3>
 
 <h3>Privacy vs. Anonymity</h3>
 
