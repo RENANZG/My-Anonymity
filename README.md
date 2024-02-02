@@ -436,6 +436,9 @@ https://github.com/alancnet/torrent-vpn</br>
 <summary><b>Secure Communication</b></summary>
 <br>
 
+• Anonymous Chat, IRC, XMPP in Whonix.</br>
+https://www.whonix.org/wiki/Chat</br>
+
 • Chat Secure</br>
 https://chatsecure.org</br>
 
@@ -471,6 +474,9 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 • https://github.com/signalapp</br>
 • https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Signal Did NOT Get Hacked - https://www.youtube.com/watch?v=QEq2JQ6nzuQ</br>
+
+
+https://www.whonix.org/wiki/HexChat
 
 <!-- ########## -->
 <div>
@@ -937,7 +943,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 
 • Pressures you to produce evidence against yourself. intimidation tactic.</br>
 • Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
-• Forces your lawyer/psychiatrist to violate ethical confidentiality.</br>
+• Forces your lawyer/doctor/priest to violate ethical confidentiality.</br>
 • Put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
 • Uses trakers (e. g. FirstMile, IMSI Cachers, Drones, Wong Sun case etc).</br>
 • Use facial regonition cammeras spread in the city or in public transport.</br>
