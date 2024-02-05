@@ -565,14 +565,13 @@ https://www.whonix.org/wiki/HexChat
 <li>
 </li>
 </ul>
-
-
-
 <br>
 </details>
+
 </div>
 <!-- ########## -->
 <div>
+
 <details>
 <summary><b>Discord</b></summary>
 <br>
@@ -638,6 +637,10 @@ https://www.whonix.org/wiki/HexChat
 </div>
 <!-- ########## -->
 
+<h4>Social Media</h4>
+• Mastodon - https://mastodon.social</br>
+• Nostr - https://nostr.com</br>
+• Lemmy - https://join-lemmy.org</br>
 
 <h4>Email</h4>
 
@@ -1477,11 +1480,10 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <br>
 <br>
 
-<p align="center">He that would make his own liberty secure must guard even his enemy from oppression.<p>
-
+<p align="center">Made with ♥</p>
 </div>
 
-<!-- ################################################# -->
+<!--################################### -->
 
 </body>
 </html>
