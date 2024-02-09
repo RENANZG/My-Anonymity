@@ -225,6 +225,35 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <p>GEOINT — Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.</p>
 
+<hr>
+<!-- ################################################# -->
+
+
+<table>
+<thead>
+  <tr>
+    <th>PUBLIC INTERNATIONAL LAW</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>LAWS OF WAR</td>
+    <td>LAWS OF PEACE</td>
+  </tr>
+  <tr>
+    <td>"Jus ad bellum"</td>
+    <td>"Jus in Bello"</td>
+    <td>Occupation and "Jus Post Bellum"</td>
+    <td>Human Rights Law</td>
+  </tr>
+  <tr>
+    <td>The international rules <br>pertaining to which extent <br>the use of military force<br>against another state <br>is allowed.</td>
+    <td>The international rules <br>pertaining to how armed <br>conflict must be conducted.</td>
+    <td>The Justice at the end of the war,<br>helps move from conflict to peace.<br>Reasonable peace treaties, civilian<br>population should be protected,<br>leaders who broke Hague/Geneva<br>laws must face prosecution, cities<br>must be reconstructed.</td>
+    <td>International Bill on<br>Human Rights. Treaties<br>and Conventions. Covenats<br>and Declarations.</td>
+  </tr>
+</tbody>
+</table>
 
 <br>
 </div>
@@ -1198,12 +1227,13 @@ https://www.e-ir.info/publications/
 
 <h5>Strategy</h5>
 • Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
-• Analysis of fallacious speeches justified on the basis of high moral values.</br>
-
-<p>The men of the 155th Brigade of the Russian Pacific Fleet wrote an open letter to the Governor of the Primorsky Krai Oleg Kozhemiako. In the letter, the soldiers stationed in the Ugledarsky direction complain about personnel and equipment losses. They also accused the authorities of using them as "cannon fodder".</p>
+• Analysis of fallacious speeches justified on the basis of high moral values/democracy/terrorism/fear.</br>
+• Strategic ambiguity/mimicry, copy the oppressor's speech.</br>
+• We need to facilitate the conditions of power to create a society organized in defense of its rights.</br>
 
 <h5>Governments & Politicians</h5>
-- Fear to manipulate public opinion</br>
+- Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
+- For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this – which will occur through fear.</br>
 - Moral panic – Fear that some evil threatens society</br>
 - Obscurantism – Practice of obscuring information</br>
 - Swiftboating – Political jargon for a particular form of character assassination as a smear tactic</br>
@@ -1216,7 +1246,7 @@ https://www.e-ir.info/publications/
 - Tailor-made laws</br>
 
 <h6>Journalism</h5>
-- https://github.com/nemild/hack-the-media
+- https://github.com/nemild/hack-the-media</br>
 - Whistleblowers</br>
 - Discrediting tactic – Effort to damage someone's reputation</br>
 - Hoax – Widespread deliberate fabrication presented as truth</br>
@@ -1229,6 +1259,7 @@ https://www.e-ir.info/publications/
 - Steve Bannon - Cambridge Analytica</br>
 - Fear, uncertainty, and doubt - Fear, uncertainty and doubt (often shortened to FUD) is a manipulative propaganda tactic used in sales, marketing, public relations, politics, polling and cults. FUD is generally a strategy to influence perception by disseminating negative and dubious or false information, and is a manifestation of the appeal to fear.</br>
 https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
+- The “demonization” of the delinquent’s image – the construction of the enemy’s identity generates the great production of terror discourse around crime, whether in the journalistic media or in police programs favoring social control mechanisms.<br>
 
 <h5>Spies</h5>
 - Books about american, british and russian spies</br>
@@ -1265,6 +1296,11 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - Al Capone
 - Juan Pablo Abadia
 
+<h5>Subversion, mimicry and criminality</h5>
+• Criminal populism</br>
+• Criminal law is not war</br>
+• We need to participate in political-criminal discourse. We need to educate ourselves philosophically to identify what is political and what is political abuse. But pure theory is not enough, we need to verify the practical consequences of theories.</br>
+
 <h5>Counter-culture movement</h5>
 - Books, books, books...</br>
 
@@ -1282,8 +1318,6 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Chilling Effect</h5>
 • </br>
-
-<h5>Subversion, mimicry and criminality</h5>
 
 <br>
 </details>
@@ -1404,10 +1438,10 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <a href="https://duckduckgo.com">DuckDuckGo</a></br>
 <a href="https://searx.github.io/searx/">SearX</a></br>
 <a href="https://startpage.com">Startpage</a></br>
-<a href="https://www.ecosia.org">Ecosia</a></br>
-<a href="https://www.qwant.com">Qwant</a></br>
-<a href="https://www.mojeek.com">Mojeek</a></br>
-<a href="https://www.presearch.org">Presearch</a></br>
+<a href="https://ecosia.org">Ecosia</a></br>
+<a href="https://qwant.com">Qwant</a></br>
+<a href="https://mojeek.com">Mojeek</a></br>
+<a href="https://presearch.org">Presearch</a></br>
 <a href="https://benbusby.com/projects/whoogle-search/">Whoogle</a></br></li>
 </ul>
 
