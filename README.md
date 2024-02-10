@@ -31,73 +31,74 @@
 <thead>
 <tr>
 <td valign="top" style="height:25%">
-<a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer"><b>Whonix</b> - Tips on Remaining Anonymous</a></br>
-<a href="https://www.whonix.org/wiki/Essential_Host_Security" target="_blank"><b>Whonix</b> - Essential Host Security</a></br>
-<a href="https://www.whonix.org/wiki/System_Hardening_Checklist" target="_blank"><b>Whonix</b> - System Hardening Checklist</a></br>
-<a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a>&nbsp;<a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">(PDF)</a></br>
-<a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer"><b>HackMD</b> - How to stay anon</a></br>
-<a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer"><b>EFF Foundation</b></a></br>
-<a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF Security Companion</a></br>
-<a href="https://www.anarsec.guide" target="_blank" rel="noopener noreferrer">Anarsec</a></br>
-<a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a></br>
-<a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a></br>	
-<a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a></br>
-<a href="https://nomoregoogle.com" target="_blank" rel="noopener noreferrer">No More Google</a></br>
-<a href="https://www.cnet.com/news/privacy/" target="_blank" rel="noopener noreferrer">CNET</a></br>
+• <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer"><b>Whonix</b> - Tips on Remaining Anonymous</a></br>
+• <a href="https://www.whonix.org/wiki/Essential_Host_Security" target="_blank"><b>Whonix</b> - Essential Host Security</a></br>
+• <a href="https://www.whonix.org/wiki/System_Hardening_Checklist" target="_blank"><b>Whonix</b> - System Hardening Checklist</a></br>
+• <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a>&nbsp;<a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">(PDF)</a></br>
+• <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer"><b>HackMD</b> - How to stay anon</a></br>
+• <a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer"><b>EFF Foundation</b></a></br>
+• <a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF Security Companion</a></br>
+• <a href="https://www.anarsec.guide" target="_blank" rel="noopener noreferrer">Anarsec</a></br>
+• <a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a></br>
+• <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a></br>	
+• <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a></br>
+• <a href="https://nomoregoogle.com" target="_blank" rel="noopener noreferrer">No More Google</a></br>
+• <a href="https://www.cnet.com/news/privacy/" target="_blank" rel="noopener noreferrer">CNET</a></br>
 </td>
 
 <td valign="top" style="height:25%">
-<a href="https://github.com/undergroundwires/privacy.sexy" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
-<a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
-<a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a></br>
-<a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a></br>
-<a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a></br>
-<a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">Anti-forensic Techniques</a></br>
-<a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">Awesome Anti-forensic</a></br>
-<a href="https://github.com/PaulNorman01/Forensia" target="_blank" rel="noopener noreferrer">Forensia</a></br>
-<a href="https://github.com/CheckPointSW/Evasions" target="_blank" rel="noopener noreferrer">Evasion Techniques</a></br>
-<a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a></br>	
-<a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">Awesome Self-hosted</a></br>	
-<a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a></br>	
-<a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a></br>	
-<a href="https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io" target="_blank" rel="noopener noreferrer">Cryptoanarchy Wiki</a></br>	
-<a href="https://github.com/tombusby/cypherpunk-research" target="_blank" rel="noopener noreferrer">Cypherpunk Research</a></br>	
+• <a href="https://github.com/undergroundwires/privacy.sexy" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
+• <a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
+• <a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a></br>
+• <a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a></br>
+• <a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a></br>
+• <a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">Anti-forensic Techniques</a></br>
+• <a href="https://github.com/shadawck/awesome-anti-forensic" target="_blank" rel="noopener noreferrer">Awesome Anti-forensic</a></br>
+• <a href="https://github.com/PaulNorman01/Forensia" target="_blank" rel="noopener noreferrer">Forensia</a></br>
+• <a href="https://github.com/CheckPointSW/Evasions" target="_blank" rel="noopener noreferrer">Evasion Techniques</a></br>
+• <a href="https://github.com/KevinColemanInc/awesome-privacy" target="_blank" rel="noopener noreferrer">Awesome Privacy</a></br>	
+• <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">Awesome Self-hosted</a></br>	
+• <a href="https://github.com/awesome-vpn/awesome-vpn" target="_blank" rel="noopener noreferrer">Awesome VPN</a></br>	
+• <a href="https://github.com/Lissy93/personal-security-checklist" target="_blank" rel="noopener noreferrer">Personal Security Checklist</a></br>	
+• <a href="https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io" target="_blank" rel="noopener noreferrer">Cryptoanarchy Wiki</a></br>	
+• <a href="https://github.com/tombusby/cypherpunk-research" target="_blank" rel="noopener noreferrer">Cypherpunk Research</a></br>	
 </td>
 
 <td valign="top" style="height:25%">
-<a href="https://haveibeenpwned.com" target="_blank" rel="noopener noreferrer">Have I Been Pwned ?</a></br>
-<a href="https://joindeleteme.com" target="_blank" rel="noopener noreferrer">Join Delete Me</a></br>
-<a href="https://www.accountkiller.com" target="_blank" rel="noopener noreferrer">Account Killer</a></br>
-<a href="https://prism-break.org" target="_blank" rel="noopener noreferrer">Prism-Break</a></br>
-<a href="https://spreadprivacy.com" target="_blank" rel="noopener noreferrer">Spread Privacy</a></br>
-<a href="https://www.privacyguides.org  " target="_blank" rel="noopener noreferrer">Privacy Guides</a></br>
-<a href="https://privacytools.io" target="_blank" rel="noopener noreferrer">Privacy Tools</a></br>
-<a href="https://proprivacy.com" target="_blank" rel="noopener noreferrer">Pro Privacy</a></br>
-<a href="https://www.whois.com" target="_blank" rel="noopener noreferrer">Whois</a></br>
-<a href="https://gdpr-info.eu/issues/right-to-be-forgotten" target="_blank" rel="noopener noreferrer">GDPR - Right to be forgotten</a></br>
-<a href="https://tosdr.org" target="_blank" rel="noopener noreferrer">Terms of Service, Didn't Read</a></br>
+• <a href="https://haveibeenpwned.com" target="_blank" rel="noopener noreferrer">Have I Been Pwned ?</a></br>
+• <a href="https://joindeleteme.com" target="_blank" rel="noopener noreferrer">Join Delete Me</a></br>
+• <a href="https://monitor.mozilla.org/" target="_blank" rel="noopener noreferrer">Mozilla Monitor</a></br>
+• <a href="https://www.accountkiller.com" target="_blank" rel="noopener noreferrer">Account Killer</a></br>
+• <a href="https://prism-break.org" target="_blank" rel="noopener noreferrer">Prism-Break</a></br>
+• <a href="https://spreadprivacy.com" target="_blank" rel="noopener noreferrer">Spread Privacy</a></br>
+• <a href="https://www.privacyguides.org  " target="_blank" rel="noopener noreferrer">Privacy Guides</a></br>
+• <a href="https://privacytools.io" target="_blank" rel="noopener noreferrer">Privacy Tools</a></br>
+• <a href="https://proprivacy.com" target="_blank" rel="noopener noreferrer">Pro Privacy</a></br>
+• <a href="https://www.whois.com" target="_blank" rel="noopener noreferrer">Whois</a></br>
+• <a href="https://gdpr-info.eu/issues/right-to-be-forgotten" target="_blank" rel="noopener noreferrer">GDPR - Right to be forgotten</a></br>
+• <a href="https://tosdr.org" target="_blank" rel="noopener noreferrer">Terms of Service, Didn't Read</a></br>
 </td>
 
 <td valign="top" style="height:25%">
-<a href="https://www.reddit.com/r/privacy" target="_blank" rel="noopener noreferrer">r/privacy</a></br>
-<a href="https://www.reddit.com/r/onion" target="_blank" rel="noopener noreferrer">r/onion</a></br>
-<a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br>
-<a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
-<a href="https://www.reddit.com/r/opsec/" target="_blank" rel="noopener noreferrer">r/opsec</a></br>
-<a href="https://www.reddit.com/r/redteamsec" target="_blank" rel="noopener noreferrer">r/redteamsec</a></br>
-<a href="https://www.reddit.com/r/netsec" target="_blank" rel="noopener noreferrer">r/netsec</a></br>
-<a href="https://www.reddit.com/r/computerforensics" target="_blank" rel="noopener noreferrer">r/computerforensics</a></br>
-<a href="https://www.reddit.com/r/Smartphoneforensics" target="_blank" rel="noopener noreferrer">r/Smartphoneforensics</a></br>
-<a href="https://www.reddit.com/r/antiforensics" target="_blank" rel="noopener noreferrer">r/antiforensics</a></br>
-<a href="https://www.reddit.com/r/conspiracy" target="_blank" rel="noopener noreferrer">r/conspiracy</a></br>
-<a href="https://www.reddit.com/r/crypto" target="_blank" rel="noopener noreferrer">r/crypto</a></br>
-<a href="https://www.reddit.com/r/Piracy" target="_blank" rel="noopener noreferrer">r/Piracy</a></br>
-<a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br>
-<a href="https://www.reddit.com/r/oopsec/" target="_blank" rel="noopener noreferrer">r/oopsec</a></br>
-<a href="https://www.reddit.com/r/privacymemes" target="_blank" rel="noopener noreferrer">r/privacymemes</a></br>
-<a href="https://www.reddit.com/r/ghostguns" target="_blank" rel="noopener noreferrer">r/ghostguns</a></br>
-<a href="https://www.reddit.com/r/drones" target="_blank" rel="noopener noreferrer">r/drones</a></br>
-<a href="https://old.reddit.com/r/Save3rdPartyApps/comments/148m42t/the_fight_continues" target="_blank" rel="noopener noreferrer">r/Save3rdPartyApps</a></br>
+• <a href="https://www.reddit.com/r/privacy" target="_blank" rel="noopener noreferrer">r/privacy</a></br>
+• <a href="https://www.reddit.com/r/onion" target="_blank" rel="noopener noreferrer">r/onion</a></br>
+• <a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br>
+• <a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
+• <a href="https://www.reddit.com/r/opsec/" target="_blank" rel="noopener noreferrer">r/opsec</a></br>
+• <a href="https://www.reddit.com/r/redteamsec" target="_blank" rel="noopener noreferrer">r/redteamsec</a></br>
+• <a href="https://www.reddit.com/r/netsec" target="_blank" rel="noopener noreferrer">r/netsec</a></br>
+• <a href="https://www.reddit.com/r/computerforensics" target="_blank" rel="noopener noreferrer">r/computerforensics</a></br>
+• <a href="https://www.reddit.com/r/Smartphoneforensics" target="_blank" rel="noopener noreferrer">r/Smartphoneforensics</a></br>
+• <a href="https://www.reddit.com/r/antiforensics" target="_blank" rel="noopener noreferrer">r/antiforensics</a></br>
+• <a href="https://www.reddit.com/r/conspiracy" target="_blank" rel="noopener noreferrer">r/conspiracy</a></br>
+• <a href="https://www.reddit.com/r/crypto" target="_blank" rel="noopener noreferrer">r/crypto</a></br>
+• <a href="https://www.reddit.com/r/Piracy" target="_blank" rel="noopener noreferrer">r/Piracy</a></br>
+• <a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br>
+• <a href="https://www.reddit.com/r/oopsec/" target="_blank" rel="noopener noreferrer">r/oopsec</a></br>
+• <a href="https://www.reddit.com/r/privacymemes" target="_blank" rel="noopener noreferrer">r/privacymemes</a></br>
+• <a href="https://www.reddit.com/r/ghostguns" target="_blank" rel="noopener noreferrer">r/ghostguns</a></br>
+• <a href="https://www.reddit.com/r/drones" target="_blank" rel="noopener noreferrer">r/drones</a></br>
+• <a href="https://old.reddit.com/r/Save3rdPartyApps/comments/148m42t/the_fight_continues" target="_blank" rel="noopener noreferrer">r/Save3rdPartyApps</a></br>
 </td>
 </tr>
 </thead>
@@ -230,15 +231,15 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 
 <table>
-<thead>
+<thead align="center">
   <tr>
-    <th>PUBLIC INTERNATIONAL LAW</th>
+    <th colspan="4">PUBLIC INTERNATIONAL LAW</th>
   </tr>
 </thead>
-<tbody>
+<tbody align="center">
   <tr>
-    <td>LAWS OF WAR</td>
-    <td>LAWS OF PEACE</td>
+    <td colspan="2">LAWS OF WAR</td>
+    <td colspan="2">LAWS OF PEACE</td>
   </tr>
   <tr>
     <td>"Jus ad bellum"</td>
@@ -247,10 +248,10 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
     <td>Human Rights Law</td>
   </tr>
   <tr>
-    <td>The international rules <br>pertaining to which extent <br>the use of military force<br>against another state <br>is allowed.</td>
-    <td>The international rules <br>pertaining to how armed <br>conflict must be conducted.</td>
-    <td>The Justice at the end of the war,<br>helps move from conflict to peace.<br>Reasonable peace treaties, civilian<br>population should be protected,<br>leaders who broke Hague/Geneva<br>laws must face prosecution, cities<br>must be reconstructed.</td>
-    <td>International Bill on<br>Human Rights. Treaties<br>and Conventions. Covenats<br>and Declarations.</td>
+    <td>The international rules pertaining to which extent the use of military force against another state is allowed.</td>
+    <td>The international rules pertaining to how armed conflict must be conducted.</td>
+    <td>The Justice at the end of the war, helps move from conflict to peace.Reasonable peace treaties, civilian population should be protected,<br>leaders who broke Hague/Geneva laws must face prosecution, cities must be reconstructed.</td>
+    <td>International Bill on Human Rights. Treaties and Conventions. Covenats and Declarations.</td>
   </tr>
 </tbody>
 </table>
