@@ -760,6 +760,8 @@ https://bitwarden.com/products/send<br>
 • SS64 Syntax Utils - https://ss64.com</br>
 • Tools4noobs - https://www.tools4noobs.com</br>
 • Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
+• Regex - https://regex-generator.olafneumann.org</br>
+• Search Information about an American business - https://www.info-clipper.com
 • Commonly Used Software Development Tools - https://ctool.dev
 • Virus Total — https://www.virustotal.com<br>
 • Binvis — https://binvis.io<br>
@@ -1273,7 +1275,8 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - Vietcong 
 
 <h5>Anarchists</h5>
-- Books, books, books...</br>
+- https://anarch.cc/library/</br>
+- https://libcom.org</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
 
 <h5>Jews</h5>
