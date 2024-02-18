@@ -265,8 +265,8 @@ https://www.dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <div id="block3">
 
-<img src=".data/0NL1N3_4N0NYM1TY​​​​​.png" title="Click below">
-<hr>
+<h1>ONLINE ANONYMITY</h1>
+
 
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
@@ -905,8 +905,7 @@ https://www.whonix.org/wiki/MAC_Address</br>
 
 <div id="block4">
 
-<img src=".data/0FFL1N3_4N0NYM1TY​​​​.png" title="Click below">
-<hr>
+<h1>OFFLINE ANONYMITY</h1>
 
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
@@ -973,10 +972,11 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>General Little Tricks</b>​</summary>
+<summary><b>Little Tricks (to find the "truth" or manipulate it)</b>​</summary>
 <br>
 
-• Pressures you to produce evidence against yourself. intimidation tactic.</br>
+• Intimidation tactic, pressures you to produce evidence against yourself (e.g. says that "you don't want to collaborate").</br>
+• Build rapport to see if you to produce evidence against yourself,(e.g. talks about mild subjects).</br>
 • Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
 • Forces your lawyer/doctor/priest to violate ethical confidentiality.</br>
 • Put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
@@ -987,8 +987,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 • Acting to manipulate the target's behavior so that it is further harmed.</br>
 • Acting to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
 • Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points).</br>
-• Accident simulation to get out of a safe place - https://www.youtube.com/watch?v=gq01C2kjMiM</br>
-
+• Accident simulation to get out of a safe place.</br>
 <br>
 </details>
 
@@ -1167,8 +1166,7 @@ https://theintercept.com/2023/12/18/fbi-nypd-catfishing-terrorism-sting-hamas</b
 https://theintercept.com/2023/02/07/fbi-denver-racial-justice-protests-informant/</br>
 “They Believed Anything but the Truth” — 14 Years in Guantánamo</br>
 https://theintercept.com/2021/08/17/guantanamo-memoir-mansoor-adayfi/</br>
-
-etc, etc, etc...</br>
+</br>
 
 <h4>https://truthout.org</h4>
 
@@ -1180,8 +1178,7 @@ https://truthout.org/articles/nypd-has-used-drones-to-monitor-pro-palestine-prot
 https://truthout.org/articles/in-new-york-inadequate-treatment-is-turning-drug-arrests-into-death-sentences/</br>
 • I Faced Death by Incarceration. The UN Heard My Plea to Abolish Life Sentences.</br>
 https://truthout.org/articles/i-faced-death-by-incarceration-the-un-heard-my-plea-to-abolish-life-sentences/</br>
-
-etc, etc, etc...</br>
+<br>
 
 <h4>https://www.aclu.org</h4>
 
@@ -1194,8 +1191,11 @@ https://www.aclu.org/news/racial-justice/lifting-the-veil-on-the-design-of-predi
 https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html</br>
 • </br>
 https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
+</br>
 
-etc, etc, etc...</br>
+<h4>https://vice.com</h4>
+
+<h4>https://decrypt.co</h4>
 
 <br>
 </details>
@@ -1277,6 +1277,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Anarchists</h5>
 - https://anarch.cc/library/</br>
 - https://libcom.org</br>
+- https://theanarchistlibrary.org</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
 
 <h5>Jews</h5>
@@ -1344,47 +1345,47 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Social Contract Theory</h5>
 • Thomas Hobbes ( - )</br>
-
-<h5>Left or right-wing ?</h5>
-• Pierre-Joseph Proudhon ( - )</br>
+• Rousseau ( - )</br>
 
 <h5>Theology</h5>
 • Carl Schmitt ( - )</br>
+
+<h5>Left or right-wing ?</h5>
+• Pierre-Joseph Proudhon ( - )</br>
+• Thomas Paine ( - )</br>
 
 <h5>Politcs Left-Wing</h5>
 • Karl Marx ( - )</br>
 • Antonio Gramsci (1891 - 1937)</br>
 • Nicos Poulantzas (1936 - 1979)</br>
 • Louis Althusser (1918 - 1990)</br>
-• Hannah Arendt (1906–1975)</br>
+• Hannah Arendt (1906 – 1975)</br>
 
 <h5>Politcs Right-Wing</h5>
-• John Locke (1632–1704)</br>
-• Adam Smith (1723-1790)</br>
+• John Locke (1632 – 1704)</br>
+• Adam Smith (1723 - 1790)</br>
 • Milton Friedman ( - )</br>
 • Ludwig von Mises ( - )</br>
 • Friedrich Hayek ( - )</br>
-
-<h5>Epistemology</h5>
-• Gaston Bachelard (1884 - 1962)</br>
-• Karl Popper (1902 - 1994)</br>
 
 <h5>Pernicious</h5>
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Michel Foucault (1926 - 1984)</br>
 • Giorgio Agamben (1942)</br>
 • Giles Deleuze (1925)</br>
-• Achille Mbembe (1957)</br>
+
+<h5>Epistemology</h5>
+• Gaston Bachelard (1884 - 1962)</br>
+• Karl Popper (1902 - 1994)</br>
 
 <h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
 • Slavoj Žižek (1949)</br>
 • Judith Butler (1956)</br>
+• Achille Mbembe (1957)</br>
 
 <br>
 </details>
-
-
 
 <!-- ######################### -->
 
@@ -1394,14 +1395,17 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <DT><H3>Libraries</H3>
      <DT><A HREF="https://go-to-zlibrary.se/#desktop_app_tab"> Z-Library <BR><PRE> https://go-to-zlibrary.se/#desktop_app_tab</PRE></A>
-     <DT><A HREF="http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion"><DEL> Z-Library <BR> http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</DEL></A>
-     <DT><A HREF="http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion">Imperial Library <BR><PRE> http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</PRE></A>
-     <DT><A HREF="http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion">Just Another Library <BR><PRE> http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</PRE></A>
-     <DT><A HREF="http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion">The Anarchist Library <BR><PRE> http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</PRE></A>
-     <DT><A HREF="http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion">InfoCon <BR><PRE> http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</PRE></A>
+     <DT><A HREF="http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion"><DEL> Z-Library (Onion)<BR> http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</DEL></A>
+     <DT><A HREF="http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion">Imperial Library (Onion)<BR><PRE> http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</PRE></A>
+     <DT><A HREF="http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion">Just Another Library (Onion)<BR><PRE> http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</PRE></A>
+     <DT><A HREF="http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion">InfoCon (Onion)<BR><PRE> http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</PRE></A>
+     <DT><A HREF="http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion">The Anarchist Library (Onion)<BR><PRE> http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</PRE></A>
+     <DT><A HREF="https://theanarchistlibrary.org">theanarchistlibrary</A>
      <DT><A HREF="https://libgen.is/">GenoType.INC <BR><PRE>https://libgen.is/</PRE></A>
      <DT><A HREF="http://libgen.li">GenoType.INC <BR><PRE>http://libgen.li</PRE></A>
      <DT><A HREF="http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion">GenoType.INC <BR><PRE> http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</PRE></A>
+     <DT><A HREF="https://anarch.cc/library/">anarch.cc</A>
+     <DT><A HREF="https://libcom.org">libcom</A>
 
 <br>
 </details>
@@ -1414,8 +1418,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <div id="block6">
 
-<img src=".data/PR1V4CY​​​​_4LT3RN4T1V3S​​.png" title="Click below">
-<hr>
+<h1>PRIVACY</h1>
 
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
@@ -1467,37 +1470,47 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <summary><b>Others</b>​</summary>
 <br>
 
-<h4>Others</h4>
+<h4>Links</h4>
 
-<p>UNO IGF - https://www.intgovforum.org</p>
-<p>USENIX Conferences - https://www.usenix.org/conferences</p>
-<p>Citizenlab - https://citizenlab.ca</p>
-<p>Telegram’s blogging platform - https://telegra.ph</p>
-<p>Internet Archive - https://archive.org</p>
-<p>Archive web content - https://archive.ph</p>
+<ul>
+<li>UNO IGF - https://www.intgovforum.org</li>
+<li>USENIX Conferences - https://www.usenix.org/conferences</li>
+<li>Citizenlab - https://citizenlab.ca</li>
+<li>Necessary and Proportionate - https://www.necessaryandproportionate.org</li>
+<li>Bad Internet Bills - https://www.badinternetbills.com</li>
+<li>The IT Law Wiki - https://itlaw.fandom.com</li>
+<li>Computer Crime Research Center - https://www.crime-research.org</li>
+<li>Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReporlis</li>
+<li>Telegram’s blogging platform - https://telegra.ph</li>
+<li>Internet Archive - https://archive.org</li>
+<li>Archive web content - https://archive.ph</li>
+</ul>
 
 <h4>YouTube - Privacy</h4>
 
-<p>Mental Outlaw - https://www.youtube.com/c/MentalOutlaw</p>
-<p>Surveillance Report - https://www.youtube.com/c/SurveillanceReport</p>
-<p>Hack In The Box Security Conference - https://www.youtube.com/@hitbsecconf</p>
-<p>May Contain Hackers - https://www.youtube.com/@MCh3022NL</p>
-<p>European Digital Rights - https://www.youtube.com/@EuropeanDigitalRights</p>
-<p>Techlore - https://www.youtube.com/c/Techlore</p>
-<p>David Bombal - https://www.youtube.com/c/DavidBombal</p>
-<p>Hak5 - https://www.youtube.com/c/hak5</p>
-<p>John Hammond - https://www.youtube.com/c/JohnHammond010</p>
-<p>Linus Tech Tips - https://www.youtube.com/c/LinusTechTips</p>
-<p>Naomi Brockwell: NBTV - https://www.youtube.com/@NaomiBrockwellTV</p>
-<p>SecurityFWD - https://www.youtube.com/c/SecurityFWD</p>
-<p>Seytonic - https://www.youtube.com/c/Seytonic</p>
-<p>Sir Sudo - https://www.youtube.com/c/SirSudo</p>
-<p>SomeOrdinaryGamers - https://www.youtube.com/c/SomeOrdinaryGamers</p>
-<p>spacehuhn - https://www.youtube.com/c/spacehuhn</p>
-<p>ThioJoe - https://www.youtube.com/c/ThioJoe</p>
-<p>Luke Smith - https://www.youtube.com/c/LukeSmithxyz</p>
-<p>Rob Braxman Tech - https://www.youtube.com/c/BraxMe</p>
-<p>The Hated One - https://www.youtube.com/c/TheHatedOne</p>
+<ul>
+<li>Mental Outlaw - https://www.youtube.com/c/MentalOutlaw</li>
+<li>Seytonic - https://www.youtube.com/c/Seytonic</li>
+<li>DoingFedTime - https://www.youtube.com/@DoingFedTime</li>
+<li>Surveillance Report - https://www.youtube.com/c/SurveillanceReport</li>
+<li>Hack In The Box Security Conference - https://www.youtube.com/@hitbsecconf</li>
+<li>May Contain Hackers - https://www.youtube.com/@MCh3022NL</li>
+<li>European Digital Rights - https://www.youtube.com/@EuropeanDigitalRights</li>
+<li>Techlore - https://www.youtube.com/c/Techlore</li>
+<li>David Bombal - https://www.youtube.com/c/DavidBombal</li>
+<li>Hak5 - https://www.youtube.com/c/hak5</li>
+<li>John Hammond - https://www.youtube.com/c/JohnHammond010</li>
+<li>Linus Tech Tips - https://www.youtube.com/c/LinusTechTips</li>
+<li>Naomi Brockwell: NBTV - https://www.youtube.com/@NaomiBrockwellTV</li>
+<li>SecurityFWD - https://www.youtube.com/c/SecurityFWD</li>
+<li>Sir Sudo - https://www.youtube.com/c/SirSudo</li>
+<li>SomeOrdinaryGamers - https://www.youtube.com/c/SomeOrdinaryGamers</li>
+<li>spacehuhn - https://www.youtube.com/c/spacehuhn</li>
+<li>ThioJoe - https://www.youtube.com/c/ThioJoe</li>
+<li>Luke Smith - https://www.youtube.com/c/LukeSmithxyz</li>
+<li>Rob Braxman Tech - https://www.youtube.com/c/BraxMe</li>
+<li>The Hated One - https://www.youtube.com/c/TheHatedOne</li>
+</ul>
 
 <br>
 </details>
