@@ -44,12 +44,15 @@
 • <a href="https://www.techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a></br>
 • <a href="https://nomoregoogle.com" target="_blank" rel="noopener noreferrer">No More Google</a></br>
 • <a href="https://www.cnet.com/news/privacy/" target="_blank" rel="noopener noreferrer">CNET</a></br>
+• <a href="https://cryptoparty.in" target="_blank" rel="noopener noreferrer">CryptoParty</a></br>
 </td>
+
 
 <td valign="top" style="height:25%">
 • <a href="https://github.com/undergroundwires/privacy.sexy" target="_blank" rel="noopener noreferrer">Privacy Sexy</a></br>	
 • <a href="https://github.com/mikeroyal/Open-Source-Security-Guide" target="_blank" rel="noopener noreferrer">Open Source Security Guide</a></br>
 • <a href="https://github.com/ffffffff0x/Digital-Privacy" target="_blank" rel="noopener noreferrer">Digital Privacy</a></br>
+• <a href="https://github.com/redecentralize/alternative-internet" target="_blank" rel="noopener noreferrer">Redecentralize</a></br>
 • <a href="https://github.com/BlockchainCommons/Pseudonymity-Guide" target="_blank" rel="noopener noreferrer">Pseudonymity Guide</a></br>
 • <a href="https://github.com/danoctavian/awesome-anti-censorship" target="_blank" rel="noopener noreferrer">Awesome Anti-censorship</a></br>
 • <a href="https://forensics.wiki/anti_forensic_techniques" target="_blank" rel="noopener noreferrer">Anti-forensic Techniques</a></br>
@@ -74,6 +77,8 @@
 • <a href="https://www.privacyguides.org  " target="_blank" rel="noopener noreferrer">Privacy Guides</a></br>
 • <a href="https://privacytools.io" target="_blank" rel="noopener noreferrer">Privacy Tools</a></br>
 • <a href="https://proprivacy.com" target="_blank" rel="noopener noreferrer">Pro Privacy</a></br>
+• <a href="https://myshadow.org/" target="_blank" rel="noopener noreferrer">My Shadow</a></br>
+• <a href="https://switching.software" target="_blank" rel="noopener noreferrer">switching.software</a></br>
 • <a href="https://www.whois.com" target="_blank" rel="noopener noreferrer">Whois</a></br>
 • <a href="https://gdpr-info.eu/issues/right-to-be-forgotten" target="_blank" rel="noopener noreferrer">GDPR - Right to be forgotten</a></br>
 • <a href="https://tosdr.org" target="_blank" rel="noopener noreferrer">Terms of Service, Didn't Read</a></br>
@@ -454,7 +459,7 @@ https://github.com/alancnet/torrent-vpn</br>
 • NordVPN - https://nordvpn.com</br>
  
 <h4>Others</h4>
-• TorPlusVPN - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN
+• TorPlusVPN - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN</br>
 • Proxy - https://www.rapidseedbox.com/blog/vpn-vs-proxy</br>
 
 <br>
@@ -479,7 +484,7 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 
 <img src=".data/C0m4pps.png" width="640" height="320"/>
 
-<h4>Matrix Protocol</h4>
+<h4>• Matrix (Protocol)</h4>
 • https://matrix.org</br>
 • https://github.com/matrix-org</br>
 • https://en.wikipedia.org/wiki/Matrix_(protocol)</br>
@@ -505,8 +510,8 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 • https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Signal Did NOT Get Hacked - https://www.youtube.com/watch?v=QEq2JQ6nzuQ</br>
 
-
-https://www.whonix.org/wiki/HexChat
+<h5>• HexChat</h5>
+https://www.whonix.org/wiki/HexChat</br>
 
 <!-- ########## -->
 <div>
@@ -514,10 +519,12 @@ https://www.whonix.org/wiki/HexChat
 <summary><b>Telegram</b></summary>
 <br>
 
-<p>Beware of impersonators (carefully check out Telegram bio as the scammer may insert any nickname to his bio and leave his own nickname blank), fake <a href="https://medium.com/immunefi/how-not-to-get-hacked-on-telegram-2db2b93a5fa2" rel="noreferrer" target="_blank">notifications</a> about logging into Telegram (<a href="https://hacken.io/discover/top-7-social-engineering-frauds-in-crypto/" rel="noreferrer" target="_blank">check</a> out them carefully, they should come into the official telegram news &amp; tips channel) with a phishing link, fake bots (yep, bots - not user accounts - may DM first) <a href="https://twitter.com/officer_cia/status/1569951983271907328?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1569951983271907328%7Ctwgr%5Eb80f078d6f5711b3dd78b8429b80fc0a99e98d68%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fofficercia.mirror.xyz%2Fdlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8" rel="noreferrer" target="_blank">and so on</a>.</p>
+https://www.whonix.org/wiki/Telegram<br>
+
+<p>"Beware of impersonators (carefully check out Telegram bio as the scammer may insert any nickname to his bio and leave his own nickname blank), fake <a href="https://medium.com/immunefi/how-not-to-get-hacked-on-telegram-2db2b93a5fa2" rel="noreferrer" target="_blank">notifications</a> about logging into Telegram (<a href="https://hacken.io/discover/top-7-social-engineering-frauds-in-crypto/" rel="noreferrer" target="_blank">check</a> out them carefully, they should come into the official telegram news &amp; tips channel) with a phishing link, fake bots (yep, bots - not user accounts - may DM first) <a href="https://twitter.com/officer_cia/status/1569951983271907328?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1569951983271907328%7Ctwgr%5Eb80f078d6f5711b3dd78b8429b80fc0a99e98d68%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fofficercia.mirror.xyz%2Fdlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8" rel="noreferrer" target="_blank">and so on</a>."</p>
 
 <blockquote>
-<p>NONE of the telegram chats are E2E encrypted not 1:1, not groups - only TLS. Only the secret chat one iirc!</p>
+<p>"NONE of the telegram chats are E2E encrypted not 1:1, not groups - only TLS. Only the secret chat one iirc!"</p>
 </blockquote>
 
 <h3>Settings:</h3>
@@ -1236,7 +1243,9 @@ https://www.e-ir.info/publications/
 
 <h5>Governments & Politicians</h5>
 - Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
-- For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this – which will occur through fear.</br>
+- For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
+- It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program.</br>
+- The distinction between ordinary and political prisoners is illusory.</br>
 - Moral panic – Fear that some evil threatens society</br>
 - Obscurantism – Practice of obscuring information</br>
 - Swiftboating – Political jargon for a particular form of character assassination as a smear tactic</br>
@@ -1248,25 +1257,28 @@ https://www.e-ir.info/publications/
 - Offering positions and promotions</br>
 - Tailor-made laws</br>
 
-<h6>Journalism</h5>
-- https://github.com/nemild/hack-the-media</br>
+<h5>Journalism</h5>
 - Whistleblowers</br>
 - Discrediting tactic – Effort to damage someone's reputation</br>
 - Hoax – Widespread deliberate fabrication presented as truth</br>
 - International Journalism Festival - https://www.youtube.com/@journalismfest</br>
+- Freedom of the Press Foundation - https://freedom.press/training/</br>
+- Committee to Protect Journalists - https://cpj.org/safety-notes/</br>
+- Hack the Media - https://github.com/nemild/hack-the-media</br>
+- BIRD - https://bird.tools</br>
 
-<h6>Mass Media</h5>
-- https://github.com/nemild/hack-the-media
+<h5>Mass Media</h5>
 - Hollywood Propaganda (films, docs etc)</br>
 - Propaganda – Communication used to influence opinion</br>
 - Steve Bannon - Cambridge Analytica</br>
-- Fear, uncertainty, and doubt - Fear, uncertainty and doubt (often shortened to FUD) is a manipulative propaganda tactic used in sales, marketing, public relations, politics, polling and cults. FUD is generally a strategy to influence perception by disseminating negative and dubious or false information, and is a manifestation of the appeal to fear.</br>
+- FUD - Fear, uncertainty and doubt (often shortened to FUD) is a manipulative propaganda tactic used in sales, marketing, public relations, politics, polling and cults. FUD is generally a strategy to influence perception by disseminating negative and dubious or false information, and is a manifestation of the appeal to fear.</br>
 https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
-- The “demonization” of the delinquent’s image – the construction of the enemy’s identity generates the great production of terror discourse around crime, whether in the journalistic media or in police programs favoring social control mechanisms.<br>
+- The “demonization” of the delinquent’s image – the construction of the enemy’s identity generates the great production of terror discourse around crime, whether in the journalistic media or in police programs favoring social control mechanisms.</br>
 
 <h5>Spies</h5>
 - Books about american, british and russian spies</br>
 - Dead drop technique</br>
+- Cold pitch technique</br>
 - Denial and deception – Framework in military intelligence theory</br>
 - False flag – Covert operation designed to deceive</br>
 - Books, books, books...</br>
@@ -1400,10 +1412,10 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
      <DT><A HREF="http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion">Just Another Library (Onion)<BR><PRE> http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</PRE></A>
      <DT><A HREF="http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion">InfoCon (Onion)<BR><PRE> http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</PRE></A>
      <DT><A HREF="http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion">The Anarchist Library (Onion)<BR><PRE> http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</PRE></A>
-     <DT><A HREF="https://theanarchistlibrary.org">theanarchistlibrary</A>
+     <DT><A HREF="http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion">GenoType.INC <BR><PRE> http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</PRE></A>
      <DT><A HREF="https://libgen.is/">GenoType.INC <BR><PRE>https://libgen.is/</PRE></A>
      <DT><A HREF="http://libgen.li">GenoType.INC <BR><PRE>http://libgen.li</PRE></A>
-     <DT><A HREF="http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion">GenoType.INC <BR><PRE> http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</PRE></A>
+     <DT><A HREF="https://theanarchistlibrary.org">theanarchistlibrary</A>
      <DT><A HREF="https://anarch.cc/library/">anarch.cc</A>
      <DT><A HREF="https://libcom.org">libcom</A>
 
