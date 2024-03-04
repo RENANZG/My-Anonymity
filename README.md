@@ -491,6 +491,8 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 • https://www.reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix</br>
 
 <h5>• XMPP</h5>
+• https://xmpp.org/software/?platform=linux
+• https://xmpp.org/software/gajim/
 • https://github.com/profanity-im/profanity</br>
 • https://github.com/zom/zom-android</br>
 • http://conversations.im</br>
@@ -857,12 +859,13 @@ https://bitwarden.com/products/send<br>
 <h3>Others</h3>
 
 <h4>Piracy</h4>
+https://torrentfreak.com</br>
+https://bitmagnet.io</br>
 https://github.com/Igglybuff/awesome-piracy</br>
 https://github.com/lkrjangid1/Awesome-Warez</br>
 https://github.com/Illegal-Services/Illegal_Services</br>
 https://github.com/Lucetia/piracy</br>
 https://github.com/the-rarbg/yaps</br>
-https://torrentfreak.com</br>
 https://lemmy.dbzer0.com/c/piracy</br>
 https://rentry.co/megathread</br>
 https://1337x.to</br>
@@ -982,20 +985,33 @@ https://us.artechhouse.com/storehome.aspx</br>
 <summary><b>Little Tricks (to find the "truth" or manipulate it)</b>​</summary>
 <br>
 
-• Intimidation tactic, pressures you to produce evidence against yourself (e.g. says that "you don't want to collaborate").</br>
-• Build rapport to see if you to produce evidence against yourself,(e.g. talks about mild subjects).</br>
-• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
+• Build rapport or offers an advantage to see if you to produce evidence against yourself,(e.g. talks about mild subjects, like dogs and cats; says "nothing will happen if..." to obtain an informal confession).</br>
+• Intimidation or blackmailing tactics, to pressures you to produce evidence against yourself (e.g. says that "you don't want to collaborate").</br>
 • Forces your lawyer/doctor/priest to violate ethical confidentiality.</br>
-• Put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
-• Uses trakers (e. g. FirstMile, IMSI Cachers, Drones, Wong Sun case etc).</br>
-• Use facial regonition cammeras spread in the city or in public transport.</br>
-• Use state database or state informants.</br>
+• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
+• Event or accident simulation so that the target leaves a safe place or to find the connection of the evidences.</br>
 • Acting as an agent provocateur.</br>
 • Acting to manipulate the target's behavior so that it is further harmed.</br>
 • Acting to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
-• Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points).</br>
-• Accident simulation to get out of a safe place.</br>
+• Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points, manipulation of evidence out of context).</br>
+• Put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
+• Uses trakers or spywares (e. g. FirstMile, IMSI Cachers, Drones, Wong Sun case etc).</br>
+• Use facial regonition cammeras spread in the city or in public transport.</br>
+• Use state database or state informants.</br>
+
+General - ARTT’s Psychological Manipulation Tactics</br>
+
+<ol>
+<li>Tapping into our natural bias to find connections by using conspiratorial reasoning</li>
+<li>Deliberately encouraging a response using “bait” by intentional trolling</li>
+<li>Gaining access to a trusted community by impersonation</li>
+<li>Manufacturing doubt by distorting the scientific consensus</li>
+<li>Evoking emotion and encouraging to think with feelings instead of reason</li>
+<li>Utilizing polarization to create or expand a gap between two groups</li>
+<li>Discrediting the opponent instead of addressing the argument</li>
 <br>
+</ol>
+
 </details>
 
 <!-- ######################### -->
@@ -1241,10 +1257,15 @@ https://www.e-ir.info/publications/
 • Strategic ambiguity/mimicry, copy the oppressor's speech.</br>
 • We need to facilitate the conditions of power to create a society organized in defense of its rights.</br>
 
-<h5>Governments & Politicians</h5>
-- Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
+- Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power/control by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
+
 - For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
+
+- We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization (surveillance capitalism) and manipulating society. The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
+
 - It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program.</br>
+
+<h5>Governments & Politicians</h5>
 - The distinction between ordinary and political prisoners is illusory.</br>
 - Moral panic – Fear that some evil threatens society</br>
 - Obscurantism – Practice of obscuring information</br>
@@ -1359,8 +1380,13 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Thomas Hobbes ( - )</br>
 • Rousseau ( - )</br>
 
+<h5>Epistemology</h5>
+• Gaston Bachelard (1884 - 1962)</br>
+• Karl Popper (1902 - 1994)</br>
+
 <h5>Theology</h5>
 • Carl Schmitt ( - )</br>
+• Hannah Arendt (1906 – 1975)</br>
 
 <h5>Left or right-wing ?</h5>
 • Pierre-Joseph Proudhon ( - )</br>
@@ -1371,7 +1397,6 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Antonio Gramsci (1891 - 1937)</br>
 • Nicos Poulantzas (1936 - 1979)</br>
 • Louis Althusser (1918 - 1990)</br>
-• Hannah Arendt (1906 – 1975)</br>
 
 <h5>Politcs Right-Wing</h5>
 • John Locke (1632 – 1704)</br>
@@ -1382,13 +1407,10 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Pernicious</h5>
 • Friedrich Nietzsche (1844 - 1900)</br>
+• Herbert Marcuse (1898 - 1979)</br>
 • Michel Foucault (1926 - 1984)</br>
 • Giorgio Agamben (1942)</br>
 • Giles Deleuze (1925)</br>
-
-<h5>Epistemology</h5>
-• Gaston Bachelard (1884 - 1962)</br>
-• Karl Popper (1902 - 1994)</br>
 
 <h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
