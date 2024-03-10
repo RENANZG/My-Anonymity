@@ -982,15 +982,16 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Little Tricks (to find the "truth" or manipulate it)</b>​</summary>
+<summary><b>Dirt Tricks (to find the "truth" or manipulate it)</b>​</summary>
 <br>
 
 • Build rapport or offers an advantage to see if you to produce evidence against yourself,(e.g. talks about mild subjects, like dogs and cats; says "nothing will happen if..." to obtain an informal confession).</br>
 • Intimidation or blackmailing tactics, to pressures you to produce evidence against yourself (e.g. says that "you don't want to collaborate").</br>
+• Having possession of the evidence helps you have control of the narrative (evidence out of context).</br>
 • Forces your lawyer/doctor/priest to violate ethical confidentiality.</br>
 • Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
 • Event or accident simulation so that the target leaves a safe place or to find the connection of the evidences.</br>
-• Acting as an agent provocateur.</br>
+• Acting as an agent provocateur (“baits”).</br>
 • Acting to manipulate the target's behavior so that it is further harmed.</br>
 • Acting to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
 • Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points, manipulation of evidence out of context).</br>
@@ -1017,6 +1018,19 @@ General - ARTT’s Psychological Manipulation Tactics</br>
 <!-- ######################### -->
 
 <details>
+<summary><b>WeCopwatch</b>​</summary>
+<br>
+
+• "We Need More Copwatchers, Not Cops With Cameras" - https://wecopwatch.org<br>
+• Having possession of the evidence helps you have control of the narrative.</br>
+• Your evidence loses power when you broadcast it live and allow the police to write their use of force reports around your video. Film the Police for the Victim.</br>
+• We suggest that you let the officers get their story together publicly. Your video will contradict their testimony, and it is here that you have the power to helpful. </br>
+
+<br>
+</details>
+<!-- ######################### -->
+
+<details>
 <summary><b>Search Warrants</b>​</summary>
 <br>
 
@@ -1025,6 +1039,8 @@ General - ARTT’s Psychological Manipulation Tactics</br>
 • A minor offense to a major one, Al Capone was caught because of income tax.</br>
 
 • Law enforcment will violate the law in order to catch you (with or without a search warrant). Judges are afraid of annulling all evidence and are afraid of pressure from the media.</br>
+
+• Judges also do not have functional independence and fear actions from internal affairs bodies.</br>
 
 <br>
 </details>
@@ -1252,18 +1268,18 @@ https://www.e-ir.info/publications/
 <h4>Brainstorm: strategy, techniques and skills</h4>
 
 <h5>Strategy</h5>
-• Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
 • Analysis of fallacious speeches justified on the basis of high moral values/democracy/terrorism/fear.</br>
-• Strategic ambiguity/mimicry, copy the oppressor's speech.</br>
+• Basic strategic ambiguity/mimicry, copy the oppressor's speech.</br>
+• It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program. Is it possible to do politics without being a politician? Is revolution desirable? By whom? Is he who rebels right?</br>
 • We need to facilitate the conditions of power to create a society organized in defense of its rights.</br>
-
-- Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power/control by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
-
-- For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
-
-- We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization (surveillance capitalism) and manipulating society. The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
-
-- It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program.</br>
+• Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
+• Gradually shift the limit of social exclusion, increasing the power of excluded agents (minorities) by creating marginal spaces in which they can articulate themselves.</br
+• Deconstruct Carl Schmitt, deconstruct the image of the enemy. Deconstruct the concrete tangible characteristics that make it a suitable target for hatred and struggle. Nothing is political, everything is politicizable !</br
+• Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power/control by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
+• Crime is also based on capitalism, the "war on drugs" fuels a market for weapons, vehicles, cameras, personnel.</br
+• For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
+• We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization (surveillance capitalism) and manipulating society. The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
+• Three types of social struggles: those that confront forms of domination (ethnic, social and religious); those that contest the forms of exploitation that separate individuals from what they produce; and the struggles against subjection, against forms of subjectivation and submission, which face everything that connects the individual to himself and subjects him to others.</br> 
 
 <h5>Governments & Politicians</h5>
 - The distinction between ordinary and political prisoners is illusory.</br>
@@ -1323,15 +1339,21 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - Books, books, books...</br>
 
 <h5>Strategy of Catholic Evangelization</h5>
-- Books, books, books...</br>
+- Evangelization of Aboriginal Groups</br>
+- </br>
+
+<h5>Secret Societies</h5>
+- Freemasons...</br>
+- </br>
 
 <h5>Resistance Groups</h5>
 - Vietcong Guerrila warfare</br>
 - Books, books, books...</br>
 
 <h5>Mobsters & Droug Traffikers</h5>
-- Unmasking the informant inside the cartel | Four Corners - https://www.youtube.com/watch?v=Kse32_VpTOE</br>
+- Unmasking the informant inside the cartel - https://www.youtube.com/watch?v=Kse32_VpTOE</br>
 - Al Capone
+- El Chapo
 - Juan Pablo Abadia
 
 <h5>Subversion, mimicry and criminality</h5>
@@ -1379,6 +1401,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Social Contract Theory</h5>
 • Thomas Hobbes ( - )</br>
 • Rousseau ( - )</br>
+• Freud ( - )</br>
 
 <h5>Epistemology</h5>
 • Gaston Bachelard (1884 - 1962)</br>
@@ -1388,9 +1411,10 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Carl Schmitt ( - )</br>
 • Hannah Arendt (1906 – 1975)</br>
 
-<h5>Left or right-wing ?</h5>
+<h5>Left or right-wing? "That is the question" ?</h5>
 • Pierre-Joseph Proudhon ( - )</br>
 • Thomas Paine ( - )</br>
+• Norberto Bobbio (1909–2004)</br>
 
 <h5>Politcs Left-Wing</h5>
 • Karl Marx ( - )</br>
@@ -1404,6 +1428,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Milton Friedman ( - )</br>
 • Ludwig von Mises ( - )</br>
 • Friedrich Hayek ( - )</br>
+• Margaret Thatcher ( - )</br>
 
 <h5>Pernicious</h5>
 • Friedrich Nietzsche (1844 - 1900)</br>
@@ -1440,6 +1465,25 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
      <DT><A HREF="https://theanarchistlibrary.org">theanarchistlibrary</A>
      <DT><A HREF="https://anarch.cc/library/">anarch.cc</A>
      <DT><A HREF="https://libcom.org">libcom</A>
+
+<br>
+</details>
+
+
+<details>
+<summary><b>Book guerrillas</b></summary>
+<br>
+
+Guerilla Open Access Manifesto <br>
+How to facilitate access to books? Easy methods of digitizing books?<br>
+
+
+• Awesome Scanning<br>
+https://github.com/ad-si/awesome-scanning<br>
+• DIY Book Scanner<br>
+https://diybookscanner.org<br>
+• Android PDF document scanning app<br>
+https://github.com/LittleTrickster/PDF-Doc-Scan<br>
 
 <br>
 </details>
