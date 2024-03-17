@@ -1221,18 +1221,25 @@ https://truthout.org/articles/i-faced-death-by-incarceration-the-un-heard-my-ple
 
 <h4>https://www.aclu.org</h4>
 
-• Lifting the Veil on the Design of Predictive Tools in the Criminal Legal System
+• Lifting the Veil on the Design of Predictive Tools in the Criminal Legal System</br> 
 https://www.aclu.org/news/racial-justice/lifting-the-veil-on-the-design-of-predictive-tools-in-the-criminal-legal-system</br>
+
+<h4>https://www.lawfaremedia.org</h4>
+• The FBI’s recent operations against Volt Typhoon and Fancy Bear botnets are a cybersecurity success, but the government’s legal theory has frightening implications.</br>
+https://www.lawfaremedia.org/article/recent-botnet-takedowns-allow-u.s.-government-to-reach-into-private-devices</br>
+
 
 <h4>https://thehackernews.com</h4>
 
-• </br>
+• Lapsus</br>
 https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html</br>
-• </br>
+• Lizzard Squad</br>
 https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 </br>
 
-<h4>https://vice.com</h4>
+<h4>https://www.vice.com/en/section/tech</h4>
+
+<h4>https://www.computerweekly.com</h4>
 
 <h4>https://decrypt.co</h4>
 
@@ -1298,11 +1305,14 @@ https://www.e-ir.info/publications/
 - Whistleblowers</br>
 - Discrediting tactic – Effort to damage someone's reputation</br>
 - Hoax – Widespread deliberate fabrication presented as truth</br>
+- Hack the Media - https://github.com/nemild/hack-the-media</br>
 - International Journalism Festival - https://www.youtube.com/@journalismfest</br>
 - Freedom of the Press Foundation - https://freedom.press/training/</br>
 - Committee to Protect Journalists - https://cpj.org/safety-notes/</br>
-- Hack the Media - https://github.com/nemild/hack-the-media</br>
 - BIRD - https://bird.tools</br>
+-  https://securitytraining.opennews.org</br>
+- Global Investigative Journalism Network - https://gijn.org/resource</br>
+- The Investigative Journalism Manual (IJM) - https://www.investigative-manual.org</br>
 
 <h5>Mass Media</h5>
 - Hollywood Propaganda (films, docs etc)</br>
@@ -1394,6 +1404,8 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Where is the truth? Is this all power, strength, rethoric?</h5>
 
+<h5>No. People are not rational. </h5>
+
 <h5>Pragmatism</h5>
 • Sun Tzu (544 - 496 BC)</br>
 • Niccolò Machiavelli (1469 - 1527)</br>
@@ -1412,8 +1424,10 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Hannah Arendt (1906 – 1975)</br>
 
 <h5>Left or right-wing? "That is the question" ?</h5>
-• Pierre-Joseph Proudhon ( - )</br>
-• Thomas Paine ( - )</br>
+• Voltaire (1694–1778)</br>
+• Thomas Paine (1737 - 1809)</br>
+• Pierre-Joseph Proudhon (1809 - 1865)</br>
+• Max Weber (1864 - 1920)</br>
 • Norberto Bobbio (1909–2004)</br>
 
 <h5>Politcs Left-Wing</h5>
@@ -1469,14 +1483,12 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <br>
 </details>
 
-
 <details>
-<summary><b>Book guerrillas</b></summary>
+<summary><b>Book Guerrilla</b></summary>
 <br>
 
-Guerilla Open Access Manifesto <br>
+Guerilla Open Access Manifesto<br>
 How to facilitate access to books? Easy methods of digitizing books?<br>
-
 
 • Awesome Scanning<br>
 https://github.com/ad-si/awesome-scanning<br>
@@ -1551,17 +1563,18 @@ https://github.com/LittleTrickster/PDF-Doc-Scan<br>
 <h4>Links</h4>
 
 <ul>
-<li>UNO IGF - https://www.intgovforum.org</li>
-<li>USENIX Conferences - https://www.usenix.org/conferences</li>
+<li>Internet Archive - https://archive.org</li>
+<li>Archive web content - https://archive.ph</li>
+<li>Telegram’s blogging platform - https://telegra.ph</li>
 <li>Citizenlab - https://citizenlab.ca</li>
 <li>Necessary and Proportionate - https://www.necessaryandproportionate.org</li>
 <li>Bad Internet Bills - https://www.badinternetbills.com</li>
 <li>The IT Law Wiki - https://itlaw.fandom.com</li>
+<li>UN Internet Governance Forum - https://www.intgovforum.org</li>
+<li>USENIX Conferences - https://www.usenix.org/conferences</li>
 <li>Computer Crime Research Center - https://www.crime-research.org</li>
 <li>Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReporlis</li>
-<li>Telegram’s blogging platform - https://telegra.ph</li>
-<li>Internet Archive - https://archive.org</li>
-<li>Archive web content - https://archive.ph</li>
+<li>Exposing the Invisible (ETI) - https://kit.exposingtheinvisible.org</li>
 </ul>
 
 <h4>YouTube - Privacy</h4>
