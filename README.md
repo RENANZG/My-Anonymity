@@ -471,6 +471,9 @@ https://github.com/alancnet/torrent-vpn</br>
 <summary><b>Secure Communication</b></summary>
 <br>
 
+<img src=".data/war_room.jpg" title="War Room" width="640" height="320"/>
+
+
 • Anonymous Chat, IRC, XMPP in Whonix.</br>
 https://www.whonix.org/wiki/Chat</br>
 
@@ -1065,12 +1068,24 @@ General - ARTT’s Psychological Manipulation Tactics</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>AirBnB Strategy</b></summary>
+<summary><b>Geolocation Strategy</b></summary>
 <br>
 
 • AirBnB paid with monero</br>
 
 https://www.reddit.com/r/Monero/comments/75tm5q/i_have_created_a_crypto_airbnb_accepting_btc_and</br>
+
+• Multi-Family House</br>
+
+Multi-Family House with shared wifi.<br>
+
+• Coffee</br>
+
+</br>
+
+• </br>
+
+</br>
 
 <br>
 </details>
@@ -1287,6 +1302,14 @@ https://www.e-ir.info/publications/
 • For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
 • We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization (surveillance capitalism) and manipulating society. The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
 • Three types of social struggles: those that confront forms of domination (ethnic, social and religious); those that contest the forms of exploitation that separate individuals from what they produce; and the struggles against subjection, against forms of subjectivation and submission, which face everything that connects the individual to himself and subjects him to others.</br> 
+
+• Pressure points<br>
+
+- Public: Legislative, Judiciary, Media, Private sector<br>
+
+- Private: sneak law (calculated law), sneak jurisprudence (judicial activism), veiled propaganda (hybrid memes), creative narratives<br>
+
+
 
 <h5>Governments & Politicians</h5>
 - The distinction between ordinary and political prisoners is illusory.</br>
