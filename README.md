@@ -36,8 +36,12 @@
 • <a href="https://www.whonix.org/wiki/System_Hardening_Checklist" target="_blank"><b>Whonix</b> - System Hardening Checklist</a></br>
 • <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a>&nbsp;<a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">(PDF)</a></br>
 • <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer"><b>HackMD</b> - How to stay anon</a></br>
-• <a href="https://www.eff.org/" target="_blank" rel="noopener noreferrer"><b>EFF Foundation</b></a></br>
-• <a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF Security Companion</a></br>
+• <a href="https://www.eff.org" target="_blank" rel="noopener noreferrer"><b>EFF Foundation</b></a></br>
+• <a href="https://www.securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF - Security Companion</a></br>
+• <a href="https://www.eff.org/sls" target="_blank" rel="noopener noreferrer"><b>EFF - Street-Level Surveillance</b></a></br>
+• <a href="https://epic.org" target="_blank" rel="noopener noreferrer"><b>EPIC</b></a></br>
+• <a href="https://epic.org/issues/surveillance-oversight" target="_blank" rel="noopener noreferrer"><b>EPIC - Surveillance Oversight</b></a></br>
+• <a href="https://epic.org/?s=&_issues=surveillance-oversight" target="_blank" rel="noopener noreferrer"><b>EPIC - Digital Library</b></a></br>
 • <a href="https://www.anarsec.guide" target="_blank" rel="noopener noreferrer">Anarsec</a></br>
 • <a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a></br>
 • <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a></br>	
@@ -1297,19 +1301,30 @@ https://www.e-ir.info/publications/
 • Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
 • Gradually shift the limit of social exclusion, increasing the power of excluded agents (minorities) by creating marginal spaces in which they can articulate themselves.</br
 • Deconstruct Carl Schmitt, deconstruct the image of the enemy. Deconstruct the concrete tangible characteristics that make it a suitable target for hatred and struggle. Nothing is political, everything is politicizable !</br
+• Voter-oriented policies based on "governing by fear of crime".</br> 
 • Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power/control by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
 • Crime is also based on capitalism, the "war on drugs" fuels a market for weapons, vehicles, cameras, personnel.</br
 • For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
 • We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization (surveillance capitalism) and manipulating society. The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
 • Three types of social struggles: those that confront forms of domination (ethnic, social and religious); those that contest the forms of exploitation that separate individuals from what they produce; and the struggles against subjection, against forms of subjectivation and submission, which face everything that connects the individual to himself and subjects him to others.</br> 
+• "The existence of rights against the Government would be jeopardized if the Government were able to defeat such a right by appealing to the right of a democratic majority to work its will. A right against the Government must be a right to do something even when the majority thinks it would be wrong to do it, and when the majority would be worse off for having it done. If we now say that society has a right to do whatever is in the general benefit, or the right to preserve whatever sort of environment the majority wishes to live in, and we mean that these are the sort of
+rights that provide justification for overruling any rights against the Government that may conflict, then we have annihilated the later rights." (Ronald Dworkin, Taking Rights Seriously)<br>
 
 • Pressure points<br>
 
 - Public: Legislative, Judiciary, Media, Private sector<br>
 
-- Private: sneak law (calculated law), sneak jurisprudence (judicial activism), veiled propaganda (hybrid memes), creative narratives<br>
+- Private: sneak law (calculated law), sneak jurisprudence (judicial activism), veiled propaganda (media, hybrid memes), creative narratives<br>
 
+- Private individual: disruptive technology (cryptocurrency and blockchain), deterrence power (ghost guns), cryptography (vpn, onion, tails..), direct action (leakage)<br>
 
+• Law<br>
+
+- Preventive police laws are particularly suited to dealing with the prevention of future dangers. <br>
+
+- Intelligence law was developed as an early warning system against special dangers to the state.<br>
+
+- Laws of war: deal with exceptional threats by serious armed attacks. "Wars" on terror, on drugs, on organized crime, cyberwars.<br>
 
 <h5>Governments & Politicians</h5>
 - The distinction between ordinary and political prisoners is illusory.</br>
@@ -1443,11 +1458,13 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Karl Popper (1902 - 1994)</br>
 
 <h5>Theology</h5>
-• Carl Schmitt ( - )</br>
+• Carl Schmitt (1888-1985)</br>
+• Giovanni Gentile (1875-1944)</br>
+• Arthur Rosenberg (1889 - 1943)</br>
 • Hannah Arendt (1906 – 1975)</br>
 
 <h5>Left or right-wing? "That is the question" ?</h5>
-• Voltaire (1694–1778)</br>
+• Voltaire (1694 – 1778)</br>
 • Thomas Paine (1737 - 1809)</br>
 • Pierre-Joseph Proudhon (1809 - 1865)</br>
 • Max Weber (1864 - 1920)</br>
@@ -1462,6 +1479,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Politcs Right-Wing</h5>
 • John Locke (1632 – 1704)</br>
 • Adam Smith (1723 - 1790)</br>
+• John Stuart Mill (1806 – 1873)</br>
 • Milton Friedman ( - )</br>
 • Ludwig von Mises ( - )</br>
 • Friedrich Hayek ( - )</br>
@@ -1471,8 +1489,8 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Friedrich Nietzsche (1844 - 1900)</br>
 • Herbert Marcuse (1898 - 1979)</br>
 • Michel Foucault (1926 - 1984)</br>
-• Giorgio Agamben (1942)</br>
 • Giles Deleuze (1925)</br>
+• Giorgio Agamben (1942)</br>
 
 <h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
@@ -1540,7 +1558,6 @@ https://github.com/LittleTrickster/PDF-Doc-Scan<br>
 <br>
 
 <ul>
-
 <li>General</br>
 <a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter instances</a></br>
 <a href="https://docs.invidious.io/Invidious-Instances.md">Invidious instances</a></br>
@@ -1598,6 +1615,7 @@ https://github.com/LittleTrickster/PDF-Doc-Scan<br>
 <li>Computer Crime Research Center - https://www.crime-research.org</li>
 <li>Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReporlis</li>
 <li>Exposing the Invisible (ETI) - https://kit.exposingtheinvisible.org</li>
+<li> BBW - https://bigbrotherwatch.org.uk</li>
 </ul>
 
 <h4>YouTube - Privacy</h4>
