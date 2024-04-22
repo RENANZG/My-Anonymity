@@ -997,24 +997,29 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Dirt Tricks (to find the "truth" or manipulate it)</b>​</summary>
+<summary><b>Little traps or dirt tricks</b>​</summary>
 <br>
 
-• Evidence laundry: evidence obtained through torture, evidence obtained through backdoors in computer systems etc. The judge in the case and the cuckold of the story.
-• Build rapport or offers an advantage to see if you to produce evidence against yourself,(e.g. talks about mild subjects, like dogs and cats; says "nothing will happen if..." to obtain an informal confession).</br>
-• Intimidation or blackmailing tactics, to pressures you to produce evidence against yourself (e.g. says that "you don't want to collaborate").</br>
-• Having possession of the evidence helps you have control of the narrative (evidence out of context).</br>
-• Forces your lawyer/doctor/priest to violate ethical confidentiality.</br>
-• Left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
-• Event or accident simulation so that the target leaves a safe place or to find the connection of the evidences.</br>
-• Acting as an agent provocateur (“baits”).</br>
-• Acting to manipulate the target's behavior so that it is further harmed.</br>
-• Acting to manipulate the target's behavior to harm him rather than to prevent harm to the victim.</br>
-• Acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points, manipulation of evidence out of context).</br>
-• Put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
-• Uses trakers or spywares (e. g. FirstMile, IMSI Cachers, Drones, Wong Sun case etc).</br>
-• Use facial regonition cammeras spread in the city or in public transport.</br>
-• Use state database or state informants.</br>
+<p>There are many ways to circumvent the Law, in general, techniques involve <b>coercion/power</b> (intimidation, blackmailing, torture etc) and <b>fraud/deception</b> (deviation of purpose, "fortuitous meeting of evidence", manipulation of behavior, informal agreements, clandestinity, use of hidden means, paid informants, blackmailed informants, use of uninvolved third parties etc). In short, “all possible means”, as Machiavelli thought or Bentham thought.</p>
+
+<p>If you are smart, knowing this techniques are implemented, you can use your acting skills like politicians do, you would be an "undercover agent of yourself" or do personal marketing.</p>
+
+<p>*DNA-generated estimation and voice analysis would deserve further study.</p>
+
+• Interrogation: build rapport or offers an advantage to see if you to produce evidence against yourself,(e.g. talks about mild subjects, like dogs and cats; says "nothing will happen if..." to obtain an informal confession).</br>
+• Interrogation: intimidation or blackmailing tactics, to pressures you to produce evidence against yourself (e.g. says that "you don't want to collaborate").</br>
+• Interrogation: left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
+• Evidence laundry: evidence obtained through torture, evidence obtained through backdoors in computer systems etc. The judge in the case is the cuckold of the story.
+• Evidence laundry: put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
+• Evidence laundry: uses trakers or spywares (e. g. FirstMile, IMSI Cachers, Drones, Wong Sun case etc).</br>
+• Evidence laundry: unlawfull covert agent (e. g. fake cellmate, informer cellmate).</br>
+• Evidence laundry: use facial regonition cammeras spread in the city, in CCTV or in public transport.</br>
+• Evidence bias: having possession of the evidence helps you have control of the narrative (evidence out of context).</br>
+• Human sources exploitation: forces your lawyer/doctor/priest/relatives with the right to refuse testimony to violate ethical confidentiality.</br>
+• Human sources manipulation: event or accident simulation so that the target leaves a safe place or to find the connection of the others evidences.</br>
+• Human sources manipulation: acting as an agent provocateur (“baits”).</br>
+• Human sources manipulation: acting to manipulate the target's behavior so that it is further harmed or rather than to prevent harm to the victim.</br>
+• Human sources manipulation: acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points, manipulation of evidence out of context).</br>
 
 General - ARTT’s Psychological Manipulation Tactics</br>
 
@@ -1028,6 +1033,11 @@ General - ARTT’s Psychological Manipulation Tactics</br>
 <li>Discrediting the opponent instead of addressing the argument</li>
 <br>
 </ol>
+
+Decomposition Techniques (by Stasi)</br>
+
+"Systematic discrediting of public reputation, the reputation and prestige on the basis interconnected true, verifiable, and discrediting, and false, credible, non-rebuttable, and thus also discrediting
+information, systematic organization of professional and societal failures to undermine the confidence of individuals, generating [...] Doubt the personal perspective, creating mistrust and mutual suspicion within groups [...]; local and temporal. Prevent or limit the mutual relations of the members of a group [...] [...] for example, by assigning locals to remote jobs" </br>
 
 </details>
 
@@ -1056,7 +1066,7 @@ General - ARTT’s Psychological Manipulation Tactics</br>
 
 • Law enforcment will violate the law in order to catch you (with or without a search warrant). Judges are afraid of annulling all evidence and are afraid of pressure from the media.</br>
 
-• Judges also do not have functional independence and fear actions from internal affairs bodies.</br>
+• Judges also do not have functional independence and fear actions from internal affairs bodies. Oppressive power networks limit decision-making, they are made to maintain the status quo.</br>
 
 <br>
 </details>
@@ -1384,6 +1394,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - https://anarch.cc/library/</br>
 - https://libcom.org</br>
 - https://theanarchistlibrary.org</br>
+- https://crimethinc.com/library</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
 
 <h5>Jews</h5>
@@ -1449,7 +1460,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Organic and inorganic intellectuals?</h5>
 
-<h5>Where is the truth? Is this all power, strength, rethoric?</h5>
+<h5>Where is the truth? Is this all power?</h5>
 
 <h5>No. People are not rational. </h5>
 
@@ -1529,6 +1540,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
      <DT><A HREF="http://libgen.li">GenoType.INC <BR><PRE>http://libgen.li</PRE></A>
      <DT><A HREF="https://theanarchistlibrary.org">theanarchistlibrary</A>
      <DT><A HREF="https://anarch.cc/library/">anarch.cc</A>
+     <DT><A HREF="https://crimethinc.com/library">CrimethInc</A>
      <DT><A HREF="https://libcom.org">libcom</A>
 
 <br>
