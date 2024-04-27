@@ -938,14 +938,16 @@ https://whonix.org/wiki/MAC_Address</br>
 <summary><b>Biometrics Anti-surveillance</b>​</summary>
 <br>
 
-<h4>Facial Recognition</h4>
 
-
-• Juan Carlos Abadia - Plastic surgery</br>
+• Joaquín Guzmán, "El Chapo"
 
 https://vice.com/en/article/vbweqj/the-10-most-insane-moments-and-stories-from-el-chapos-trial</br>
 
-<img src=".data/Ju4n_C4rl0s_4b4d14.jpg"></a>
+<h4>Facial Recognition</h4>
+
+• Juan Carlos Abadia "Chupeta" - Plastic surgery</br>
+
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/Ju4n_C4rl0s_4b4d14.webp"></a>
 
 • Invisible Mask: Practical Attacks on Face Recognition with Infrared</br>
 https://arxiv.org/pdf/1803.04683.pdf</br>
@@ -985,11 +987,11 @@ https://us.artechhouse.com/storehome.aspx</br>
 
 <h4>Hidden Objects</h4>
 
-• Hire an object storage service anonymously ("box self storage")</br>
 • How to Hide Things in Public Places - Dennis Fiery</br>
 • DIY Secret Hiding Places: 90 Places To Hide What You Don't Want Found! - Steve Plant</br>
 • The Big Book of Secret Hiding Places - Jack Luger</br>
 • https://boredpanda.com/how-to-hide-things-secret-hiding-places</br>
+• Hire an object storage service anonymously ("box self storage")</br>
 
 <br>
 </details>
@@ -997,8 +999,10 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Little traps or dirt tricks</b>​</summary>
+<summary><b>Trickery and Deception</b>​</summary>
 <br>
+
+<h4>Little traps or dirt tricks</h4>
 
 <p>There are many ways to circumvent the Law, in general, techniques involve <b>coercion/power</b> (intimidation, blackmailing, torture etc) and <b>fraud/deception</b> (deviation of purpose, "fortuitous meeting of evidence", manipulation of behavior, informal agreements, clandestinity, use of hidden means, paid informants, blackmailed informants, use of uninvolved third parties etc). In short, “all possible means”, as Machiavelli thought or Bentham thought.</p>
 
@@ -1007,18 +1011,33 @@ https://us.artechhouse.com/storehome.aspx</br>
 <p>*DNA-generated estimation and voice analysis would deserve further study.</p>
 
 • Interrogation: build rapport or offers an advantage to see if you to produce evidence against yourself,(e.g. talks about mild subjects, like dogs and cats; says "nothing will happen if..." to obtain an informal confession).</br>
+
 • Interrogation: intimidation or blackmailing tactics, to pressures you to produce evidence against yourself (e.g. says that "you don't want to collaborate").</br>
+
 • Interrogation: left you alone and your friend with a secret recording device (e.g. while you are at the police station giving a statement).</br>
-• Evidence laundry: evidence obtained through torture, evidence obtained through backdoors in computer systems etc. The judge in the case is the cuckold of the story.
+
+• Evidence laundry: evidence obtained through torture, evidence obtained through backdoors in computer systems etc. The judge in the case is the cuckold of the story.</br>
+
 • Evidence laundry: put GPS in your vehicle (GSM Chip, Apple AirTag etc).</br>
+
 • Evidence laundry: uses trakers or spywares (e. g. FirstMile, IMSI Cachers, Drones, Wong Sun case etc).</br>
+
 • Evidence laundry: unlawfull covert agent (e. g. fake cellmate, informer cellmate).</br>
+
 • Evidence laundry: use facial regonition cammeras spread in the city, in CCTV or in public transport.</br>
+
 • Evidence bias: having possession of the evidence helps you have control of the narrative (evidence out of context).</br>
+
 • Human sources exploitation: forces your lawyer/doctor/priest/relatives with the right to refuse testimony to violate ethical confidentiality.</br>
+
+• Human sources manipulation:conversation mediated by a covert agent in which there is a provocation that leads to self-incrimination.</br>
+
 • Human sources manipulation: event or accident simulation so that the target leaves a safe place or to find the connection of the others evidences.</br>
+
 • Human sources manipulation: acting as an agent provocateur (“baits”).</br>
+
 • Human sources manipulation: acting to manipulate the target's behavior so that it is further harmed or rather than to prevent harm to the victim.</br>
+
 • Human sources manipulation: acting to manipulate third-party opinions about the target (e.g. manipulating Google searches to highlight only negative points, manipulation of evidence out of context).</br>
 
 General - ARTT’s Psychological Manipulation Tactics</br>
@@ -1208,23 +1227,25 @@ https://inteltechniques.com/links.html</br>
 
 <h4>Considerations - Notebooks</h4>
 
-• Conflicts with definable objective.</br>
-• Conflicts with definable political objective (guerillas ?).</br>
-• Conflicts with no definable objective (anarchists ?).</br>
-• Resistance by dominated groups.</br>
-• Resistance by dominated groups using means that do not disturb their internal unity.</br>
-• Disruptive actions by individuals. Resistance by dominated individuals.</br>
-• Disruptive political actions by individuals.</br>
-• As a rule, groups are stronger than individuals. However, there are dissidents in high positions.</br>
-• Analysis of fallacious speeches or actions justified on the basis of high moral values or "true crimes".</br>
-• Analysis of fallacious speeches or actions justified on the basis of insurmountable civilizational limits.</br>
-• Analysis of fallacious speeches or actions justified on the basis of fear, risk or exceptional cases.</br>
-• To be one step ahead, only with a lot of money from the state. Resistance will always be asymmetric.</br>
-• Why are you going to prison if you don't want to do military service?</br>
-• Organic intellectuality, institutions, economic groups and religiuous groups.</br>
-• Criminology concepts, policy of "zero tolerance", "war on drugs/terrorism", "enemy".</br>
-• UNO doesn't work as well as the Supreme Court.</br>
+• "Nothing is political, everything is politicizable".</br>
+
+• UN doesn't work as well as the Supreme Court.</br>
+
 • The technical apparatuses for "social control" that a "democratic" government can use for legitimate purposes are easily co-opted by "authoritarian" efforts and practices for the political persecution of "detractors" or "dissenters". Could it be that after taking over the technical or power apparatus for "social control" there would be a point of no return? Would it be like the thesis of mutual destruction of atomic power?</br>
+
+• Marginalized sectors cannot attack each other, exploit each other, but terrorize the powerful, the owners of state institutions, of "order"/control.</br>
+
+• To be one step ahead, only with a lot of money or military from the state. Resistance will always be asymmetric.</br>
+
+• As a rule, groups are stronger than individuals. However, there are dissidents in high positions. People in high positions do not want to lose the benefits of belonging to the system, they are entangled in the web of power.</br>
+
+• Organic intellectuality, institutions, economic groups and religiuous groups.</br>
+
+• Criminology concepts, policy of "zero tolerance", "war on drugs/terrorism", "enemy".</br>
+
+• Analysis of fallacious speeches.</br>
+
+• Colonialist and neo-colonialist objectives, ‘unquestionable inferiority’, Christian message, degree of ‘civilisation’, biologically inferior
 
 <br>
 </details>
@@ -1316,6 +1337,7 @@ https://e-ir.info/publications/
 • Analysis of fallacious speeches justified on the basis of high moral values/democracy/terrorism/fear.</br>
 • Basic strategic ambiguity/mimicry, copy the oppressor's speech.</br>
 • It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program. Is it possible to do politics without being a politician? Is revolution desirable? By whom? Is he who rebels right?</br>
+• We don't have politicians talking to the people; everything is through the media. Politicians are tied to the mass media, out of opportunism or fear, they adopt the media's unique discourse.</br>
 • We need to facilitate the conditions of power to create a society organized in defense of its rights.</br>
 • Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
 • Gradually shift the limit of social exclusion, increasing the power of excluded agents (minorities) by creating marginal spaces in which they can articulate themselves.</br
@@ -1346,7 +1368,7 @@ rights that provide justification for overruling any rights against the Governme
 - Laws of war: deal with exceptional threats by serious armed attacks. "Wars" on terror, on drugs, on organized crime, cyberwars.<br>
 
 <h5>Governments & Politicians</h5>
-- The distinction between ordinary and political prisoners is illusory.</br>
+- The distinction between ordinary and political prisoners is illusory. Perhaps murder is the only real crime, although genocide is not a crime.</br>
 - Moral panic – Fear that some evil threatens society</br>
 - Obscurantism – Practice of obscuring information</br>
 - Swiftboating – Political jargon for a particular form of character assassination as a smear tactic</br>
@@ -1379,60 +1401,7 @@ rights that provide justification for overruling any rights against the Governme
 https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - The “demonization” of the delinquent’s image – the construction of the enemy’s identity generates the great production of terror discourse around crime, whether in the journalistic media or in police programs favoring social control mechanisms.</br>
 
-<h5>Spies</h5>
-- Books about american, british and russian spies</br>
-- Dead drop technique</br>
-- Cold pitch technique</br>
-- Denial and deception – Framework in military intelligence theory</br>
-- False flag – Covert operation designed to deceive</br>
-- Books, books, books...</br>
-
-<h5>Resistance by Civilians</h5>
-- Vietcong 
-
-<h5>Anarchists</h5>
-- https://anarch.cc/library/</br>
-- https://libcom.org</br>
-- https://theanarchistlibrary.org</br>
-- https://crimethinc.com/library</br>
-- https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
-
-<h5>Jews</h5>
-- Books, books, books...</br>
-
-<h5>Slaves</h5>
-- Books, books, books...</br>
-
-<h5>Aboriginal Groups</h5>
-- Books, books, books...</br>
-
-<h5>Strategy of Catholic Evangelization</h5>
-- Evangelization of Aboriginal Groups</br>
-- </br>
-
-<h5>Secret Societies</h5>
-- Freemasons...</br>
-- </br>
-
-<h5>Resistance Groups</h5>
-- Vietcong Guerrila warfare</br>
-- Books, books, books...</br>
-
-<h5>Mobsters & Droug Traffikers</h5>
-- Unmasking the informant inside the cartel - https://youtube.com/watch?v=Kse32_VpTOE</br>
-- Al Capone
-- El Chapo
-- Juan Pablo Abadia
-
-<h5>Subversion, mimicry and criminality</h5>
-• Criminal populism</br>
-• Criminal law is not war</br>
-• We need to participate in political-criminal discourse. We need to educate ourselves philosophically to identify what is political and what is political abuse. But pure theory is not enough, we need to verify the practical consequences of theories.</br>
-
-<h5>Counter-culture movement</h5>
-- Books, books, books...</br>
-
-<h3>Other Considerations</h3>
+<h3>COLDWAR</h3>
 
 <h5>Hybrid Warfare</h5>
 • </br>
@@ -1447,6 +1416,76 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Chilling Effect</h5>
 • </br>
 
+<h5>Spies</h5>
+- Books about american, british and russian spies</br>
+- Dead drop technique</br>
+- Cold pitch technique</br>
+- Denial and deception – Framework in military intelligence theory</br>
+- False flag – Covert operation designed to deceive</br>
+- Chilling Effect</br>
+
+
+<h4>ILLUMINISM</h4>
+
+<h5>Secret Societies</h5>
+- Freemasons...</br>
+- </br>
+
+<h4>COLONIALISM and NEOCOLONIALISM</h4>
+
+<h5>Slaves</h5>
+- ‘Unquestionable inferiority’</br>
+- Biologically inferior</br>
+- </br>
+
+<h5>Aboriginal Groups</h5>
+- Degree of ‘civilisation’</br>
+- Christian message</br>
+
+<h5>Strategy of Catholic Evangelization</h5>
+- Evangelization of Aboriginal Groups</br>
+- Degree of ‘civilisation’</br>
+- Christian message</br>
+
+<h5>Resistance by Civilians</h5>
+- Vietcong </br>
+
+<h5>Resistance Groups</h5>
+- Vietcong Guerrila warfare</br>
+- Books, books, books...</br>
+
+<h4>WAR ON DRUGS/CRIME</h4>
+
+<h5>Mobsters & Droug Traffikers</h5>
+- Al Capone
+- El Chapo
+- Juan Pablo Abadia
+- Unmasking the informant inside the cartel - https://youtube.com/watch?v=Kse32_VpTOE</br>
+
+<h5>Subversion, mimicry and criminality</h5>
+• Criminal populism</br>
+• Criminal law is not war</br>
+• We need to participate in political-criminal discourse. We need to educate ourselves philosophically to identify what is political and what is political abuse. But pure theory is not enough, we need to verify the practical consequences of theories.</br>
+
+<h3>DISSIDENTS</h3>
+
+<h5>Counter-culture movement</h5>
+- "Make love, no war"</br>
+
+<h3>OTHERS</h3>
+
+<h5>Document leakage</h5>
+
+<h5>Anarchists</h5>
+- https://anarch.cc/library/</br>
+- https://libcom.org</br>
+- https://theanarchistlibrary.org</br>
+- https://crimethinc.com/library</br>
+- https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
+
+<h5>Jews</h5>
+- Books, books, books...</br>
+
 <br>
 </details>
 
@@ -1458,15 +1497,25 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h4>Academic Considerations</h4>
 
+<h5>Knowledge as a power factor</h5>
+
+
+<h5>Information asymmetries</h5>
+
+
 <h5>Organic and inorganic intellectuals?</h5>
+
 
 <h5>Where is the truth? Is this all power?</h5>
 
+
 <h5>No. People are not rational. </h5>
+
 
 <h5>Pragmatism</h5>
 • Sun Tzu (544-496 BC)</br>
 • Niccolò Machiavelli (1469-1527)</br>
+• Bentham (-)</br>
 
 <h5>Social Contract Theory</h5>
 • Thomas Hobbes ( - )</br>
