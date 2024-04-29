@@ -1235,7 +1235,9 @@ https://inteltechniques.com/links.html</br>
 
 • Marginalized sectors cannot attack each other, exploit each other, but terrorize the powerful, the owners of state institutions, of "order"/control.</br>
 
-• To be one step ahead, only with a lot of money or military from the state. Resistance will always be asymmetric.</br>
+• To marginalized sectors reduce the use of violence it is necessary to modify the economic model to a certain extent.</br>
+
+• To be one step ahead, only with a lot of money or military (power) from the state. Resistance will always be asymmetric. People in high positions do not want to lose the benefits of belonging to the system.</br>
 
 • As a rule, groups are stronger than individuals. However, there are dissidents in high positions. People in high positions do not want to lose the benefits of belonging to the system, they are entangled in the web of power.</br>
 
@@ -1245,7 +1247,9 @@ https://inteltechniques.com/links.html</br>
 
 • Analysis of fallacious speeches.</br>
 
-• Colonialist and neo-colonialist objectives, ‘unquestionable inferiority’, Christian message, degree of ‘civilisation’, biologically inferior
+• Colonialist and neo-colonialist objectives, ‘unquestionable inferiority’, Christian message, degree of ‘civilisation’, biologically inferior.
+
+• Para reduzir as margens da violência e preciso modificar até certo ponto o modelo económico.
 
 <br>
 </details>
