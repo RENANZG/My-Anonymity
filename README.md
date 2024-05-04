@@ -42,9 +42,9 @@
 • <a href="https://epic.org" target="_blank" rel="noopener noreferrer"><b>EPIC</b></a></br>
 • <a href="https://epic.org/issues/surveillance-oversight" target="_blank" rel="noopener noreferrer"><b>EPIC - Surveillance Oversight</b></a></br>
 • <a href="https://epic.org/?s=&_issues=surveillance-oversight" target="_blank" rel="noopener noreferrer"><b>EPIC - Digital Library</b></a></br>
+• <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom of the Press Foundation</a></br>	
 • <a href="https://anarsec.guide" target="_blank" rel="noopener noreferrer">Anarsec</a></br>
 • <a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a></br>
-• <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom Press</a></br>	
 • <a href="https://techsafety.org" target="_blank" rel="noopener noreferrer">Safety Net Project</a></br>
 • <a href="https://nomoregoogle.com" target="_blank" rel="noopener noreferrer">No More Google</a></br>
 • <a href="https://cnet.com/news/privacy/" target="_blank" rel="noopener noreferrer">CNET</a></br>
@@ -503,8 +503,8 @@ https://rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protoco
 • https://reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix</br>
 
 <h5>• XMPP</h5>
-• https://xmpp.org/software/?platform=linux
-• https://xmpp.org/software/gajim/
+• https://xmpp.org/software/?platform=linux</br>
+• https://xmpp.org/software/gajim/</br>
 • https://github.com/profanity-im/profanity</br>
 • https://github.com/zom/zom-android</br>
 • http://conversations.im</br>
@@ -515,8 +515,8 @@ https://rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protoco
 <h5>• Session</h5>
 • https://github.com/oxen-io/session-desktop</br>
 • https://github.com/oxen-io/session-android</br>
-• https://arxiv.org/pdf/2002.04609.pdf
 • https://github.com/GNU-Linux-libre/Awesome-Session-Group-List</br>
+• https://arxiv.org/pdf/2002.04609.pdf</br>
 
 <h5>• Signal</h5>
 • https://signal.org/android/apk/</br>
@@ -1339,19 +1339,22 @@ https://e-ir.info/publications/
 
 <h5>Strategy</h5>
 • Analysis of fallacious speeches justified on the basis of high moral values/democracy/terrorism/fear.</br>
-• Basic strategic ambiguity/mimicry, copy the oppressor's speech.</br>
 • It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program. Is it possible to do politics without being a politician? Is revolution desirable? By whom? Is he who rebels right?</br>
-• We don't have politicians talking to the people; everything is through the media. Politicians are tied to the mass media, out of opportunism or fear, they adopt the media's unique discourse.</br>
+• Basic strategic ambiguity/mimicry, copy the oppressor's speech.</br>
+• To be critical is to pose questions of the government of conduct, principles, objectives and methods using the available political resources and repertoire furnished by government itself, a kind of refractory turning of government against itself from within the discursive and political field of possibilities opened up by government.
+• To resist or destabilise government from an immanent vantage point and thus seeks to open "govern­mental" arrangement to new creative possibilities. To produce something that doesn’t exist yet -- without being able to know what it will be.</br>
+• BUT force/power decides between equal rights. The projects that seek to gain political traction collapes themselves into the idiom of the "human rights".</br>
+• Three types of social struggles: those that confront forms of domination (ethnic, social and religious); those that contest the forms of exploitation that separate individuals from what they produce; and the struggles against subjection, against forms of subjectivation and submission, which face everything that connects the individual to himself and subjects him to others.</br> 
 • We need to facilitate the conditions of power to create a society organized in defense of its rights.</br>
-• Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
 • Gradually shift the limit of social exclusion, increasing the power of excluded agents (minorities) by creating marginal spaces in which they can articulate themselves.</br
-• Deconstruct Carl Schmitt, deconstruct the image of the enemy. Deconstruct the concrete tangible characteristics that make it a suitable target for hatred and struggle. Nothing is political, everything is politicizable !</br
+• We don't have politicians talking to the people; everything is through the media. Politicians are tied to the mass media, out of opportunism or fear, they adopt the media's unique discourse.</br>
+• Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
+• Deconstruct Carl Schmitt, deconstruct the image of the enemy. Deconstruct the concrete tangible characteristics that make it a suitable target for hatred and struggle. Nothing is political, everything is politicizable !</br>
 • Voter-oriented policies based on "governing by fear of crime".</br> 
 • Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power/control by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
 • Crime is also based on capitalism, the "war on drugs" fuels a market for weapons, vehicles, cameras, personnel.</br
 • For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
-• We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization (surveillance capitalism) and manipulating society. The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
-• Three types of social struggles: those that confront forms of domination (ethnic, social and religious); those that contest the forms of exploitation that separate individuals from what they produce; and the struggles against subjection, against forms of subjectivation and submission, which face everything that connects the individual to himself and subjects him to others.</br> 
+• We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization and manipulating society (surveillance capitalism, technocolonilism, technofeudalism). The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
 • "The existence of rights against the Government would be jeopardized if the Government were able to defeat such a right by appealing to the right of a democratic majority to work its will. A right against the Government must be a right to do something even when the majority thinks it would be wrong to do it, and when the majority would be worse off for having it done. If we now say that society has a right to do whatever is in the general benefit, or the right to preserve whatever sort of environment the majority wishes to live in, and we mean that these are the sort of
 rights that provide justification for overruling any rights against the Government that may conflict, then we have annihilated the later rights." (Ronald Dworkin, Taking Rights Seriously)<br>
 
@@ -1361,7 +1364,7 @@ rights that provide justification for overruling any rights against the Governme
 
 - Private: sneak law (calculated law), sneak jurisprudence (judicial activism), veiled propaganda (media, hybrid memes), creative narratives<br>
 
-- Private individual: disruptive technology (cryptocurrency and blockchain), deterrence power (ghost guns), cryptography (vpn, onion, tails..), direct action (leakage)<br>
+- Private individual: disruptive technology (cryptocurrency and blockchain), deterrence power (3d making, ghost guns, drones), cryptography (vpn, onion, tails..), direct action (leakage)<br>
 
 • Law<br>
 
@@ -1379,16 +1382,15 @@ rights that provide justification for overruling any rights against the Governme
 - Push polling – Use of polling to spread misinformation</br>
 - Negotiation and association</br>
 - Tenders with the companies themselves</br>
-- Enticement of the media and state agents</br>
+- Enticement of the media and state (secret) agents</br>
 - Using the system for your own benefit</br>
 - Offering positions and promotions</br>
-- Tailor-made laws</br>
+- Tailor-made laws or omission</br>
 
 <h5>Journalism</h5>
 - Whistleblowers</br>
 - Discrediting tactic – Effort to damage someone's reputation</br>
 - Hoax – Widespread deliberate fabrication presented as truth</br>
-- Hack the Media - https://github.com/nemild/hack-the-media</br>
 - International Journalism Festival - https://youtube.com/@journalismfest</br>
 - Freedom of the Press Foundation - https://freedom.press/training/</br>
 - Committee to Protect Journalists - https://cpj.org/safety-notes/</br>
@@ -1396,6 +1398,7 @@ rights that provide justification for overruling any rights against the Governme
 -  https://securitytraining.opennews.org</br>
 - Global Investigative Journalism Network - https://gijn.org/resource</br>
 - The Investigative Journalism Manual (IJM) - https://investigative-manual.org</br>
+- Hack the Media - https://github.com/nemild/hack-the-media</br>
 
 <h5>Mass Media</h5>
 - Hollywood Propaganda (films, docs etc)</br>
@@ -1541,11 +1544,12 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Voltaire (1694–1778)</br>
 • Thomas Paine (1737-1809)</br>
 • Pierre-Joseph Proudhon (1809-1865)</br>
-• Max Weber (1864-1920)</br>
+• Keynes (-)</br>
 • Norberto Bobbio (1909–2004)</br>
 
 <h5>Politcs Left-Wing</h5>
 • Karl Marx ( - )</br>
+• Max Weber (1864-1920)</br>
 • Antonio Gramsci (1891-1937)</br>
 • Nicos Poulantzas (1936-1979)</br>
 • Louis Althusser (1918-1990)</br>
@@ -1565,6 +1569,9 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Herbert Marcuse (1898-1979)</br>
 • Giles Deleuze (1925)</br>
 • Giorgio Agamben (1942)</br>
+
+• Sartre v. Camus</br>
+• </br>
 
 <h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
