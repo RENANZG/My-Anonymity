@@ -1506,18 +1506,13 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Knowledge as a power factor</h5>
 
-
 <h5>Information asymmetries</h5>
-
 
 <h5>Organic and inorganic intellectuals?</h5>
 
-
 <h5>Where is the truth? Is this all power?</h5>
 
-
 <h5>No. People are not rational. </h5>
-
 
 <h5>Pragmatism</h5>
 • Sun Tzu (544-496 BC)</br>
@@ -1541,6 +1536,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Hannah Arendt (1906–1975)</br>
 
 <h5>Left or right-wing?</h5>
+• John Locke (1632–1704)</br>
 • Voltaire (1694–1778)</br>
 • Thomas Paine (1737-1809)</br>
 • Pierre-Joseph Proudhon (1809-1865)</br>
@@ -1555,13 +1551,13 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Louis Althusser (1918-1990)</br>
 
 <h5>Politcs Right-Wing</h5>
-• John Locke (1632–1704)</br>
 • Adam Smith (1723-1790)</br>
 • John Stuart Mill (1806–1873)</br>
 • Milton Friedman ( - )</br>
 • Ludwig von Mises ( - )</br>
 • Friedrich Hayek ( - )</br>
 • Margaret Thatcher ( - )</br>
+• Ronald Reagan ( - )</br>
 
 <h5>Pernicious</h5>
 • Friedrich Nietzsche (1844-1900)</br>
@@ -1570,13 +1566,19 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Giles Deleuze (1925)</br>
 • Giorgio Agamben (1942)</br>
 
-• Sartre v. Camus</br>
-• </br>
+• Frankfurt School</br>
+• Existentialism: Sartre v. Camus</br>
+
+<h5>Gender/Feminism</h5>
+• Simone de Beauvoir ()</br>
+• Judith Butler (1956)</br>
+• Audre Lorde ()</br>
+• Amia Srinivasan ()</br>
+• Rita Seagato ()</br>
 
 <h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
 • Slavoj Žižek (1949)</br>
-• Judith Butler (1956)</br>
 • Achille Mbembe (1957)</br>
 
 <br>
