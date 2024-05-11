@@ -1235,7 +1235,7 @@ https://inteltechniques.com/links.html</br>
 
 • Marginalized sectors cannot attack each other, exploit each other, but terrorize the powerful, the owners of state institutions, of "order"/control.</br>
 
-• To marginalized sectors reduce the use of violence it is necessary to modify the economic model to a certain extent.</br>
+• To marginalized sectors reduce the use of violence, it is necessary to modify the economic model to a certain extent.</br>
 
 • To be one step ahead, only with a lot of money or military (power) from the state. Resistance will always be asymmetric. People in high positions do not want to lose the benefits of belonging to the system.</br>
 
@@ -1248,8 +1248,6 @@ https://inteltechniques.com/links.html</br>
 • Analysis of fallacious speeches.</br>
 
 • Colonialist and neo-colonialist objectives, ‘unquestionable inferiority’, Christian message, degree of ‘civilisation’, biologically inferior.
-
-• Para reduzir as margens da violência e preciso modificar até certo ponto o modelo económico.
 
 <br>
 </details>
@@ -1309,25 +1307,6 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 <br>
 </details>
 
-<!-- ######################### -->
-
-<details>
-<summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
-<br>
-
-• Taylor & Francis - Intelligence and National Security - Open access articles
-https://tandfonline.com/action/showOpenAccess?journalCode=fint20
-• The Journal of Intelligence, Conflict, and Warfare
-https://journals.lib.sfu.ca/index.php/jicw/issue/archive
-• CIA.gov - Center for the study of intelligence
-https://cia.gov/resources/csi/studies-in-intelligence/
-• DCAF - Geneva Centre for Security Sector Governance
-https://dcaf.ch/resources?type=publications
-• E-International Relations - Open access scholarly books 
-https://e-ir.info/publications/
-
-<br>
-</details>
 
 <!-- ######################### -->
 
@@ -1341,7 +1320,7 @@ https://e-ir.info/publications/
 • Analysis of fallacious speeches justified on the basis of high moral values/democracy/terrorism/fear.</br>
 • It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program. Is it possible to do politics without being a politician? Is revolution desirable? By whom? Is he who rebels right?</br>
 • Basic strategic ambiguity/mimicry, copy the oppressor's speech.</br>
-• To be critical is to pose questions of the government of conduct, principles, objectives and methods using the available political resources and repertoire furnished by government itself, a kind of refractory turning of government against itself from within the discursive and political field of possibilities opened up by government.
+• To be critical is to pose questions of the government of conduct, principles, objectives and methods using the available political resources and repertoire furnished by government itself, a kind of refractory turning of government against itself from within the discursive and political field of possibilities opened up by government.</br>
 • To resist or destabilise government from an immanent vantage point and thus seeks to open "govern­mental" arrangement to new creative possibilities. To produce something that doesn’t exist yet -- without being able to know what it will be.</br>
 • BUT force/power decides between equal rights. The projects that seek to gain political traction collapes themselves into the idiom of the "human rights".</br>
 • Three types of social struggles: those that confront forms of domination (ethnic, social and religious); those that contest the forms of exploitation that separate individuals from what they produce; and the struggles against subjection, against forms of subjectivation and submission, which face everything that connects the individual to himself and subjects him to others.</br> 
@@ -1477,7 +1456,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h3>DISSIDENTS</h3>
 
 <h5>Counter-culture movement</h5>
-- "Make love, no war"</br>
+- "Make love, not war"</br>
 
 <h3>OTHERS</h3>
 
@@ -1485,13 +1464,14 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Anarchists</h5>
 - https://anarch.cc/library/</br>
-- https://libcom.org</br>
 - https://theanarchistlibrary.org</br>
+- https://libcom.org</br>
 - https://crimethinc.com/library</br>
 - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io</br>
 
 <h5>Jews</h5>
 - Books, books, books...</br>
+- Kafka</br>
 
 <br>
 </details>
@@ -1506,7 +1486,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Knowledge as a power factor</h5>
 
-<h5>Information asymmetries</h5>
+<h5>Information asymmetries (technology)</h5>
 
 <h5>Organic and inorganic intellectuals?</h5>
 
@@ -1522,6 +1502,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Social Contract Theory</h5>
 • Thomas Hobbes ( - )</br>
 • Rousseau ( - )</br>
+• Kant ( - )</br>
 • Freud ( - )</br>
 
 <h5>Epistemology</h5>
@@ -1565,7 +1546,9 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Herbert Marcuse (1898-1979)</br>
 • Giles Deleuze (1925)</br>
 • Giorgio Agamben (1942)</br>
+• Bourdieu ()</br>
 
+<h5>Others</h5>
 • Frankfurt School</br>
 • Existentialism: Sartre v. Camus</br>
 
@@ -1591,19 +1574,27 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <br>
 
 <DT><H3>Libraries</H3>
-     <DT><A HREF="https://go-to-zlibrary.se/#desktop_app_tab"> Z-Library <BR><PRE> https://go-to-zlibrary.se/#desktop_app_tab</PRE></A>
-     <DT><A HREF="http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion"><DEL> Z-Library (Onion)<BR> http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</DEL></A>
-     <DT><A HREF="http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion">Imperial Library (Onion)<BR><PRE> http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</PRE></A>
-     <DT><A HREF="http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion">Just Another Library (Onion)<BR><PRE> http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</PRE></A>
-     <DT><A HREF="http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion">InfoCon (Onion)<BR><PRE> http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</PRE></A>
-     <DT><A HREF="http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion">The Anarchist Library (Onion)<BR><PRE> http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</PRE></A>
-     <DT><A HREF="http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion">GenoType.INC <BR><PRE> http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</PRE></A>
-     <DT><A HREF="https://libgen.is/">GenoType.INC <BR><PRE>https://libgen.is/</PRE></A>
-     <DT><A HREF="http://libgen.li">GenoType.INC <BR><PRE>http://libgen.li</PRE></A>
-     <DT><A HREF="https://theanarchistlibrary.org">theanarchistlibrary</A>
-     <DT><A HREF="https://anarch.cc/library/">anarch.cc</A>
-     <DT><A HREF="https://crimethinc.com/library">CrimethInc</A>
-     <DT><A HREF="https://libcom.org">libcom</A>
+
+<DT><A HREF="https://archive.org">Internet Archive<BR><PRE> https://archive.org</PRE></A>
+<DT><A HREF="https://annas-archive.org">Anna's Archive<BR><PRE> https://annas-archive.org</PRE></A>
+<DT><A HREF="https://t.me/zlibrary_official">Z-Library Official (Telegram)<BR><PRE> https://t.me/zlibrary_official</PRE></A>
+<DT><A HREF="https://go-to-zlibrary.se/#desktop_app_tab"> Z-Library (APP)<BR><PRE> https://go-to-zlibrary.se/#desktop_app_tab</PRE></A>
+<DT><A HREF="https://singlelogin.se">Z-Library (WEB)<BR><PRE> https://singlelogin.se</PRE></A>
+<DT><A HREF="http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion"> Z-Library (ONION)<BR><PRE> http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion</PRE></A>
+<DT><A HREF="https://libgen.rs">Library Genesis (.rs alias domain)<BR><PRE> https://libgen.rs</PRE></A>
+<DT><A HREF="https://libgen.is">Library Genesis (.is alias domain)<BR><PRE> https://libgen.is</PRE></A>
+<DT><A HREF="https://libgen.st">Library Genesis (.st alias domain)<BR><PRE> https://libgen.st</PRE></A>
+<DT><A HREF="https://wiki.mhut.org/software:libgen_desktop">Library Genesis (APP)<BR><PRE> https://wiki.mhut.org/software:libgen_desktop</PRE></A>
+<DT><A HREF="http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion">Library Genesis (ONION)<BR><PRE> http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</PRE></A>
+<DT><A HREF="http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion">Imperial Library (ONION)<BR><PRE> http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</PRE></A>
+<DT><A HREF="http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion">Just Another Library (ONION)<BR><PRE> http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</PRE></A>
+<DT><A HREF="http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion">InfoCon (ONION)<BR><PRE> http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</PRE></A>
+
+<DT><A HREF="https://theanarchistlibrary.org">The Anarchist Library<BR><PRE> https://theanarchistlibrary.org</PRE></A>
+<DT><A HREF="http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion">The Anarchist Library (ONION)<BR><PRE> http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</PRE></A>
+<DT><A HREF="https://anarch.cc/library/">Animal Anomie (Library)<BR><PRE> https://anarch.cc/library</PRE></A>
+<DT><A HREF="https://libcom.org">libcom.org <BR><PRE> https://libcom.org</PRE></A>
+<DT><A HREF="https://crimethinc.com/library">CrimethInc<BR><PRE> https://crimethinc.com/library</PRE></A>
 
 <br>
 </details>
@@ -1621,6 +1612,26 @@ https://github.com/ad-si/awesome-scanning<br>
 https://diybookscanner.org<br>
 • Android PDF document scanning app<br>
 https://github.com/LittleTrickster/PDF-Doc-Scan<br>
+
+<br>
+</details>
+
+<!-- ######################### -->
+
+<details>
+<summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
+<br>
+
+• Taylor & Francis - Intelligence and National Security - Open access articles<br>
+https://tandfonline.com/action/showOpenAccess?journalCode=fint20<br>
+• The Journal of Intelligence, Conflict, and Warfare<br>
+https://journals.lib.sfu.ca/index.php/jicw/issue/archive<br>
+• DCAF - Geneva Centre for Security Sector Governance<br>
+https://dcaf.ch/resources?type=publications<br>
+• E-International Relations - Open access scholarly books <br>
+https://e-ir.info/publications<br>
+• CIA.gov - Center for the study of intelligence<br>
+https://cia.gov/resources/csi/studies-in-intelligence<br>
 
 <br>
 </details>
@@ -1655,12 +1666,12 @@ https://github.com/LittleTrickster/PDF-Doc-Scan<br>
 <a href="https://github.com/spikecodes/libreddit#instances">Libreddit</a></br>
 <a href="https://codeberg.org/teddit/teddit#instances">Teddit</a></br>
 <a href="https://github.com/snew/snew">Snew</a></br>
-<a href="https://saidit.net">SaidIt.net</a><a href="https://github.com/libertysoft3/saidit">(Source)</a><a href="https://f-droid.org/en/packages/org.saiditnet.redreader">(Mobile)</a></br>
-<a href="https://raddle.me">Raddle</a><a href="https://gitlab.com/postmill/Postmill">(Source)</a></br>
-<a href="https://kbin.pub">/kbin</a><a href="https://codeberg.org/Kbin/kbin-core">(Source)</a></br>
+<a href="https://saidit.net">SaidIt.net</a><a href="https://github.com/libertysoft3/saidit"> (Source)</a><a href="https://f-droid.org/en/packages/org.saiditnet.redreader"> (Mobile)</a></br>
+<a href="https://raddle.me">Raddle</a><a href="https://gitlab.com/postmill/Postmill"> (Source)</a></br>
+<a href="https://kbin.pub">/kbin</a><a href="https://codeberg.org/Kbin/kbin-core"> (Source)</a></br>
 <a href="https://steemit.com">Steemit</a></br>
 <a href="https://news.ycombinator.com">Hacker News</a></br>
-<a href="https://old.reddit.com">Old Reddit</a>&amp;<a href="https://i.reddit.com">(Mobile)</a></br></li>
+<a href="https://old.reddit.com">Old Reddit</a>&amp;<a href="https://i.reddit.com"> (Mobile)</a></br></li>
 </li>
 
 <li>Google Search alternatives:</br>
