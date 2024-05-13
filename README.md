@@ -1258,6 +1258,27 @@ https://inteltechniques.com/links.html</br>
 <summary><b>Interesting News</b></summary>
 <br>
 
+<h4>https://eff.com</h4>
+
+• The FBI is Playing Politics with Your Privacy</br>
+https://www.eff.org/deeplinks/2024/05/fbi-playing-politics-your-privacy</br>
+
+<h4>https://www.vice.com/en/section/tech</h4>
+
+• The FBI somehow obtained the IP address of someone who allegedly visited an ISIS-related site on the dark web. The DOJ is blocking discussion of the issue from entering the public docket.</br>
+https://www.vice.com/en/article/z34dx3/fbi-wont-say-hacked-dark-web-isis-site-nit</br>
+• This Is the ‘GrayKey 2.0,’ the Tool Cops Use to Hack Phones</br>
+https://www.vice.com/en/article/93an8a/this-is-the-graykey-20-the-tool-cops-use-to-hack-phones</br>
+• Researchers Find ‘Backdoor’ in Encrypted Police and Military Radios</br>
+https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst</br>
+
+<h4>https://www.wired.com</h4>
+
+• US Senate to Vote on a Wiretap Bill That Critics Call ‘Stasi-Like’</br>
+https://www.wired.com/story/senate-section-702-ecsr-provision/</br>
+
+• </br>
+
 <h4>https://theintercept.com</h4>
 
 • CATFISHED BY COPS - The Hamas Terrorist Who Wasn’t - The Intecept</br>
@@ -1266,7 +1287,6 @@ https://theintercept.com/2023/12/18/fbi-nypd-catfishing-terrorism-sting-hamas</b
 https://theintercept.com/2023/02/07/fbi-denver-racial-justice-protests-informant/</br>
 “They Believed Anything but the Truth” — 14 Years in Guantánamo</br>
 https://theintercept.com/2021/08/17/guantanamo-memoir-mansoor-adayfi/</br>
-</br>
 
 <h4>https://truthout.org</h4>
 
@@ -1286,9 +1306,11 @@ https://truthout.org/articles/i-faced-death-by-incarceration-the-un-heard-my-ple
 https://aclu.org/news/racial-justice/lifting-the-veil-on-the-design-of-predictive-tools-in-the-criminal-legal-system</br>
 
 <h4>https://lawfaremedia.org</h4>
+
 • The FBI’s recent operations against Volt Typhoon and Fancy Bear botnets are a cybersecurity success, but the government’s legal theory has frightening implications.</br>
 https://lawfaremedia.org/article/recent-botnet-takedowns-allow-u.s.-government-to-reach-into-private-devices</br>
 
+• </br>
 
 <h4>https://thehackernews.com</h4>
 
@@ -1298,15 +1320,8 @@ https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html</br
 https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 </br>
 
-<h4>https://vice.com/en/section/tech</h4>
-
-<h4>https://computerweekly.com</h4>
-
-<h4>https://decrypt.co</h4>
-
 <br>
 </details>
-
 
 <!-- ######################### -->
 
