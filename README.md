@@ -187,31 +187,31 @@ https://webapps.stackexchange.com/questions/105956/my-github-account-has-been-su
 <!-- ################################################# -->
 <h3><a href=""></a>Privacy-Anonymity Spectrum</h3>
 
-<img src=".data/Pr1v3cy_Sp3ctrum.png" title="Privacy-Anonymity Spectrum" width="830">
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/Pr1v3cy_Sp3ctrum.png" title="Privacy-Anonymity Spectrum" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3><a href=""></a>Privacy Benefits</h3>
 
-<img src=".data/Pr1v4cy_B3n3f1ts.jpg" title="Privacy Benefits" width="830">
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/Pr1v4cy_B3n3f1ts.jpg" title="Privacy Benefits" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3>Flag Theory - <a href="https://flagtheory.com">https://flagtheory.com</a></h3>
 
-<img src=".data/Fl4g_Th30ry.jpg" title="Flag Theory" width="830">
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/Fl4g_Th30ry.jpg" title="Flag Theory" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3>EFF’s “Street-Level Surveillance” - <a href="https://eff.org/sls">https://eff.org/sls</a></h3>
 
-<img src=".data/Str33t_Surv31l4nc3.png" title="EFF’s “Street-Level Surveillance”" width="830">
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/Str33t_Surv31l4nc3.png" title="EFF’s “Street-Level Surveillance”" width="830">
 
 <hr>
 <!-- ################################################# -->
 <h3><a href=""></a>Electronic Warfare</h3>
 
-<img src=".data/El3ctr0n1c_W4rf4r3.jpg" title="Electronic Warfare" width="830">
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/El3ctr0n1c_W4rf4r3.jpg" title="Electronic Warfare" width="830">
 
 <hr>
 <!-- ################################################# -->
@@ -226,7 +226,7 @@ https://dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <h4>Six basic intelligence sources, or collection disciplines</h4>
 
-<img src=".data/1nt3ll1gn3c3_S0urc3s.jpg" title="Intelligence Sources">
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/1nt3ll1gn3c3_S0urc3s.jpg" title="Intelligence Sources">
 
 <p>SIGINT — Signals intelligence is derived from signal intercepts comprising -- however transmitted -- either individually or in combination: all communications intelligence (COMINT), electronic intelligence (ELINT) and foreign instrumentation signals intelligence (FISINT). The National Security Agency is responsible for collecting, processing, and reporting SIGINT. The National SIGINT Committee within NSA advises the Director, NSA, and the DNI on SIGINT policy issues and manages the SIGINT requirements system.</p>
 
@@ -432,7 +432,7 @@ https://osresearch.net/InstallingOS</br>
 
 <h4>Anon Internet</h4>
 
-<img src=".data/L0k1n3t.jpg" width="640" height="320"/>
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/L0k1n3t.jpg" width="640" height="320"/>
 
 • Tor - https://torproject.org - Tor  (The Onion Router) is free software and an open network that helps you defend against traffic analysis.</br>
 • I2P - https://geti2p.net/en/ - I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.</br>
@@ -480,14 +480,12 @@ https://github.com/alancnet/torrent-vpn</br>
 <summary><b>Secure Communication</b></summary>
 <br>
 
-<img src=".data/war_room.jpg" title="War Room" width="640" height="320"/>
+<p>Talk to your friends and family like you're in a war room.</p>
 
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/war_room_dr._strangelove.jpeg" title="War Room" width="640" height="320"/>
 
 • Anonymous Chat, IRC, XMPP in Whonix.</br>
 https://whonix.org/wiki/Chat</br>
-
-• Chat Secure</br>
-https://chatsecure.org</br>
 
 • XMPP vs Matrix vs MQTT</br>
 https://rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protocol-is-best-for-your-chat-application</br>
@@ -527,7 +525,11 @@ https://rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protoco
 <h5>• HexChat</h5>
 https://whonix.org/wiki/HexChat</br>
 
+<h5>• Chat Secure</h5>
+https://chatsecure.org</br>
+
 <!-- ########## -->
+
 <div>
 <details>
 <summary><b>Telegram</b></summary>
@@ -686,6 +688,7 @@ https://whonix.org/wiki/Telegram<br>
 <br>
 </details>
 </div>
+
 <!-- ########## -->
 
 <h4>Social Media</h4>
@@ -780,39 +783,83 @@ https://bitwarden.com/products/send<br>
 
 <h4>Utilities</h4>
 
-• Text Fixer - https://textfixer.com</br>
-• SS64 Syntax Utils - https://ss64.com</br>
-• Tools4noobs - https://tools4noobs.com</br>
-• Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
-• Regex - https://regex-generator.olafneumann.org</br>
-• Search Information about an American business - https://info-clipper.com
-• Commonly Used Software Development Tools - https://ctool.dev
-• Virus Total — https://virustotal.com<br>
-• Binvis — https://binvis.io<br>
-• Hybrid — https://hybrid-analysis.com<br>
-• Verexif - https://verexif.com/en/<br>
-• Any Run — https://app.any.run<br>
-• IP Logger — https://iplogger.org<br>
-• The ZMap Project — https://zmap.io<br>
+• Message Header Analyzer — https://mha.azurewebsites.net<br>
+• Message Header Analyzer — https://github.com/microsoft/MHA<br>
+• PhishTank — https://phishtank.org<br>
+• Simple Email Reputation — https://emailrep.io<br>
+• Whois — https://iana.org/whois<br>
+• ViewDNS — https://viewdns.info<br>
+• WhoisMyDNS — https://whoismydns.com<br>
+• NSLookup — https://nslookup.io<br>
+• My-Addr — https://my-addr.com<br>
+• Malpedia — https://malpedia.caad.fkie.fraunhofer.de<br>
+• CVE Details — https://cvedetails.com<br>
+• Exploit Database — https://exploit-db.com<br>
+• FileInfo — https://fileinfo.co<br>
+• xCyclopedia — https://strontic.github.io/xcyclopedia<br>
+• The Windows Binary Index — https://winbindex.m417z.com<br>
+• Palo Alto Applipedia — https://applipedia.paloaltonetworks.com<br>
+• Windows Securitiy Logs — https://ultimatewindowssecurity.com/securitylog/encyclopedia<br>
+• Internet Archive (WayBackMachine) - https://web.archive.org<br>
+• Archive web content — https://archive.ph<br>
+• Internet Archive — https://archive.org<br>
+• HTTrack — https://httrack.com<br>
+• IPVOID — https://ipvoid.com<br>
+• AbuseIPDB — https://abuseipdb.com<br>
 • Grabify IP Logger — https://grabify.link/<br>
+• IP Logger — https://iplogger.org<br>
 • IP Tracker — https://iplogger.org/ip-tracker<br>
+• IP Location Tracker — https://iplogger.org/location-tracker<br>
+• IP Location — https://iplocation.net<br>
+• URL Checker —  https://iplogger.org/url_checker<br>
+• MAC Address Lookup — https://iplogger.org/mac-checker<br>
+• MAC Vendor — https://macvendors.com<br>
 • IP API<br>
 &emsp; — ip-api — https://ip-api.com<br>
 &emsp; — ipify — https://ipify.org<br>
 &emsp; — ipapi — https://ipapi.co<br>
 &emsp; — vpnapi — https://vpnapi.io<br>
 &emsp; — ipapi — https://ipapi.com<br>
-• Location Tracker — https://iplogger.org/location-tracker<br>
-• URL checker —  https://iplogger.org/url_checker<br>
-• MAC address lookup — https://iplogger.org/mac-checker<br>
-• Name OSINT — https://namechk.com<br>
-• Message Header Analyzer — https://mha.azurewebsites.net | https://github.com/microsoft/MHA<br>
+• The ZMap Project — https://zmap.io<br>
+• WiGLE — https://wigle.net<br>
+• urlscan.io — https://urlscan.io<br>
+• Virus Total — https://virustotal.com<br>
+• Hybrid Analysis — https://hybrid-analysis.com<br>
+• Cuckoo Sandbox — https://cuckoo.cert.ee<br>
+• AlienVault OTX — https://otx.alienvault.com<br>
+• IBM X-Force Exchange — https://exchange.xforce.ibmcloud.com<br>
+• Cisco Talos — https://talosintelligence.com/reputation_center<br>
+• Maltiverse — https://maltiverse.com/collection<br>
+• GreyNoise — https://greynoise.io<br>
+• SANS Internet Storm Center — https://isc.sans.edu<br>
+• Intelligence X — https://intelx.io<br>
+• MetaDefender Cloud — https://metadefender.opswat.com<br>
+• RiskIQ Community Edition — https://community.riskiq.com/home<br>
+• Pulsedive — https://pulsedive.com<br>
+• Valhalla YARA Rules — https://valhalla.nextron-systems.com<br>
+• ANY.RUN — https://any.run<br>
+• Binvis — https://binvis.io<br>
+• JoeSandbox — https://joesandbox.com<br>
+• Verexif - https://verexif.com/en/<br>
 • Reverse Shell Generator — https://revshells.com<br>
 • Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
+• File Signatures ("Magic Numbers") — https://en.wikipedia.org/wiki/Magic_number_(programming)<br> 
+• List of File Signatures — https://en.wikipedia.org/wiki/List_of_file_signatures<br>
+• CyberChef — https://gchq.github.io/CyberChef<br>
+• explainshell — https://explainshell.com<br>
+• Epoch Converter — https://epochconverter.com<br>
+• Regex - https://regex-generator.olafneumann.org</br>
+• DeHashed — https://dehashed.com<br>
+• Dencode — https://dencode.com<br>
+• Commonly Used Software Development Tools - https://ctool.dev</br>
+• Text Fixer - https://textfixer.com</br>
+• SS64 Syntax Utils - https://ss64.com</br>
+• Tools4noobs - https://tools4noobs.com</br>
+• Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
+• Have I Been Pwned — https://haveibeenpwned.com<br>
+• Name OSINT — https://namechk.com<br>
 • Breach Directory - https://breachdirectory.org<br>
 • MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
-• Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
-• Web Cache - https://archive.org<br>
 
 <br>
 </details>
@@ -826,6 +873,7 @@ https://bitwarden.com/products/send<br>
 <h4>Generators</h4>
 
 <h5>Image Generation</h5>
+
 • This Person Does Not Exist - https://thispersondoesnotexist.com</br>
 • This Waifu Does Not Exist - https://thiswaifudoesnotexist.net/?ref=appinn</br>
 • These Cats Do Not Exist - http://thesecatsdonotexist.com/</br>
@@ -841,6 +889,7 @@ https://bitwarden.com/products/send<br>
 • Random Pic - https://picsum.photos</br>
 
 <h5>Name, Address, IDs Generators</h5>
+
 • Fake Name Generator - https://fakenamegenerator.com</br>
 • Fake ID - https://elfqrin.com/fakeid.php</br>
 • Fake Person/Name Generator - https://fakepersongenerator.com/Index/generate</br>
@@ -938,8 +987,11 @@ https://whonix.org/wiki/MAC_Address</br>
 <summary><b>Biometrics Anti-surveillance</b>​</summary>
 <br>
 
+• Minority Report is comming</br>
 
-• Joaquín Guzmán, "El Chapo"
+<img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/Minority_Report_Eye_Scan_On_The_Way.gif"></a>
+
+• Joaquín Guzmán, "El Chapo"</br>
 
 https://vice.com/en/article/vbweqj/the-10-most-insane-moments-and-stories-from-el-chapos-trial</br>
 
@@ -1255,77 +1307,6 @@ https://inteltechniques.com/links.html</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Interesting News</b></summary>
-<br>
-
-<h4>https://eff.com</h4>
-
-• The FBI is Playing Politics with Your Privacy</br>
-https://www.eff.org/deeplinks/2024/05/fbi-playing-politics-your-privacy</br>
-
-<h4>https://www.vice.com/en/section/tech</h4>
-
-• The FBI somehow obtained the IP address of someone who allegedly visited an ISIS-related site on the dark web. The DOJ is blocking discussion of the issue from entering the public docket.</br>
-https://www.vice.com/en/article/z34dx3/fbi-wont-say-hacked-dark-web-isis-site-nit</br>
-• This Is the ‘GrayKey 2.0,’ the Tool Cops Use to Hack Phones</br>
-https://www.vice.com/en/article/93an8a/this-is-the-graykey-20-the-tool-cops-use-to-hack-phones</br>
-• Researchers Find ‘Backdoor’ in Encrypted Police and Military Radios</br>
-https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst</br>
-
-<h4>https://www.wired.com</h4>
-
-• US Senate to Vote on a Wiretap Bill That Critics Call ‘Stasi-Like’</br>
-https://www.wired.com/story/senate-section-702-ecsr-provision/</br>
-
-• </br>
-
-<h4>https://theintercept.com</h4>
-
-• CATFISHED BY COPS - The Hamas Terrorist Who Wasn’t - The Intecept</br>
-https://theintercept.com/2023/12/18/fbi-nypd-catfishing-terrorism-sting-hamas</br>
-• THE SNITCH IN THE SILVER HEARSE - The FBI Paid a Violent Felon to Infiltrate Denver’s Racial Justice Movement - The Intecept</br>
-https://theintercept.com/2023/02/07/fbi-denver-racial-justice-protests-informant/</br>
-“They Believed Anything but the Truth” — 14 Years in Guantánamo</br>
-https://theintercept.com/2021/08/17/guantanamo-memoir-mansoor-adayfi/</br>
-
-<h4>https://truthout.org</h4>
-
-• Police Tech Isn’t Designed to Be Accurate — It’s Made to Exert Social Control</br>
-https://truthout.org/articles/police-tech-isnt-designed-to-be-accurate-its-made-to-exert-social-control</br>
-• NYPD Has Used Drones to Monitor Pro-Palestine Protests, Make 239 Arrests</br>
-https://truthout.org/articles/nypd-has-used-drones-to-monitor-pro-palestine-protests-make-239-arrests/</br>
-• In New York, Inadequate Treatment Is Turning Drug Arrests Into Death Sentences</br>
-https://truthout.org/articles/in-new-york-inadequate-treatment-is-turning-drug-arrests-into-death-sentences/</br>
-• I Faced Death by Incarceration. The UN Heard My Plea to Abolish Life Sentences.</br>
-https://truthout.org/articles/i-faced-death-by-incarceration-the-un-heard-my-plea-to-abolish-life-sentences/</br>
-<br>
-
-<h4>https://aclu.org</h4>
-
-• Lifting the Veil on the Design of Predictive Tools in the Criminal Legal System</br> 
-https://aclu.org/news/racial-justice/lifting-the-veil-on-the-design-of-predictive-tools-in-the-criminal-legal-system</br>
-
-<h4>https://lawfaremedia.org</h4>
-
-• The FBI’s recent operations against Volt Typhoon and Fancy Bear botnets are a cybersecurity success, but the government’s legal theory has frightening implications.</br>
-https://lawfaremedia.org/article/recent-botnet-takedowns-allow-u.s.-government-to-reach-into-private-devices</br>
-
-• </br>
-
-<h4>https://thehackernews.com</h4>
-
-• Lapsus</br>
-https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html</br>
-• Lizzard Squad</br>
-https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
-</br>
-
-<br>
-</details>
-
-<!-- ######################### -->
-
-<details>
 <summary><b>Brainstorm</b></summary>
 <br>
 
@@ -1425,7 +1406,6 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 - False flag – Covert operation designed to deceive</br>
 - Chilling Effect</br>
 
-
 <h4>ILLUMINISM</h4>
 
 <h5>Secret Societies</h5>
@@ -1487,6 +1467,77 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <h5>Jews</h5>
 - Books, books, books...</br>
 - Kafka</br>
+
+<br>
+</details>
+
+<!-- ######################### -->
+
+<details>
+<summary><b>Interesting News</b></summary>
+<br>
+
+<h4>https://eff.com</h4>
+
+• The FBI is Playing Politics with Your Privacy</br>
+https://www.eff.org/deeplinks/2024/05/fbi-playing-politics-your-privacy</br>
+
+<h4>https://www.vice.com/en/section/tech</h4>
+
+• The FBI somehow obtained the IP address of someone who allegedly visited an ISIS-related site on the dark web. The DOJ is blocking discussion of the issue from entering the public docket.</br>
+https://www.vice.com/en/article/z34dx3/fbi-wont-say-hacked-dark-web-isis-site-nit</br>
+• This Is the ‘GrayKey 2.0,’ the Tool Cops Use to Hack Phones</br>
+https://www.vice.com/en/article/93an8a/this-is-the-graykey-20-the-tool-cops-use-to-hack-phones</br>
+• Researchers Find ‘Backdoor’ in Encrypted Police and Military Radios</br>
+https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst</br>
+
+<h4>https://www.wired.com</h4>
+
+• US Senate to Vote on a Wiretap Bill That Critics Call ‘Stasi-Like’</br>
+https://www.wired.com/story/senate-section-702-ecsr-provision/</br>
+
+• </br>
+
+<h4>https://theintercept.com</h4>
+
+• CATFISHED BY COPS - The Hamas Terrorist Who Wasn’t - The Intecept</br>
+https://theintercept.com/2023/12/18/fbi-nypd-catfishing-terrorism-sting-hamas</br>
+• THE SNITCH IN THE SILVER HEARSE - The FBI Paid a Violent Felon to Infiltrate Denver’s Racial Justice Movement - The Intecept</br>
+https://theintercept.com/2023/02/07/fbi-denver-racial-justice-protests-informant/</br>
+“They Believed Anything but the Truth” — 14 Years in Guantánamo</br>
+https://theintercept.com/2021/08/17/guantanamo-memoir-mansoor-adayfi/</br>
+
+<h4>https://truthout.org</h4>
+
+• Police Tech Isn’t Designed to Be Accurate — It’s Made to Exert Social Control</br>
+https://truthout.org/articles/police-tech-isnt-designed-to-be-accurate-its-made-to-exert-social-control</br>
+• NYPD Has Used Drones to Monitor Pro-Palestine Protests, Make 239 Arrests</br>
+https://truthout.org/articles/nypd-has-used-drones-to-monitor-pro-palestine-protests-make-239-arrests/</br>
+• In New York, Inadequate Treatment Is Turning Drug Arrests Into Death Sentences</br>
+https://truthout.org/articles/in-new-york-inadequate-treatment-is-turning-drug-arrests-into-death-sentences/</br>
+• I Faced Death by Incarceration. The UN Heard My Plea to Abolish Life Sentences.</br>
+https://truthout.org/articles/i-faced-death-by-incarceration-the-un-heard-my-plea-to-abolish-life-sentences/</br>
+<br>
+
+<h4>https://aclu.org</h4>
+
+• Lifting the Veil on the Design of Predictive Tools in the Criminal Legal System</br> 
+https://aclu.org/news/racial-justice/lifting-the-veil-on-the-design-of-predictive-tools-in-the-criminal-legal-system</br>
+
+<h4>https://lawfaremedia.org</h4>
+
+• The FBI’s recent operations against Volt Typhoon and Fancy Bear botnets are a cybersecurity success, but the government’s legal theory has frightening implications.</br>
+https://lawfaremedia.org/article/recent-botnet-takedowns-allow-u.s.-government-to-reach-into-private-devices</br>
+
+• </br>
+
+<h4>https://thehackernews.com</h4>
+
+• Lapsus</br>
+https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html</br>
+• Lizzard Squad</br>
+https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
+</br>
 
 <br>
 </details>
@@ -1562,6 +1613,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 • Giles Deleuze (1925)</br>
 • Giorgio Agamben (1942)</br>
 • Bourdieu ()</br>
+• Guatarri ()</br>
 
 <h5>Others</h5>
 • Frankfurt School</br>
@@ -1569,15 +1621,18 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 
 <h5>Gender/Feminism</h5>
 • Simone de Beauvoir ()</br>
-• Judith Butler (1956)</br>
 • Audre Lorde ()</br>
 • Amia Srinivasan ()</br>
+• Judith Butler (1956)</br>
 • Rita Seagato ()</br>
 
 <h5>Contemporary</h5>
 • Noam Chomsky (1928)</br>
 • Slavoj Žižek (1949)</br>
 • Achille Mbembe (1957)</br>
+• Shoshana Zuboff ()</br>
+• Herbert Marcuse ()</br>
+• Éric Sadin ()</br>
 
 <br>
 </details>
@@ -1625,6 +1680,8 @@ How to facilitate access to books? Easy methods of digitizing books?<br>
 https://github.com/ad-si/awesome-scanning<br>
 • DIY Book Scanner<br>
 https://diybookscanner.org<br>
+• A few scanning tips<br>
+https://scantips.com<br>
 • Android PDF document scanning app<br>
 https://github.com/LittleTrickster/PDF-Doc-Scan<br>
 
