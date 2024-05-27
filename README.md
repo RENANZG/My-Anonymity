@@ -783,83 +783,84 @@ https://bitwarden.com/products/send<br>
 
 <h4>Utilities</h4>
 
-• Message Header Analyzer — https://mha.azurewebsites.net<br>
-• Message Header Analyzer — https://github.com/microsoft/MHA<br>
-• PhishTank — https://phishtank.org<br>
-• Simple Email Reputation — https://emailrep.io<br>
-• Whois — https://iana.org/whois<br>
-• ViewDNS — https://viewdns.info<br>
-• WhoisMyDNS — https://whoismydns.com<br>
-• NSLookup — https://nslookup.io<br>
-• My-Addr — https://my-addr.com<br>
-• Malpedia — https://malpedia.caad.fkie.fraunhofer.de<br>
-• CVE Details — https://cvedetails.com<br>
-• Exploit Database — https://exploit-db.com<br>
-• FileInfo — https://fileinfo.co<br>
-• xCyclopedia — https://strontic.github.io/xcyclopedia<br>
-• The Windows Binary Index — https://winbindex.m417z.com<br>
-• Palo Alto Applipedia — https://applipedia.paloaltonetworks.com<br>
-• Windows Securitiy Logs — https://ultimatewindowssecurity.com/securitylog/encyclopedia<br>
+• Message Header Analyzer - https://mha.azurewebsites.net<br>
+• Message Header Analyzer - https://github.com/microsoft/MHA<br>
+• PhishTank - https://phishtank.org<br>
+• Simple Email Reputation - https://emailrep.io<br>
+• Whois - https://iana.org/whois<br>
+• ViewDNS - https://viewdns.info<br>
+• WhoisMyDNS - https://whoismydns.com<br>
+• NSLookup - https://nslookup.io<br>
+• My-Addr - https://my-addr.com<br>
+• Malpedia - https://malpedia.caad.fkie.fraunhofer.de<br>
+• CVE Details - https://cvedetails.com<br>
+• Exploit Database - https://exploit-db.com<br>
+• FileInfo - https://fileinfo.co<br>
+• xCyclopedia - https://strontic.github.io/xcyclopedia<br>
+• The Windows Binary Index - https://winbindex.m417z.com<br>
+• Palo Alto Applipedia - https://applipedia.paloaltonetworks.com<br>
+• Windows Securitiy Logs - https://ultimatewindowssecurity.com/securitylog/encyclopedia<br>
 • Internet Archive (WayBackMachine) - https://web.archive.org<br>
-• Archive web content — https://archive.ph<br>
-• Internet Archive — https://archive.org<br>
-• HTTrack — https://httrack.com<br>
-• IPVOID — https://ipvoid.com<br>
-• AbuseIPDB — https://abuseipdb.com<br>
-• Grabify IP Logger — https://grabify.link/<br>
-• IP Logger — https://iplogger.org<br>
-• IP Tracker — https://iplogger.org/ip-tracker<br>
-• IP Location Tracker — https://iplogger.org/location-tracker<br>
-• IP Location — https://iplocation.net<br>
-• URL Checker —  https://iplogger.org/url_checker<br>
-• MAC Address Lookup — https://iplogger.org/mac-checker<br>
-• MAC Vendor — https://macvendors.com<br>
+• Archive web content - https://archive.ph<br>
+• Internet Archive - https://archive.org<br>
+• HTTrack - https://httrack.com<br>
+• IPVOID - https://ipvoid.com<br>
+• AbuseIPDB - https://abuseipdb.com<br>
+• Grabify IP Logger - https://grabify.link/<br>
+• IP Logger - https://iplogger.org<br>
+• IP Tracker - https://iplogger.org/ip-tracker<br>
+• IP Location Tracker - https://iplogger.org/location-tracker<br>
+• IP Location - https://iplocation.net<br>
+• URL Checker -  https://iplogger.org/url_checker<br>
+• MAC Address Lookup - https://iplogger.org/mac-checker<br>
+• MAC Vendor - https://macvendors.com<br>
 • IP API<br>
-&emsp; — ip-api — https://ip-api.com<br>
-&emsp; — ipify — https://ipify.org<br>
-&emsp; — ipapi — https://ipapi.co<br>
-&emsp; — vpnapi — https://vpnapi.io<br>
-&emsp; — ipapi — https://ipapi.com<br>
-• The ZMap Project — https://zmap.io<br>
-• WiGLE — https://wigle.net<br>
-• urlscan.io — https://urlscan.io<br>
-• Virus Total — https://virustotal.com<br>
-• Hybrid Analysis — https://hybrid-analysis.com<br>
-• Cuckoo Sandbox — https://cuckoo.cert.ee<br>
-• AlienVault OTX — https://otx.alienvault.com<br>
-• IBM X-Force Exchange — https://exchange.xforce.ibmcloud.com<br>
-• Cisco Talos — https://talosintelligence.com/reputation_center<br>
-• Maltiverse — https://maltiverse.com/collection<br>
-• GreyNoise — https://greynoise.io<br>
-• SANS Internet Storm Center — https://isc.sans.edu<br>
-• Intelligence X — https://intelx.io<br>
-• MetaDefender Cloud — https://metadefender.opswat.com<br>
-• RiskIQ Community Edition — https://community.riskiq.com/home<br>
-• Pulsedive — https://pulsedive.com<br>
-• Valhalla YARA Rules — https://valhalla.nextron-systems.com<br>
-• ANY.RUN — https://any.run<br>
-• Binvis — https://binvis.io<br>
-• JoeSandbox — https://joesandbox.com<br>
+&emsp; - ip-api - https://ip-api.com<br>
+&emsp; - ipify - https://ipify.org<br>
+&emsp; - ipapi - https://ipapi.co<br>
+&emsp; - vpnapi - https://vpnapi.io<br>
+&emsp; - ipapi - https://ipapi.com<br>
+• The ZMap Project - https://zmap.io<br>
+• WiGLE - https://wigle.net<br>
+• urlscan.io - https://urlscan.io<br>
+• Virus Total - https://virustotal.com<br>
+• Hybrid Analysis - https://hybrid-analysis.com<br>
+• Cuckoo Sandbox - https://cuckoo.cert.ee<br>
+• AlienVault OTX - https://otx.alienvault.com<br>
+• IBM X-Force Exchange - https://exchange.xforce.ibmcloud.com<br>
+• Cisco Talos - https://talosintelligence.com/reputation_center<br>
+• Maltiverse - https://maltiverse.com/collection<br>
+• GreyNoise - https://greynoise.io<br>
+• SANS Internet Storm Center - https://isc.sans.edu<br>
+• Intelligence X - https://intelx.io<br>
+• MetaDefender Cloud - https://metadefender.opswat.com<br>
+• RiskIQ Community Edition - https://community.riskiq.com/home<br>
+• Pulsedive - https://pulsedive.com<br>
+• Valhalla YARA Rules - https://valhalla.nextron-systems.com<br>
+• ANY.RUN - https://any.run<br>
+• Binvis - https://binvis.io<br>
+• JoeSandbox - https://joesandbox.com<br>
 • Verexif - https://verexif.com/en/<br>
-• Reverse Shell Generator — https://revshells.com<br>
-• Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
-• File Signatures ("Magic Numbers") — https://en.wikipedia.org/wiki/Magic_number_(programming)<br> 
-• List of File Signatures — https://en.wikipedia.org/wiki/List_of_file_signatures<br>
-• CyberChef — https://gchq.github.io/CyberChef<br>
-• explainshell — https://explainshell.com<br>
-• Epoch Converter — https://epochconverter.com<br>
+• Reverse Shell Generator - https://revshells.com<br>
+• Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash<br>
+• File Signatures ("Magic Numbers") - https://en.wikipedia.org/wiki/Magic_number_(programming)<br> 
+• List of File Signatures - https://en.wikipedia.org/wiki/List_of_file_signatures<br>
+• CyberChef - https://gchq.github.io/CyberChef<br>
+• explainshell - https://explainshell.com<br>
+• Epoch Converter - https://epochconverter.com<br>
 • Regex - https://regex-generator.olafneumann.org</br>
-• DeHashed — https://dehashed.com<br>
-• Dencode — https://dencode.com<br>
+• DeHashed - https://dehashed.com<br>
+• Dencode - https://dencode.com<br>
 • Commonly Used Software Development Tools - https://ctool.dev</br>
 • Text Fixer - https://textfixer.com</br>
 • SS64 Syntax Utils - https://ss64.com</br>
 • Tools4noobs - https://tools4noobs.com</br>
 • Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
-• Have I Been Pwned — https://haveibeenpwned.com<br>
-• Name OSINT — https://namechk.com<br>
+• Have I Been Pwned - https://haveibeenpwned.com<br>
+• Name OSINT - https://namechk.com<br>
 • Breach Directory - https://breachdirectory.org<br>
 • MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
+• DeepL - https://www.deepl.com/translator<br>
 
 <br>
 </details>
@@ -1558,11 +1559,12 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 
 <h5>Where is the truth? Is this all power?</h5>
 
-<h5>No. People are not rational. </h5>
+<h5>No. People are not rational.</h5>
 
 <h5>Pragmatism</h5>
 • Sun Tzu (544-496 BC)</br>
 • Niccolò Machiavelli (1469-1527)</br>
+• Carl von Clausewitz (-)</br>
 • Bentham (-)</br>
 
 <h5>Social Contract Theory</h5>
@@ -1620,6 +1622,7 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 • Existentialism: Sartre v. Camus</br>
 
 <h5>Gender/Feminism</h5>
+• Emma Goldman ()</br>
 • Simone de Beauvoir ()</br>
 • Audre Lorde ()</br>
 • Amia Srinivasan ()</br>
@@ -1645,6 +1648,7 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 
 <DT><H3>Libraries</H3>
 
+<DT><A HREF="https://www.gutenberg.org">Project Gutenberg<BR><PRE> https://www.gutenberg.org</PRE></A>
 <DT><A HREF="https://archive.org">Internet Archive<BR><PRE> https://archive.org</PRE></A>
 <DT><A HREF="https://annas-archive.org">Anna's Archive<BR><PRE> https://annas-archive.org</PRE></A>
 <DT><A HREF="https://t.me/zlibrary_official">Z-Library Official (Telegram)<BR><PRE> https://t.me/zlibrary_official</PRE></A>
@@ -1750,6 +1754,7 @@ https://cia.gov/resources/csi/studies-in-intelligence<br>
 <a href="https://duckduckgo.com">DuckDuckGo</a></br>
 <a href="https://searx.github.io/searx/">SearX</a></br>
 <a href="https://startpage.com">Startpage</a></br>
+<a href="http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion">Startpage ONION</a></br>
 <a href="https://ecosia.org">Ecosia</a></br>
 <a href="https://qwant.com">Qwant</a></br>
 <a href="https://mojeek.com">Mojeek</a></br>
