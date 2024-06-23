@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html lang="en">
 
 <head>
 
-  <meta charset='UTF-8'>
+   <meta charset="UTF-8">
+
+</head>
 
 <body>
 
@@ -42,6 +44,7 @@
 • <a href="https://epic.org" target="_blank" rel="noopener noreferrer"><b>EPIC</b></a></br>
 • <a href="https://epic.org/issues/surveillance-oversight" target="_blank" rel="noopener noreferrer"><b>EPIC - Surveillance Oversight</b></a></br>
 • <a href="https://epic.org/?s=&_issues=surveillance-oversight" target="_blank" rel="noopener noreferrer"><b>EPIC - Digital Library</b></a></br>
+• <a href="https://archive.epic.org/privacy/tools.html" target="_blank" rel="noopener noreferrer"><b>EPIC - Privacy Tools</b></a></br>
 • <a href="https://freedom.press/training" target="_blank" rel="noopener noreferrer">Freedom of the Press Foundation</a></br>	
 • <a href="https://anarsec.guide" target="_blank" rel="noopener noreferrer">Anarsec</a></br>
 • <a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a></br>
@@ -286,7 +289,7 @@ https://dni.gov/index.php/what-we-do/what-is-intelligence</br>
 
 <div id="anondev1">
 <details>
-<summary><b>Anonymous Developer</b></summary>
+<summary>Anonymous Developer</summary>
 <br>
 
 <!-- #################### -->
@@ -392,7 +395,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 <!-- #################### -->
 
 <details>
-<summary><b>Secure Operating Systems</b></summary>
+<summary>Secure Operating Systems</summary>
 <br>
 
 <h4>Secure Operating Systems</h4>
@@ -421,27 +424,147 @@ https://qubes-os.org</br>
 https://forum.qubes-os.org</br>
 https://osresearch.net/InstallingOS</br>
 
+<h4>Comparison of Anonymous Networks</h4>
+
+  <table>
+        <thead>
+            <tr>
+                <th>Network</th>
+                <th>Description</th>
+                <th>Main Use</th>
+                <th>Underlying Technology</th>
+                <th>Level of Anonymity</th>
+                <th>Performance</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Tor</td>
+                <td>Anonymous browsing and IP hiding.</td>
+                <td>Access to regular and darknet websites.</td>
+                <td>Onion Routing.</td>
+                <td>High</td>
+                <td>Medium</td>
+            </tr>
+            <tr>
+                <td>I2P</td>
+                <td>Anonymous network for secure communication.</td>
+                <td>Hidden sites, email, file sharing.</td>
+                <td>Garlic Routing.</td>
+                <td>High</td>
+                <td>Medium</td>
+            </tr>
+            <tr>
+                <td>FreeNet</td>
+                <td>Anonymous storage and distribution of files.</td>
+                <td>File sharing, anonymous forums.</td>
+                <td>Distributed storage and P2P.</td>
+                <td>High</td>
+                <td>Low</td>
+            </tr>
+            <tr>
+                <td>ZeroNet</td>
+                <td>Decentralized web using Bitcoin and BitTorrent technology.</td>
+                <td>Static sites, blogs, forums.</td>
+                <td>BitTorrent, blockchain.</td>
+                <td>Medium</td>
+                <td>Medium</td>
+            </tr>
+            <tr>
+                <td>GNUnet</td>
+                <td>Framework for secure decentralized networks.</td>
+                <td>VPN, secure DNS, file sharing.</td>
+                <td>P2P, high-anonymity routing.</td>
+                <td>High</td>
+                <td>Low</td>
+            </tr>
+            <tr>
+                <td>Hyperboria</td>
+                <td>IPv6 mesh network for anonymous communication.</td>
+                <td>VPN, secure communication.</td>
+                <td>cjdns (Cryptographic IPv6 network).</td>
+                <td>High</td>
+                <td>Medium</td>
+            </tr>
+            <tr>
+                <td>Loki</td>
+                <td>Anonymous network for private communication and services.</td>
+                <td>Messaging, hosting private services.</td>
+                <td>Blockchain, Onion routing.</td>
+                <td>High</td>
+                <td>Medium</td>
+            </tr>
+            <tr>
+                <td>Commotion</td>
+                <td>Software to create autonomous wireless mesh networks.</td>
+                <td>Communication in areas without infrastructure.</td>
+                <td>WiFi mesh networking.</td>
+                <td>Variable</td>
+                <td>Variable</td>
+            </tr>
+            <tr>
+                <td>IPFS</td>
+                <td>Protocol for distributed data storage and sharing.</td>
+                <td>File storage, distributed websites.</td>
+                <td>Merkle DAG, P2P.</td>
+                <td>Low</td>
+                <td>High</td>
+            </tr>
+            <tr>
+                <td>Yggdrasil</td>
+                <td>Global encrypted mesh network.</td>
+                <td>Secure communication, decentralized network.</td>
+                <td>Tree-based routing.</td>
+                <td>High</td>
+                <td>Medium</td>
+            </tr>
+            <tr>
+                <td>Nym</td>
+                <td>Mixnet platform for secure and anonymous communications.</td>
+                <td>Privacy at the network layer.</td>
+                <td>Mixnet.</td>
+                <td>High</td>
+                <td>Medium</td>
+            </tr>
+        </tbody>
+    </table>
+    
 <br>
 </details>
 
 <!-- #################### -->
 
 <details>
-<summary><b>Secure Internet</b></summary>
+<summary>Secure Internet</summary>
 <br>
 
 <h4>Anon Internet</h4>
 
 <img src="https://github.com/RENANZG/My-Anonymity/blob/main/.data/L0k1n3t.jpg" width="640" height="320"/>
 
-• Tor - https://torproject.org - Tor  (The Onion Router) is free software and an open network that helps you defend against traffic analysis.</br>
-• I2P - https://geti2p.net/en/ - I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.</br>
-• Lokinet - https://github.com/loki-project/loki-network - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.</br>
-• Freenet - https://freenetproject.org - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.</br>
-• Zeronet - https://zeronet.io - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network</br>
-• IPFS - https://ipfs.io - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.</br>
-• Yggdrasil - https://yggdrasil-network.github.io/about.html - Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.</br>
-• Nym - https://github.com/nymtech/nym - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.</br>
+<ul> 
+
+<li><a href="https://torproject.org" target="_blank"><strong>Tor (The Onion Router)</strong></a>: is free software and an open network that helps you defend against traffic analysis.</li>
+
+<li><a href="http://hyperboria.net/" target="_blank"><strong>Hyperboria</strong></a>: encrypted, decentralized Internet alternative .</li>
+
+<li><a href="https://gnunet.org/" target="_blank"><strong>GNUnet</strong></a>: encrypted, anonymous, decentralized P2P networking.</li>
+
+<li><a href="https://commotionwireless.net/" target="_blank"><strong>Commotion</strong></a>: open-source tool that uses phones and computers to create mesh networks.</li>
+
+<li><a href="https://www.i2p2.de/" target="_blank"><strong>I2P Anonymous Network</strong></a>: "I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs."</li>
+
+<li><a href="https://freenetproject.org/index.html" target="_blank"><strong>Freenet</strong></a>: "Freenet is a peer-to-peer platform for censorship-resistant communication and publishing."</li> 
+
+<li><a href="https://zeronet.io" target="_blank"><strong>Zeronet</strong></a>: Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network.</li> 
+
+<li><a href="https://ipfs.io" target="_blank"><strong>IPFS</strong></a>: A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+</li> 
+
+<li><a href="https://yggdrasil-network.github.io/about.html" target="_blank"><strong>Yggdrasil</strong></a>: Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.</li> 
+
+<li><a href="https://github.com/nymtech/nym" target="_blank"><strong>Nym</strong></a>: Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.</li> 
+</ul>
 
 <h4>VPN Guides and Tutorials</h4>
 • r/vpnrecommendations - https://reddit.com/r/vpnrecommendations</br>
@@ -467,6 +590,12 @@ https://github.com/alancnet/torrent-vpn</br>
 • Private Internet Access - https://privateinternetaccess.com</br>
 • NordVPN - https://nordvpn.com</br>
  
+ <h4>DNS</h4>
+ <ul>
+	<li><a href="https://www.opennicproject.org/" target="_blank"><strong>OpenNIC</strong></a></li>
+	<li><a href="https://bit.namecoin.org/" target="_blank"><strong>Dot-Bit</strong></a>: Decentralized DNS using Bitcoin technology</li>
+</ul>
+ 
 <h4>Others</h4>
 • TorPlusVPN - https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN</br>
 • Proxy - https://rapidseedbox.com/blog/vpn-vs-proxy</br>
@@ -477,7 +606,7 @@ https://github.com/alancnet/torrent-vpn</br>
 <!-- #################### -->
 
 <details>
-<summary><b>Secure Communication</b></summary>
+<summary>Secure Communication</summary>
 <br>
 
 <p>Talk to your friends and family like you're in a war room.</p>
@@ -522,17 +651,53 @@ https://rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protoco
 • https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 • Signal Did NOT Get Hacked - https://youtube.com/watch?v=QEq2JQ6nzuQ</br>
 
+<h5>• TorChat</h5>
+https://github.com/prof7bit/TorChat/wiki</br>
+
 <h5>• HexChat</h5>
 https://whonix.org/wiki/HexChat</br>
 
 <h5>• Chat Secure</h5>
 https://chatsecure.org</br>
 
+<h5>• Briar</h5>
+https://code.briarproject.org/briar/briar</br>
+
+<h5>• Jitsi</h5>
+https://jitsi.org - (Windows, OSX, Linux): open source software for encrypted video, audio calls</br>
+
+<h4>Phone Numbers</h4>
+
+<h5>• Phone numbers</h5>
+• MySudo - https://mysudo.com</br>
+• SilentLink - Instant eSIM - https://silent.link</br>
+• Textverified - https://www.textverified.com</br>
+
+<h4>SMS Verify</h4>
+http://hs3x.com</br>
+http://smsget.net</br>
+https://sms-online.co</br>
+https://catchsms.com</br>
+http://sms-receive.net</br>
+http://sms.sellaite.com</br>
+http://receivefreesms.net</br>
+https://receive-a-sms.com</br>
+http://receivesmsonline.in</br>
+http://receivefreesms.com</br>
+http://receivesmsonline.me</br>
+https://smsreceivefree.com</br>
+https://smsreceiveonline.com</br>
+https://receive-sms-online.com</br>
+https://www.receivesmsonline.net</br>
+https://www.temp-mails.com/number</br>
+https://www.freeonlinephone.org</br>
+https://getfreesmsnumber.com</br>
+
 <!-- ########## -->
 
 <div>
 <details>
-<summary><b>Telegram</b></summary>
+<summary>Telegram</summary>
 <br>
 
 https://whonix.org/wiki/Telegram<br>
@@ -626,7 +791,7 @@ https://whonix.org/wiki/Telegram<br>
 <div>
 
 <details>
-<summary><b>Discord</b></summary>
+<summary>Discord</summary>
 <br>
 
 <h3>A couple of basic tips:</h3>
@@ -696,8 +861,8 @@ https://whonix.org/wiki/Telegram<br>
 • Mastodon - https://mastodon.social</br>
 • Nostr - https://nostr.com</br>
 • Lemmy - https://join-lemmy.org</br>
-• Kbin -
-• Saidit.net -
+• Kbin -</br>
+• Saidit.net -</br>
 
 <h4>Email</h4>
 
@@ -734,7 +899,7 @@ https://whonix.org/wiki/Telegram<br>
 <!-- #################### -->
 
 <details>
-<summary><b>Secure File Sharing</b></summary>
+<summary>Secure File Sharing</summary>
 <br>
 
 <h4>Anonymous File Sharing Services and Temporary Online Storage</h4>
@@ -778,89 +943,139 @@ https://bitwarden.com/products/send<br>
 <!-- #################### -->
 
 <details>
-<summary><b>Online Utilities</b></summary>
+<summary>Online Utilities</summary>
 <br>
 
 <h4>Utilities</h4>
 
-• Message Header Analyzer - https://mha.azurewebsites.net<br>
-• Message Header Analyzer - https://github.com/microsoft/MHA<br>
-• PhishTank - https://phishtank.org<br>
-• Simple Email Reputation - https://emailrep.io<br>
-• Whois - https://iana.org/whois<br>
-• ViewDNS - https://viewdns.info<br>
-• WhoisMyDNS - https://whoismydns.com<br>
-• NSLookup - https://nslookup.io<br>
-• My-Addr - https://my-addr.com<br>
-• Malpedia - https://malpedia.caad.fkie.fraunhofer.de<br>
-• CVE Details - https://cvedetails.com<br>
-• Exploit Database - https://exploit-db.com<br>
-• FileInfo - https://fileinfo.co<br>
-• xCyclopedia - https://strontic.github.io/xcyclopedia<br>
-• The Windows Binary Index - https://winbindex.m417z.com<br>
-• Palo Alto Applipedia - https://applipedia.paloaltonetworks.com<br>
-• Windows Securitiy Logs - https://ultimatewindowssecurity.com/securitylog/encyclopedia<br>
-• Internet Archive (WayBackMachine) - https://web.archive.org<br>
-• Archive web content - https://archive.ph<br>
-• Internet Archive - https://archive.org<br>
-• HTTrack - https://httrack.com<br>
-• IPVOID - https://ipvoid.com<br>
-• AbuseIPDB - https://abuseipdb.com<br>
-• Grabify IP Logger - https://grabify.link/<br>
-• IP Logger - https://iplogger.org<br>
-• IP Tracker - https://iplogger.org/ip-tracker<br>
-• IP Location Tracker - https://iplogger.org/location-tracker<br>
-• IP Location - https://iplocation.net<br>
-• URL Checker -  https://iplogger.org/url_checker<br>
-• MAC Address Lookup - https://iplogger.org/mac-checker<br>
-• MAC Vendor - https://macvendors.com<br>
-• IP API<br>
-&emsp; - ip-api - https://ip-api.com<br>
-&emsp; - ipify - https://ipify.org<br>
-&emsp; - ipapi - https://ipapi.co<br>
-&emsp; - vpnapi - https://vpnapi.io<br>
-&emsp; - ipapi - https://ipapi.com<br>
-• The ZMap Project - https://zmap.io<br>
-• WiGLE - https://wigle.net<br>
-• urlscan.io - https://urlscan.io<br>
-• Virus Total - https://virustotal.com<br>
-• Hybrid Analysis - https://hybrid-analysis.com<br>
-• Cuckoo Sandbox - https://cuckoo.cert.ee<br>
-• AlienVault OTX - https://otx.alienvault.com<br>
-• IBM X-Force Exchange - https://exchange.xforce.ibmcloud.com<br>
-• Cisco Talos - https://talosintelligence.com/reputation_center<br>
-• Maltiverse - https://maltiverse.com/collection<br>
-• GreyNoise - https://greynoise.io<br>
-• SANS Internet Storm Center - https://isc.sans.edu<br>
-• Intelligence X - https://intelx.io<br>
-• MetaDefender Cloud - https://metadefender.opswat.com<br>
-• RiskIQ Community Edition - https://community.riskiq.com/home<br>
-• Pulsedive - https://pulsedive.com<br>
-• Valhalla YARA Rules - https://valhalla.nextron-systems.com<br>
-• ANY.RUN - https://any.run<br>
-• Binvis - https://binvis.io<br>
-• JoeSandbox - https://joesandbox.com<br>
-• Verexif - https://verexif.com/en/<br>
-• Reverse Shell Generator - https://revshells.com<br>
-• Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash<br>
-• File Signatures ("Magic Numbers") - https://en.wikipedia.org/wiki/Magic_number_(programming)<br> 
-• List of File Signatures - https://en.wikipedia.org/wiki/List_of_file_signatures<br>
-• CyberChef - https://gchq.github.io/CyberChef<br>
-• explainshell - https://explainshell.com<br>
-• Epoch Converter - https://epochconverter.com<br>
-• Regex - https://regex-generator.olafneumann.org</br>
-• DeHashed - https://dehashed.com<br>
-• Dencode - https://dencode.com<br>
-• Commonly Used Software Development Tools - https://ctool.dev</br>
-• Text Fixer - https://textfixer.com</br>
-• SS64 Syntax Utils - https://ss64.com</br>
-• Tools4noobs - https://tools4noobs.com</br>
-• Text to ASCII Art Generator - https://patorjk.com/software/taag</br>
-• Have I Been Pwned - https://haveibeenpwned.com<br>
-• Name OSINT - https://namechk.com<br>
-• Breach Directory - https://breachdirectory.org<br>
-• MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
-• DeepL - https://www.deepl.com/translator<br>
+<h4>Utilities</h4>
+
+<h5>Message Header Analysis</h5>
+<ul>
+    <li><a href="https://mha.azurewebsites.net">Message Header Analyzer (Azure)</a></li>
+    <li><a href="https://github.com/microsoft/MHA">Message Header Analyzer (GitHub)</a></li>
+</ul>
+<h5>Phishing and Email Reputation</h5>
+<ul>
+    <li><a href="https://phishtank.org">PhishTank</a></li>
+    <li><a href="https://emailrep.io">Simple Email Reputation</a></li>
+    <li><a href="https://mxtoolbox.com/blacklists.aspx">Email Blacklist Check</a></li>
+</ul>
+<h5>Whois and DNS Lookup</h5>
+<ul>
+    <li><a href="https://iana.org/whois">Whois</a></li>
+    <li><a href="https://viewdns.info">ViewDNS</a></li>
+    <li><a href="https://whoismydns.com">WhoisMyDNS</a></li>
+    <li><a href="https://nslookup.io">NSLookup</a></li>
+    <li><a href="https://my-addr.com">My-Addr</a></li>
+    <li><a href="https://mxtoolbox.com">MXToolbox</a></li>
+    <li><a href="https://dnsstuff.com">DNSstuff</a></li>
+</ul>
+<h5>Malware and Vulnerability Databases</h5>
+<ul>
+    <li><a href="https://malpedia.caad.fkie.fraunhofer.de">Malpedia</a></li>
+    <li><a href="https://cvedetails.com">CVE Details</a></li>
+    <li><a href="https://exploit-db.com">Exploit Database</a></li>
+    <li><a href="https://fileinfo.co">FileInfo</a></li>
+    <li><a href="https://strontic.github.io/xcyclopedia">xCyclopedia</a></li>
+    <li><a href="https://winbindex.m417z.com">The Windows Binary Index</a></li>
+    <li><a href="https://applipedia.paloaltonetworks.com">Palo Alto Applipedia</a></li>
+    <li><a href="https://ultimatewindowssecurity.com/securitylog/encyclopedia">Windows Security Logs</a></li>
+    <li><a href="https://nvd.nist.gov">National Vulnerability Database (NVD)</a></li>
+</ul>
+<h5>Archiving Tools</h5>
+<ul>
+    <li><a href="https://web.archive.org">Internet Archive (WayBackMachine)</a></li>
+    <li><a href="https://archive.ph">Archive Web Content</a></li>
+    <li><a href="https://archive.org">Internet Archive</a></li>
+    <li><a href="https://httrack.com">HTTrack</a></li>
+    <li><a href="https://perma.cc">Perma.cc</a></li>
+</ul>
+<h5>IP and MAC Address Tools</h5>
+<ul>
+    <li><a href="https://ipvoid.com">IPVOID</a></li>
+    <li><a href="https://abuseipdb.com">AbuseIPDB</a></li>
+    <li><a href="https://grabify.link/">Grabify IP Logger</a></li>
+    <li><a href="https://iplogger.org">IP Logger</a></li>
+    <li><a href="https://iplogger.org/ip-tracker">IP Tracker</a></li>
+    <li><a href="https://iplogger.org/location-tracker">IP Location Tracker</a></li>
+    <li><a href="https://iplocation.net">IP Location</a></li>
+    <li><a href="https://iplogger.org/url_checker">URL Checker</a></li>
+    <li><a href="https://iplogger.org/mac-checker">MAC Address Lookup</a></li>
+    <li><a href="https://macvendors.com">MAC Vendor</a></li>
+    <li><a href="https://ip-api.com">Ip-api</a></li>
+    <li><a href="https://ipify.org">Ipify</a></li>
+    <li><a href="https://ipapi.co">Ipapi</a></li>
+    <li><a href="https://vpnapi.io">Vpnapi</a></li>
+    <li><a href="https://ipapi.com">Ipapi</a></li>
+    <li><a href="https://zmap.io">The ZMap Project</a></li>
+    <li><a href="https://wigle.net">WiGLE</a></li>
+    <li><a href="https://www.shodan.io">Shodan</a></li>
+    <li><a href="https://censys.io">Censys</a></li>
+</ul>
+<h5>URL and Virus Scanning</h5>
+<ul>
+    <li><a href="https://urlscan.io">urlscan.io</a></li>
+    <li><a href="https://virustotal.com">Virus Total</a></li>
+    <li><a href="https://hybrid-analysis.com">Hybrid Analysis</a></li>
+    <li><a href="https://cuckoo.cert.ee">Cuckoo Sandbox</a></li>
+    <li><a href="https://otx.alienvault.com">AlienVault OTX</a></li>
+    <li><a href="https://exchange.xforce.ibmcloud.com">IBM X-Force Exchange</a></li>
+    <li><a href="https://talosintelligence.com/reputation_center">Cisco Talos</a></li>
+    <li><a href="https://maltiverse.com/collection">Maltiverse</a></li>
+    <li><a href="https://greynoise.io">GreyNoise</a></li>
+    <li><a href="https://isc.sans.edu">SANS Internet Storm Center</a></li>
+    <li><a href="https://intelx.io">Intelligence X</a></li>
+    <li><a href="https://metadefender.opswat.com">MetaDefender Cloud</a></li>
+    <li><a href="https://community.riskiq.com/home">RiskIQ Community Edition</a></li>
+    <li><a href="https://pulsedive.com">Pulsedive</a></li>
+    <li><a href="https://valhalla.nextron-systems.com">Valhalla YARA Rules</a></li>
+    <li><a href="https://any.run">ANY.RUN</a></li>
+    <li><a href="https://binvis.io">Binvis</a></li>
+    <li><a href="https://joesandbox.com">JoeSandbox</a></li>
+</ul>
+<h5>File Analysis and Reverse Engineering</h5>
+<ul>
+    <li><a href="https://verexif.com/en/">Verexif</a></li>
+    <li><a href="https://revshells.com">Reverse Shell Generator</a></li>
+    <li><a href="https://hashes.com/en/decrypt/hash">Rainbow Tables (Hashes)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Magic_number_(programming)">File Signatures ("Magic Numbers")</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/List_of_file_signatures">List of File Signatures</a></li>
+    <li><a href="https://gchq.github.io/CyberChef">CyberChef</a></li>
+    <li><a href="https://explainshell.com">explainshell</a></li>
+    <li><a href="https://virusshare.com">VirusShare</a></li>
+    <li><a href="https://reverse.it">Reverse.IT</a></li>
+</ul>
+<h5>Utilities and Development Tools</h5>
+<ul>
+    <li><a href="https://epochconverter.com">Epoch Converter</a></li>
+    <li><a href="https://regex-generator.olafneumann.org">Regex Generator</a></li>
+    <li><a href="https://dehashed.com">DeHashed</a></li>
+    <li><a href="https://dencode.com">Dencode</a></li>
+    <li><a href="https://ctool.dev">Commonly Used Software Development Tools</a></li>
+    <li><a href="https://textfixer.com">Text Fixer</a></li>
+    <li><a href="https://ss64.com">SS64 Syntax Utils</a></li
+    <li><a href="https://tools4noobs.com">Tools4noobs</a></li>
+    <li><a href="https://patorjk.com/software/taag">Text to ASCII Art Generator</a></li>
+    <li><a href="https://regex101.com">Regex101</a></li>
+    <li><a href="https://crontab.guru">Cron Expression Generator</a></li>
+</ul>
+<h5>OSINT and Breach Checking</h5>
+<ul>
+    <li><a href="https://haveibeenpwned.com">Have I Been Pwned</a></li>
+    <li><a href="https://namechk.com">Name OSINT</a></li>
+    <li><a href="https://breachdirectory.org">Breach Directory</a></li>
+    <li><a href="https://hunter.io">Hunter.io</a></li>
+    <li><a href="https://inteltechniques.com">Intel Techniques</a></li>
+</ul>
+<h5>Translation and Markdown Tools</h5>
+<ul>
+    <li><a href="https://deepl.com/translator">DeepL</a></li>
+    <li><a href="https://www.markdowntoolbox.com">Markdown Toolbox</a></li>
+    <li><a href="https://mermaid.live">Mermaid</a></li>
+    <li><a href="https://kutt.it">Kutt your links shorter</a></li>
+    <li><a href="https://grammarly.com">Grammarly</a></li>
+</ul>
 
 <br>
 </details>
@@ -868,79 +1083,98 @@ https://bitwarden.com/products/send<br>
 <!-- ################################################# -->
 
 <details>
-<summary><b>Generators</b></summary>
+<summary>Generators</summary>
 <br>
 
 <h4>Generators</h4>
+ <h4>Generators</h4>
 
-<h5>Image Generation</h5>
+    <h5>Image Generation</h5>
+    <ul>
+        <li><a href="https://thispersondoesnotexist.com" target="_blank">This Person Does Not Exist</a></li>
+        <li><a href="https://thiswaifudoesnotexist.net/?ref=appinn" target="_blank">This Waifu Does Not Exist</a></li>
+        <li><a href="http://thesecatsdonotexist.com/" target="_blank">These Cats Do Not Exist</a></li>
+        <li><a href="https://generated.photos/faces" target="_blank">Gallery of AI Generated Faces | Generated.photos</a></li>
+        <li><a href="https://pixel-me.tokyo/en" target="_blank">Pixel-me</a></li>
+        <li><a href="https://artbreeder.com/browse" target="_blank">Artbreeder</a></li>
+        <li><a href="https://comixify.ii.pw.edu.pl" target="_blank">Comixify</a></li>
+        <li><a href="http://www.whichfaceisreal.com" target="_blank">Which Face is Real?</a></li>
+        <li><a href="https://nvlabs.github.io/SPADE" target="_blank">SPADE Project Page</a></li>
+        <li><a href="https://selfie2anime.com" target="_blank">Selfie2Anime</a></li>
+        <li><a href="https://reflect.tech/faceswap/hot" target="_blank">Reflect.tech</a></li>
+        <li><a href="https://github.com/PaddlePaddle/PaddleGAN" target="_blank">PaddleGAN</a></li>
+        <li><a href="https://picsum.photos" target="_blank">Random Pic</a></li>
+    </ul>
 
-• This Person Does Not Exist - https://thispersondoesnotexist.com</br>
-• This Waifu Does Not Exist - https://thiswaifudoesnotexist.net/?ref=appinn</br>
-• These Cats Do Not Exist - http://thesecatsdonotexist.com/</br>
-• Gallery of AI Generated Faces | Generated.photos - https://generated.photos/faces</br>
-• Pixel-me - https://pixel-me.tokyo/en</br>
-• Artbreeder - https://artbreeder.com/browse</br>
-• Comixify - https://comixify.ii.pw.edu.pl</br>
-• Which Face is Real? - http://www.whichfaceisreal.com</br>
-• SPADE Project Page - https://nvlabs.github.io/SPADE</br>
-• Selfie2Anime - https://selfie2anime.com</br>
-• Reflect.tech - https://reflect.tech/faceswap/hot</br>
-• PaddleGAN - https://github.com/PaddlePaddle/PaddleGAN</br>
-• Random Pic - https://picsum.photos</br>
-
-<h5>Name, Address, IDs Generators</h5>
-
-• Fake Name Generator - https://fakenamegenerator.com</br>
-• Fake ID - https://elfqrin.com/fakeid.php</br>
-• Fake Person/Name Generator - https://fakepersongenerator.com/Index/generate</br>
-• Random User Generator - https://randomuser.me</br>
-• Just Delete Me - https://backgroundchecks.org/justdeleteme/fake-identity-generator</br>
-• Fake Address, Random Address Generator - https://fakeaddressgenerator.com/Index/index</br>
-• Behind the Name - https://behindthename.com/random</br>
-• Easy Random Name Picker - https://randomwordgenerator.com/name.php</br>
-• Credit Card Generator - https://elfqrin.com/discard_credit_card_generator.php</br>
-• Credit Card BINs generator and validator - https://elfqrin.com/credit_card_bin_generator.php</br>
-• US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator - https://elfqrin.com/usssndriverlicenseidgen.php</br>
-• US Car License Plates Registration Tags Generator - https://elfqrin.com/uscarlicenseplates.php</br>
-• airob0t/idcardgenerator - https://github.com/airob0t/idcardgenerator</br>
-• gh0stkey/RGPerson - https://github.com/gh0stkey/RGPerson</br>
-• naozibuhao/idcard - https://github.com/naozibuhao/idcard</br>
-• Fake Person/Name Generator | User Identity, Account and Profile Generator - https://fakepersongenerator.com</br>
-• faker.js - https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html</br>
-• Full Contact Information Generator - https://names.igopaygo.com/people/full-contact</br>
-• My Fake Information Generator and Validator - http://www.myfakeinfo.com/index.php</br>
-• User Information Generator Articles - https://names.igopaygo.com</br>
-
+    <h5>Name, Address, IDs Generators</h5>
+    <ul>
+        <li><a href="https://fakenamegenerator.com" target="_blank">Fake Name Generator</a></li>
+        <li><a href="https://elfqrin.com/fakeid.php" target="_blank">Fake ID</a></li>
+        <li><a href="https://fakepersongenerator.com/Index/generate" target="_blank">Fake Person/Name Generator</a></li>
+        <li><a href="https://randomuser.me" target="_blank">Random User Generator</a></li>
+        <li><a href="https://backgroundchecks.org/justdeleteme/fake-identity-generator" target="_blank">Just Delete Me</a></li>
+        <li><a href="https://fakeaddressgenerator.com/Index/index" target="_blank">Fake Address, Random Address Generator</a></li>
+        <li><a href="https://behindthename.com/random" target="_blank">Behind the Name</a></li>
+        <li><a href="https://randomwordgenerator.com/name.php" target="_blank">Easy Random Name Picker</a></li>
+        <li><a href="https://elfqrin.com/discard_credit_card_generator.php" target="_blank">Credit Card Generator</a></li>
+        <li><a href="https://elfqrin.com/credit_card_bin_generator.php" target="_blank">Credit Card BINs generator and validator</a></li>
+        <li><a href="https://elfqrin.com/usssndriverlicenseidgen.php" target="_blank">US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator</a></li>
+        <li><a href="https://elfqrin.com/uscarlicenseplates.php" target="_blank">US Car License Plates Registration Tags Generator</a></li>
+        <li><a href="https://github.com/airob0t/idcardgenerator" target="_blank">airob0t/idcardgenerator</a></li>
+        <li><a href="https://github.com/gh0stkey/RGPerson" target="_blank">gh0stkey/RGPerson</a></li>
+        <li><a href="https://github.com/naozibuhao/idcard" target="_blank">naozibuhao/idcard</a></li>
+        <li><a href="https://fakepersongenerator.com" target="_blank">Fake Person/Name Generator | User Identity, Account and Profile Generator</a></li>
+        <li><a href="https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html" target="_blank">faker.js</a></li>
+        <li><a href="https://names.igopaygo.com/people/full-contact" target="_blank">Full Contact Information Generator</a></li>
+        <li><a href="http://www.myfakeinfo.com/index.php" target="_blank">My Fake Information Generator and Validator</a></li>
+       </ul>
+       
+  <ul>
+        <li><a href="https://randomwordgenerator.com" target="_blank">Random Word Generator</a></li>
+        <li><a href="https://www.random.org" target="_blank">Random.org</a></li>
+        <li><a href="https://www.spinxo.com" target="_blank">Username Generator</a></li>
+        <li><a href="https://www.bestrandoms.com/random-password-generator" target="_blank">Random Password Generator</a></li>
+        <li><a href="https://www.mealime.com" target="_blank">Meal Plan Generator</a></li>
+        <li><a href="https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php" target="_blank">Random Number Generator</a></li>
+        <li><a href="https://www.fantasynamegenerators.com" target="_blank">Fantasy Name Generator</a></li>
+        <li><a href="https://www.plot-generator.org.uk" target="_blank">Plot Generator</a></li>
+        <li><a href="https://www.writewithai.com" target="_blank">AI Writing Generator</a></li>
+        <li><a href="https://www.weatherapi.com" target="_blank">Weather Data Generator</a></li>
+        <li><a href="https://www.citationmachine.net" target="_blank">Citation Generator</a></li>
+        <li><a href="https://www.charactergenerator.org.uk" target="_blank">Character Generator</a></li>
+    </ul>
+    
 <br>
 </details>
 
 <!-- ################################################# -->
 
 <details>
-<summary><b>Others</b></summary>
+<summary>Others</summary>
 <br>
 
 <h3>Others</h3>
 
 <h4>Piracy</h4>
 https://torrentfreak.com</br>
-https://bitmagnet.io</br>
 https://github.com/Igglybuff/awesome-piracy</br>
 https://github.com/lkrjangid1/Awesome-Warez</br>
 https://github.com/Illegal-Services/Illegal_Services</br>
 https://github.com/Lucetia/piracy</br>
 https://github.com/the-rarbg/yaps</br>
+https://reddit.com/r/Piracy</br>
 https://lemmy.dbzer0.com/c/piracy</br>
+https://bitmagnet.io</br>
 https://rentry.co/megathread</br>
 https://1337x.to</br>
 https://fitgirl-repacks.site</br>
+https://fmhy.net</br>
 
 <h4>Self-hosting</h4>
-https://reddit.com/r/selfhosted</br>
 https://github.com/awesome-selfhosted/awesome-selfhosted</br>
 https://github.com/syncthing/syncthing</br>
 https://github.com/anonaddy/anonaddy</br>
+https://reddit.com/r/selfhosted</br>
 
 <h4>EXIF Tools</h4>
 • exiftool (CLI)- https://exiftool.org</br>
@@ -985,7 +1219,7 @@ https://whonix.org/wiki/MAC_Address</br>
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <details>
-<summary><b>Biometrics Anti-surveillance</b>​</summary>
+<summary>Biometrics Anti-surveillance</b>​</summary>
 <br>
 
 • Minority Report is comming</br>
@@ -1030,7 +1264,7 @@ https://youtube.com/watch?v=hJ35ApLKpN4</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Physical Anti-surveillance</b></summary>
+<summary>Physical Anti-surveillance</summary>
 <br>
 
 <h4>Physical Anti-surveillance</h4>
@@ -1052,7 +1286,7 @@ https://us.artechhouse.com/storehome.aspx</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Trickery and Deception</b>​</summary>
+<summary>Trickery and Deception</b>​</summary>
 <br>
 
 <h4>Little traps or dirt tricks</h4>
@@ -1116,7 +1350,7 @@ information, systematic organization of professional and societal failures to un
 <!-- ######################### -->
 
 <details>
-<summary><b>WeCopwatch</b>​</summary>
+<summary>WeCopwatch</b>​</summary>
 <br>
 
 • "We Need More Copwatchers, Not Cops With Cameras" - https://wecopwatch.org<br>
@@ -1129,7 +1363,7 @@ information, systematic organization of professional and societal failures to un
 <!-- ######################### -->
 
 <details>
-<summary><b>Search Warrants</b>​</summary>
+<summary>Search Warrants</b>​</summary>
 <br>
 
 • Any trace will authorize a search warrant. This also authorizes a fishing expedition probatory.</br>
@@ -1146,7 +1380,7 @@ information, systematic organization of professional and societal failures to un
 <!-- ######################### -->
 
 <details>
-<summary><b>Documents</b></summary>
+<summary>Documents</summary>
 <br>
 
 <h4>Registre Exp</h4>
@@ -1163,10 +1397,14 @@ information, systematic organization of professional and societal failures to un
 <!-- ######################### -->
 
 <details>
-<summary><b>Geolocation Strategy</b></summary>
+<summary>Geolocation Strategy</summary>
 <br>
 
-• AirBnB paid with monero</br>
+• RV Van with starlink</br>
+
+
+
+• AirBnB paid with Monero</br>
 
 https://reddit.com/r/Monero/comments/75tm5q/i_have_created_a_crypto_airbnb_accepting_btc_and</br>
 
@@ -1175,6 +1413,8 @@ https://reddit.com/r/Monero/comments/75tm5q/i_have_created_a_crypto_airbnb_accep
 Multi-Family House with shared wifi.<br>
 
 • Coffee</br>
+
+
 
 </br>
 
@@ -1188,7 +1428,7 @@ Multi-Family House with shared wifi.<br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Business Intelligence</b></summary>
+<summary>Business Intelligence</summary>
 <br>
 
 <h4>Financial Intelligence</h4>
@@ -1210,7 +1450,7 @@ https://oecd.org/finance/financial-markets/Artificial-intelligence-machine-learn
 <!-- ######################### -->
 
 <details>
-<summary><b>Criminal</b></summary>
+<summary>Criminal</summary>
 <br>
 
 <h4>Criminal Investigation</h4>
@@ -1248,7 +1488,7 @@ https://oecd.org/finance/financial-markets/Artificial-intelligence-machine-learn
 <!-- ######################### -->
 
 <details>
-<summary><b>Others</b></summary>
+<summary>Others</summary>
 <br>
 
 <h4>Others</h4>
@@ -1275,7 +1515,7 @@ https://inteltechniques.com/links.html</br>
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <details>
-<summary><b>Considerations</b></summary>
+<summary>Considerations</summary>
 <br>
 
 <h4>Considerations - Notebooks</h4>
@@ -1284,7 +1524,7 @@ https://inteltechniques.com/links.html</br>
 
 • UN doesn't work as well as the Supreme Court.</br>
 
-• The technical apparatuses for "social control" that a "democratic" government can use for legitimate purposes are easily co-opted by "authoritarian" efforts and practices for the political persecution of "detractors" or "dissenters". Could it be that after taking over the technical or power apparatus for "social control" there would be a point of no return? Would it be like the thesis of mutual destruction of atomic power?</br>
+• The technical apparatuses for "social control" that a "democratic" government can use for legitimate purposes are easily co-opted by "authoritarian" efforts and practices for the political persecution of "detractors" or "dissenters". Could it be that after taking over the technical or power apparatus for "social control" there would be a point of no return (A.I.)? Would it be like the thesis of mutual destruction of atomic power?</br>
 
 • Marginalized sectors cannot attack each other, exploit each other, but terrorize the powerful, the owners of state institutions, of "order"/control.</br>
 
@@ -1300,7 +1540,7 @@ https://inteltechniques.com/links.html</br>
 
 • Analysis of fallacious speeches.</br>
 
-• Colonialist and neo-colonialist objectives, ‘unquestionable inferiority’, Christian message, degree of ‘civilisation’, biologically inferior.
+• Colonialist and neo-colonialist objectives, ‘unquestionable inferiority’, Christian message, degree of ‘civilisation’, biologically inferior.<br>
 
 <br>
 </details>
@@ -1308,28 +1548,30 @@ https://inteltechniques.com/links.html</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Brainstorm</b></summary>
+<summary>Brainstorm</summary>
 <br>
 
 <h4>Brainstorm: strategy, techniques and skills</h4>
 
 <h5>Strategy</h5>
+• Foucault perspsctive:
+• Basic strategic ambiguity/mimicry, copy the oppressor's speech.</br>
 • Analysis of fallacious speeches justified on the basis of high moral values/democracy/terrorism/fear.</br>
 • It is necessary to create a form of political innovation, political creation and political experimentation outside the large political parties, and outside the normal or common program. Is it possible to do politics without being a politician? Is revolution desirable? By whom? Is he who rebels right?</br>
-• Basic strategic ambiguity/mimicry, copy the oppressor's speech.</br>
-• To be critical is to pose questions of the government of conduct, principles, objectives and methods using the available political resources and repertoire furnished by government itself, a kind of refractory turning of government against itself from within the discursive and political field of possibilities opened up by government.</br>
+• The possibility of building a new law, supported by a post-identity perspective and able to foster practices of resistance to heteronormalizing and excluding technologies.</br>
 • To resist or destabilise government from an immanent vantage point and thus seeks to open "govern­mental" arrangement to new creative possibilities. To produce something that doesn’t exist yet -- without being able to know what it will be.</br>
+• We need to facilitate the conditions of power to create a society organized in defense of its rights.</br>
+• Gradually shift the limit of social exclusion, increasing the power of excluded agents (minorities) by creating marginal spaces in which they can articulate themselves.</br>
+• To be critical is to pose questions of the government of conduct, principles, objectives and methods using the available political resources and repertoire furnished by government itself, a kind of refractory turning of government against itself from within the discursive and political field of possibilities opened up by government.</br>
 • BUT force/power decides between equal rights. The projects that seek to gain political traction collapes themselves into the idiom of the "human rights".</br>
 • Three types of social struggles: those that confront forms of domination (ethnic, social and religious); those that contest the forms of exploitation that separate individuals from what they produce; and the struggles against subjection, against forms of subjectivation and submission, which face everything that connects the individual to himself and subjects him to others.</br> 
-• We need to facilitate the conditions of power to create a society organized in defense of its rights.</br>
-• Gradually shift the limit of social exclusion, increasing the power of excluded agents (minorities) by creating marginal spaces in which they can articulate themselves.</br
-• We don't have politicians talking to the people; everything is through the media. Politicians are tied to the mass media, out of opportunism or fear, they adopt the media's unique discourse.</br>
+• We don't have politicians talking to the people; everything is through the media. Politicians are tied to the mass media, out of opportunism or fear, they adopt the media's unique discourse (because of votes, power!).</br>
+• Voter-oriented policies based on "governing by fear of crime".</br> 
 • Analysis of forms of resistance by dominated groups using means that do not disturb their internal unity.</br>
 • Deconstruct Carl Schmitt, deconstruct the image of the enemy. Deconstruct the concrete tangible characteristics that make it a suitable target for hatred and struggle. Nothing is political, everything is politicizable !</br>
-• Voter-oriented policies based on "governing by fear of crime".</br> 
 • Crime is fundamental, as it is the nucleus through which the process of panoptization of society and, therefore, the exercise of power/control by the government becomes possible. The feeling of “threat” must be constant so that control can be exercised to “combat” such delinquency.</br>
-• Crime is also based on capitalism, the "war on drugs" fuels a market for weapons, vehicles, cameras, personnel.</br
 • For the presence of the police or army in society to be seen as necessary and even desired, there must be legitimization for this, which will occur through fear.</br>
+• Crime is also based on capitalism, the "war on drugs" fuels a market for weapons, vehicles, cameras, personnel, private prisions.</br
 • We the people have a legitimate interest in preserving our ability to investigate and prosecute the distribution of government hacking tools that creates the market and fuels the demand for creating more panoptization and manipulating society (surveillance capitalism, technocolonilism, technofeudalism). The government's investigative efforts would be severely hampered if a copy of hacking tools got into the wrong hands.</br> 
 • "The existence of rights against the Government would be jeopardized if the Government were able to defeat such a right by appealing to the right of a democratic majority to work its will. A right against the Government must be a right to do something even when the majority thinks it would be wrong to do it, and when the majority would be worse off for having it done. If we now say that society has a right to do whatever is in the general benefit, or the right to preserve whatever sort of environment the majority wishes to live in, and we mean that these are the sort of
 rights that provide justification for overruling any rights against the Government that may conflict, then we have annihilated the later rights." (Ronald Dworkin, Taking Rights Seriously)<br>
@@ -1347,6 +1589,8 @@ rights that provide justification for overruling any rights against the Governme
 - Preventive police laws are particularly suited to dealing with the prevention of future dangers. <br>
 
 - Intelligence law was developed as an early warning system against special dangers to the state.<br>
+
+*We never know who the spy is working for.<br>
 
 - Laws of war: deal with exceptional threats by serious armed attacks. "Wars" on terror, on drugs, on organized crime, cyberwars.<br>
 
@@ -1371,7 +1615,9 @@ rights that provide justification for overruling any rights against the Governme
 - Freedom of the Press Foundation - https://freedom.press/training/</br>
 - Committee to Protect Journalists - https://cpj.org/safety-notes/</br>
 - BIRD - https://bird.tools</br>
--  https://securitytraining.opennews.org</br>
+- Security Training - https://securitytraining.opennews.org</br>
+- Accessnow Guides - https://www.accessnow.org/guides</br>
+- Accessnow Guides - https://guides.accessnow.org/index.html</br>
 - Global Investigative Journalism Network - https://gijn.org/resource</br>
 - The Investigative Journalism Manual (IJM) - https://investigative-manual.org</br>
 - Hack the Media - https://github.com/nemild/hack-the-media</br>
@@ -1475,7 +1721,7 @@ https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Interesting News</b></summary>
+<summary>Interesting News</summary>
 <br>
 
 <h4>https://eff.com</h4>
@@ -1530,7 +1776,15 @@ https://aclu.org/news/racial-justice/lifting-the-veil-on-the-design-of-predictiv
 • The FBI’s recent operations against Volt Typhoon and Fancy Bear botnets are a cybersecurity success, but the government’s legal theory has frightening implications.</br>
 https://lawfaremedia.org/article/recent-botnet-takedowns-allow-u.s.-government-to-reach-into-private-devices</br>
 
-• </br>
+<h4>https://www.opendemocracy.net</h4>
+
+• Revealed: COP28 president linked to spyware experts via ‘AI university’</br>
+https://www.opendemocracy.net/en/cop-28-uae-surveillance-sultan-al-jaber-greenwash-ai-university/</br>
+
+<h4>https://www.politico.com</h4>
+
+• Trump pledges to commute sentence of Silk Road founder Ross Ulbricht if elected</br>
+https://www.politico.com/news/2024/05/25/trump-commute-ross-ulbricht-sentence-libertarian-convention-00160025</br>
 
 <h4>https://thehackernews.com</h4>
 
@@ -1538,7 +1792,6 @@ https://lawfaremedia.org/article/recent-botnet-takedowns-allow-u.s.-government-t
 https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html</br>
 • Lizzard Squad</br>
 https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
-</br>
 
 <br>
 </details>
@@ -1546,7 +1799,7 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Academic Considerations</b></summary>
+<summary>Academic Considerations</summary>
 <br>
 
 <h4>Academic Considerations</h4>
@@ -1561,81 +1814,301 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 
 <h5>No. People are not rational.</h5>
 
-<h5>Pragmatism</h5>
-• Sun Tzu (544-496 BC)</br>
-• Niccolò Machiavelli (1469-1527)</br>
-• Carl von Clausewitz (-)</br>
-• Bentham (-)</br>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Philosophers and Their Works</title>
+</head>
+<body>
+    <h5>Pragmatism</h5>
+    <ul>
+        <li>Sun Tzu (544-496 BC)<br>
+            <em>The Art of War</em> (5th century BC)
+        </li>
+        <li>Niccolò Machiavelli (1469-1527)<br>
+            <em>The Prince</em> (1532)<br>
+            <em>Discourses on Livy</em> (1531)
+        </li>
+        <li>Carl von Clausewitz (1780-1831)<br>
+            <em>On War</em> (1832)
+        </li>
+        <li>Jeremy Bentham (1748-1832)<br>
+            <em>An Introduction to the Principles of Morals and Legislation</em> (1789)<br>
+            <em>The Panopticon Writings</em> (1787-1791)
+        </li>
+    </ul>
 
-<h5>Social Contract Theory</h5>
-• Thomas Hobbes ( - )</br>
-• Rousseau ( - )</br>
-• Kant ( - )</br>
-• Freud ( - )</br>
+    <h5>Social Contract Theory</h5>
+    <ul>
+        <li>Thomas Hobbes (1588-1679)<br>
+            <em>Leviathan</em> (1651)
+        </li>
+        <li>Jean-Jacques Rousseau (1712-1778)<br>
+            <em>The Social Contract</em> (1762)<br>
+            <em>Émile, or On Education</em> (1762)
+        </li>
+        <li>Immanuel Kant (1724-1804)<br>
+            <em>Groundwork of the Metaphysics of Morals</em> (1785)<br>
+            <em>Critique of Pure Reason</em> (1781)
+        </li>
+        <li>Sigmund Freud (1856-1939)<br>
+            <em>Civilization and Its Discontents</em> (1930)<br>
+            <em>The Interpretation of Dreams</em> (1899)
+        </li>
+    </ul>
 
-<h5>Epistemology</h5>
-• Gaston Bachelard (1884-1962)</br>
-• Karl Popper (1902-1994)</br>
+    <h5>Epistemology</h5>
+    <ul>
+        <li>Gaston Bachelard (1884-1962)<br>
+            <em>The Formation of the Scientific Mind</em> (1938)<br>
+            <em>The Poetics of Space</em> (1958)
+        </li>
+        <li>Karl Popper (1902-1994)<br>
+            <em>The Logic of Scientific Discovery</em> (1934)<br>
+            <em>The Open Society and Its Enemies</em> (1945)
+        </li>
+    </ul>
 
-<h5>Theology</h5>
-• Carl Schmitt (1888-1985)</br>
-• Giovanni Gentile (1875-1944)</br>
-• Arthur Rosenberg (1889-1943)</br>
-• Ernest Gassler (1863-1941)</br>
-• Hannah Arendt (1906–1975)</br>
+    <h5>Theology</h5>
+    <ul>
+        <li>Carl Schmitt (1888-1985)<br>
+            <em>Political Theology</em> (1922)<br>
+            <em>The Concept of the Political</em> (1932)
+        </li>
+        <li>Giovanni Gentile (1875-1944)<br>
+            <em>The Theory of Mind as Pure Act</em> (1916)<br>
+            <em>Origins and Doctrine of Fascism</em> (1929)
+        </li>
+        <li>Arthur Rosenberg (1889-1943)<br>
+            <em>A History of Bolshevism</em> (1934)<br>
+            <em>Democracy and Socialism</em> (1938)
+        </li>
+        <li>Ernst Troeltsch (1865-1923)<br>
+            <em>The Social Teaching of the Christian Churches</em> (1912)<br>
+            <em>Protestantism and Progress</em> (1912)
+        </li>
+        <li>Hannah Arendt (1906–1975)<br>
+            <em>The Human Condition</em> (1958)<br>
+            <em>The Origins of Totalitarianism</em> (1951)
+        </li>
+    </ul>
 
-<h5>Left or right-wing?</h5>
-• John Locke (1632–1704)</br>
-• Voltaire (1694–1778)</br>
-• Thomas Paine (1737-1809)</br>
-• Pierre-Joseph Proudhon (1809-1865)</br>
-• Keynes (-)</br>
-• Norberto Bobbio (1909–2004)</br>
+    <h5>Left or right-wing?</h5>
+    <ul>
+        <li>John Locke (1632–1704)<br>
+            <em>Two Treatises of Government</em> (1689)<br>
+            <em>An Essay Concerning Human Understanding</em> (1689)
+        </li>
+        <li>Voltaire (1694–1778)<br>
+            <em></em> ()<br>
+            <em>Candide</em> (1759)
+        </li>
+        <li>Thomas Paine (1737-1809)<br>
+            <em>Common Sense</em> (1776)<br>
+            <em>The Rights of Man</em> (1791)<br>
+            <em>The Age of Reason</em> (1794-1807)<br>
+            <em>First Principles of Government</em> (1795)
+            <em>Agrarian Justice</em> (1797)<br>
+        </li>
+        <li>Pierre-Joseph Proudhon (1809-1865)<br>
+            <em>What is Property?</em> (1840)<br>
+            <em>The Philosophy of Poverty</em> (1846)<br>
+            <em>The General Idea of the Revolution in the Nineteenth Century</em> (1851)<br>
+            <em>System of Economical Contradictions: or, The Philosophy of Misery</em> (1846)<br>
+            <em>The Principle of Federation</em> (1863)
+        </li>
+        <li>John Maynard Keynes (1883-1946)<br>
+            <em>The General Theory of Employment, Interest and Money</em> (1936)<br>
+            <em>A Treatise on Money</em> (1930)
+        </li>
+        <li>Norberto Bobbio (1909–2004)<br>
+            <em>Left and Right: The Significance of a Political Distinction</em> (1996)<br>
+            <em>The Future of Democracy</em> (1984)
+        </li>
+    </ul>
 
-<h5>Politcs Left-Wing</h5>
-• Karl Marx ( - )</br>
-• Max Weber (1864-1920)</br>
-• Antonio Gramsci (1891-1937)</br>
-• Nicos Poulantzas (1936-1979)</br>
-• Louis Althusser (1918-1990)</br>
+    <h5>Politics Left-Wing</h5>
+    <ul>
+        <li>Karl Marx (1818-1883)<br>
+            <em>Das Kapital</em> (1867)<br>
+            <em>The Communist Manifesto</em> (1848, with Friedrich Engels)<br>
+            <em>The Sacred Family</em> (1845, with Friedrich Engels)<br>
+            <em>The Eighteenth Brumaire of Louis Bonaparte</em> (1852)<br>
+            <em>Critique of the Gotha Program</em> (1875)
+        </li>
+        <li>Max Weber (1864-1920)<br>
+            <em>Economy and Society</em> (1922)<br>
+            <em>The Protestant Ethic and the Spirit of Capitalism</em> (1905)
+        </li>
+        <li>Antonio Gramsci (1891-1937)<br>
+            <em>Prison Notebooks</em> (written 1929-1935)<br>
+            <em>Selections from the Prison Notebooks</em> (1971)
+        </li>
+         <li>Nicos Poulantzas (1936-1979)<br>
+            <em>Political Power and Social Classes</em> (1968)<br>
+            <em>State, Power, Socialism</em> (1978)
+        </li>
+        <li>Louis Althusser (1918-1990)<br>
+            <em>For Marx</em> (1965)<br>
+            <em>Reading Capital</em> (1968, with Étienne Balibar)
+        </li>
+    </ul>
 
-<h5>Politcs Right-Wing</h5>
-• Adam Smith (1723-1790)</br>
-• John Stuart Mill (1806–1873)</br>
-• Milton Friedman ( - )</br>
-• Ludwig von Mises ( - )</br>
-• Friedrich Hayek ( - )</br>
-• Margaret Thatcher ( - )</br>
-• Ronald Reagan ( - )</br>
+    <h5>Politics Right-Wing</h5>
+    <ul>
+        <li>Adam Smith (1723-1790)<br>
+            <em>The Wealth of Nations</em> (1776)<br>
+            <em>The Theory of Moral Sentiments</em> (1759)
+        </li>
+        <li>John Stuart Mill (1806–1873)<br>
+            <em>On Liberty</em> (1859)<br>
+            <em>Utilitarianism</em> (1863)
+        </li>
+        <li>Milton Friedman (1912-2006)<br>
+            <em>Capitalism and Freedom</em> (1962)<br>
+            <em>Free to Choose</em> (1980, with Rose Friedman)
+        </li>
+        <li>Ludwig von Mises (1881-1973)<br>
+            <em>Human Action</em> (1949)<br>
+            <em>Socialism</em> (1922)
+        </li>
+        <li>Friedrich Hayek (1899-1992)<br>
+            <em>The Road to Serfdom</em> (1944)<br>
+            <em>The Constitution of Liberty</em> (1960)
+        </li>
+        <li>Margaret Thatcher (1925-2013)<br>
+            <em>The Downing Street Years</em> (1993)<br>
+            <em>Statecraft: Strategies for a Changing World</em> (2002)
+        </li>
+        <li>Ronald Reagan (1911-2004)<br>
+            <em>An American Life</em> (1990)<br>
+            <em>The Reagan Diaries</em> (2007)
+        </li>
+    </ul>
 
-<h5>Pernicious</h5>
-• Friedrich Nietzsche (1844-1900)</br>
-• Michel Foucault (1926-1984)</br>
-• Herbert Marcuse (1898-1979)</br>
-• Giles Deleuze (1925)</br>
-• Giorgio Agamben (1942)</br>
-• Bourdieu ()</br>
-• Guatarri ()</br>
+    <h5>Pernicious</h5>
+    <ul>
+        <li>Friedrich Nietzsche (1844-1900)<br>
+            <em>Thus Spoke Zarathustra</em> (1883-1885)<br>
+            <em>Beyond Good and Evil</em> (1886)
+        </li>
+        <li>Michel Foucault (1926-1984)<br>
+            <em>Madness and Civilization</em> (1961)<br>
+            <em>The Birth of the Clinic</em> (1963)<br>
+            <em>Discipline and Punish</em> (1975)<br>
+            <em>The History of Sexuality</em> (1976-1984)<br>
+            <em>Security, Territory, Population: Lectures at the Collège de France 1977-1978</em>
+            <em>The Government of the Living: Lectures at the Collège de France 1979-1980</em>
+            <em>Society Must Be Defended</em> (2003, posthumous)
+        </li>
+        <li>Herbert Marcuse (1898-1979)<br>
+            <em>One-Dimensional Man</em> (1964)<br>
+            <em>Eros and Civilization</em> (1955)
+        </li>
+        <li>Gilles Deleuze (1925-1995)<br>
+            <em>A Thousand Plateaus</em> (1980, with Félix Guattari)<br>
+            <em>Difference and Repetition</em> (1968)
+        </li>
+        <li>Giorgio Agamben (1942- )<br>
+            <em>Homo Sacer: Sovereign Power and Bare Life</em> (1995)<br>
+            <em>State of Exception</em> (2005)<br>
+            <em>The Coming Community</em> (1990)<br>
+            <em>The Use of Bodies</em> (2015)<br>
+            <em>Means Without End: Notes on Politics</em> (2000)<br>
+            <em>Remnants of Auschwitz: The Witness and the Archive</em> (1999)
+        </li>
+        <li>Pierre Bourdieu (1930-2002)<br>
+            <em>Outline of a Theory of Practice</em> (1972)<br>
+            <em>Distinction: A Social Critique of the Judgement of Taste</em> (1979)<br>
+            <em>Homo Academicus</em> (1984)<br>
+            <em>The Field of Cultural Production</em> (1993)<br>
+            <em>Practical Reason: On the Theory of Action</em> (1994)<br>
+            <em>Pascalian Meditations</em> (1997)
+        </li>
+        <li>Félix Guattari (1930-1992)<br>
+            <em>Anti-Oedipus</em> (1972, with Gilles Deleuze)<br>
+            <em>Chaosmosis</em> (1992)
+        </li>
+        <li>Giorgio Agamben (1942- )<br>
+            <em>Homo Sacer: Sovereign Power and Bare Life</em> (1995)<br>
+            <em>State of Exception</em> (2005)
+        </li>
+        <li>Pierre Bourdieu (1930-2002)<br>
+            <em>Distinction: A Social Critique of the Judgement of Taste</em> (1979)<br>
+            <em>Outline of a Theory of Practice</em> (1972)
+        </li>
+    </ul>
 
-<h5>Others</h5>
-• Frankfurt School</br>
-• Existentialism: Sartre v. Camus</br>
+    <h5>Others</h5>
+    <ul>
+        <li>Frankfurt School<br>
+            <em>Dialectic of Enlightenment</em> (1944, by Max Horkheimer and Theodor Adorno)<br>
+            <em>Minima Moralia</em> (1951, by Theodor Adorno)
+        </li>
+        <li>Existentialism: Jean-Paul Sartre (1905-1980) v. Albert Camus (1913-1960)<br>
+            Sartre: <em>Being and Nothingness</em> (1943)<br>
+            Sartre: <em>Existentialism is a Humanism</em> (1946)<br>
+            Camus: <em>The Stranger</em> (1942)<br>
+            Camus: <em>The Myth of Sisyphus</em> (1942)
+        </li>
+    </ul>
 
-<h5>Gender/Feminism</h5>
-• Emma Goldman ()</br>
-• Simone de Beauvoir ()</br>
-• Audre Lorde ()</br>
-• Amia Srinivasan ()</br>
-• Judith Butler (1956)</br>
-• Rita Seagato ()</br>
+    <h5>Gender/Feminism</h5>
+    <ul>
+        <li>Emma Goldman (1869-1940)<br>
+            <em>Anarchism and Other Essays</em> (1910)<br>
+            <em>Living My Life</em> (1931)
+        </li>
+        <li>Simone de Beauvoir (1908-1986)<br>
+            <em>The Second Sex</em> (1949)<br>
+            <em>The Ethics of Ambiguity</em> (1947)
+        </li>
+        <li>Audre Lorde (1934-1992)<br>
+            <em>Sister Outsider</em> (1984)<br>
+            <em>Zami: A New Spelling of My Name</em> (1982)
+        </li>
+        <li>Amia Srinivasan (1984- )<br>
+            <em>The Right to Sex</em> (2021)
+        </li>
+        <li>Judith Butler (1956- )<br>
+            <em>Gender Trouble</em> (1990)<br>
+            <em>Bodies That Matter</em> (1993)
+        </li>
+        <li>Rita Segato (1949- )<br>
+            <em>La guerra contra las mujeres</em> (2016)<br>
+            <em>Contrapedagogías de la crueldad</em> (2018)
+        </li>
+    </ul>
 
-<h5>Contemporary</h5>
-• Noam Chomsky (1928)</br>
-• Slavoj Žižek (1949)</br>
-• Achille Mbembe (1957)</br>
-• Shoshana Zuboff ()</br>
-• Herbert Marcuse ()</br>
-• Éric Sadin ()</br>
+    <h5>Contemporary</h5>
+    <ul>
+        <li>Noam Chomsky (1928- )<br>
+            <em>Manufacturing Consent</em> (1988, with Edward S. Herman)<br>
+            <em>Hegemony or Survival</em> (2003)
+        </li>
+        <li>Slavoj Žižek (1949- )<br>
+            <em>The Sublime Object of Ideology</em> (1989)<br>
+            <em>Living in the End Times</em> (2010)
+        </li>
+        <li>Achille Mbembe (1957- )<br>
+            <em>Necropolitics</em> (2019)<br>
+            <em>On the Postcolony</em> (2000)
+        </li>
+        <li>Shoshana Zuboff (1951- )<br>
+            <em>In the Age of the Smart Machine</em> (1988)<br>
+            <em>The Age of Surveillance Capitalism</em> (2018)
+        </li>
+        <li>Herbert Marcuse (1898-1979)<br>
+            <em>Eros and Civilization</em> (1955)<br>
+            <em>One-Dimensional Man</em> (1964)
+        </li>
+        <li>Éric Sadin (1973- )<br>
+            <em>La Siliconisation du Monde</em> (2016)<br>
+            <em>L’Intelligence artificielle ou l’enjeu du siècle</em> (2018)
+        </li>
+    </ul>
 
 <br>
 </details>
@@ -1643,7 +2116,7 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 <!-- ######################### -->
 
 <details>
-<summary><b>Libraries</b></summary>
+<summary>Libraries</summary>
 <br>
 
 <DT><H3>Libraries</H3>
@@ -1674,7 +2147,7 @@ https://thehackernews.com/2015/08/lizard-squad-hackers-arrested.html</br>
 </details>
 
 <details>
-<summary><b>Book Guerrilla</b></summary>
+<summary>Book Guerrilla</summary>
 <br>
 
 Guerilla Open Access Manifesto<br>
@@ -1692,23 +2165,253 @@ https://github.com/LittleTrickster/PDF-Doc-Scan<br>
 <br>
 </details>
 
+<!-- ############### -->
+
+<details>
+<summary>Protection from Totalitarian and Police States</summary>
+<br>
+
+<h2>General Strategies for Protection from Totalitarian and Police States</h2>
+      <ul>
+        <li>Maintain a Low Profile:
+            <ul>
+                <li>Avoid drawing attention to yourself or your activities.</li>
+                <li>Do not openly criticize the government or its officials.</li>
+                <li>Dress and behave in ways that do not attract undue attention.</li>
+            </ul>
+        </li>
+        <li>Stay Informed:
+            <ul>
+                <li>Listen to news from foreign radio stations or other underground sources to stay informed about political developments and potential threats.</li>
+                <li>Share information discreetly with trusted friends and family.</li>
+            </ul>
+        </li>
+        <li>Create and Use Safe Spaces:
+            <ul>
+                <li>Establish safe meeting places where you can discuss sensitive matters.</li>
+                <li>Use homes of trusted friends or remote locations to avoid surveillance.</li>
+            </ul>
+        </li>
+        <li>Build Trusted Networks:
+            <ul>
+                <li>Develop and maintain a close-knit group of trusted friends and family.</li>
+                <li>Form or join underground resistance groups if necessary.</li>
+            </ul>
+        </li>
+        <li>Secure Communication:
+            <ul>
+                <li>Use coded language or signals to communicate sensitive information.</li>
+                <li>Write letters using invisible ink or steganography.</li>
+                <li>Use face-to-face communication in secluded areas to avoid interception.</li>
+            </ul>
+        </li>
+        <li>Document Security:
+            <ul>
+                <li>Keep important documents hidden or disguised.</li>
+                <li>Destroy incriminating evidence that could be used against you or others.</li>
+                <li>Use false identities or forged documents when necessary.</li>
+            </ul>
+        </li>
+        <li>Travel Discreetly:
+            <ul>
+                <li>Avoid traveling frequently or taking predictable routes.</li>
+                <li>Use aliases and travel documents that do not reveal your true identity.</li>
+            </ul>
+        </li>
+        <li>Financial Caution:
+            <ul>
+                <li>Avoid transactions that could be traced or arouse suspicion.</li>
+                <li>Use cash and barter systems rather than banks or official financial channels.</li>
+            </ul>
+        </li>
+        <li>Prepare for Searches:
+            <ul>
+                <li>Keep your home clean of any incriminating materials.</li>
+                <li>Have hiding places for important documents or objects.</li>
+                <li>Be prepared to answer questions convincingly if interrogated.</li>
+            </ul>
+        </li>
+        <li>Learn Self-Defense and Survival Skills:
+            <ul>
+                <li>Acquire basic self-defense skills to protect yourself physically.</li>
+                <li>Learn survival skills in case you need to flee or live off the grid.</li>
+            </ul>
+        </li>
+        <li>Plan Escape Routes:
+            <ul>
+                <li>Have a plan for quickly leaving your home or country if necessary.</li>
+                <li>Keep emergency supplies and documents ready for a quick departure.</li>
+            </ul>
+        </li>
+        <li>Utilize Community Support:
+            <ul>
+                <li>Engage in mutual aid with trusted community members.</li>
+                <li>Support and be supported by others facing similar threats.</li>
+            </ul>
+        </li>
+        <li>Stay Physically and Mentally Fit:
+            <ul>
+                <li>Maintain your health to endure physical and mental stress.</li>
+                <li>Practice stress-relief techniques and maintain a positive mindset.</li>
+            </ul>
+        </li>
+        <li>Observe and Adapt:
+            <ul>
+                <li>Stay alert to changes in the political environment and adapt accordingly.</li>
+                <li>Learn from the experiences of others who have successfully evaded state scrutiny.</li>
+            </ul>
+        </li>
+        <li>Document and Share Truths Discreetly:
+            <ul>
+                <li>Keep a record of injustices and human rights abuses.</li>
+                <li>Share these records with trusted sources, both locally and internationally, when safe to do so.</li>
+            </ul>
+        </li>
+    </ul>
+    <h4>Additional Strategies</h4>
+    <ol>
+        <li>Stay Silent: avoid discussing sensitive information, especially online or in public.</li>
+        <li>Keep Personal and Professional Separate: Don't mix your personal life with any potentially sensitive or illegal activities.</li>
+        <li>Avoid Bragging: don’t boast about your activities, connections, or capabilities, as this can draw unwanted attention.</li>
+        <li>Avoid contaminating ("watering hole"): refrain from contamination of systems, maintain strict compartmentalization.</li>
+        <li>Keep Operational Details Confidential: never disclose specific details about your operations or plans to anyone.</li>
+        <li>Maintain OpSec: operational Security is crucial; don't reveal your plans, strategies, or tactics.</li>
+        <li>Be Mindful of Metadata: understand that even seemingly harmless metadata (e.g., location data, timestamps) can be used to track your activities, so be cautious about what information you share and how it can be interpreted.</li>
+        <li>Exercise Caution with Trust: be wary of trusting anyone, and never allow yourself to be blackmailed.</li>
+        <li>Operate Discreetly: avoid conducting any sensitive activities from your home or easily traceable locations.</li>
+        <li>Cultivate Safe Habits: practice cautious behaviors online and offline to minimize risks.</li>
+        <li>Understand Human Vulnerabilities: remember that humans can be the weakest link in security, so be mindful of social engineering tactics.</li>
+        <li>Know Your Rights: familiarize yourself with your legal rights and protections regarding surveillance and privacy (search warrant rules), so you can assert them if necessary.</li>
+        <li>Stay Informed about Surveillance Practices: educate yourself about common surveillance techniques used by law enforcement and intelligence agencies, so you can take appropriate precautions to protect your privacy.</li>
+        <li>Seek Specialized Advice if Needed: if you believe you are being unfairly targeted or monitored, seek legal advice from a qualified attorney who specializes in privacy and surveillance issues. Report suspicious behavior or incidents to journalists or tech NGOs.</li>
+    </ol>
+
+<br>
+</details>
+
 <!-- ######################### -->
 
 <details>
-<summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
+<summary>Intelligence, Conflict, and Warfare Publications</summary>
 <br>
 
-• Taylor & Francis - Intelligence and National Security - Open access articles<br>
-https://tandfonline.com/action/showOpenAccess?journalCode=fint20<br>
-• The Journal of Intelligence, Conflict, and Warfare<br>
-https://journals.lib.sfu.ca/index.php/jicw/issue/archive<br>
-• DCAF - Geneva Centre for Security Sector Governance<br>
-https://dcaf.ch/resources?type=publications<br>
-• E-International Relations - Open access scholarly books <br>
-https://e-ir.info/publications<br>
-• CIA.gov - Center for the study of intelligence<br>
-https://cia.gov/resources/csi/studies-in-intelligence<br>
+    <h4>Intelligence, Conflict, and Warfare Publications</h4>
+    <ul>
+        <li>
+            <a href="https://tandfonline.com/action/showOpenAccess?journalCode=fint20" target="_blank">
+                Taylor & Francis - Intelligence and National Security
+            </a> - Open access articles
+        </li>
+        <li>
+            <a href="https://journals.lib.sfu.ca/index.php/jicw/issue/archive" target="_blank">
+                The Journal of Intelligence, Conflict, and Warfare
+            </a> - Archive of past issues
+        </li>
+        <li>
+            <a href="https://dcaf.ch/resources?type=publications" target="_blank">
+                DCAF - Geneva Centre for Security Sector Governance
+            </a> - Publications on security sector governance
+        </li>
+        <li>
+            <a href="https://e-ir.info/publications" target="_blank">
+                E-International Relations
+            </a> - Open access scholarly books
+        </li>
+        <li>
+            <a href="https://cia.gov/resources/csi/studies-in-intelligence" target="_blank">
+                CIA.gov - Center for the Study of Intelligence
+            </a> - Studies in Intelligence
+        </li>
+        <li>
+            <a href="https://www.tandfonline.com/toc/fjss20/current" target="_blank">
+                Journal of Strategic Studies
+            </a> - Scholarly articles on strategic studies, intelligence, and military affairs
+        </li>
+        <li>
+            <a href="https://www.tandfonline.com/toc/ujic20/current" target="_blank">
+                International Journal of Intelligence and CounterIntelligence
+            </a> - Articles on intelligence operations, security, and counterintelligence
+        </li>
+        <li>
+            <a href="https://www.rand.org/pubs.html" target="_blank">
+                RAND Corporation
+            </a> - Research and analysis on security, defense, and intelligence
+        </li>
+        <li>
+            <a href="https://www.chathamhouse.org/our-research/topics/international-security" target="_blank">
+                Chatham House - International Security Programme
+            </a> - Publications on international security and conflict
+        </li>
+        <li>
+            <a href="https://www.brookings.edu/topic/foreign-policy/" target="_blank">
+                Brookings Institution - Foreign Policy
+            </a> - Articles and research on global security and intelligence
+        </li>
+        <li>
+            <a href="https://www.foreignaffairs.com/" target="_blank">
+                Foreign Affairs
+            </a> - Articles and analyses on international affairs, security, and intelligence
+        </li>
+        <li>
+            <a href="https://smallwarsjournal.com/jrnl" target="_blank">
+                Small Wars Journal
+            </a> - Discussions on military strategy, defense policy, and irregular warfare
+        </li>
+        <li>
+            <a href="https://www.tandfonline.com/toc/usip20/current" target="_blank">
+                The International Journal of Intelligence, Security, and Public Affairs
+            </a> - Research on intelligence, security, and public affairs
+        </li>
+    </ul>
 
+    <h2>English-Language Materials from Specific Countries</h2>
+    <ul>
+        <li>
+            <a href="https://www.unibw.de/metis-en/publikationen" target="_blank">
+                Bundeswehr University Munich - Metis Institute for Strategy and Foresight
+            </a> - Research on strategy, security, and military affairs
+        </li>
+        <li>
+            <a href="https://www.realinstitutoelcano.org/en/publications/" target="_blank">
+                Real Instituto Elcano - Elcano Royal Institute
+            </a> - Publications on international and strategic studies
+        </li>
+        <li>
+            <a href="https://indsr.org.tw/en/publish" target="_blank">
+                Institute for National Defense and Security Research (INDSR)
+            </a> - Research and analysis on security and defense
+        </li>
+        <li>
+            <a href="http://www.css.ir/en/" target="_blank">
+                Strategic Research Center - Expediency Discernment Council
+            </a> - Research papers and publications on strategic issues (limited English content)
+        </li>
+        <li>
+            <a href="https://invesp.org.ve/en/publications/" target="_blank">
+                Venezuelan Institute for Social and Political Studies (INVESP)
+            </a> - Publications on political and social issues (limited English content)
+        </li>
+        <li>
+            <a href="https://russiancouncil.ru/en/" target="_blank">
+                Russian International Affairs Council (RIAC)
+            </a> - Articles and analysis on international relations and security
+        </li>
+        <li>
+            <a href="https://www.csis.or.id/publications" target="_blank">
+                Centre for Strategic and International Studies (CSIS) Indonesia
+            </a> - Research and publications on security and international affairs
+        </li>
+        <li>
+            <a href="https://www.cicp.org.kh/" target="_blank">
+                Cambodian Institute for Cooperation and Peace (CICP)
+            </a> - Publications on peace, security, and cooperation
+        </li>
+        <li>
+            <a href="https://iseas.vass.gov.vn/en/" target="_blank">
+                Institute for Southeast Asian Studies (ISEAS) - Vietnam Academy of Social Sciences
+            </a> - Research on regional security and international relations
+        </li>
+    </ul>
 <br>
 </details>
 
@@ -1725,7 +2428,7 @@ https://cia.gov/resources/csi/studies-in-intelligence<br>
 👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <details>
-<summary><b>Privacy​​​ Software​ Alternatives</b>​</summary>
+<summary>Privacy​​​ Software​ Alternatives</b>​</summary>
 <br>
 
 <ul>
@@ -1752,9 +2455,12 @@ https://cia.gov/resources/csi/studies-in-intelligence<br>
 
 <li>Google Search alternatives:</br>
 <a href="https://duckduckgo.com">DuckDuckGo</a></br>
-<a href="https://searx.github.io/searx/">SearX</a></br>
+<a href="https://start.duckduckgo.com">DuckDuckGo Start</a></br>
+<a href="">DuckDuckGo ONION</a></br>
 <a href="https://startpage.com">Startpage</a></br>
 <a href="http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion">Startpage ONION</a></br>
+<a href="https://ixquick.com">ixquick</a></br>
+<a href="https://searx.github.io/searx/">SearX</a></br>
 <a href="https://ecosia.org">Ecosia</a></br>
 <a href="https://qwant.com">Qwant</a></br>
 <a href="https://mojeek.com">Mojeek</a></br>
@@ -1777,7 +2483,7 @@ https://cia.gov/resources/csi/studies-in-intelligence<br>
 <div id="block7">
 
 <details>
-<summary><b>Others</b>​</summary>
+<summary>Others</b>​</summary>
 <br>
 
 <h4>Links</h4>
