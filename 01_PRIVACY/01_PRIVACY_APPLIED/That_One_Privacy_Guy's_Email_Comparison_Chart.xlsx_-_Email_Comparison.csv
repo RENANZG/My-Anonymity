@@ -1,0 +1,56 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,SIMPLE COMPARISON,,,,,,,,,,PRIVACY,,,,,,,,,,,,,TECHNICAL,,,,,,,,,,,,,,,,,WEBSITE,,,,,PRICING,,,,ETHICS,,,,,,
+,      (RAW DATA TO THE RIGHT) --->,,,,,,,,,,JURISDICTION,,,LOGGING,,ACTIVISM,,,,,,,,SERVICE CONFIGURATION,,,,,SECURITY,,,,AVAILABILITY,,,,,,,,COOKIES,,CONFIGURATION,,,,,,,BUSINESS PRACTICES,,,,,AFFILIATES,
+Sheet last updated 6/17/2018,PRIVACY,,,TECHNICAL,,,BUSINESS,,,,,,,,,,,,,,,,,WEBMAIL,,PROTOCOLS,,,ENCRYPTION,,,2FA,ADDRESSES,,FEATURES,,,,STORAGE,,,,,,,,,,,GOOD FAITH,,AFFILIATE / RESELLER POLICY,,,,
+EMAIL SERVICE,Jurisdiction,Logging,Activism,Service Config,Security,Availability,Website,Pricing,Ethics,,Based in (Country),"""Fourteen Eyes"" Country",Enemy of the Internet,Payment Info,IP Address,Anonymous Payment Method,Accepts Cash,Accepts Gift Cards,Accepts Crypto Currency,Open Source Platform,PGP Key Available,Gives back to Privacy Causes,Meets PrivacyToolsIO Criteria,Web Mail Access,Header Info Stripped,POP3,IMAP,SMTP,User can Control Private Key,Encryption (In Transit),Encryption (At Rest),2FA Option,# of Addresses,Custom Domain,Supports CalDAV,Supports WebDAV,Supports CardDAV,Supports ActiveSync,Email Storage (in GB),Document Storage (in GB),# of Persistent Cookies,# of External Trackers,# of Proprietary API's,Server SSL Rating,SSL Certificate issued to,$ / Month - (Annual Pricing),$ / Addresses / Month,Free Trial,Refund Window (Days),Falsely Claims Service is 100% Secure,Incentivizes social media spam,Forbids spam,Requires ethical copy,Requires full disclosure,Practice ethical copy,Give full disclosure
+AOL Mail,4,2,6,1,1,4,12,0,4,,USA,Five,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,None,Yes,1,Yes,Yes,No,No,No,1000,5,11,6,9,A-,Self,"$0,00","$0,00",Free,Free,,,No,No,No,,No
+AtMail,2,2,1,1,1,0,8,6,0,,Australia,Five,No,Yes,Yes,Email,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,Yes,25,Yes,Yes,Yes,Yes,Yes,10,10,4,4,14,A+,CloudFlare,"$40,21","$1,61",Yes,0,,,,,,,
+CounterMail,1,1,5,"0,5",0,7,5,6,0,,Sweden,Fourteen,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,SSL/TLS,OpenPGP,Yes,1,Yes,No,No,No,No,"0,5",0,0,0,0,C,Self,"$4,91","$4,91",No,14,,,,,,,
+CryptoHeaven,2,"0,5",6,"2,5",1,6,13,3,4,,Canada,Five,No,,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,SSL/TLS,TDE,Yes,5,Yes,No,No,No,No,"0,2",0,9,3,3,F,No SSL Cert,"$5,50","$1,10",Yes,30,,,No,No,No,,No
+DigitalSafe,1,1,6,"3,5",3,7,3,8,0,,Switzerland,Cooperative,No,,,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,SSL/TLS,,No,1,No,No,No,No,No,5,,3,3,0,A+,Self,"$7,50","$7,50",No,0,,,,,,,
+Disroot,1,"1,5",1,1,2,4,0,0,0,,Netherlands,Nine,No,,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,None,No,1,Yes,Yes,No,No,No,4,4,0,0,0,A+,Self,"$0,00","$0,00",Free,Free,,,,,,,
+EuMX,3,2,6,1,3,7,8,4,0,,,Not Disclosed,Not Disclosed,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,SSL/TLS,,No,1,No,No,No,No,No,25,,0,0,0,T,No SSL Cert,,,No,0,,,,,,,
+Fastmail,2,1,"4,5",1,1,2,2,7,4,,Australia,Five,No,,,No,No,No,Yes,Some,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,Yes,1,Yes,Yes,Yes,Yes,No,25,10,0,1,1,A+,Self,"$4,16","$4,16",Yes,0,,,No,No,No,,No
+Gmail,4,2,5,0,1,1,2,0,0,,USA,Five,Yes,Yes,Yes,No,Free,Free,Free,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,SSL/TLS,None,Yes,1,Yes,Yes,Yes,Yes,Yes,15,15,0,0,6,A,Self,"$0,00","$0,00",Free,Free,,,,,,,
+GMX Mail,1,"1,5",5,1,2,4,7,0,4,,Germany,Fourteen,No,,Yes,No,Free,Free,Free,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,No,1,No,Yes,No,Yes,No,2,2,5,4,26,A,Self,"$0,00","$0,00",Free,Free,,,No,No,No,,No
+Hotmail,4,"1,5",5,1,1,2,2,0,4,,USA,Five,Yes,,Yes,No,Free,Free,Free,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,Yes,1,Yes,Yes,No,Yes,Yes,5,15,0,1,1,A,Self,"$0,00","$0,00",Free,Free,,,No,No,No,,No
+Hushmail,2,2,3,1,1,6,2,4,4,,Canada,Five,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,SSL/TLS,PGP,Yes,1,Yes,No,No,No,No,10,0,3,2,0,A+,Self,"$4,17","$4,17",Yes,60,,,No,No,No,,No
+iCloud,4,2,6,1,1,6,6,0,0,,USA,Five,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,None,Yes,1,No,No,No,No,No,5,5,0,0,1,A-,Self,"$0,00","$0,00",Yes,Free,,,,,,,
+KolabNow,1,1,4,0,2,2,3,7,0,,Switzerland,Cooperative,No,,,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,SSL/TLS,None,No,1,Yes,Yes,Yes,Yes,No,2,2,1,1,1,A+,Self,"$8,85","$8,85",Yes,0,,,,,,,
+LavaBit,4,1,1,1,2,6,1,7,0,,USA,Five,Yes,,,Email,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,No,1,No,No,No,No,No,5,5,0,0,2,A,Self,"$2,50","$2,50",No,0,,,,,,,
+Lycos,4,"1,5",5,"3,5",4,7,15,0,4,,USA,Five,Yes,,Yes,No,Free,Free,Free,No,No,No,No,Yes,No,No,No,No,No,,,No,1,No,No,No,No,No,3,,5,3,86,F,No SSL Cert,"$0,00","$0,00",Free,Free,,,No,No,No,,No
+Mail.com,4,2,5,"3,5",4,3,7,0,4,,USA,Five,Yes,Yes,Yes,No,Free,Free,Free,No,No,No,No,Yes,No,No,No,No,No,,,No,1,Yes,Yes,No,Yes,No,2,2,9,5,25,A,Self,"$0,00","$0,00",Free,Free,,,No,No,No,,No
+Mailbox.org,1,1,4,0,0,1,1,2,0,,Germany,Fourteen,No,,,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,SSL/TLS,PGP,Yes,3,Yes,Yes,Yes,Yes,Yes,2,"0,1",0,1,0,A+,Self,"$1,07","$0,36",Yes,14,,,,,,,
+Mailfence,1,"1,5",4,0,0,0,1,4,0,,Belgium,Fourteen,No,,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,SSL/TLS,PGP,Yes,10,Yes,Yes,Yes,Yes,Yes,5,9,0,0,1,A+,Self,"$2,68","$0,27",Yes,0,,,,,,,
+MsgSafe.io,0,1,"4,5","2,5",1,5,3,5,0,,Panama,No,No,,,No,No,No,No,Some,Yes,No,Yes,Yes,Yes,No,No,No,Yes,SSL/TLS,PGP,No,25,Yes,No,No,No,No,5,,5,2,0,A,Fastly,"$5,00","$0,20",Yes,0,,,,,,,
+NeoMailbox,1,"0,5",2,0,1,6,0,4,0,,Switzerland,Cooperative,No,,No,Email,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,STARTTLS,PGP,No,1,Yes,No,No,No,No,1,0,0,0,0,A,Self,"$4,17","$4,17",Yes,30,,,,,,,
+Novo-Ordo,4,"1,5","0,5",0,1,7,1,7,0,,USA,Five,Yes,,Yes,Yes,No,No,Yes,Some,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,SSL/TLS,TrueCrypt,Yes,1,Yes,No,No,No,No,,0,2,0,,A+,Self,"$2,84","$2,84",No,0,,,,,,,
+OpenMailbox,1,"0,5",5,1,2,5,4,7,0,,France,Nine,No,,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,SSL/TLS,,Yes,1,Yes,No,No,No,No,500,500,2,2,5,A+,Self,"$6,24","$6,24",Yes,0,,,,,,,
+Outlook.com,4,1,5,1,2,1,6,0,0,,USA,Five,Yes,,,No,Free,Free,Free,No,No,No,No,Yes,No,Yes,Yes,Yes,No,SSL/TLS,BitLocker,Yes,1,Yes,Yes,Yes,Yes,Yes,5,15,4,4,7,B,Self,"$0,00","$0,00",Free,Free,,,,,,,
+Pobox,4,1,3,"4,5",3,6,3,6,0,,USA,Five,Yes,,,Email,No,No,No,No,No,No,No,No,No,No,No,No,No,,,Yes,1,Yes,No,No,No,No,50,,1,1,3,A,Self,"$1,67","$1,67",No,0,,,,,,,
+PolarisMail,2,2,6,1,1,1,4,4,4,,Canada,Five,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,Yes,1,Yes,Yes,Yes,Yes,Yes,25,5,3,3,0,B,Self,"$1,00","$1,00",Yes,0,,,No,No,No,,No
+Posteo,1,0,1,0,0,5,1,2,0,,Germany,Fourteen,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,SSL/TLS,OpenPGP,Yes,2,No,Yes,No,Yes,No,2,0,0,1,0,A+,Self,"$1,07","$0,54",Yes,14,,,,,,,
+Private Email,4,1,5,1,1,1,3,6,0,,USA,Five,Yes,,,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,Yes,1,Yes,Yes,Yes,Yes,Yes,10,10,2,2,0,B,Self,"$2,41","$2,41",Yes,0,,,,,,,
+Private Relay,1,"0,5",6,"1,5",4,4,1,6,0,,France,Nine,No,,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,,,No,1,Yes,Yes,No,No,Yes,15,0,0,1,0,A+,Self,"$2,16","$2,16",Yes,0,,,,,,,
+ProtonMail,1,"0,5","0,5","1,5",0,5,3,6,0,,Switzerland,Cooperative,No,,No,Yes,No,No,Yes,Some,Yes,Yes,Yes,Yes,,No,Yes,Yes,Yes,SSL/TLS,OpenPGP,Yes,5,Yes,No,No,No,No,5,,1,1,1,A+,Self,"$4,00","$0,80",Yes,0,,,,,,,
+Rackspace,4,2,3,1,0,5,4,7,4,,UK,Five,Yes,Yes,Yes,Email,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,PGP,Yes,5,Yes,No,No,No,No,25,,0,1,31,A,Self,"$10,00","$2,00",No,0,,,No,No,No,,No
+Rediffmail,2,2,5,1,2,7,12,0,4,,India,No,Yes,Yes,Yes,No,Free,Free,Free,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,,,Yes,1,No,No,No,No,No,1,,2,1,5,C,No SSL Cert,"$0,00","$0,00",Free,Free,,,No,No,No,,No
+Redpin,4,1,6,1,2,7,8,7,0,,USA,Five,Yes,,,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,No,1,Yes,No,No,No,No,"0,2",,0,0,0,T,No SSL Cert,"$3,50","$3,50",No,0,,,,,,,
+Runbox,1,1,6,1,1,2,1,4,4,,Norway,Nine,No,,,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,STARTTLS,,Yes,25,Yes,Yes,Yes,Yes,No,1,"0,1",0,1,0,A+,Self,"$1,67","$0,07",Yes,0,,,No,No,No,,No
+ScryptMail,4,"1,5",1,"1,5",2,7,2,0,0,,USA,Five,Yes,,Yes,Yes,Free,Free,Free,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,,,Yes,1,Yes,No,No,No,No,,,1,1,0,A+,Self,"$0,00","$0,00",Free,Free,,,,,,,
+Soverin,1,"0,5",5,"1,5",2,4,0,7,0,,Netherlands,Nine,No,No,,No,No,No,No,No,Yes,No,Yes,Yes,No,NO,Yes,Yes,Yes,SSL/TLS,,No,1,Yes,Yes,No,Yes,No,25,,0,0,0,A+,Self,"$3,84","$3,84",No,0,,,,,,,
+StartMail,1,1,3,"0,5",0,5,1,6,4,,Netherlands,Nine,No,,,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,SSL/TLS,PGP,Yes,10,Yes,No,No,No,No,10,0,0,1,0,A+,Self,"$5,00","$0,50",Yes,0,,,No,No,No,,No
+SwissNode,1,1,5,1,3,6,9,7,4,,Switzerland,Cooperative,No,,,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,,,No,1,Yes,No,No,No,No,1,,0,4,5,A-,Self,"$2,17","$2,17",No,0,,,No,No,No,,No
+Teknik,3,1,1,1,2,6,0,6,0,,,Not Disclosed,Not Disclosed,,,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,No,1,No,No,No,No,No,5,5,0,0,0,A,Self,"$5,00","$5,00",Yes,10,,,,,,,
+Thexyz,2,2,6,1,0,4,9,3,3,,Canada,Five,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,AES-256,Yes,1,Yes,No,No,No,Yes,25,25,1,1,5,A-,Self,"$1,67","$1,67",No,30,,,No,No,No,,
+TuffMail,2,"1,5",6,1,2,7,7,2,0,,Canada,Five,No,Yes,,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,No,1,Yes,No,No,No,No,"0,51",,1,1,0,F,Self,"$2,00","$2,00",Yes,30,,,,,,,
+Tutanota,1,"0,5",5,"2,5",1,3,1,1,0,,Germany,Fourteen,No,,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,SSL/TLS,AES,Yes,5,Yes,Yes,No,Yes,No,1,0,1,0,0,A+,Self,"$1,25","$0,25",Yes,14,,,,,,,
+Unseen,1,2,2,"3,5",1,7,0,4,3,,Iceland,Cooperative,No,Yes,Yes,Email,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,SSL/TLS,PGP,No,1,No,No,No,No,No,2,,0,0,0,A+,Self,"$8,25","$8,25",Yes,30,,,No,No,No,,
+Unspyable,3,1,5,1,3,7,8,8,0,,,Not Disclosed,Not Disclosed,,,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,,,No,1,Yes,No,No,No,No,,,0,0,0,C,No SSL Cert,"$8,34","$8,34",No,0,,,,,,,
+VFEmail,4,1,5,1,1,8,5,0,4,,USA,Five,Yes,,,No,Free,Free,Free,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,PGP,No,1,No,No,No,No,No,"0,05",,2,3,6,A,No SSL Cert,"$0,00","$0,00",Free,Free,,,No,No,No,,No
+Yahoo Mail,4,1,5,1,2,1,4,0,0,,USA,Five,Yes,,,No,Free,Free,Free,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,,,Yes,1,Yes,Yes,Yes,Yes,Yes,1000,1000,1,1,5,A+,Self,"$0,00","$0,00",Free,Free,,,,,,,
+Yandex Mail,2,"1,5",5,1,1,5,5,0,0,,Russia,No,Yes,,Yes,No,Free,Free,Free,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,,Yes,1,No,Yes,No,No,No,10,10,6,5,4,A,Self,"$0,00","$0,00",Free,Free,,,,,,,
+Zoho,4,2,5,1,1,2,6,0,5,,USA,Five,Yes,Yes,Yes,No,Free,Free,Free,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,SSL/TLS,None,Yes,1,Yes,Yes,No,Yes,Yes,5,5,2,5,15,A+,Self,"$0,00","$0,00",Free,Free,,Yes,No,No,No,,No
+That One Privacy Guy's Email Comparison Chart is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3,9296","2,0952",,,,,,,,,
+THAT ONE PRIVACY SITE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1,67","0,32",,,,,,,,,
+https://thatoneprivacysite.xyz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
