@@ -148,8 +148,7 @@
   • <a href="https://whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer"><b>Whonix</b> - Tips on Remaining Anonymous</a>
   <br> • <a href="https://whonix.org/wiki/Essential_Host_Security" target="_blank"><b>Whonix</b> - Essential Host Security</a>
   <br> • <a href="https://whonix.org/wiki/System_Hardening_Checklist" target="_blank"><b>Whonix</b> - System Hardening Checklist</a>
-  <br> • <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a>
-    <a href="https://anonymousplanet.org/export/guide.pdf" target="_blank"> (PDF)</a>
+  <br> • <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank"> (PDF)</a>
   <br> • <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer"><b>HackMD</b> - How to stay anon</a>
   <br> • <a href="https://eff.org" target="_blank" rel="noopener noreferrer"><b>EFF Foundation</b></a>
   <br> • <a href="https://securityeducationcompanion.org/" target="_blank" rel="noopener noreferrer">EFF - Security Companion</a>
@@ -1544,7 +1543,7 @@
   <li><a href="https://latexeditor.lagrida.com">Online LaTeX Equation Editor</a></li>
   <li><a href="https://mermaid.live">Mermaid</a></li>
   <li><a href="https://tableconvert.com">Table Convert</a></li>
-  <li><a href="https://tablesgenerator.com">Tables Generator</a></li>
+  <li><a href="https://truben.no/table/">Tables Generator</a></li>
   <li><a href="https://evanhahn.github.io/ffmpeg-buddy/">ffmpeg buddy</a></li>
   <li><a href="https://kutt.it">Kutt your links shorter</a></li>
   <li><a href="https://grammarly.com">Grammarly</a></li>
@@ -3201,12 +3200,16 @@
   <ul>
   <li>Google Search alternatives:</li>
   <li><a href="https://duckduckgo.com">DuckDuckGo</a></li>
+  <li><a href="https://duckduckgo.com">DuckDuckGo (NoJS)</a></li>
   <li><a href="https://start.duckduckgo.com">DuckDuckGo Start</a></li>
-  <li><a href="">DuckDuckGo ONION</a></li>
+  <li><a href="http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion">DuckDuckGo (ONION)</a></li>
   <li><a href="https://startpage.com">Startpage</a></li>
-  <li><a href="http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion">Startpage ONION</a></li>
+  <li><a href="http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion">Startpage (ONION)</a></li>
+  <li><a href="https://searx.neocities.org/nojs">SearX (NoJS)</a></li>
+  <li><a href="https://searx.github.io/searx/">SearX (Source)</a></li>
+  <a href="http://searxingux6na3djgdrcfwutafxmmagerhbieihsgu7sgmjee3u777yd.onion">SearX  (ONION)</a>
+   <a href="https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion">Brave Search  (ONION)</a>
   <li><a href="https://ixquick.com">ixquick</a></li>
-  <li><a href="https://searx.github.io/searx/">SearX</a></li>
   <li><a href="https://ecosia.org">Ecosia</a></li>
   <li><a href="https://qwant.com">Qwant</a></li>
   <li><a href="https://mojeek.com">Mojeek</a></li>
