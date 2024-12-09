@@ -100,10 +100,11 @@
   </tbody>
 </table>
 
-<h3>References</h3>
+<h4>References</h4>
+  
   <ol>
-  <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Study:_Anonymity_and_Pseudonymity_are_not_the_same" target="_blank"><b>Whonix</b> - Study: Anonymity and Pseudonymity are not the same.</a>
-  <a href="https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorifyHOWTO#ToroverTor" target="_blank">Adrelanos - Do not Mix Anonymity Modes</a>
+    <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Study:_Anonymity_and_Pseudonymity_are_not_the_same" target="_blank"><b>Whonix</b> - Study: Anonymity and Pseudonymity are not the same.</a>
+    <a href="https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorifyHOWTO#ToroverTor" target="_blank">Adrelanos - Do not Mix Anonymity Modes</a>
   </ol>
   
 </body>

@@ -48,6 +48,8 @@
   <h4>Book Search Engines</h4>
   <ul>
       <li><a href="https://archive.org">Internet Archive</a></li>
+      <li><a href="https://www.dbooks.org">dBooks Library</a> - Free download open books</li>
+      <li><a href="https://mitpress.mit.edu/open-access-at-mit-press/books/">MIT Press Open Access</a> - Free download open books</li>
       <li><a href="https://annas-archive.org">Anna's Archive</a> - Search engine for major libraries</li>
       <li><a href="https://singlelogin.se">Z-Library (Web)</a></li>
       <li><a href="https://go-to-zlibrary.se/#desktop_app_tab">Z-Library (App)</a></li>
