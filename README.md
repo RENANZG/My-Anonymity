@@ -2476,12 +2476,15 @@
   </ul>
 
   <h5>Anarchists</h5>
-      - https://anarch.cc/library/
-  <br> - https://theanarchistlibrary.org
-  <br> - https://libcom.org
-  <br> - https://crimethinc.com/library
-  <br> - https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io
-  <br>
+  
+  <ul>
+  <li><a href="https://anarch.cc/library/" target="_blank">Anarch.cc Library</a></li>
+  <li><a href="https://theanarchistlibrary.org" target="_blank">The Anarchist Library</a></li>
+  <li><a href="https://libcom.org" target="_blank">Libcom</a></li>
+  <li><a href="https://crimethinc.com/library" target="_blank">CrimethInc Library</a></li>
+  <li><a href="https://azinelibrary.org/" target="_blank">Azinelibrary</a></li>
+  <li><a href="https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io" target="_blank">Cryptoanarchy Wiki (GitHub)</a></li>
+  </ul>
 
   <br>
   </details>
