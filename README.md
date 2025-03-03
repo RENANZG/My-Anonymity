@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
 <title>Anonymity</title>
 <style>
   /* Generic style */
@@ -118,6 +119,7 @@
   }
 </style>
 </head>
+-->
 <body>
 
   <div id="header">
