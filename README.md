@@ -144,7 +144,7 @@
   <table border="1" cellspacing="0" cellpadding="0">
   <tbody>
   <tr>
-    <td>
+    <td align="left" valign="top">
     • <a href="https://whonix.org/wiki/Tips_on_Remaining_Anonymous" target="_blank" rel="noopener noreferrer"><b>Whonix</b> - Tips on Remaining Anonymous</a><br>
     • <a href="https://whonix.org/wiki/Essential_Host_Security" target="_blank"><b>Whonix</b> - Essential Host Security</a><br>
     • <a href="https://www.kicksecure.com/wiki/Full_Disk_Encryption" target="_blank"><b>Whonix</b> - Full Disk Encryption (FDE)</a><br>
@@ -175,7 +175,7 @@
     • <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a><br>
     • <a href="https://simplifiedprivacy.com" target="_blank" rel="noopener noreferrer">Simplified Privacy</a><br>
     </td>
-    <td>
+    <td align="left" valign="top">
     • <a href="https://restorethe4th.com" target="_blank" rel="noopener noreferrer">Restore the Fourth</a><br>
     • <a href="https://kycnot.me/" target="_blank" rel="noopener noreferrer">KYC? Not me</a><br>
     • <a href="https://monero.town" target="_blank" rel="noopener noreferrer">monero.town</a><br>
@@ -206,7 +206,7 @@
     • <a href="https://tosdr.org" target="_blank" rel="noopener noreferrer">Terms of Service, Didn't Read</a><br>
     • <a href="https://bugmenot.com" target="_blank" rel="noopener noreferrer">BugMeNot</a><br>
     </td>
-    <td>
+    <td align="left" valign="top">
     • <a href="https://nomoregoogle.com" target="_blank" rel="noopener noreferrer">No More Google</a><br>
     • <a href="https://github.com/redecentralize/alternative-internet" target="_blank" rel="noopener noreferrer">Redecentralize</a><br>
     • <a href="https://lemmyverse.net/communities" target="_blank" rel="noopener noreferrer">https://lemmyverse.net/communities</a><br>
@@ -772,7 +772,7 @@
 
   <h4>Platforms Overview</h4>
   
-  <table align="center" valign="top" >
+  <table align="center" valign="top">
   <thead>
     <tr>
       <th>Include</th>
