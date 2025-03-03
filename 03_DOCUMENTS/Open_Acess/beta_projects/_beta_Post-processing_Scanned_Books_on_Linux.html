@@ -1,0 +1,227 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guide to Post-processing Scanned Books on Linux</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+        }
+        h3, h4, h5 {
+            color: #333;
+        }
+        code, pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            display: block;
+            margin-bottom: 20px;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+        }
+        .warning {
+            color: red;
+            font-weight: bold;
+        }
+        .tip {
+            color: green;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Guide to Post-processing Scanned Books on Linux</h2>
+
+<ul>
+    <li>Review scanned images for quality before processing.</li>
+    <li>Transfer the photos to your computer.</li>
+    <li>Use photo editing software to crop and adjust the images if needed.</li>
+    <li>Use Unpaper to clean up scanned pages, but review the output to ensure important details are not removed.</li>
+    <li>Use OCR software (like OCRmyPDF) to convert images to searchable PDF if required.</li>
+    <li>When using OCR tools, consider using multiple languages if your document contains text in more than one language.</li>
+</ul>
+
+<h4>Automating the Process</h4>
+<p>Consider writing scripts to automate repetitive tasks such as file conversion, renaming, croping and cleanup. This saves time and ensures consistency.</p>
+
+<p>Tip: Use version control (like Git) to keep track of changes to your scripts and configurations.</p>
+
+<h4>Backup and Storage</h4>
+
+<p>Always keep backups of your original scans. Store your files in other locations to prevent data loss.</p>
+
+<hr>
+
+<h2>Unpaper - Built-in Tools</h2>
+
+<h4>Unpaper built-in - OCRFeeder (GUI)</h4>
+
+<p><a href="https://wiki.gnome.org/Apps/OCRFeeder" target="_blank">OCRFeeder Wiki</a></p>
+
+<pre><code>$ sudo apt install -y ocrfeeder</code></pre>
+
+<p>Tools &rarr; Unpaper</p>
+
+<h4>Unpaper built-in - OCRmyPDF (CLI)</h4>
+
+<p><a href="https://ocrmypdf.readthedocs.io" target="_blank">OCRmyPDF Documentation</a></p>
+
+<pre><code>$ sudo apt install -y ocrmypdf</code></pre>
+<pre><code>$ ocrmypdf --clean</code></pre>
+<pre><code>$ ocrmypdf --clean-final</code></pre>
+<pre><code>$ ocrmypdf --remove-background</code></pre>
+
+<p>Note that <code>--clean-final</code> and <code>--remove-background</code> may leave undesirable visual artifacts in some images. Files should be visually reviewed after using these options.</p>
+
+<h2>Unpaper - A Post-Processing Tool for Scanned Sheets</h2>
+
+<p>Useful Links:</p>
+
+<ul>
+    <li><a href="https://github.com/unpaper/unpaper" target="_blank">Unpaper on GitHub</a></li>
+    <li><a href="https://diybookscanner.org" target="_blank">DIY Book Scanner</a></li>
+    <li><a href="https://scantips.com" target="_blank">Scan Tips</a></li>
+</ul>
+
+<h4>SANE - Supported Scanners on Linux</h4>
+
+<ul>
+    <li><a href="http://www.sane-project.org" target="_blank">SANE Project</a></li>
+    <li><a href="http://www.sane-project.org/sane-supported-devices.html" target="_blank">SANE Supported Devices</a></li>
+</ul>
+
+<p>The output format of Unpaper is restricted to the PNM family of formats. Conversions to other formats need tools like pnmtopng, pnmtotiff, or pnmtojpeg. Alternatively, you can use the convert tool from ImageMagick.</p>
+
+<p>Install necessary dependencies:</p>
+<pre><code>$ sudo apt install python3 python3-pip python3-setuptools python3-wheel ninja-build python3-mesonpy python3-sphinx python3-pytest python3-pil cmake pkg-config libavformat-dev ffmpeg git</code></pre>
+
+<h4>Error: libavformat-dev</h4>
+<p>Install additional dependencies:</p>
+<pre><code>$ sudo apt install libsdl2-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev libswresample-dev libusb-1.0-0 libusb-1.0-0-dev</code></pre>
+
+<h4>Compiling Unpaper with Meson</h4>
+<pre><code>$ git clone https://github.com/unpaper/unpaper
+$ cd unpaper
+$ CFLAGS="-march=native" meson --buildtype=debugoptimized builddir -Db_lto=true
+$ meson compile -C builddir</code></pre>
+<p class="warning">Warning: Before making modifications to files, create backup copies.</p>
+
+<h4>File Formats</h4>
+
+<p>For more information on file formats, visit the <a href="https://github.com/unpaper/unpaper/blob/main/doc/file-formats.md" target="_blank">Unpaper File Formats Documentation</a>.</p>
+<pre><code>$ sudo apt install imagemagick</code></pre>
+
+<h4>Converting PNG to PBM</h4>
+
+<pre><code>$ cd ~/Folder
+$ find . -name "*.png" -exec mogrify -monitor -format pbm {} \;</code></pre>
+
+<h4>Converting PDF to PBM</h4>
+
+<pre><code>$ convert -monitor input.pdf +repage -quality 100 output%03d.pbm</code></pre>
+
+<h4>ImageMagick Repage</h4>
+
+<p>For more details on repage, visit <a href="https://imagemagick.org/Usage/crop/#crop_repage" target="_blank">ImageMagick Repage Documentation</a>.</p>
+
+<h4>Converting Multiple PBM to PDF</h4>
+
+<pre><code>$ convert -monitor *.png +adjoin output.pdf
+$ convert -monitor *.pbm output.pdf
+$ find . -name "*.pbm" -exec convert -units PixelsPerInch *.pbm -density 96 output.pdf \;</code></pre>
+
+<h4>Error: mogrify-im6.q16</h4>
+
+<p>If you encounter the error "mogrify-im6.q16: attempt to perform an operation not allowed by the security policy 'PDF' @ error/constitute.c/IsCoderAuthorized/426", edit the ImageMagick policy:</p>
+
+<pre><code>$ sudo sed -i '/disable ghostscript format types/,+6d' /etc/ImageMagick-6/policy.xml</code></pre>
+
+<h4>Error: convert-im6.q16: cache resources exhausted</h4>
+
+<p>Increase the available memory:</p>
+
+<pre><code>
+$ sudo nano /etc/ImageMagick-6/policy.xml
+<policy domain="resource" name="memory" value="3GB"/>
+<policy domain="resource" name="disk" value="3GB"/>
+Alternatively, use:
+$ convert -limit memory 1GiB -limit disk 1GiB *.png new.pdf
+</code></pre>
+
+<h4>Renaming in Numbered Order</h4>
+
+<pre><code>
+$ sudo apt install rename
+$ cd /bookfolder
+Test the output before:
+$ rename -n 's/.+/our $i; sprintf("input%03d.png", 1+$i++)/e' *
+Apply the change:
+$ rename 's/.+/our $i; sprintf("input%03d.png", 1+$i++)/e' *
+</code></pre>
+
+<h2>Unpaper - Basic Usage</h2>
+
+<p>For basic usage, refer to the <a href="https://github.com/unpaper/unpaper/blob/main/doc/basic-concepts.md" target="_blank">Unpaper Basic Concepts</a> documentation.</p>
+
+<h4>Double-Page Layout</h4>
+<img src="https://github.com/RENANZG/My-Debian-GNU-Linux/blob/main/.data/04_SOFTWARE/05_Scanning_Books/multiple-output-pages.png" alt="Multiple Output Files">
+<pre><code>$ unpaper --layout double input%03d.pbm output%03d.pbm
+$ unpaper --layout double input%03d.pbm --output-pages 2 output%03d.pbm</code></pre>
+
+<h4>Single-Page to Double-Page Layout</h4>
+
+<img src="https://github.com/RENANZG/My-Debian-GNU-Linux/blob/main/.data/04_SOFTWARE/05_Scanning_Books/multiple-input-pages.png" alt="Multiple Input Files">
+<pre><code>$ unpaper --no-processing --input-pages 2 singlepage%03d.pgm output%03d.pgm</code></pre>
+
+<h4>Image Processing</h4>
+
+<p>For advanced image processing, refer to the <a href="https://github.com/unpaper/unpaper/blob/main/doc/image-processing.md" target="_blank">Image Processing Documentation</a>.</p>
+
+<h4>Processing Multipage Documents with ImageMagick</h4>
+
+<p>For more details, visit the <a href="https://edison23.net/blog/posts/crop-and-split-book-scan-in-3-commands" target="_blank">Edison23 Blog</a>.</p>
+
+<pre><code>$ sudo apt install imagemagick</code></pre>
+
+<p>How to make a clean PDF with one page per sheet:</p>
+
+<pre><code>$ convert -monitor -density 300 orig-scan.pdf pages.png
+$ convert `ls pages-*.png` -crop 3704x1852+160+20 +rerepage -crop 50%x100% pages-split.png
+$ convert `ls pages-split*` -page 100%x100% result.pdf</code></pre>
+
+<p>For more specific tasks:</p>
+
+<h4>Convert PDF to Images in Ordered Sequence</h4>
+<pre><code>$ convert -density 300 orig-scan.pdf pages.png
+$ convert -density 300 orig-scan.pdf[0-9] pages.png</code></pre>
+
+<h4>Batch Cropping and Splitting Pages</h4>
+
+<p>Before applying the commands, test the result:</p>
+
+<pre><code>$ convert `ls pages-*.png` -crop 3704x1852+160+20 +repage -crop 50%x100% pages-split.png</code></pre>
+
+<h4>Recombining Single Pages Back to PDF</h4>
+
+<pre><code>$ convert `ls pages-split*` -page 100%x100% result.pdf</code></pre>
+
+</body>
+</html>
