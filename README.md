@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--
 <title>Anonymity</title>
 <style>
   /* Generic style */
@@ -119,7 +118,6 @@
   }
 </style>
 </head>
--->
 <body>
 
   <div id="header">
@@ -169,7 +167,7 @@
     • <a href="https://github.com/undergroundwires/privacy.sexy" target="_blank" rel="noopener noreferrer">Privacy Sexy</a><br>
     • <a href="https://switching.software" target="_blank" rel="noopener noreferrer">switching.software</a><br>
     • <a href="https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources" target="_blank" rel="noopener noreferrer">Hack Liberty Resources</a><br>
-    • <a href="https://dataswamp.org/~solene/index.html" target="_blank" rel="noopener noreferrer">Solene</a>
+    • <a href="https://dataswamp.org/~solene/index.html" target="_blank" rel="noopener noreferrer">Solene</a><br>
     • <a href="https://anarsec.guide" target="_blank" rel="noopener noreferrer">Anarsec</a><br>
     • <a href="https://myshadow.org/" target="_blank" rel="noopener noreferrer">My Shadow</a><br>
     • <a href="https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view" target="_blank" rel="noopener noreferrer">HackMD - How to stay anon</a><br>
@@ -209,7 +207,7 @@
     <td align="left" valign="top">
     • <a href="https://nomoregoogle.com" target="_blank" rel="noopener noreferrer">No More Google</a><br>
     • <a href="https://github.com/redecentralize/alternative-internet" target="_blank" rel="noopener noreferrer">Redecentralize</a><br>
-    • <a href="https://lemmyverse.net/communities" target="_blank" rel="noopener noreferrer">https://lemmyverse.net/communities</a><br>
+    • <a href="https://lemmyverse.net/communities" target="_blank" rel="noopener noreferrer">Lemmy Communities</a><br>
     • <a href="https://reddit.com/r/RedditAlternatives" target="_blank" rel="noopener noreferrer">r/RedditAlternatives</a><br>
     • <a href="https://reddit.com/r/restorethefourth" target="_blank" rel="noopener noreferrer">r/restorethefourth</a><br>
     • <a href="https://reddit.com/r/privacy" target="_blank" rel="noopener noreferrer">r/privacy</a><br>
@@ -661,6 +659,11 @@
 
   <h4>Secure Operating Systems</h4>
 
+  <h4>Qubes OS</h4>
+  <p>Learn more about <a href="https://qubes-os.org" target="_blank" rel="noreferrer">Qubes OS</a>
+  and visit the <a href="https://forum.qubes-os.org" target="_blank"
+  rel="noreferrer">Qubes forum</a> for discussions.</p>
+  
   <h4>Tails</h4>
   <p>For anonymity and secure browsing. See the <a href="https://gitlab.torproject.org/legacy/trac/-/wikis/doc/OperationalSecurity"
   target="_blank" rel="noreferrer">Tor Wiki</a> for operational security
@@ -672,24 +675,17 @@
   for information and <a href="https://forums.whonix.org" target="_blank"
   rel="noreferrer">community support</a>.</p>
 
-  <h4>Protocol Leak and Fingerprinting Protection</h4>
-  <p>Learn more about protection measures on <a href="https://whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers"
-  target="_blank" rel="noreferrer">Whonix's Protocol Leak Protection page</a>.</p>
-
-  <h4>Qubes OS</h4>
-  <p>Learn more about <a href="https://qubes-os.org" target="_blank" rel="noreferrer">Qubes OS</a>
-  and visit the <a href="https://forum.qubes-os.org" target="_blank"
-  rel="noreferrer">Qubes forum</a> for discussions.</p>
-
   <h4>Whonix Comparison with Others</h4>
   <p>For a comparison, visit <a href="https://whonix.org/wiki/Comparison_with_Others"
   target="_blank" rel="noreferrer">this comparison page</a>.</p>
 
+  <h4>Protocol Leak and Fingerprinting Protection</h4>
+  <p>Learn more about protection measures on <a href="https://whonix.org/wiki/Protocol-Leak-Protection_and_Fingerprinting-Protection#Less_important_identifiers"
+  target="_blank" rel="noreferrer">Whonix's Protocol Leak Protection page</a>.</p>
 
   <h4>Attacks on Tor</h4>
   <p>Explore various attacks on Tor at <a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor"
   target="_blank" rel="noreferrer">GitHub</a>.</p>
-
 
   <br>
   </details>
@@ -770,9 +766,11 @@
   <img src=".data/war_room_dr._strangelove.jpeg"
   alt="War Room" width="640" height="320" />
 
+  <!-- ########## -->
+
   <h4>Platforms Overview</h4>
-  
-  <table align="center" valign="top">
+
+  <table border="1" cellspacing="0" cellpadding="0">
   <thead>
     <tr>
       <th>Include</th>
@@ -780,8 +778,8 @@
     </tr>
   </thead>
   <tbody>
-    <tr align="center" valign="top">
-      <td>
+    <tr>
+      <td align="center" valign="top">
         <ul>
           <li>TOX</li>
           <li>SimpleX</li>
@@ -803,7 +801,7 @@
           <li>GNUSocial</li>
         </ul>
       </td>
-      <td>
+      <td align="center" valign="top">
         <ul>
           <li>X</li>
           <li>Twitter</li>
@@ -823,7 +821,7 @@
 
   <h4>Comparison: SimpleX, Session, Signal, and Telegram</h4>
 
-  <table>
+  <table border="1" cellspacing="0" cellpadding="0">
   <tr>
     <th>Platform</th>
     <th><a href="https://simplex.chat" target="_blank" rel="noopener noreferrer">SimpleX</a></th>
@@ -862,7 +860,7 @@
   <tr>
     <td>Protocol Type</td>
     <td>Custom (Double Ratchet)</td>
-    <td>Onion Routing + Session Protocol</td>
+    <td>Onion Routing + Session Protocol (no proxy support)</td>
     <td>Signal Protocol (Double Ratchet)</td>
     <td>MTProto</td>
   </tr>
@@ -954,7 +952,7 @@
     <li><a href="https://github.com/simplex-chat/simplex-chat">SimpleX Chat (GitHub)</a></li>
     <li><a href="https://simplex.chat/docs/directory.html#searching-for-groups">SimpleX Public Groups List</a></li>
     <li><a href="https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FeXSPwqTkKyDO3px4fLf1wx3MvPdjdLW3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAaiv6MkMH44L2TcYrt_CsX3ZvM11WgbMEUn0hkIKTOho%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion">SimpleX Directory Service</a> - Offcial Groups</li>
-    <li><a href="https://github.com/oSoWoSo/SimpleX-Discover">oSoWoSo - SimpleX Groups (GitHub)</a></li>
+    <li><a href="https://github.com/oSoWoSo/SimpleX-Discover">oSoWoSo -  Unofficial SimpleX Groups (GitHub)</a></li>
   </ul>
 
   <h5>Signal</h5>
@@ -1004,7 +1002,7 @@
 
   <!-- ########## -->
 
-<h4>NOT RECOMMENDED</h4>
+  <h4>NOT RECOMMENDED</h4>
 
   <div>
   <details>
@@ -1155,6 +1153,11 @@
 
   <!-- ########## -->
 
+  <div>
+  <details>
+  <summary>Communication Protocols</summary>
+  <br>
+  
   <h4>Communication Protocols</h4>
 
   <h5>Matrix (Protocol)</h5>
@@ -1347,6 +1350,10 @@
   </tbody>
   </table>
 
+  <br>
+  </details>
+  </div>
+  
   <!-- ########## -->
   
   <h4>Others</h4>
